@@ -1,0 +1,726 @@
+{
+  "version": 1,
+  "width": 111,
+  "height": 30,
+  "duration": 37.968251,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "rxvt-unicode-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.058267,
+      "\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B "
+    ],
+    [
+      1.164040,
+      "c"
+    ],
+    [
+      0.050451,
+      "a"
+    ],
+    [
+      0.137236,
+      "t"
+    ],
+    [
+      0.085733,
+      " "
+    ],
+    [
+      0.142151,
+      "a"
+    ],
+    [
+      0.070903,
+      "s"
+    ],
+    [
+      0.109710,
+      "c"
+    ],
+    [
+      0.085465,
+      "i"
+    ],
+    [
+      0.150682,
+      "i"
+    ],
+    [
+      0.134851,
+      "n"
+    ],
+    [
+      0.167056,
+      "ema_completion "
+    ],
+    [
+      0.826873,
+      "\r\n"
+    ],
+    [
+      0.001038,
+      "_asciinema () {\r\n  local i ng\r\n  shopt -q nullglob; ng=$?; shopt -s nullglob\r\n  if (( COMP_CWORD == 1 )); then\r\n    for i in rec play upload auth --help --version; do\r\n      [[ $i = \"$2\"* ]] \u0026\u0026 COMPREPLY+=(\"$i\")\r\n    done\r\n  else\r\n    case ${COMP_WORDS[1]} in\r\n      rec) if [[ $2 = -* ]]; then\r\n             for i in --command --title --max-wait --yes; do\r\n               [[ $i = \"$2\"* ]] \u0026\u0026 COMPREPLY+=(\"$i\")\r\n             done\r\n           fi\r\n           if (( ! ${#COMPREPLY[@]} )); then\r\n             case $3 in\r\n               -c|--command) COMPREPLY=($(compgen -c -- \"$2\")) ;;\r\n               -*) ;;\r\n               *) COMPREPLY=(\"$2\"*) ;;\r\n             esac\r\n           fi ;;\r\n      upload|play) COMPREPLY=(\"$2\"*) ;;\r\n    esac\r\n  fi\r\n  (( ng )) \u0026\u0026 shopt -u nullglob\r\n}\r\ncomplete -o bashdefault -o filenames -F _asciinema asciinema\r\n"
+    ],
+    [
+      0.001766,
+      "\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B "
+    ],
+    [
+      1.210864,
+      "s"
+    ],
+    [
+      0.107417,
+      "o"
+    ],
+    [
+      0.077476,
+      "u"
+    ],
+    [
+      0.070414,
+      "r"
+    ],
+    [
+      0.133857,
+      "c"
+    ],
+    [
+      0.169131,
+      "e"
+    ],
+    [
+      0.142034,
+      " "
+    ],
+    [
+      0.223286,
+      "."
+    ],
+    [
+      0.279456,
+      "/"
+    ],
+    [
+      0.204769,
+      "a"
+    ],
+    [
+      0.064680,
+      "s"
+    ],
+    [
+      0.112642,
+      "c"
+    ],
+    [
+      0.032234,
+      "i"
+    ],
+    [
+      0.166652,
+      "i"
+    ],
+    [
+      0.676473,
+      "n"
+    ],
+    [
+      0.112676,
+      "ema_completion "
+    ],
+    [
+      0.647767,
+      "\r\n\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B "
+    ],
+    [
+      0.529716,
+      "a"
+    ],
+    [
+      0.069924,
+      "s"
+    ],
+    [
+      0.107418,
+      "c"
+    ],
+    [
+      0.069880,
+      "i"
+    ],
+    [
+      0.192587,
+      "i"
+    ],
+    [
+      0.129818,
+      "n"
+    ],
+    [
+      0.467059,
+      "ema "
+    ],
+    [
+      0.537183,
+      "r"
+    ],
+    [
+      0.051030,
+      "e"
+    ],
+    [
+      0.211756,
+      "c"
+    ],
+    [
+      0.209840,
+      " "
+    ],
+    [
+      0.590335,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "\u001b[01;32madblock2polipo.rb\u001b[0m\u001b[K        anagrams\u001b[0m\u001b[K                 \u001b[01;32ma.out\u001b[0m\u001b[K                    asciinema_completion\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000135,
+      "awk.png\u001b[0m\u001b[K                  bashenv\u001b[0m\u001b[K                  \u001b[01;34mbashes\u001b[0m\u001b[K/                  \u001b[01;34mbin\u001b[0m\u001b[K/\r\nbla\u001b[0m\u001b[K                      \u001b[01;34mdotfiles\u001b[0m\u001b[K/                \u001b[01;34mdownload\u001b[0m\u001b[K/                doxyfilter-bash.py\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000075,
+      "dualbash\u001b[0m\u001b[K                 easylist.txt\u001b[0m\u001b[K             \u001b[01;32mfib\u001b[0m\u001b[K                      fish\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000031,
+      "fonts.dir\u001b[0m\u001b[K                fonts.scale\u001b[0m\u001b[K              f.txt\u001b[0m\u001b[K                    gNDa\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000064,
+      "go.php\u001b[0m\u001b[K                   input.png\u001b[0m\u001b[K                marry_the_night.flac\u001b[0m\u001b[K     multi\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000064,
+      "mycsv\u001b[0m\u001b[K                    myscript\u001b[0m\u001b[K                 numglob\u001b[0m\u001b[K                  ofile\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000053,
+      "\u001b[01;34mothers\u001b[0m\u001b[K/                  output.gif\u001b[0m\u001b[K               output.png\u001b[0m\u001b[K               \u001b[01;34mpatches\u001b[0m\u001b[K/\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[01;32mpath\u001b[0m\u001b[K                     \u001b[01;34mpdf\u001b[0m\u001b[K/                     product.csv\u001b[0m\u001b[K              prova\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000051,
+      "raw.php?i=FGxKMnKE\u001b[0m\u001b[K       rc.init\u001b[0m\u001b[K                  recorded\u001b[0m\u001b[K                 run-recent\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000053,
+      "sample_csv\u001b[0m\u001b[K               samplecsv2\u001b[0m\u001b[K               \u001b[01;34msbase\u001b[0m\u001b[K/                   \u001b[01;34mscreenshot\u001b[0m\u001b[K/\r\n"
+    ],
+    [
+      0.000060,
+      "\u001b[01;32mseek\u001b[0m\u001b[K                     seek.c\u001b[0m\u001b[K                   shcompare\u001b[0m\u001b[K                shell\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000052,
+      "shellnotes\u001b[0m\u001b[K               shopt\u001b[0m\u001b[K                    ssh.c\u001b[0m\u001b[K                    struct.c\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[01;34msv\u001b[0m\u001b[K/                      tags\u001b[0m\u001b[K                     \u001b[01;34mtamsyn-font-1.11\u001b[0m\u001b[K/        tamsyn-font-1.11.tar.gz\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[01;34mtamsynmod\u001b[0m\u001b[K/               test\u001b[0m\u001b[K                     test.c\u001b[0m\u001b[K                   torec\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000089,
+      "\u001b[01;34mtree\u001b[0m\u001b[K/                    \u001b[01;34mubase\u001b[0m\u001b[K/                   \u001b[01;34mvideo\u001b[0m\u001b[K/                   \u001b[01;34myaourt\u001b[0m\u001b[K/\r\n"
+    ],
+    [
+      0.000044,
+      "yaourtlist\u001b[0m\u001b[K               zbashrc2_test\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B asciinema rec "
+    ],
+    [
+      0.881930,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.133919,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.123899,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.166255,
+      "r"
+    ],
+    [
+      0.387469,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.133261,
+      "ec "
+    ],
+    [
+      0.481782,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.150843,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.138948,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.250532,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.866713,
+      "a"
+    ],
+    [
+      0.214527,
+      "uth "
+    ],
+    [
+      0.428837,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.128955,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.129996,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.139213,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.312487,
+      "uth "
+    ],
+    [
+      0.146019,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.239242,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.134302,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.150748,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144256,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.163258,
+      "\r\nauth\u001b[0m\u001b[K       --help\u001b[0m\u001b[K     play\u001b[0m\u001b[K       rec\u001b[0m\u001b[K        upload\u001b[0m\u001b[K     --version\u001b[0m\u001b[K\r\n\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B asciinema "
+    ],
+    [
+      0.495569,
+      "auth "
+    ],
+    [
+      0.288616,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[2@--help\u001b[C"
+    ],
+    [
+      0.187817,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[2Pplay\u001b[C"
+    ],
+    [
+      0.397547,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.135893,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.122358,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.139599,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.141926,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.277188,
+      "-"
+    ],
+    [
+      0.010338,
+      "."
+    ],
+    [
+      0.521258,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.162809,
+      "\r\n--help\u001b[0m\u001b[K     --version\u001b[0m\u001b[K\r\n\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B asciinema --"
+    ],
+    [
+      0.761009,
+      "help "
+    ],
+    [
+      1.185449,
+      "\r\n"
+    ],
+    [
+      0.008491,
+      "Record and share your terminal sessions, the right way.\r\n\r\nUsage:\r\n"
+    ],
+    [
+      0.000034,
+      "  asciinema rec [-c \u003ccommand\u003e] [-t \u003ctitle\u003e] [-w \u003csec\u003e] [-y] [\u003cfilename\u003e]\r\n  asciinema play \u003cfilename\u003e\r\n  asciinema upload \u003cfilename\u003e\r\n  asciinema auth\r\n  asciinema -h | --help\r\n  asciinema --version\r\n\r\nCommands:\r\n  rec             Record terminal session\r\n  play            Replay terminal session\r\n  upload          Upload locally saved terminal session to asciinema.org\r\n  auth            Assign local API token to asciinema.org account\r\n\r\nOptions:\r\n  -c, --command=\u003ccommand\u003e  Specify command to record, defaults to $SHELL\r\n  -t, --title=\u003ctitle\u003e      Specify title of the asciicast\r\n  -w, --max-wait=\u003csec\u003e     Reduce recorded terminal inactivity to max \u003csec\u003e seconds\r\n  -y, --yes                Answer yes to all prompts (e.g. upload confirmation)\r\n  -h, --help               Show this message\r\n  --version                Show version\r\n"
+    ],
+    [
+      0.002647,
+      "\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B "
+    ],
+    [
+      0.439301,
+      "a"
+    ],
+    [
+      0.046214,
+      "s"
+    ],
+    [
+      0.107330,
+      "c"
+    ],
+    [
+      0.064569,
+      "i"
+    ],
+    [
+      0.155447,
+      "i"
+    ],
+    [
+      0.118807,
+      "n"
+    ],
+    [
+      0.186466,
+      "ema "
+    ],
+    [
+      0.447720,
+      "r"
+    ],
+    [
+      0.042779,
+      "e"
+    ],
+    [
+      0.433764,
+      "c "
+    ],
+    [
+      0.608091,
+      "-"
+    ],
+    [
+      0.172205,
+      "c"
+    ],
+    [
+      0.257793,
+      " "
+    ],
+    [
+      0.841281,
+      "b"
+    ],
+    [
+      0.126702,
+      "a"
+    ],
+    [
+      0.301923,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "backgammon\u001b[0m\u001b[K  backup\u001b[0m\u001b[K      bacman\u001b[0m\u001b[K      badblocks\u001b[0m\u001b[K   base64\u001b[0m\u001b[K      basename\u001b[0m\u001b[K    bash\u001b[0m\u001b[K        bashbug\u001b[0m\u001b[K     bashdev\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000024,
+      "battlestar\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000152,
+      "\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B asciinema rec -c ba"
+    ],
+    [
+      0.595263,
+      "ckgammon "
+    ],
+    [
+      0.212473,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[4Pup\u001b[C"
+    ],
+    [
+      0.314832,
+      "\u0008\u0008\u0008\u0008man\u001b[C"
+    ],
+    [
+      0.189188,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[3@dblocks\u001b[C"
+    ],
+    [
+      0.180019,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[3Pse64\u001b[C"
+    ],
+    [
+      0.686727,
+      "\u0008\u0008\u0008\u001b[2@name\u001b[C"
+    ],
+    [
+      0.174577,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[4Ph\u001b[C"
+    ],
+    [
+      0.204419,
+      "\u0008bug "
+    ],
+    [
+      0.446011,
+      "\u0008\u0008\u0008\u0008dev\u001b[C"
+    ],
+    [
+      0.562055,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[3@ttlestar\u001b[C"
+    ],
+    [
+      0.447327,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      0.472961,
+      "ckgammon "
+    ],
+    [
+      0.441772,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[4Pup\u001b[C"
+    ],
+    [
+      0.166200,
+      "\u0008\u0008\u0008\u0008man\u001b[C"
+    ],
+    [
+      0.474191,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.293225,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.660233,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040221,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040873,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040996,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040952,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040520,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040234,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040282,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.040723,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039939,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039865,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.285624,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.376113,
+      "u"
+    ],
+    [
+      0.083805,
+      "p"
+    ],
+    [
+      0.216318,
+      "l"
+    ],
+    [
+      0.171416,
+      "oad "
+    ],
+    [
+      0.312414,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[01;32madblock2polipo.rb\u001b[0m\u001b[K        anagrams\u001b[0m\u001b[K                 \u001b[01;32ma.out\u001b[0m\u001b[K                    asciinema_completion\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000078,
+      "awk.png\u001b[0m\u001b[K                  bashenv\u001b[0m\u001b[K                  \u001b[01;34mbashes\u001b[0m\u001b[K/                  \u001b[01;34mbin\u001b[0m\u001b[K/\r\n"
+    ],
+    [
+      0.000013,
+      "bla\u001b[0m\u001b[K                      \u001b[01;34mdotfiles\u001b[0m\u001b[K/                \u001b[01;34mdownload\u001b[0m\u001b[K/                doxyfilter-bash.py\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000068,
+      "dualbash\u001b[0m\u001b[K                 easylist.txt\u001b[0m\u001b[K             \u001b[01;32mfib\u001b[0m\u001b[K                      fish\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000041,
+      "fonts.dir\u001b[0m\u001b[K                fonts.scale\u001b[0m\u001b[K              f.txt\u001b[0m\u001b[K                    gNDa\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000017,
+      "go.php\u001b[0m\u001b[K                   input.png\u001b[0m\u001b[K                marry_the_night.flac\u001b[0m\u001b[K     multi\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000043,
+      "mycsv\u001b[0m\u001b[K                    myscript\u001b[0m\u001b[K                 numglob\u001b[0m\u001b[K                  ofile\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[01;34mothers\u001b[0m\u001b[K/                  output.gif\u001b[0m\u001b[K               output.png\u001b[0m\u001b[K               \u001b[01;34mpatches\u001b[0m\u001b[K/\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[01;32mpath\u001b[0m\u001b[K                     \u001b[01;34mpdf\u001b[0m\u001b[K/                     product.csv\u001b[0m\u001b[K              prova\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000039,
+      "raw.php?i=FGxKMnKE\u001b[0m\u001b[K       rc.init\u001b[0m\u001b[K                  recorded\u001b[0m\u001b[K                 run-recent\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000040,
+      "sample_csv\u001b[0m\u001b[K               samplecsv2\u001b[0m\u001b[K               \u001b[01;34msbase\u001b[0m\u001b[K/                   \u001b[01;34mscreenshot\u001b[0m\u001b[K/\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[01;32mseek\u001b[0m\u001b[K                     seek.c\u001b[0m\u001b[K                   shcompare\u001b[0m\u001b[K                shell\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000044,
+      "shellnotes\u001b[0m\u001b[K               shopt\u001b[0m\u001b[K                    ssh.c\u001b[0m\u001b[K                    struct.c\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[01;34msv\u001b[0m\u001b[K/                      tags\u001b[0m\u001b[K                     \u001b[01;34mtamsyn-font-1.11\u001b[0m\u001b[K/        tamsyn-font-1.11.tar.gz\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[01;34mtamsynmod\u001b[0m\u001b[K/               test\u001b[0m\u001b[K                     test.c\u001b[0m\u001b[K                   torec\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000049,
+      "\u001b[01;34mtree\u001b[0m\u001b[K/                    \u001b[01;34mubase\u001b[0m\u001b[K/                   \u001b[01;34mvideo\u001b[0m\u001b[K/                   \u001b[01;34myaourt\u001b[0m\u001b[K/\r\n"
+    ],
+    [
+      0.000020,
+      "yaourtlist\u001b[0m\u001b[K               zbashrc2_test\u001b[0m\u001b[K\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B asciinema upload "
+    ],
+    [
+      1.289043,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      1.105256,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      0.277039,
+      "e"
+    ],
+    [
+      0.174508,
+      "x"
+    ],
+    [
+      0.086744,
+      "i"
+    ],
+    [
+      0.131126,
+      "t"
+    ],
+    [
+      0.509789,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
