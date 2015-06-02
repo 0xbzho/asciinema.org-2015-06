@@ -1,0 +1,558 @@
+{
+  "version": 1,
+  "width": 112,
+  "height": 30,
+  "duration": 200.085601,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.331519,
+      "$ "
+    ],
+    [
+      0.200994,
+      "mac infrastructure macfile demo.macfile -p APP_BRANCH=version_3"
+    ],
+    [
+      2.792463,
+      "\r\n"
+    ],
+    [
+      1.050234,
+      "Infrastructure demo version 1.0\r\n===============================\r\n\r\n"
+    ],
+    [
+      0.000012,
+      "[app][app] Infrastructure tier\r\n------------------------------\r\n\r\n"
+    ],
+    [
+      0.253980,
+      "Creating instance '2tn83ok9u6i8eravqlpivgon2a'\r\n\r\n\r\n"
+    ],
+    [
+      0.000080,
+      "[lb][lb] Infrastructure tier\r\n----------------------------\r\n\r\n"
+    ],
+    [
+      0.294448,
+      "Creating instance 'i6tbeak3m3fit3n4auuk3v9nnf'\r\n"
+    ],
+    [
+      0.000021,
+      "\r\n\r\n"
+    ],
+    [
+      0.000109,
+      "[db][db] Infrastructure tier\r\n----------------------------\r\n"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.255720,
+      "Creating instance '267a1q7hq2r3oqhkkpjp4n9srj'\r\n\r\n\r\n"
+    ],
+    [
+      0.215142,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002082,
+      "+---------------+----+----------------------------+---------+-------------------+\r\n| Instance name | IP |        Instance ID         |   Type  |       Status      |\r\n+---------------+----+----------------------------+---------+-------------------+\r\n|      app      |    | 2tn83ok9u6i8eravqlpivgon2a | testing | Creating instance |\r\n|       lb      |    | i6tbeak3m3fit3n4auuk3v9nnf | testing | Creating instance |\r\n|       db      |    | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Creating instance |\r\n"
+    ],
+    [
+      0.000009,
+      "+---------------+----+----------------------------+---------+-------------------+\r\n"
+    ],
+    [
+      3.219750,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002267,
+      "+---------------+----+----------------------------+---------+-------------------+\r\n| Instance name | IP |        Instance ID         |   Type  |       Status      |\r\n+---------------+----+----------------------------+---------+-------------------+\r\n|      app      |    | 2tn83ok9u6i8eravqlpivgon2a | testing | Creating instance |\r\n|       lb      |    | i6tbeak3m3fit3n4auuk3v9nnf | testing | Creating instance |\r\n|       db      |    | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Creating instance |\r\n"
+    ],
+    [
+      0.000016,
+      "+---------------+----+----------------------------+---------+-------------------+\r\n"
+    ],
+    [
+      3.219720,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002254,
+      "+---------------+----+----------------------------+---------+-------------------+\r\n"
+    ],
+    [
+      0.000016,
+      "| Instance name | IP |        Instance ID         |   Type  |       Status      |\r\n+---------------+----+----------------------------+---------+-------------------+\r\n|      app      |    | 2tn83ok9u6i8eravqlpivgon2a | testing | Creating instance |\r\n|       lb      |    | i6tbeak3m3fit3n4auuk3v9nnf | testing | Creating instance |\r\n|       db      |    | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Creating instance |"
+    ],
+    [
+      0.000045,
+      "\r\n+---------------+----+----------------------------+---------+-------------------+"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      3.211532,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.001721,
+      "+---------------+----------------+----------------------------+---------+--------------------+\r\n| Instance name |       IP       |        Instance ID         |   Type  |       Status       |\r\n+---------------+----------------+----------------------------+---------+--------------------+\r\n|  mct-app-2tn  | 104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Instance completed |\r\n|   mct-lb-i6t  | 104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Instance completed |\r\n|       db      |                | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Creating instance  |\r\n"
+    ],
+    [
+      0.000009,
+      "+---------------+----------------+----------------------------+---------+--------------------+\r\n"
+    ],
+    [
+      18.718561,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002267,
+      "+---------------+-----------------+----------------------------+---------+--------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |       Status       |\r\n+---------------+-----------------+----------------------------+---------+--------------------+\r\n"
+    ],
+    [
+      0.000076,
+      "|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Instance completed |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Instance completed |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Instance completed |\r\n+---------------+-----------------+----------------------------+---------+--------------------+\r\n"
+    ],
+    [
+      12.466816,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002651,
+      "+---------------+-----------------+----------------------------+---------+--------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |       Status       |\r\n+---------------+-----------------+----------------------------+---------+--------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Instance completed |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Instance completed |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Instance completed |\r\n"
+    ],
+    [
+      0.000019,
+      "+---------------+-----------------+----------------------------+---------+--------------------+\r\n"
+    ],
+    [
+      4.546800,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.001923,
+      "+---------------+-----------------+----------------------------+---------+--------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |       Status       |\r\n+---------------+-----------------+----------------------------+---------+--------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Instance completed |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Instance completed |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Instance completed |\r\n"
+    ],
+    [
+      0.000009,
+      "+---------------+-----------------+----------------------------+---------+--------------------+\r\n"
+    ],
+    [
+      22.864993,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002570,
+      "+---------------+-----------------+----------------------------+---------+--------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |       Status       |\r\n+---------------+-----------------+----------------------------+---------+--------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Configuring     |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Instance completed |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Instance completed |"
+    ],
+    [
+      0.000013,
+      "\r\n+---------------+-----------------+----------------------------+---------+--------------------+\r\n"
+    ],
+    [
+      21.629447,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002592,
+      "+---------------+-----------------+----------------------------+---------+--------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |       Status       |\r\n+---------------+-----------------+----------------------------+---------+--------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Configuring     |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing |    Configuring     |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Instance completed |\r\n"
+    ],
+    [
+      0.000012,
+      "+---------------+-----------------+----------------------------+---------+--------------------+\r\n"
+    ],
+    [
+      4.849392,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002725,
+      "+---------------+-----------------+----------------------------+---------+-------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |    Status   |\r\n+---------------+-----------------+----------------------------+---------+-------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Configuring |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Configuring |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Configuring |\r\n"
+    ],
+    [
+      0.000016,
+      "+---------------+-----------------+----------------------------+---------+-------------+\r\n"
+    ],
+    [
+      6.230135,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002351,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Applying configuration |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing |      Configuring       |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing |      Configuring       |\r\n"
+    ],
+    [
+      0.000013,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.239366,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002479,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Applying configuration |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000103,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.227206,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002141,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Applying configuration |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000020,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.240602,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002773,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Applying configuration |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000020,
+      "|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.242810,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002799,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Applying configuration |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000013,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.237199,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002408,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Applying configuration |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000013,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.242022,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002741,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Applying configuration |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000016,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.241552,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002348,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Applying configuration |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000012,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.243308,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002023,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Applying configuration |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000021,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.235916,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.001765,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Applying configuration |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000011,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.242434,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002142,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Applying configuration |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000012,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.249967,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002387,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Ready (57m left)    |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000011,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.356533,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002766,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Ready (57m left)    |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |"
+    ],
+    [
+      0.000013,
+      "\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.238013,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002599,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Ready (57m left)    |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000010,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.237258,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002521,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Ready (57m left)    |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |"
+    ],
+    [
+      0.000012,
+      "\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.242670,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002697,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Ready (57m left)    |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000011,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.471126,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002820,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Ready (57m left)    |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000012,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.234234,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002319,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Ready (57m left)    |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000011,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.241504,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002142,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Ready (57m left)    |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000009,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.231318,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002200,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Ready (57m left)    |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000010,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.243629,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.001907,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Ready (57m left)    |\r\n"
+    ],
+    [
+      0.000022,
+      "|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.243893,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002502,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Ready (57m left)    |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Applying configuration |"
+    ],
+    [
+      0.000025,
+      "\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.244519,
+      "\u001b[2J"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.002583,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Ready (57m left)    |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing |    Ready (57m left)    |\r\n"
+    ],
+    [
+      0.000012,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.236163,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002175,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n"
+    ],
+    [
+      0.000027,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Ready (57m left)    |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing |    Ready (57m left)    |\r\n"
+    ],
+    [
+      0.000012,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.244651,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.001940,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Ready (57m left)    |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing |    Ready (57m left)    |"
+    ],
+    [
+      0.000012,
+      "\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.236559,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002734,
+      "+---------------+-----------------+----------------------------+---------+------------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |         Status         |\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing |    Ready (56m left)    |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Applying configuration |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing |    Ready (56m left)    |"
+    ],
+    [
+      0.000013,
+      "\r\n+---------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.240830,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002383,
+      "+---------------+-----------------+----------------------------+---------+------------------+\r\n| Instance name |        IP       |        Instance ID         |   Type  |      Status      |\r\n+---------------+-----------------+----------------------------+---------+------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Ready (56m left) |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Ready (56m left) |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Ready (56m left) |\r\n"
+    ],
+    [
+      0.000013,
+      "+---------------+-----------------+----------------------------+---------+------------------+\r\n"
+    ],
+    [
+      5.233027,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002493,
+      "+---------------+-----------------+----------------------------+---------+------------------+\r\n"
+    ],
+    [
+      0.000034,
+      "| Instance name |        IP       |        Instance ID         |   Type  |      Status      |\r\n+---------------+-----------------+----------------------------+---------+------------------+\r\n|  mct-app-2tn  |  104.154.40.230 | 2tn83ok9u6i8eravqlpivgon2a | testing | Ready (56m left) |\r\n|   mct-lb-i6t  |  104.154.78.109 | i6tbeak3m3fit3n4auuk3v9nnf | testing | Ready (56m left) |\r\n|   mct-db-267  | 130.211.179.143 | 267a1q7hq2r3oqhkkpjp4n9srj | testing | Ready (56m left) |\r\n"
+    ],
+    [
+      0.000013,
+      "+---------------+-----------------+----------------------------+---------+------------------+\r\n"
+    ],
+    [
+      0.000071,
+      "Infrastructure created successfully."
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.030047,
+      "$ "
+    ],
+    [
+      3.193907,
+      "^C\r\n$ "
+    ],
+    [
+      0.600123,
+      "exit\r\n"
+    ]
+  ]
+}
