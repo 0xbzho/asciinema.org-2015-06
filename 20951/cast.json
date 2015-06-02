@@ -1,0 +1,250 @@
+{
+  "version": 1,
+  "width": 111,
+  "height": 30,
+  "duration": 14.708527,
+  "command": "bash",
+  "title": "",
+  "env": {
+    "TERM": "rxvt-unicode-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.068465,
+      "\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[38;5;9m/\u001b[38;5;1msv\u001b[38;5;9m/\u001b[38;5;1ml\u001b[38;5;9m/\u001b[38;5;1mscripts\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B "
+    ],
+    [
+      0.283066,
+      "g"
+    ],
+    [
+      0.180987,
+      "i"
+    ],
+    [
+      0.128753,
+      "t"
+    ],
+    [
+      0.178191,
+      "t"
+    ],
+    [
+      0.185783,
+      " "
+    ],
+    [
+      0.083666,
+      "s"
+    ],
+    [
+      0.139779,
+      "t"
+    ],
+    [
+      0.096946,
+      "a"
+    ],
+    [
+      0.133809,
+      "t"
+    ],
+    [
+      0.146042,
+      "u"
+    ],
+    [
+      0.136167,
+      "s"
+    ],
+    [
+      0.418614,
+      "\r\n"
+    ],
+    [
+      0.169482,
+      "bash: correct 'gitt' to 'git' [nya]? "
+    ],
+    [
+      1.227752,
+      "y\r\n"
+    ],
+    [
+      0.003461,
+      "On branch master\r\n"
+    ],
+    [
+      0.000157,
+      "Your branch is up-to-date with 'origin/master'.\r\n"
+    ],
+    [
+      0.000014,
+      "nothing to commit, working directory clean\r\n"
+    ],
+    [
+      0.006580,
+      "\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[38;5;9m/\u001b[38;5;1msv\u001b[38;5;9m/\u001b[38;5;1ml\u001b[38;5;9m/\u001b[38;5;1mscripts\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B "
+    ],
+    [
+      1.088916,
+      "g"
+    ],
+    [
+      0.113394,
+      "i"
+    ],
+    [
+      0.080732,
+      "t"
+    ],
+    [
+      0.228556,
+      "t"
+    ],
+    [
+      0.331209,
+      " "
+    ],
+    [
+      0.085493,
+      "s"
+    ],
+    [
+      0.132203,
+      "t"
+    ],
+    [
+      0.121327,
+      "a"
+    ],
+    [
+      0.126291,
+      "t"
+    ],
+    [
+      0.126730,
+      "u"
+    ],
+    [
+      0.128565,
+      "s"
+    ],
+    [
+      0.260529,
+      "\r\n"
+    ],
+    [
+      0.137446,
+      "bash: correct 'gitt' to 'git' [nya]? "
+    ],
+    [
+      0.613594,
+      "a\r\n"
+    ],
+    [
+      0.004245,
+      "On branch master\r\n"
+    ],
+    [
+      0.000099,
+      "Your branch is up-to-date with 'origin/master'.\r\n"
+    ],
+    [
+      0.000041,
+      "nothing to commit, working directory clean\r\n"
+    ],
+    [
+      0.006861,
+      "\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[38;5;9m/\u001b[38;5;1msv\u001b[38;5;9m/\u001b[38;5;1ml\u001b[38;5;9m/\u001b[38;5;1mscripts\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B "
+    ],
+    [
+      1.152907,
+      "gitt status"
+    ],
+    [
+      0.337560,
+      "\r\n"
+    ],
+    [
+      0.005069,
+      "On branch master\r\n"
+    ],
+    [
+      0.000103,
+      "Your branch is up-to-date with 'origin/master'.\r\n"
+    ],
+    [
+      0.000552,
+      "nothing to commit, working directory clean\r\n"
+    ],
+    [
+      0.004929,
+      "\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[38;5;9m/\u001b[38;5;1msv\u001b[38;5;9m/\u001b[38;5;1ml\u001b[38;5;9m/\u001b[38;5;1mscripts\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B "
+    ],
+    [
+      1.258678,
+      "b"
+    ],
+    [
+      0.047918,
+      "a"
+    ],
+    [
+      0.357584,
+      "h"
+    ],
+    [
+      0.258333,
+      "s"
+    ],
+    [
+      0.240655,
+      "\r\n"
+    ],
+    [
+      0.099776,
+      "bash: correct 'bahs' to 'bash' [nya]? "
+    ],
+    [
+      0.780563,
+      "n\r\nbash: command not found: bahs\r\n"
+    ],
+    [
+      0.003879,
+      "\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[38;5;9m/\u001b[38;5;1msv\u001b[38;5;9m/\u001b[38;5;1ml\u001b[38;5;9m/\u001b[38;5;1mscripts\u001b[m\u001b(B \u001b[38;5;1m$\u001b[m\u001b(B "
+    ],
+    [
+      1.361767,
+      "bahs"
+    ],
+    [
+      0.356072,
+      "\r\nbash: command not found: bahs\r\n"
+    ],
+    [
+      0.004880,
+      "\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[38;5;9m/\u001b[38;5;1msv\u001b[38;5;9m/\u001b[38;5;1ml\u001b[38;5;9m/\u001b[38;5;1mscripts\u001b[m\u001b(B \u001b[38;5;1m$\u001b[m\u001b(B "
+    ],
+    [
+      0.707386,
+      "e"
+    ],
+    [
+      0.209786,
+      "x"
+    ],
+    [
+      0.107791,
+      "i"
+    ],
+    [
+      0.118464,
+      "t"
+    ],
+    [
+      0.119770,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
