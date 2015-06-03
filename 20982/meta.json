@@ -1,0 +1,1 @@
+{"ID":20982,"Author":{"Name":"izabera","ID":0,"FullName":"","Gravatar":"b22d52622c570ca5d15cc7648b98199e"},"Title":"heredoc bug","Description":"\u003cdiv class=\"content\"\u003e\u003cp\u003etry to recall a command from the history and then add a heredoc\u003c/p\u003e\n\u003c/div\u003e","Time":"2015-06-03T12:35:27Z","Tags":["Linux","bash","rxvt-unicode-256color"]}
