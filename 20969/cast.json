@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 20.085844,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.142304,
+      "(miscellaneous)\r\n%\r\n"
+    ],
+    [
+      0.000795,
+      "I'm not prejudiced, I hate everyone equally.\r\n"
+    ],
+    [
+      0.003551,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.007683,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36mvinipsmaker \u001b[35m~/vinipsmaker labs \u001b[00m$\u001b[00m \u001b[K\u001b[46C\u001b[33m\u001b[00m\u001b[46D\u001b[?1h\u001b="
+    ],
+    [
+      0.518434,
+      "\u001b[32memacs\u001b[39m \u001b[4mtest.h\u001b[24m "
+    ],
+    [
+      0.692077,
+      "\u001b[?1l\u001b\u003e\u001b[K\r\r\n"
+    ],
+    [
+      0.059605,
+      "\u001b[?1049h\u001b[?12;25h\u001b[?1h\u001b="
+    ],
+    [
+      0.033721,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000012,
+      "\u001b[24d\u001b[K\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l\u001b[39;49m\r"
+    ],
+    [
+      0.000186,
+      "\u001b[?1049h\u001b[?12;25h\u001b[?1h\u001b="
+    ],
+    [
+      0.245970,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.001698,
+      "\u001b[24d\u001b[?25l\u001b[37m\u001b[40mo (as of 24.3); use either `cl-flet' or `cl-letf'.                             \u001b[39;49m\r\u001b[H\u001b[37m\u001b[40mFile Edit Options Buffers Tools Help                                            \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000089,
+      "\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000082,
+      "\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000071,
+      "\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[30m\u001b[47m-UUU:----F1  \u001b[0m\u001b[39;49m\u001b[1m\u001b[30m\u001b[47m*scratch*   \u001b[0m\u001b[39;49m\u001b[30m\u001b[47m   All (1,0)      (Fundamental WS) --------------------\u001b[0m\u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m../../../usr/share/emacs/site-lisp/yas/yasnippet.el: `flet' is an obsolete macr\\\u001b[39;49m\r\n\u001b[A\u001b[2d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.125542,
+      "\u001b[24d\u001b[?25l\u001b[37m\u001b[40m                                                  \u001b[39;49m\r\u001b[A\u001b[37m\u001b[40m[yas] Prepared just-in-time loading for /usr/share/emacs/site-lisp/yas/snippets \u001b[39;49m\r\n\u001b[2d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000170,
+      "\u001b[23;7H\u001b[?25l\u001b[37m\u001b[40mCheck your `yas-snippet-dirs': ~/.emacs.d/snippets is not a directory    \u001b[39;49m\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000169,
+      "\u001b[24d\u001b[?25l\u001b[37m\u001b[40meck *Messages*).\u001b[39;49m\u001b[23;7H\u001b[37m\u001b[40mReloaded everything (snippets will load just-in-time)... (some errors, ch\\\u001b[39;49m\r\n\u001b[2d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.114132,
+      "\u001b[24d\u001b[?25l\u001b[37m\u001b[40mte (text-mode)))!                                                              \u001b[39;49m\r\u001b[H\u001b[37m\u001b[40mFile Edit Options Buffers Tools Lisp-Interaction YASnippet Help                 \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000018,
+      "\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000136,
+      "\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000068,
+      "\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[30m\u001b[47m-UUU:----F1  \u001b[0m\u001b[39;49m\u001b[1m\u001b[30m\u001b[47m*scratch*   \u001b[0m\u001b[39;49m\u001b[30m\u001b[47m   All (1,0)      (Lisp Interaction AC yas WS) --------\u001b[0m\u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40m[yas] Loading for `emacs-lisp-mode', just-in-time: (yas--load-directory-1 /usr/\\\u001b[39;49m\r\n\u001b[A\n\u001b[37m\u001b[40mshare/emacs/site-lisp/yas/snippets/emacs-lisp-mode (quote emacs-lisp-mode) (quo\\\u001b[39;49m\r\n\u001b[A\u001b[2d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000224,
+      "\u001b[24d\u001b[?25l\u001b[37m\u001b[40m                 \u001b[39;49m\u001b[22;15H\u001b[37m\u001b[40mcompiled snippets from /usr/share/emacs/site-lisp/yas/snippets/em\u001b[39;49m\r\n\u001b[37m\u001b[40macs-lisp-mode                                                                   \u001b[39;49m\r\n\u001b[2d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.146054,
+      "\u001b[22;15H\u001b[?25l\u001b[37m\u001b[40mfor `text-mode', just-in-time: (yas--load-directory-1 /usr/share/\u001b[39;49m\r\n\u001b[37m\u001b[40memacs/site-lisp/yas/snippets/text-mode (quote text-mode) (quote nil))!\u001b[39;49m\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000172,
+      "\u001b[22;15H\u001b[?25l\u001b[37m\u001b[40mcompiled snippets from /usr/share/emacs/site-lisp/yas/snippets/te\u001b[39;49m\r\n\u001b[37m\u001b[40mxt-mode                                                               \u001b[39;49m\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.101613,
+      "\u001b[\u003e0c"
+    ],
+    [
+      0.018724,
+      "\u001b[24d\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m                                                                               \u001b[39;49m\r\u001b[H\u001b[38;5;244m\u001b[48;5;235mFile Edit Options Buffers Tools Lisp-Interaction YASnippet Help                 \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000026,
+      "\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000092,
+      "\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000005,
+      "\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000089,
+      "\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;235m\u001b[48;5;245m-UUU:----F1  \u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;235m\u001b[48;5;245m*scratch*   \u001b[0m\u001b[39;49m\u001b[38;5;235m\u001b[48;5;245m   All (1,0)      (Lisp Interaction AC yas WS) --------\u001b[0m\u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m[yas] Loading compiled snippets from /usr/share/emacs/site-lisp/yas/snippets/te\\\u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234mxt-mode                                                                         \u001b[39;49m\r\n\u001b[A\u001b[2d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.001426,
+      "\u001b[24d\u001b[?25l\u001b[38;5;244m\u001b[48;5;234mFor information about GNU Emacs and the GNU system, type C-h C-a.\u001b[39;49m"
+    ],
+    [
+      0.000699,
+      "\u001b[21;1H\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[38;5;235m\u001b[48;5;245m-UUU:----F1  \u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;235m\u001b[48;5;245m*scratch*   \u001b[0m\u001b[39;49m\u001b[38;5;235m\u001b[48;5;245m   All (1,0)      (Lisp Interaction AC yas WS) --------\u001b[0m\u001b[39;49m\r\n\u001b[2d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.137930,
+      "\u001b[24d\u001b[?25l\u001b[38;5;244m\u001b[48;5;234mmacs/site-lisp/yas/snippets/c++-mode (quote c++-mode) (quote (cc-mode)))!      \u001b[39;49m\r\u001b[H\u001b[38;5;244m\u001b[48;5;235mFile Edit Options Buffers Tools Lisp-Interaction YASnippet Help                 \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000106,
+      "\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000039,
+      "\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000004,
+      "\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000078,
+      "\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;235m\u001b[48;5;245m-UUU:----F1  \u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;235m\u001b[48;5;245m*scratch*   \u001b[0m\u001b[39;49m\u001b[38;5;235m\u001b[48;5;245m   All (1,0)      (Lisp Interaction AC yas WS) --------\u001b[0m\u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m[yas] Loading for `c++-mode', just-in-time: (yas--load-directory-1 /usr/share/e\\\u001b[39;49m\r\n\u001b[A\u001b[2d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000230,
+      "\u001b[24d\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m+-mode                                                                   \u001b[39;49m\u001b[23;15H\u001b[38;5;244m\u001b[48;5;234mcompiled snippets from /usr/share/emacs/site-lisp/yas/snippets/c+\u001b[39;49m\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.003098,
+      "\u001b[24d\u001b[?25l\u001b[38;5;244m\u001b[48;5;234macs/site-lisp/yas/snippets/cc-mode (quote cc-mode) (quote (text-mode)))!\u001b[39;49m\u001b[23;15H\u001b[38;5;244m\u001b[48;5;234mfor `cc-mode', just-in-time: (yas--load-directory-1 /usr/share/em\u001b[39;49m\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000108,
+      "\u001b[24d\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m-mode                                                                   \u001b[39;49m\u001b[23;15H\u001b[38;5;244m\u001b[48;5;234mcompiled snippets from /usr/share/emacs/site-lisp/yas/snippets/cc\u001b[39;49m\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.168147,
+      "\u001b[24d\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m-mode                                                                          \u001b[39;49m\r\u001b[H\u001b[38;5;244m\u001b[48;5;235mFile Edit Options Buffers Tools C++ YASnippet Help                              \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000018,
+      "\n\u001b[38;5;166m\u001b[48;5;234m#ifndef\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m _TEST_H_                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;166m\u001b[48;5;234m#define\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m \u001b[39;49m\u001b[38;5;33m\u001b[48;5;234m_TEST_H_\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;64m\u001b[48;5;234mtypedef\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m \u001b[39;49m\u001b[38;5;64m\u001b[48;5;234menum\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m \u001b[39;49m\u001b[38;5;136m\u001b[48;5;234m_test\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m {                                                            \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m    \u001b[39;49m\u001b[38;5;33m\u001b[48;5;234mvalue1\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m,                                                                     \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000109,
+      "\n\u001b[38;5;244m\u001b[48;5;234m    \u001b[39;49m\u001b[38;5;33m\u001b[48;5;234mvalue2_but_is_a_long_value\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m,                                                 \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m    \u001b[39;49m\u001b[38;5;33m\u001b[48;5;234mvalue3_is_short\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m,                                                            \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m    \u001b[39;49m\u001b[38;5;33m\u001b[48;5;234mvalue4\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m                                                                      \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m} \u001b[39;49m\u001b[38;5;136m\u001b[48;5;234mtest\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m;                                                                         \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;166m\u001b[48;5;234m#endif\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m \u001b[39;49m\u001b[38;5;240m\u001b[48;5;234m/* _TEST_H_ */\u001b[0m\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m                                                           \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A"
+    ],
+    [
+      0.000045,
+      "\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\n\u001b[38;5;235m\u001b[48;5;245m-UU-:----F1  \u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;235m\u001b[48;5;245mtest.h      \u001b[0m\u001b[39;49m\u001b[38;5;235m\u001b[48;5;245m   All (1,0)      (C++ AC yas WS Abbrev) --------------\u001b[0m\u001b[39;49m\r\n\u001b[A\n\u001b[38;5;244m\u001b[48;5;234m[yas] Loading compiled snippets from /usr/share/emacs/site-lisp/yas/snippets/cc\\\u001b[39;49m\r\n\u001b[A\u001b[2d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.463783,
+      "\u001b[1;23r\u001b[22;1H\u001b[1L\u001b[1;24r\u001b[24;1H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m     \u001b[39;49m"
+    ],
+    [
+      0.000028,
+      "\u001b[22;1H\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[A\u001b[2d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.675262,
+      "\u001b[24d\u001b[?25l\u001b[38;5;244m\u001b[48;5;234mDescribe key (or click or menu item): \u001b[39;49m\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.323698,
+      "\t\u0008\u001b[?25l\u001b[38;5;244m\u001b[48;5;234mESC\u001b[39;49m\u001b[?12l\u001b[?25h\u001b[?12;25h\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m-\u001b[39;49m\u001b[?12l\u001b[?25h\u001b[?12;25h\u0008\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m =\u001b[39;49m\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.009173,
+      "\r\u001b[?25l\u001b[38;5;244m\u001b[48;5;234mType C-x 1 to delete the help window, C-M-v to scroll help.\u001b[39;49m\u001b[H\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.004808,
+      "\u001b[12d\u001b[?25l\u001b[38;5;235m\u001b[48;5;245m-UU-:----F1  \u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;235m\u001b[48;5;245mtest.h      \u001b[0m\u001b[39;49m\u001b[38;5;235m\u001b[48;5;245m   Top (1,0)      (C++ AC yas WS Abbrev) --------------\u001b[0m\u001b[39;49m\r\n\u001b[38;5;244m\u001b[48;5;234mM-= runs the command count-words-region, which is an interactive compiled Lisp  \u001b[39;49m\r\n\u001b[38;5;244m\u001b[48;5;234mfunction in `\u001b[39;49m\u001b[4m\u001b[38;5;61m\u001b[48;5;234msimple.el\u001b[0m\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m'.                                                        \u001b[39;49m\r\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[38;5;244m\u001b[48;5;234mIt is bound to M-=.                                                             \u001b[39;49m\r\n\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[38;5;244m\u001b[48;5;234m(count-words-region \u001b[39;49m\u001b[4m\u001b[38;5;244m\u001b[48;5;234mSTART\u001b[0m\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m \u001b[39;49m\u001b[4m\u001b[38;5;244m\u001b[48;5;234mEND\u001b[0m\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m \u0026optional \u001b[39;49m\u001b[4m\u001b[38;5;244m\u001b[48;5;234mARG\u001b[0m\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m)                                    \u001b[39;49m\r\n"
+    ],
+    [
+      0.000028,
+      "\u001b[38;5;244m\u001b[48;5;234m                                                                                \u001b[39;49m\r\n\u001b[38;5;244m\u001b[48;5;234mCount the number of words in the region.                                        \u001b[39;49m\r\n\u001b[38;5;244m\u001b[48;5;234mIf called interactively, print a message reporting the number of                \u001b[39;49m\r\n\u001b[38;5;244m\u001b[48;5;234mlines, words, and characters in the region (whether or not the                  \u001b[39;49m\r\n\u001b[38;5;235m\u001b[48;5;241m-UUU:%%--F1  \u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;235m\u001b[48;5;241m*Help*      \u001b[0m\u001b[39;49m\u001b[38;5;235m\u001b[48;5;241m   Top (1,0)      (Help yas WS) -----------------------\u001b[0m\u001b[39;49m\r\n\u001b[2d\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.419712,
+      "\u001b[24d\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m                                                           \u001b[39;49m\u001b[12;34H\u001b[38;5;235m\u001b[48;5;245m2\u001b[0m\u001b[39;49m\u001b[H\n\n\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.164738,
+      "\u001b[12;34H\u001b[?25l\u001b[38;5;235m\u001b[48;5;245m3\u001b[0m\u001b[39;49m\u001b[4;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.149616,
+      "\u001b[12;34H\u001b[?25l\u001b[38;5;235m\u001b[48;5;245m4\u001b[0m\u001b[39;49m\u001b[5;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.141592,
+      "\u001b[12;34H\u001b[?25l\u001b[38;5;235m\u001b[48;5;245m5\u001b[0m\u001b[39;49m\u001b[6;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.133847,
+      "\u001b[12;34H\u001b[?25l\u001b[38;5;235m\u001b[48;5;245m6\u001b[0m\u001b[39;49m\u001b[7;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.165461,
+      "\u001b[12;34H\u001b[?25l\u001b[38;5;235m\u001b[48;5;245m7\u001b[0m\u001b[39;49m\u001b[8;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.133562,
+      "\u001b[12;34H\u001b[?25l\u001b[38;5;235m\u001b[48;5;245m8\u001b[0m\u001b[39;49m\u001b[9;1H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.220354,
+      "\u001b[12;36H\u001b[?25l\u001b[38;5;235m\u001b[48;5;245m10)\u001b[0m\u001b[39;49m\u001b[9;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.224793,
+      "\u001b[24;1H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234mMark set\u001b[39;49m\u001b[9;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.160359,
+      "\u001b[24;1H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m        \u001b[39;49m"
+    ],
+    [
+      0.000085,
+      "\u001b[8;1H\u001b[38;5;244m\u001b[48;5;234m    \u001b[39;49m\u001b[38;5;33m\u001b[48;5;234mvalue3\u001b[39;49m\u001b[38;5;234m\u001b[48;5;240m_is_short,                                                            \u001b[0m\u001b[39;49m\r\n\u001b[38;5;234m\u001b[48;5;240m    value4\u001b[0m\u001b[39;49m\u001b[12;34H\u001b[38;5;235m\u001b[48;5;245m7\u001b[0m\u001b[39;49m\u001b[8;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.146264,
+      "\r\u001b[A\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m    \u001b[39;49m\u001b[38;5;33m\u001b[48;5;234mvalue2\u001b[39;49m\u001b[38;5;234m\u001b[48;5;240m_but_is_a_long_value,                                                 \u001b[0m\u001b[39;49m\r\n\u001b[38;5;234m\u001b[48;5;240m    value3\u001b[0m\u001b[39;49m\u001b[12;34H\u001b[38;5;235m\u001b[48;5;245m6\u001b[0m\u001b[39;49m\u001b[7;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.149837,
+      "\r\u001b[A\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m    \u001b[39;49m\u001b[38;5;33m\u001b[48;5;234mvalue1\u001b[39;49m\u001b[38;5;234m\u001b[48;5;240m,                                                                     \u001b[0m\u001b[39;49m\r\n\u001b[38;5;234m\u001b[48;5;240m    value2\u001b[0m\u001b[39;49m\u001b[12;34H\u001b[38;5;235m\u001b[48;5;245m5\u001b[0m\u001b[39;49m\u001b[6;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.400535,
+      "\r\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m    \u001b[39;49m\u001b[38;5;234m\u001b[48;5;240mvalue1\u001b[0m\u001b[39;49m\u001b[12;36H\u001b[38;5;235m\u001b[48;5;245m4) \u001b[0m\u001b[39;49m\u001b[6;5H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.916889,
+      "\u001b[24;1H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234mRegion has 4 lines, 11 words, and 71 characters.\u001b[39;49m\u001b[6;5H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.981800,
+      "\u001b[24;1H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m                                                \u001b[39;49m\u001b[6;5H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.712157,
+      "\u001b[24;1H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234mC-u\u001b[39;49m\u001b[6;5H\u001b[?12l\u001b[?25h\u001b[?12;25h\u001b[24d\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m1\u001b[39;49m\u001b[6;5H\u001b[?12l\u001b[?25h\u001b[?12;25h\u001b[24;7H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m1\u001b[39;49m\u001b[6;5H\u001b[?12l\u001b[?25h\u001b[?12;25h\u001b[24;8H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m-\u001b[39;49m\u001b[6;5H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.821822,
+      "\u001b[24;8H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m ESC\u001b[39;49m\u001b[6;5H\u001b[?12l\u001b[?25h\u001b[?12;25h\u001b[24;12H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m-\u001b[39;49m\u001b[6;5H\u001b[?12l\u001b[?25h\u001b[?12;25h\u001b[24;12H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m u\u001b[39;49m\u001b[6;5H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.006701,
+      "\r\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m    \u001b[39;49m\u001b[38;5;33m\u001b[48;5;234mVALUE1\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m,                                                                     \u001b[39;49m\r\n\u001b[38;5;244m\u001b[48;5;234m    \u001b[39;49m\u001b[38;5;33m\u001b[48;5;234mVALUE2_BUT_IS_A_LONG_VALUE\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m,                                                 \u001b[39;49m\r\n\u001b[38;5;244m\u001b[48;5;234m    \u001b[39;49m\u001b[38;5;33m\u001b[48;5;234mVALUE3_IS_SHORT\u001b[39;49m\u001b[38;5;244m\u001b[48;5;234m,                                                            \u001b[39;49m\r\n\u001b[38;5;244m\u001b[48;5;234m    \u001b[39;49m\u001b[38;5;33m\u001b[48;5;234mVALUE4\u001b[39;49m\u001b[12;6H\u001b[38;5;235m\u001b[48;5;245m**--F1  \u001b[0m\u001b[39;49m\u001b[1m\u001b[38;5;235m\u001b[48;5;245mtest.h      \u001b[0m\u001b[39;49m\u001b[38;5;235m\u001b[48;5;245m   Top (8,10)\u001b[0m\u001b[39;49m\u001b[9;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      3.258717,
+      "\u001b[24;1H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m             \u001b[39;49m"
+    ],
+    [
+      0.000203,
+      "\u001b[12;34H\u001b[38;5;235m\u001b[48;5;245m9,7) \u001b[0m\u001b[39;49m\u001b[10;8H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.357837,
+      "\u001b[12;34H\u001b[?25l\u001b[38;5;235m\u001b[48;5;245m8,10)\u001b[0m\u001b[39;49m\u001b[9;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.480624,
+      "\u001b[24;1H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234mSaving file /home/vinipsmaker/vinipsmaker labs/test.h...\u001b[39;49m\u001b[9;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.042996,
+      "\u001b[24;1H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234mWrote /home/vinipsmaker/vinipsmaker labs/test.h         \u001b[39;49m\u001b[9;11H\u001b[?12l\u001b[?25h\u001b[?12;25h\u001b[12;6H\u001b[?25l\u001b[38;5;235m\u001b[48;5;245m--\u001b[0m\u001b[39;49m\u001b[9;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      1.142334,
+      "\u001b[24;1H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m                                               \u001b[39;49m\u001b[9;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.263017,
+      "\u001b[24;1H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234m(No files need saving)\u001b[39;49m\u001b[9;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.184721,
+      "\u001b[24;1H\u001b[?25l\u001b[38;5;244m\u001b[48;5;234mWrote /home/vinipsmaker/.emacs.d/ac-comphist.dat\u001b[39;49m\u001b[9;11H\u001b[?12l\u001b[?25h\u001b[?12;25h"
+    ],
+    [
+      0.000018,
+      "\u001b[24;1H\u001b[K\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l\u001b[39;49m\r"
+    ],
+    [
+      0.006837,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.003499,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36mvinipsmaker \u001b[35m~/vinipsmaker labs \u001b[00m$\u001b[00m \u001b[K\u001b[46C\u001b[33m\u001b[00m\u001b[46D\u001b[?1h\u001b="
+    ],
+    [
+      1.288336,
+      "\u001b[K\r\r\n"
+    ]
+  ]
+}
