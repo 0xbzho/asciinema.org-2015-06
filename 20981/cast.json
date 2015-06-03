@@ -1,0 +1,634 @@
+{
+  "version": 1,
+  "width": 111,
+  "height": 30,
+  "duration": 33.032923,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "rxvt-unicode-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.052989,
+      "\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B "
+    ],
+    [
+      0.334354,
+      "c"
+    ],
+    [
+      0.091085,
+      "a"
+    ],
+    [
+      0.132364,
+      "t"
+    ],
+    [
+      0.121822,
+      " "
+    ],
+    [
+      0.145346,
+      "f"
+    ],
+    [
+      0.099904,
+      "i"
+    ],
+    [
+      0.096598,
+      "l"
+    ],
+    [
+      0.043526,
+      "e"
+    ],
+    [
+      0.356162,
+      "1"
+    ],
+    [
+      0.704617,
+      "."
+    ],
+    [
+      0.623705,
+      "j"
+    ],
+    [
+      0.082931,
+      "p"
+    ],
+    [
+      0.162054,
+      "g"
+    ],
+    [
+      0.522768,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.486482,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file2.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.345845,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file3.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.373559,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file4.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.661096,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file5.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039543,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file6.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040632,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file7.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039752,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file8.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039823,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file9.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040811,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file10.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039457,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file11.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.041386,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file12.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040135,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file13.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040825,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file14.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040582,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file15.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040145,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file16.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040135,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file17.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040246,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file18.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.041318,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file19.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039788,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file20.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040325,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file21.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039946,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file22.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039631,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file23.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040659,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file24.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.041404,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file25.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040737,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file26.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040121,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file27.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.038947,
+      "\r\u001b[K"
+    ],
+    [
+      0.001134,
+      "\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file28.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039384,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file29.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040291,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file30.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.520707,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file29.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.659358,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file28.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040364,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file27.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040242,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file26.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039658,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file25.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040569,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file24.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.041081,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file23.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040428,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file22.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040745,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file21.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040842,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file20.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040722,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file19.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039589,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file18.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039942,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file17.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040340,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file16.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039384,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file15.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040714,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file14.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040721,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file13.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040592,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file12.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.041138,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file11.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039668,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file10.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040560,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file9.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039801,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file8.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040793,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file7.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040015,
+      "\r\u001b[K"
+    ],
+    [
+      0.000835,
+      "\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file6.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039532,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file5.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040125,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file4.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039583,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file3.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040599,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file2.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.212069,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file1.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.312972,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file0.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.186333,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-1.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.180236,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-2.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.660217,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-3.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040282,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-4.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040948,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-5.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040684,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-6.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040097,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-7.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040640,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-8.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040662,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-9.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039688,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-10.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039731,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-11.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040590,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-12.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.369036,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-11.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.660755,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-10.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039694,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-9.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040753,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-8.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039681,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-7.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040499,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-6.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040733,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-5.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040674,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-4.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.039315,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-3.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.212985,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-2.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.193960,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file-1.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.196346,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file0.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.187132,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file1.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.198733,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file2.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.658452,
+      "\u0008"
+    ],
+    [
+      0.185410,
+      "\u0008"
+    ],
+    [
+      0.140698,
+      "\u0008"
+    ],
+    [
+      0.149352,
+      "\u0008"
+    ],
+    [
+      0.150520,
+      "\u0008"
+    ],
+    [
+      0.228193,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file3.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.269217,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file4.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.164555,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file5.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.681459,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.286676,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file6.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.551269,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.241280,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file7.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.633022,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.424143,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file8.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.438382,
+      "\u0008"
+    ],
+    [
+      0.172004,
+      "\u0008"
+    ],
+    [
+      0.151958,
+      "\u0008"
+    ],
+    [
+      0.145637,
+      "\u0008"
+    ],
+    [
+      0.187102,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat file9.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.445734,
+      "\u0008"
+    ],
+    [
+      0.157544,
+      "\u0008"
+    ],
+    [
+      0.161311,
+      "\u0008"
+    ],
+    [
+      0.793157,
+      "9ile9.jpg\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.189091,
+      "9ile9.jpg\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.183175,
+      "9ile9.jpg\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.205946,
+      "9ile9.jpg\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.473398,
+      "\u0008\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.614476,
+      "0"
+    ],
+    [
+      1.061541,
+      "\u0008"
+    ],
+    [
+      0.485303,
+      "\u001b[K\u0008"
+    ],
+    [
+      0.374195,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.572785,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat f10000ile9.jpg\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.195017,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat f10001ile9.jpg\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.210327,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat f10002ile9.jpg\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.172996,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat f10003ile9.jpg\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.511623,
+      "\u001b[C"
+    ],
+    [
+      0.165015,
+      "\u001b[C"
+    ],
+    [
+      0.278247,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat f10003ile10.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      1.350977,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat f10003ile9.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.180580,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat f10003ile8.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.175106,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat f10003ile7.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.192347,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat f10003ile6.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.185170,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat f10003ile5.jpg\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.425464,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.364955,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat f10002ile5.jpg\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.312630,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat f10001ile5.jpg\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.223822,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat f10000ile5.jpg\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.191358,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat f9999ile5.jpg\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.197048,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat f9998ile5.jpg\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.180451,
+      "\r\u001b[K\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;2m$\u001b[m\u001b(B cat f9997ile5.jpg\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      2.317279,
+      "^C\r\n\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;1m$\u001b[m\u001b(B "
+    ],
+    [
+      0.528129,
+      "Use \"exit\" to leave the shell.\r\n\u001b[38;5;2mizabera\u001b[m\u001b(B@\u001b[38;5;6mnotebook\u001b[m\u001b(B \u001b[38;5;1m~\u001b[m\u001b(B \u001b[38;5;1m$\u001b[m\u001b(B "
+    ],
+    [
+      0.208750,
+      "exit\r\n"
+    ]
+  ]
+}
