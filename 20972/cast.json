@@ -1,0 +1,2270 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 189.014474,
+  "command": "/bin/bash",
+  "title": "Install dbwebb cli",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.174426,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      3.497416,
+      "wget https://raw.githubusercontent.com/mosbth/dbwebb-cli/master/dbweb \rb2 -O dbwebb"
+    ],
+    [
+      3.357989,
+      "\r\n"
+    ],
+    [
+      0.014584,
+      "--2015-06-03 07:55:32--  https://raw.githubusercontent.com/mosbth/dbwebb-cli/master/dbwebb2\r\n"
+    ],
+    [
+      0.013647,
+      "Resolving raw.githubusercontent.com (raw.githubusercontent.com)... "
+    ],
+    [
+      0.028494,
+      "185.31.17.133\r\nConnecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.31.17.133|:443... "
+    ],
+    [
+      0.026498,
+      "connected.\r\n"
+    ],
+    [
+      0.059921,
+      "HTTP request sent, awaiting response... "
+    ],
+    [
+      0.190350,
+      "200 OK\r\n"
+    ],
+    [
+      0.000045,
+      "Length: 36688 (36K) [text/plain]\r\n"
+    ],
+    [
+      0.000002,
+      "Saving to: ‘dbwebb’\r\n"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\rdbwebb                0%[                      ]       0  --.-KB/s             "
+    ],
+    [
+      0.028211,
+      "\rdbwebb              100%[=====================\u003e]  35.83K  --.-KB/s   in 0.03s  \r\n\r\n"
+    ],
+    [
+      0.000003,
+      "2015-06-03 07:55:32 (1.24 MB/s) - ‘dbwebb’ saved [36688/36688]\r\n\r\n"
+    ],
+    [
+      0.000628,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      4.981525,
+      "l"
+    ],
+    [
+      0.135710,
+      "s"
+    ],
+    [
+      0.087947,
+      " "
+    ],
+    [
+      0.808192,
+      "-"
+    ],
+    [
+      0.239882,
+      "l"
+    ],
+    [
+      0.103914,
+      " "
+    ],
+    [
+      0.392046,
+      "d"
+    ],
+    [
+      0.144029,
+      "b"
+    ],
+    [
+      0.103948,
+      "w"
+    ],
+    [
+      0.072051,
+      "e"
+    ],
+    [
+      0.127975,
+      "b"
+    ],
+    [
+      0.176028,
+      "b"
+    ],
+    [
+      0.146696,
+      "\u0007"
+    ],
+    [
+      0.573630,
+      "\r\n"
+    ],
+    [
+      0.000939,
+      "-rw-r--r-- 1 mos mos 36K Jun  3 07:55 dbwebb\r\n"
+    ],
+    [
+      0.000194,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      8.477904,
+      "install dbwebb /usr/local/bin/dbwebb"
+    ],
+    [
+      1.945151,
+      "\r\n"
+    ],
+    [
+      0.002349,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      1.517156,
+      "l"
+    ],
+    [
+      0.144017,
+      "s"
+    ],
+    [
+      0.127925,
+      " "
+    ],
+    [
+      0.256054,
+      "-"
+    ],
+    [
+      0.215953,
+      "l"
+    ],
+    [
+      0.120007,
+      " "
+    ],
+    [
+      1.880484,
+      "/"
+    ],
+    [
+      0.240108,
+      "u"
+    ],
+    [
+      0.087730,
+      "s"
+    ],
+    [
+      0.432205,
+      "r"
+    ],
+    [
+      0.303914,
+      "/"
+    ],
+    [
+      0.399740,
+      "l"
+    ],
+    [
+      0.191885,
+      "o"
+    ],
+    [
+      0.087884,
+      "c"
+    ],
+    [
+      0.072039,
+      "a"
+    ],
+    [
+      0.127977,
+      "l"
+    ],
+    [
+      0.352085,
+      "/"
+    ],
+    [
+      0.752247,
+      "b"
+    ],
+    [
+      0.127698,
+      "i"
+    ],
+    [
+      0.168079,
+      "n"
+    ],
+    [
+      0.279971,
+      "/"
+    ],
+    [
+      0.248006,
+      "d"
+    ],
+    [
+      0.095913,
+      "b"
+    ],
+    [
+      0.064034,
+      "w"
+    ],
+    [
+      0.063992,
+      "e"
+    ],
+    [
+      0.088027,
+      "b"
+    ],
+    [
+      0.168050,
+      "b"
+    ],
+    [
+      0.584222,
+      "\r\n"
+    ],
+    [
+      0.000954,
+      "-rwxr-xr-x 1 mos staff 36K Jun  3 07:55 /usr/local/bin/dbwebb*\r\n"
+    ],
+    [
+      0.000160,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      1.390673,
+      "w"
+    ],
+    [
+      0.087937,
+      "h"
+    ],
+    [
+      0.095970,
+      "i"
+    ],
+    [
+      0.144032,
+      "c"
+    ],
+    [
+      0.087986,
+      "h"
+    ],
+    [
+      0.119998,
+      " "
+    ],
+    [
+      0.272149,
+      "d"
+    ],
+    [
+      0.463936,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.495995,
+      "d"
+    ],
+    [
+      0.128402,
+      "b"
+    ],
+    [
+      0.135914,
+      "w"
+    ],
+    [
+      0.104090,
+      "e"
+    ],
+    [
+      0.127756,
+      "b"
+    ],
+    [
+      0.160167,
+      "b"
+    ],
+    [
+      0.608095,
+      "\r\n"
+    ],
+    [
+      0.000764,
+      "/usr/local/bin/dbwebb\r\n"
+    ],
+    [
+      0.000176,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      2.502632,
+      "d"
+    ],
+    [
+      0.095874,
+      "b"
+    ],
+    [
+      0.040070,
+      "w"
+    ],
+    [
+      0.087972,
+      "e"
+    ],
+    [
+      0.079995,
+      "b"
+    ],
+    [
+      0.128090,
+      "b"
+    ],
+    [
+      0.183954,
+      " "
+    ],
+    [
+      0.264126,
+      "-"
+    ],
+    [
+      0.151951,
+      "-"
+    ],
+    [
+      0.192488,
+      "v"
+    ],
+    [
+      0.159902,
+      "e"
+    ],
+    [
+      0.071734,
+      "r"
+    ],
+    [
+      0.175843,
+      "s"
+    ],
+    [
+      0.071932,
+      "i"
+    ],
+    [
+      0.096008,
+      "o"
+    ],
+    [
+      0.088005,
+      "n"
+    ],
+    [
+      0.336317,
+      "\r\n"
+    ],
+    [
+      0.010867,
+      "dbwebb version v1.9.4 (2015-05-20)\r\n"
+    ],
+    [
+      0.000208,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      2.236814,
+      "d"
+    ],
+    [
+      0.063804,
+      "b"
+    ],
+    [
+      0.071980,
+      "w"
+    ],
+    [
+      0.063997,
+      "e"
+    ],
+    [
+      0.056126,
+      "b"
+    ],
+    [
+      0.144099,
+      "b"
+    ],
+    [
+      0.111988,
+      " "
+    ],
+    [
+      0.239987,
+      "-"
+    ],
+    [
+      0.295868,
+      "-"
+    ],
+    [
+      0.376116,
+      "h"
+    ],
+    [
+      0.143955,
+      "e"
+    ],
+    [
+      0.288013,
+      "kl"
+    ],
+    [
+      0.503945,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.327998,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.320099,
+      "l"
+    ],
+    [
+      0.095872,
+      "p"
+    ],
+    [
+      0.728552,
+      "\r\n"
+    ],
+    [
+      0.015667,
+      "Utility dbwebb for working with course repos: http://dbwebb.se/dbwebb-cli\r\nUsage: dbwebb [options] \u003ccommand\u003e [arguments]"
+    ],
+    [
+      0.000007,
+      "\r\n\r\nCommand:\r\n  check             Check the environment.\r\n  config            (Re-)Create config file.\r\n  selfupdate        Update to latest version.\r\n"
+    ],
+    [
+      0.000003,
+      "  sshkey            Create and install ssh-keys.\r\n"
+    ],
+    [
+      0.000002,
+      "  login             Login to the remote server.\r\n"
+    ],
+    [
+      0.000013,
+      "  clone [repo]      Clone a course repo.\r\n"
+    ],
+    [
+      0.000007,
+      "  init              Init course repo and remote server.\r\n  github [repo]     Get urls to repo on GitHub.\r\n  update            Update course repo.\r\n  upload [part]     Upload to server."
+    ],
+    [
+      0.000003,
+      "\r\n  download [part]   Download from server.\r\n"
+    ],
+    [
+      0.000002,
+      "  create labid      Create a lab."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "  validate [part]   Validate it."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "  publish [part]    Publish it.\r\n  inspect [course] [kmom] [user]  Inspect a kmom."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "Options:"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "  --inspect, -i  Help for inspect.\r\n  --verbose, -v  More verbose.\r\n  --yes, -y      Do not wait for my input.\r\n  --help, -h     Print help.\r\n  --version      Print version.\r\n"
+    ],
+    [
+      0.000281,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      5.719630,
+      "d"
+    ],
+    [
+      0.111778,
+      "b"
+    ],
+    [
+      0.103971,
+      "w"
+    ],
+    [
+      0.096050,
+      "e"
+    ],
+    [
+      0.039949,
+      "b"
+    ],
+    [
+      0.176054,
+      "b"
+    ],
+    [
+      0.151990,
+      " "
+    ],
+    [
+      0.592571,
+      "c"
+    ],
+    [
+      0.104070,
+      "p"
+    ],
+    [
+      0.520022,
+      "o"
+    ],
+    [
+      0.199740,
+      "n"
+    ],
+    [
+      0.167704,
+      "f"
+    ],
+    [
+      0.103863,
+      "i"
+    ],
+    [
+      0.432189,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160031,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.167817,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.183999,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.304021,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.688007,
+      "o"
+    ],
+    [
+      0.839995,
+      "n"
+    ],
+    [
+      0.352017,
+      "f"
+    ],
+    [
+      0.143972,
+      "i"
+    ],
+    [
+      0.120075,
+      "g"
+    ],
+    [
+      0.928321,
+      "\r\n"
+    ],
+    [
+      0.010387,
+      "The config-file '.dbwebb.config' will now be created in your home directory: '/home/mos'"
+    ],
+    [
+      0.000004,
+      "\r\nWhat is your student acronym? [mosstud] "
+    ],
+    [
+      1.205189,
+      "\r\n"
+    ],
+    [
+      0.000420,
+      "\u001b[1;37;40mDONE\u001b[0m The config file '/home/mos/.dbwebb.config' is now up-to-date.\r\n"
+    ],
+    [
+      0.000092,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      1.903600,
+      "c"
+    ],
+    [
+      0.055842,
+      "a"
+    ],
+    [
+      0.088028,
+      "t"
+    ],
+    [
+      0.104026,
+      " "
+    ],
+    [
+      4.552388,
+      "/home/mos/.dbwebb.config"
+    ],
+    [
+      1.328092,
+      "\r\n"
+    ],
+    [
+      0.000790,
+      "DBW_USER='mosstud'"
+    ],
+    [
+      0.000004,
+      "\r\nDBW_HOST='ssh.student.bth.se'\r\nDBW_WWW_HOST='http://www.student.bth.se/'"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "DBW_SSH_KEY=\"$HOME/.ssh/dbwebb\"\r\n"
+    ],
+    [
+      0.000005,
+      "DBW_REMOTE_BASEDIR='dbwebb-kurser'\r\nDBW_REMOTE_WWWDIR='www/dbwebb-kurser'\r\nDBW_BASEURL='http://www.student.bth.se/~mosstud/dbwebb-kurser'\r\nDBW_LABURL='http://www.student.bth.se/~mosstud/kod-exempel/lab'"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000215,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      8.918586,
+      "d"
+    ],
+    [
+      0.063932,
+      "b"
+    ],
+    [
+      0.039959,
+      "w"
+    ],
+    [
+      0.119971,
+      "e"
+    ],
+    [
+      0.048027,
+      "b"
+    ],
+    [
+      0.152002,
+      "b"
+    ],
+    [
+      0.128285,
+      " "
+    ],
+    [
+      0.192202,
+      "s"
+    ],
+    [
+      0.199837,
+      "e"
+    ],
+    [
+      0.119854,
+      "l"
+    ],
+    [
+      0.224261,
+      "f"
+    ],
+    [
+      0.247723,
+      "u"
+    ],
+    [
+      0.096022,
+      "p"
+    ],
+    [
+      0.120246,
+      "d"
+    ],
+    [
+      0.079954,
+      "a"
+    ],
+    [
+      0.215830,
+      "t"
+    ],
+    [
+      0.095868,
+      "e"
+    ],
+    [
+      0.080200,
+      "\r\n"
+    ],
+    [
+      0.011649,
+      "Your current version is: "
+    ],
+    [
+      0.009992,
+      "dbwebb version v1.9.4 (2015-05-20)\r\n"
+    ],
+    [
+      0.000265,
+      "Selfupdating 'dbwebb' from https://raw.githubusercontent.com/mosbth/dbwebb-cli"
+    ],
+    [
+      0.000012,
+      "\r\nPress enter to continue..."
+    ],
+    [
+      0.809980,
+      "\r\n"
+    ],
+    [
+      0.001287,
+      "Downloading..."
+    ],
+    [
+      0.213466,
+      " installing..."
+    ],
+    [
+      0.000956,
+      " cleaning up..."
+    ],
+    [
+      0.000568,
+      " done.\r\n"
+    ],
+    [
+      0.000255,
+      "\u001b[1;37;40mDONE\u001b[0m to update 'dbwebb'.\r\nThe updated version is now: "
+    ],
+    [
+      0.009734,
+      "dbwebb version v1.9.4 (2015-05-20)\r\n"
+    ],
+    [
+      0.010372,
+      "\u001b[1;37;40mDONE\u001b[0m The config file '/home/mos/.dbwebb.config' is now up-to-date.\r\n"
+    ],
+    [
+      0.000406,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      3.451320,
+      "d"
+    ],
+    [
+      0.095734,
+      "b"
+    ],
+    [
+      0.079818,
+      "w"
+    ],
+    [
+      0.095918,
+      "e"
+    ],
+    [
+      0.055994,
+      "b"
+    ],
+    [
+      0.144034,
+      "b"
+    ],
+    [
+      0.120001,
+      " "
+    ],
+    [
+      0.192030,
+      "c"
+    ],
+    [
+      0.095957,
+      "h"
+    ],
+    [
+      0.103988,
+      "e"
+    ],
+    [
+      0.144058,
+      "c"
+    ],
+    [
+      0.127942,
+      "k"
+    ],
+    [
+      0.312259,
+      "\r\n"
+    ],
+    [
+      0.010635,
+      "Details on installed utilities.\r\n"
+    ],
+    [
+      0.000004,
+      "------------------------------------"
+    ],
+    [
+      0.001158,
+      "\r\nbash:               /bin/bash"
+    ],
+    [
+      0.001043,
+      "\r\ngit:                /usr/bin/git"
+    ],
+    [
+      0.001016,
+      "\r\nssh:                /usr/bin/ssh"
+    ],
+    [
+      0.001117,
+      "\r\nrsync:              /usr/bin/rsync"
+    ],
+    [
+      0.000961,
+      "\r\nwget:               /usr/bin/wget"
+    ],
+    [
+      0.001139,
+      "\r\ncurl:               /usr/bin/curl\r\n\r\nDetails on the dbwebb-environment.\r\n------------------------------------\r\nOperatingsystem:    Linux desktop 3.16.0-4-amd64 #1 SMP Debian 3.16.7-ckt9-3 (2015-04-23) x86_64 GNU/Linux\r\nCommand issued:     dbwebb\r\nVersion of dbwebb:  v1.9.4 (2015-05-20)\r\nPath to executable: '/usr/local/bin'\r\nConfig-file:        '/home/mos/.dbwebb.config'\r\nWorking directory:  '/home/mos'\r\nLocal user:         'mos'\r\nLocal homedir:      '/home/mos'\r\nRemote user:        'mosstud'\r\nRemote host:        'ssh.student.bth.se'\r\n\r\nDetails on current course-repo.\r\n------------------------------------\r\nThis is not a valid course repo.\r\n\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      11.678847,
+      "d"
+    ],
+    [
+      0.071886,
+      "b"
+    ],
+    [
+      0.095875,
+      "w"
+    ],
+    [
+      0.072033,
+      "e"
+    ],
+    [
+      0.056000,
+      "b"
+    ],
+    [
+      0.168053,
+      "b"
+    ],
+    [
+      0.120030,
+      " "
+    ],
+    [
+      0.264099,
+      "s"
+    ],
+    [
+      0.160426,
+      "s"
+    ],
+    [
+      0.119868,
+      "h"
+    ],
+    [
+      1.151831,
+      "k"
+    ],
+    [
+      0.135746,
+      "e"
+    ],
+    [
+      0.208599,
+      "y"
+    ],
+    [
+      2.135788,
+      "\r\n"
+    ],
+    [
+      0.009595,
+      "First we need to create a ssh key and store it locally.\r\nPress enter/return to continue..."
+    ],
+    [
+      1.414207,
+      "\r\n"
+    ],
+    [
+      0.009461,
+      "Generating public/private dsa key pair."
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.061047,
+      "/home/mos/.ssh/dbwebb already exists.\r\nOverwrite (y/n)? "
+    ],
+    [
+      1.753362,
+      "\r\n"
+    ],
+    [
+      0.001509,
+      "I will now install the ssh-key at the remote server.\r\nPress enter to continue..."
+    ],
+    [
+      2.327019,
+      "\r\n"
+    ],
+    [
+      0.747223,
+      "\u001b[1;37;40mDONE\u001b[0m to install the ssh-keys.\r\n"
+    ],
+    [
+      0.000069,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      1.092123,
+      "dbwebb sshkey"
+    ],
+    [
+      0.680474,
+      "\r\n"
+    ],
+    [
+      0.010411,
+      "First we need to create a ssh key and store it locally."
+    ],
+    [
+      0.000004,
+      "\r\nPress enter/return to continue..."
+    ],
+    [
+      0.637189,
+      "\r\n"
+    ],
+    [
+      0.001271,
+      "Generating public/private dsa key pair.\r\n"
+    ],
+    [
+      0.027870,
+      "/home/mos/.ssh/dbwebb already exists.\r\n"
+    ],
+    [
+      0.000004,
+      "Overwrite (y/n)? "
+    ],
+    [
+      1.290870,
+      "y"
+    ],
+    [
+      0.375999,
+      "\r\n"
+    ],
+    [
+      0.000189,
+      "Your identification has been saved in /home/mos/.ssh/dbwebb.\r\n"
+    ],
+    [
+      0.000089,
+      "Your public key has been saved in /home/mos/.ssh/dbwebb.pub.\r\n"
+    ],
+    [
+      0.000004,
+      "The key fingerprint is:\r\n"
+    ],
+    [
+      0.000002,
+      "55:b0:2c:c5:13:09:83:e2:a4:38:8f:8e:c8:76:11:b4 mos@desktop\r\n"
+    ],
+    [
+      0.000003,
+      "The key's randomart image is:"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "+---[DSA 1024]----+"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "|       .oo++.    |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "|   .o .  ++o     |\r\n"
+    ],
+    [
+      0.000002,
+      "| ..+..  . +.     |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "|o .E.    o       |\r\n"
+    ],
+    [
+      0.000002,
+      "| +  .   S        |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "|. ..             |"
+    ],
+    [
+      0.000002,
+      "\r\n|=   .            |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "|o+ .             |"
+    ],
+    [
+      0.000002,
+      "\r\n|. .              |"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "+-----------------+\r\n"
+    ],
+    [
+      0.002135,
+      "I will now install the ssh-key at the remote server."
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "Press enter to continue..."
+    ],
+    [
+      1.197620,
+      "\r\n"
+    ],
+    [
+      0.635605,
+      "\u001b[1;37;40mDONE\u001b[0m to install the ssh-keys.\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      2.980170,
+      "d"
+    ],
+    [
+      0.063920,
+      "b"
+    ],
+    [
+      0.088065,
+      "w"
+    ],
+    [
+      0.039929,
+      "e"
+    ],
+    [
+      0.064004,
+      "b"
+    ],
+    [
+      0.144015,
+      "b"
+    ],
+    [
+      0.136165,
+      " "
+    ],
+    [
+      0.487936,
+      "l"
+    ],
+    [
+      0.183924,
+      "o"
+    ],
+    [
+      0.168042,
+      "g"
+    ],
+    [
+      0.072065,
+      "i"
+    ],
+    [
+      0.095961,
+      "n"
+    ],
+    [
+      0.288307,
+      "\r\n"
+    ],
+    [
+      0.014442,
+      "I will now login to the server 'ssh.student.bth.se' as 'mosstud' using ssh-keys if available.\r\n"
+    ],
+    [
+      0.000003,
+      "Press enter to continue..."
+    ],
+    [
+      0.673326,
+      "\r\n"
+    ],
+    [
+      0.611851,
+      "Linux seekers 3.2.0-4-686-pae #1 SMP Debian 3.2.68-1+deb7u1 i686\r\nLinux seekers 2.6.32-5-686 #1 SMP Fri May 10 08:33:48 UTC 2013 i686\r\n\r\nThe programs included with the Debian GNU/Linux system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nDebian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent\r\npermitted by applicable law.\r\n\r\n========================================================================\r\n\r\nThis is a server for:\r\n\r\nssh.student.bth.se\r\n\r\nsftp.student.bth.se\r\n\r\nnodejs1.student.bth.se\r\n\r\nIf you need help or have questions please contact IT Helpdesk.\r\n\r\n        http://www.bth.se/ithelpdesk\r\n\r\n//IT Department\r\n\r\nLast login: Tue May 19 11:42:17 2015 from lb-float-sk.net.bth.se\r\r\n"
+    ],
+    [
+      0.057295,
+      "seekers~: "
+    ],
+    [
+      2.406190,
+      "e"
+    ],
+    [
+      0.238296,
+      "x"
+    ],
+    [
+      0.131291,
+      "i"
+    ],
+    [
+      0.140231,
+      "t"
+    ],
+    [
+      0.139599,
+      "\r\r\nlogout\r\n"
+    ],
+    [
+      0.003967,
+      "Connection to ssh.student.bth.se closed.\r\r\n"
+    ],
+    [
+      0.000365,
+      "\u001b[1;37;40mDONE\u001b[0m to establish the connection.\r\n"
+    ],
+    [
+      0.000124,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      5.695309,
+      "d"
+    ],
+    [
+      0.087392,
+      "b"
+    ],
+    [
+      0.136414,
+      "w"
+    ],
+    [
+      0.015826,
+      "e"
+    ],
+    [
+      0.048013,
+      "b"
+    ],
+    [
+      0.167912,
+      "b"
+    ],
+    [
+      0.240068,
+      " "
+    ],
+    [
+      0.967892,
+      "c"
+    ],
+    [
+      0.055849,
+      "l"
+    ],
+    [
+      0.192061,
+      "o"
+    ],
+    [
+      0.191975,
+      "n"
+    ],
+    [
+      0.135923,
+      "e"
+    ],
+    [
+      0.111984,
+      " "
+    ],
+    [
+      0.384121,
+      "h"
+    ],
+    [
+      0.127937,
+      "t"
+    ],
+    [
+      0.144013,
+      "m"
+    ],
+    [
+      0.079959,
+      "l"
+    ],
+    [
+      0.296168,
+      "p"
+    ],
+    [
+      0.136300,
+      "h"
+    ],
+    [
+      0.079806,
+      "p"
+    ],
+    [
+      0.688171,
+      "\r\n"
+    ],
+    [
+      0.010780,
+      "Cloning course-repo for 'htmlphp' from 'https://github.com/mosbth/htmlphp'.\r\nPress enter to continue..."
+    ],
+    [
+      1.100997,
+      "\r\n"
+    ],
+    [
+      0.010354,
+      "Cloning into 'htmlphp'...\r\n"
+    ],
+    [
+      0.820593,
+      "remote: Counting objects: 246, done.\u001b[K\r\nremote: Compressing objects:   7% (1/13)   \u001b[K\rremote: Compressing objects:  15% (2/13)   \u001b[K\r"
+    ],
+    [
+      0.001475,
+      "remote: Compressing objects:  23% (3/13)   \u001b[K\rremote: Compressing objects:  30% (4/13)   \u001b[K\rremote: Compressing objects:  38% (5/13)   \u001b[K\rremote: Compressing objects:  46% (6/13)   \u001b[K\rremote: Compressing objects:  53% (7/13)   \u001b[K\rremote: Compressing objects:  61% (8/13)   \u001b[K\rremote: Compressing objects:  69% (9/13)   \u001b[K\rremote: Compressing objects:  76% (10/13)   \u001b[K\r"
+    ],
+    [
+      0.000003,
+      "remote: Compressing objects:  84% (11/13)   \u001b[K\rremote: Compressing objects:  92% (12/13)   \u001b[K\rremote: Compressing objects: 100% (13/13)   \u001b[K\rremote: Compressing objects: 100% (13/13), done.\u001b[K"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.109439,
+      "Receiving objects:   0% (1/246)   \r"
+    ],
+    [
+      0.000012,
+      "Receiving objects:   1% (3/246)   \r"
+    ],
+    [
+      0.000038,
+      "Receiving objects:   2% (5/246)   \r"
+    ],
+    [
+      0.000064,
+      "Receiving objects:   3% (8/246)   \r"
+    ],
+    [
+      0.000022,
+      "Receiving objects:   4% (10/246)   \r"
+    ],
+    [
+      0.000047,
+      "Receiving objects:   5% (13/246)   \r"
+    ],
+    [
+      0.000008,
+      "Receiving objects:   6% (15/246)   \r"
+    ],
+    [
+      0.000061,
+      "Receiving objects:   7% (18/246)   \r"
+    ],
+    [
+      0.000010,
+      "Receiving objects:   8% (20/246)   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:   9% (23/246)   \r"
+    ],
+    [
+      0.000051,
+      "Receiving objects:  10% (25/246)   \r"
+    ],
+    [
+      0.000043,
+      "Receiving objects:  11% (28/246)   \r"
+    ],
+    [
+      0.000030,
+      "Receiving objects:  12% (30/246)   \r"
+    ],
+    [
+      0.000030,
+      "Receiving objects:  13% (32/246)   \r"
+    ],
+    [
+      0.000039,
+      "Receiving objects:  14% (35/246)   \r"
+    ],
+    [
+      0.000030,
+      "Receiving objects:  15% (37/246)   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:  16% (40/246)   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects:  17% (42/246)   \r"
+    ],
+    [
+      0.000037,
+      "Receiving objects:  18% (45/246)   \r"
+    ],
+    [
+      0.000027,
+      "Receiving objects:  19% (47/246)   \r"
+    ],
+    [
+      0.003746,
+      "Receiving objects:  20% (50/246)   \r"
+    ],
+    [
+      0.000002,
+      "Receiving objects:  21% (52/246)   \r"
+    ],
+    [
+      0.000051,
+      "Receiving objects:  22% (55/246)   \rReceiving objects:  23% (57/246)   \r"
+    ],
+    [
+      0.000045,
+      "Receiving objects:  24% (60/246)   \rReceiving objects:  25% (62/246)   \r"
+    ],
+    [
+      0.000002,
+      "Receiving objects:  26% (64/246)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  27% (67/246)   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects:  28% (69/246)   \r"
+    ],
+    [
+      0.000030,
+      "Receiving objects:  29% (72/246)   \r"
+    ],
+    [
+      0.000027,
+      "Receiving objects:  30% (74/246)   \rReceiving objects:  31% (77/246)   \rReceiving objects:  32% (79/246)   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:  33% (82/246)   \r"
+    ],
+    [
+      0.000003,
+      "Receiving objects:  34% (84/246)   \r"
+    ],
+    [
+      0.000050,
+      "Receiving objects:  35% (87/246)   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  36% (89/246)   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:  37% (92/246)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  38% (94/246)   \r"
+    ],
+    [
+      0.106803,
+      "Receiving objects:  39% (96/246)   \r"
+    ],
+    [
+      0.015219,
+      "Receiving objects:  40% (99/246)   \rReceiving objects:  41% (101/246)   \r"
+    ],
+    [
+      0.000002,
+      "Receiving objects:  42% (104/246)   \r"
+    ],
+    [
+      0.000079,
+      "Receiving objects:  43% (106/246)   \rReceiving objects:  44% (109/246)   \r"
+    ],
+    [
+      0.000042,
+      "Receiving objects:  45% (111/246)   \r"
+    ],
+    [
+      0.000012,
+      "Receiving objects:  46% (114/246)   \r"
+    ],
+    [
+      0.004866,
+      "Receiving objects:  47% (116/246)   \r"
+    ],
+    [
+      0.270694,
+      "Receiving objects:  48% (119/246)   \r"
+    ],
+    [
+      0.000004,
+      "Receiving objects:  49% (121/246)   \r"
+    ],
+    [
+      0.004905,
+      "Receiving objects:  50% (123/246)   \r"
+    ],
+    [
+      0.000002,
+      "Receiving objects:  51% (126/246)   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  52% (128/246)   \r"
+    ],
+    [
+      0.000041,
+      "Receiving objects:  53% (131/246)   \r"
+    ],
+    [
+      0.000026,
+      "Receiving objects:  54% (133/246)   \r"
+    ],
+    [
+      0.000036,
+      "Receiving objects:  55% (136/246)   \r"
+    ],
+    [
+      0.000047,
+      "Receiving objects:  56% (138/246)   \r"
+    ],
+    [
+      0.000043,
+      "Receiving objects:  57% (141/246)   \r"
+    ],
+    [
+      0.000004,
+      "Receiving objects:  58% (143/246)   \r"
+    ],
+    [
+      0.000007,
+      "Receiving objects:  59% (146/246)   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  60% (148/246)   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects:  61% (151/246)   \r"
+    ],
+    [
+      0.000004,
+      "Receiving objects:  62% (153/246)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  63% (155/246)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  64% (158/246)   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  65% (160/246)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  66% (163/246)   \r"
+    ],
+    [
+      0.000014,
+      "Receiving objects:  67% (165/246)   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  68% (168/246)   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  69% (170/246)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  70% (173/246)   \r"
+    ],
+    [
+      0.000005,
+      "Receiving objects:  71% (175/246)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  72% (178/246)   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  73% (180/246)   \r"
+    ],
+    [
+      0.000006,
+      "Receiving objects:  74% (183/246)   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  75% (185/246)   \r"
+    ],
+    [
+      0.000012,
+      "Receiving objects:  76% (187/246)   \r"
+    ],
+    [
+      0.000026,
+      "Receiving objects:  77% (190/246)   \r"
+    ],
+    [
+      0.001843,
+      "remote: Total 246 (delta 0), reused 0 (delta 0), pack-reused 233\u001b[K\r\nReceiving objects:  78% (192/246)   \rReceiving objects:  79% (195/246)   \rReceiving objects:  80% (197/246)   \rReceiving objects:  81% (200/246)   \rReceiving objects:  82% (202/246)   \rReceiving objects:  83% (205/246)   \rReceiving objects:  84% (207/246)   \rReceiving objects:  85% (210/246)   \rReceiving objects:  86% (212/246)   \rReceiving objects:  87% (215/246)   \rReceiving objects:  88% (217/246)   \rReceiving objects:  89% (219/246)   \rReceiving objects:  90% (222/246)   \rReceiving objects:  91% (224/246)   \rReceiving objects:  92% (227/246)   \rReceiving objects:  93% (229/246)   \r"
+    ],
+    [
+      0.000002,
+      "Receiving objects:  94% (232/246)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  95% (234/246)   \r"
+    ],
+    [
+      0.000037,
+      "Receiving objects:  96% (237/246)   \r"
+    ],
+    [
+      0.000039,
+      "Receiving objects:  97% (239/246)   \r"
+    ],
+    [
+      0.000064,
+      "Receiving objects:  98% (242/246)   \r"
+    ],
+    [
+      0.000013,
+      "Receiving objects:  99% (244/246)   \r"
+    ],
+    [
+      0.000025,
+      "Receiving objects: 100% (246/246)   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects: 100% (246/246), 348.99 KiB | 0 bytes/s, done."
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000257,
+      "Resolving deltas:   0% (0/116)   \r"
+    ],
+    [
+      0.000084,
+      "Resolving deltas:   1% (2/116)   \r"
+    ],
+    [
+      0.000012,
+      "Resolving deltas:   2% (3/116)   \r"
+    ],
+    [
+      0.000092,
+      "Resolving deltas:  12% (15/116)   \r"
+    ],
+    [
+      0.000006,
+      "Resolving deltas:  13% (16/116)   \r"
+    ],
+    [
+      0.000048,
+      "Resolving deltas:  18% (21/116)   \r"
+    ],
+    [
+      0.000080,
+      "Resolving deltas:  29% (34/116)   \r"
+    ],
+    [
+      0.000054,
+      "Resolving deltas:  37% (43/116)   \r"
+    ],
+    [
+      0.000137,
+      "Resolving deltas:  57% (67/116)   \r"
+    ],
+    [
+      0.000049,
+      "Resolving deltas:  64% (75/116)   \r"
+    ],
+    [
+      0.000001,
+      "Resolving deltas:  65% (76/116)   \r"
+    ],
+    [
+      0.000013,
+      "Resolving deltas:  66% (77/116)   \r"
+    ],
+    [
+      0.000061,
+      "Resolving deltas:  75% (87/116)   \r"
+    ],
+    [
+      0.000021,
+      "Resolving deltas:  78% (91/116)   \r"
+    ],
+    [
+      0.000009,
+      "Resolving deltas:  79% (92/116)   \r"
+    ],
+    [
+      0.000002,
+      "Resolving deltas:  80% (93/116)   \r"
+    ],
+    [
+      0.000025,
+      "Resolving deltas:  83% (97/116)   \r"
+    ],
+    [
+      0.000017,
+      "Resolving deltas:  86% (100/116)   \r"
+    ],
+    [
+      0.000005,
+      "Resolving deltas:  87% (101/116)   \r"
+    ],
+    [
+      0.000018,
+      "Resolving deltas:  89% (104/116)   \r"
+    ],
+    [
+      0.000007,
+      "Resolving deltas:  90% (105/116)   \r"
+    ],
+    [
+      0.000006,
+      "Resolving deltas:  91% (106/116)   \r"
+    ],
+    [
+      0.000008,
+      "Resolving deltas:  92% (107/116)   \r"
+    ],
+    [
+      0.000068,
+      "Resolving deltas: 100% (116/116)   \r"
+    ],
+    [
+      0.000006,
+      "Resolving deltas: 100% (116/116), done."
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.008576,
+      "Checking connectivity... "
+    ],
+    [
+      0.001314,
+      "done.\r\n"
+    ],
+    [
+      0.005743,
+      "\u001b[1;37;40mDONE\u001b[0m to clone course repo.\r\n"
+    ],
+    [
+      0.000067,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      1.143350,
+      "l"
+    ],
+    [
+      0.119951,
+      "s"
+    ],
+    [
+      0.096098,
+      " "
+    ],
+    [
+      0.247930,
+      "h"
+    ],
+    [
+      0.151979,
+      "t"
+    ],
+    [
+      0.104044,
+      "m"
+    ],
+    [
+      0.087930,
+      "l"
+    ],
+    [
+      0.256132,
+      "p"
+    ],
+    [
+      0.136367,
+      "h"
+    ],
+    [
+      0.087825,
+      "p"
+    ],
+    [
+      0.289197,
+      "\r\n"
+    ],
+    [
+      0.002709,
+      "LICENSE  README.md  TODO.md  example/  tutorial/\r\n"
+    ],
+    [
+      0.000584,
+      "\u001b[32mdesktop\u001b[37m:~$\u001b(B\u001b[m "
+    ],
+    [
+      5.035850,
+      "c"
+    ],
+    [
+      0.103567,
+      "d"
+    ],
+    [
+      0.216263,
+      " "
+    ],
+    [
+      1.472182,
+      "h"
+    ],
+    [
+      0.150763,
+      "t"
+    ],
+    [
+      0.172362,
+      "\u0007"
+    ],
+    [
+      1.092459,
+      "m"
+    ],
+    [
+      0.087800,
+      "l"
+    ],
+    [
+      0.304012,
+      "p"
+    ],
+    [
+      0.111963,
+      "h"
+    ],
+    [
+      0.087969,
+      "p"
+    ],
+    [
+      0.186109,
+      "/"
+    ],
+    [
+      0.822235,
+      "\r\n\u001b[32mdesktop\u001b[37m:~/htmlphp$\u001b(B\u001b[m "
+    ],
+    [
+      0.871857,
+      "d"
+    ],
+    [
+      0.135800,
+      "b"
+    ],
+    [
+      0.216056,
+      "e"
+    ],
+    [
+      0.031933,
+      "b"
+    ],
+    [
+      0.648416,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143735,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.753007,
+      "w"
+    ],
+    [
+      0.087169,
+      "e"
+    ],
+    [
+      0.176093,
+      "b"
+    ],
+    [
+      0.135675,
+      "b"
+    ],
+    [
+      0.184420,
+      " "
+    ],
+    [
+      0.735651,
+      "i"
+    ],
+    [
+      0.143907,
+      "n"
+    ],
+    [
+      0.160056,
+      "i"
+    ],
+    [
+      0.328078,
+      "t"
+    ],
+    [
+      0.512074,
+      "\r\n"
+    ],
+    [
+      0.007804,
+      "Creating and initiating the directory 'me/' by copying directory structure and files from the directory '.default/' (will not overwrite existing files).\r\n"
+    ],
+    [
+      0.000002,
+      "Press enter to continue..."
+    ],
+    [
+      0.623965,
+      "\r\n"
+    ],
+    [
+      0.001823,
+      "sending incremental file list\r\n"
+    ],
+    [
+      0.000529,
+      "created directory /home/mos/htmlphp/me\r\n"
+    ],
+    [
+      0.000156,
+      "./\r\n"
+    ],
+    [
+      0.000160,
+      "kmom01/\r\n"
+    ],
+    [
+      0.000031,
+      "kmom01/me/\r\nkmom01/me1/\r\nkmom02/\r\nkmom02/lab1/\r\nkmom02/me2/\r\n"
+    ],
+    [
+      0.000002,
+      "kmom03/\r\nkmom03/lab2/\r\n"
+    ],
+    [
+      0.000001,
+      "kmom03/multi/"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "kmom04/\r\nkmom04/lab3/\r\nkmom05/\r\nkmom05/lab4/\r\n"
+    ],
+    [
+      0.000001,
+      "kmom06/\r\n"
+    ],
+    [
+      0.000020,
+      "kmom06/lab5/\r\nkmom10/\r\nredovisa/\r\n"
+    ],
+    [
+      0.040517,
+      "\r\nsent 460 bytes  received 130 bytes  1,180.00 bytes/sec\r\ntotal size is 0  speedup is 0.00\r\n"
+    ],
+    [
+      0.000323,
+      "\u001b[1;37;40mDONE\u001b[0m to init the directory 'me/'.\r\nIntiating the remote server 'ssh.student.bth.se' by connecting as 'mosstud' and creating directories (if needed) where all uploaded files will reside.\r\nPress enter to continue..."
+    ],
+    [
+      1.468476,
+      "\r\n"
+    ],
+    [
+      0.506383,
+      "\r\ndbwebb-kurser:\r\n"
+    ],
+    [
+      0.012237,
+      "total 20\r\ndrwxr-xr-x 6 mosstud 500 4096 May 20 14:57 htmlphp/\r\ndrwxr-sr-x 4 mosstud 500 4096 Mar 22 20:29 inspect/\r\ndrwxr-xr-x 6 mosstud 500 4096 Mar 24 09:58 javascript1/\r\ndrwxr-xr-x 7 mosstud 500 4096 Jan 21 17:23 p/\r\ndrwxr-xr-x 9 mosstud 500 4096 May 27 12:28 python/\r\n"
+    ],
+    [
+      0.007691,
+      "\r\nwww/dbwebb-kurser:\r\n"
+    ],
+    [
+      0.014039,
+      "total 24\r\ndrwxr-xr-x 6 mosstud           500 4096 May 20 14:57 htmlphp/\r\ndrwxr-xr-x 4 mosstud           500 4096 Aug 25  2014 javascript1/\r\n-rwxr-xr-x 1 mosstud           500 1714 Sep  8  2014 me.cgi*\r\n-rwxr-xr-x 1 mosstud           500 1170 Sep  8  2014 plane1.cgi*\r\ndrwxr-xr-x 4 mosstud           500 4096 Aug 21  2014 python/\r\ndrwxr-xr-x 3 mosstud dbwebb-kurser 4096 Apr 13 20:09 stud/\r\n"
+    ],
+    [
+      0.000516,
+      "\u001b[1;37;40mDONE\u001b[0m to init the server.\r\n"
+    ],
+    [
+      0.000109,
+      "\u001b[32mdesktop\u001b[37m:~/htmlphp$\u001b(B\u001b[m "
+    ],
+    [
+      8.363198,
+      "d"
+    ],
+    [
+      0.079777,
+      "b"
+    ],
+    [
+      0.111986,
+      "w"
+    ],
+    [
+      0.079984,
+      "e"
+    ],
+    [
+      0.088017,
+      "b"
+    ],
+    [
+      0.160115,
+      "b"
+    ],
+    [
+      0.247957,
+      " "
+    ],
+    [
+      0.304028,
+      "g"
+    ],
+    [
+      0.103947,
+      "i"
+    ],
+    [
+      0.128044,
+      "t"
+    ],
+    [
+      0.768181,
+      "h"
+    ],
+    [
+      0.063798,
+      "u"
+    ],
+    [
+      0.216033,
+      "b"
+    ],
+    [
+      0.135969,
+      " "
+    ],
+    [
+      0.327986,
+      "h"
+    ],
+    [
+      0.112028,
+      "t"
+    ],
+    [
+      0.159942,
+      "m"
+    ],
+    [
+      0.104027,
+      "l"
+    ],
+    [
+      0.248009,
+      "p"
+    ],
+    [
+      0.112039,
+      "h"
+    ],
+    [
+      0.119908,
+      "p"
+    ],
+    [
+      0.360290,
+      "\r\n"
+    ],
+    [
+      0.008200,
+      "The course repo 'htmlphp' exists on GitHub:\r\n"
+    ],
+    [
+      0.000290,
+      "Repo:   https://github.com/mosbth/htmlphp\r\n"
+    ],
+    [
+      0.000289,
+      "Issues: https://github.com/mosbth/htmlphp/issues\r\n"
+    ],
+    [
+      0.000201,
+      "\u001b[32mdesktop\u001b[37m:~/htmlphp$\u001b(B\u001b[m "
+    ],
+    [
+      4.822815,
+      "dbwebb github htmlphp"
+    ],
+    [
+      0.360022,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.168218,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.176284,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143975,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.193251,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.166224,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.176138,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.760996,
+      "\r\n"
+    ],
+    [
+      0.014871,
+      "Available course repos are: python,javascript1,linux,webapp,htmlphp,webgl\r\nUsage: dbwebb github [course repo]\r\n\r\nThe repo 'dbwebb-cli' exists on GitHub.\r\nRepo:   https://github.com/mosbth/dbwebb-cli\r\nIssues: https://github.com/mosbth/dbwebb-cli/issues"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000310,
+      "\u001b[32mdesktop\u001b[37m:~/htmlphp$\u001b(B\u001b[m "
+    ],
+    [
+      9.440264,
+      "exit\r\n"
+    ]
+  ]
+}
