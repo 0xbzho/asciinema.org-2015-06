@@ -1,0 +1,650 @@
+{
+  "version": 1,
+  "width": 158,
+  "height": 44,
+  "duration": 41.023360,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.277488,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000174,
+      "\u001b]2;thiagochiarato@MacBook-Pro-de-Thiago: ~/Development/ruby on rails/pocs/failover\u0007"
+    ],
+    [
+      0.000053,
+      "\u001b]1;..pocs/failover\u0007"
+    ],
+    [
+      0.138592,
+      "t"
+    ],
+    [
+      0.022195,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[39m\u001b[0m\u001b[49m\u001b[47m\u001b[30m 00:02:02 \u001b[44m\u001b[37m\u001b[37m ...ruby on rails/pocs/failover \u001b[47m\u001b[34m\u001b[30m  master ✔ \u001b[49m\u001b[37m\u001b[39m\r\n\u001b[01;39m\u001b[32m$\u001b[39m \u001b[00m"
+    ],
+    [
+      0.000077,
+      "\u001b[K"
+    ],
+    [
+      0.000236,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001422,
+      "t"
+    ],
+    [
+      0.136216,
+      "\u0008tm"
+    ],
+    [
+      0.247460,
+      "u"
+    ],
+    [
+      0.151978,
+      "x"
+    ],
+    [
+      0.271982,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000097,
+      "\r\r\n"
+    ],
+    [
+      0.000834,
+      "\u001b]2;tmux\u0007"
+    ],
+    [
+      0.000007,
+      "\u001b]1;tmux\u0007"
+    ],
+    [
+      0.008264,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[38;5;232m\u001b[48;5;154m 3 \u001b[38;5;154m\u001b[48;5;235m\u001b[38;5;235m\u001b[48;5;238m\u001b[38;5;222m 1  zsh \u001b[38;5;238m\u001b[48;5;235m\u001b[38;5;248m                                                                                                  \u001b[38;5;238m\u001b[38;5;222m\u001b[48;5;238m 2015-06-10  00:02 \u001b[38;5;154m\u001b[38;5;232m\u001b[48;5;154m MacBook-Pro-de-Thiago \u001b(B\u001b[m\u001b[44;1H\u001b[1;44r\u001b[H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.278095,
+      "\u001b[1;43r\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                                             \u001b[1;1H \u001b[1;44r\u001b[H"
+    ],
+    [
+      0.000793,
+      "\u001b[?25l\u001b[44d\u001b[38;5;232m\u001b[48;5;154m 3 \u001b[38;5;154m\u001b[48;5;235m\u001b[38;5;235m\u001b[48;5;238m\u001b[38;5;222m 1  ..pocs/failover \u001b[38;5;238m\u001b[48;5;235m\u001b[38;5;248m                                                                                      \u001b[38;5;238m\u001b[38;5;222m\u001b[48;5;238m 2015-06-10  00:02 \u001b[38;5;154m\u001b[38;5;232m\u001b[48;5;154m MacBook-Pro-de-Thiago \u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.179632,
+      "\u001b[1;43r\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[2d\u001b[30m\u001b[47m 00:02:03 \u001b[37m\u001b[44m ...ruby on rails/pocs/failover \u001b[34m\u001b[47m\u001b[30m  master ✔ \u001b[49m\u001b[37m\r\n\u001b[32m\u001b[1m$\u001b[39m \u001b(B\u001b[m\u001b[K\u001b[1;44r\u001b[H\u001b[3;3H"
+    ],
+    [
+      0.000016,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.949309,
+      "\u001b[1;43r\u001b[H\u001b[3;3Hr\u001b[1;44r\u001b[H\u001b[3;4H"
+    ],
+    [
+      0.247177,
+      "\u001b[1;43r\u001b[H\u001b[3;3Hru\u001b[1;44r\u001b[H\u001b[3;5H"
+    ],
+    [
+      0.176201,
+      "\u001b[1;43r\u001b[H\u001b[3;5Hb\u001b[1;44r\u001b[H\u001b[3;6H"
+    ],
+    [
+      0.151764,
+      "\u001b[1;43r\u001b[H\u001b[3;6Hy\u001b[1;44r\u001b[H\u001b[3;7H"
+    ],
+    [
+      0.176241,
+      "\u001b[1;43r\u001b[H\u001b[3;7H \u001b[1;44r\u001b[H\u001b[3;8H"
+    ],
+    [
+      0.407714,
+      "\u001b[1;43r\u001b[H\u001b[3;8Hf\u001b[1;44r\u001b[H\u001b[3;9H"
+    ],
+    [
+      0.104132,
+      "\u001b[1;43r\u001b[H\u001b[3;9Ha\u001b[1;44r\u001b[H\u001b[3;10H"
+    ],
+    [
+      0.207892,
+      "\u001b[1;43r\u001b[H\u001b[3;10Hi\u001b[1;44r\u001b[H\u001b[3;11H"
+    ],
+    [
+      0.087966,
+      "\u001b[1;43r\u001b[H\u001b[3;11Hl\u001b[1;44r\u001b[H\u001b[3;12H"
+    ],
+    [
+      0.182544,
+      "\u001b[1;43r\u001b[H\u001b[3;12Hover.rb\u001b[1m \u001b[1;44r\u001b[H\u001b[3;20H\u001b(B\u001b[m"
+    ],
+    [
+      0.881407,
+      "\u001b[1;43r\u001b[H\u001b[3;19H \u001b[1;44r\u001b[H\u001b[3;19H"
+    ],
+    [
+      0.000009,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      0.001688,
+      "\u001b[?25l\u001b[44d\u001b[38;5;232m\u001b[48;5;154m 3 \u001b[38;5;154m\u001b[48;5;235m\u001b[38;5;235m\u001b[48;5;238m\u001b[38;5;222m 1  ruby \u001b[38;5;238m\u001b[48;5;235m\u001b[38;5;248m                                                                                                 \u001b[38;5;238m\u001b[38;5;222m\u001b[48;5;238m 2015-06-10  00:02 \u001b[38;5;154m\u001b[38;5;232m\u001b[48;5;154m MacBook-Pro-de-Thiago \u001b(B\u001b[m\u001b[4;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.986552,
+      "\u001b[1;43r\u001b[H\u001b[3BServers Up and Running: [\"localhost:27019\", \"localhost:27018\", \"localhost:27017\"]\u001b[1;44r\u001b[H\u001b[4B\u001b[1;43r\u001b[H\u001b[4BReading from server: localhost:27017"
+    ],
+    [
+      0.000012,
+      "\u001b[1;44r\u001b[H\u001b[5B"
+    ],
+    [
+      0.000131,
+      "\u001b[1;43r\u001b[H\u001b[5BUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250924341760 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\u001b[1;44r\u001b[H\u001b[6;100H"
+    ],
+    [
+      0.000121,
+      "\u001b[1;43r\u001b[H\u001b[6B----------------------------------------------------------------------------------------------------\u001b[1;44r\u001b[H\u001b[7B"
+    ],
+    [
+      0.942671,
+      "\u001b[38;5;238m\u001b[14B────────────────────────────────────────────────────────────────────────────────\u001b[38;5;154m──────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[K\r\n\u001b[30m\u001b[47m 00:02:03 \u001b[37m\u001b[44m ...ruby on rails/pocs/failover \u001b[34m\u001b[47m\u001b[30m  master ✔ \u001b[49m\u001b[37m\u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m$\u001b[39m \u001b(B\u001b[mruby failover.rb \u001b[K\r\nServers Up and Running: [\"localhost:27019\", \"localhost:27018\", \"localhost:27017\"]\u001b[K\r\nReading from server: localhost:27017\u001b[K\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250924341760 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\u001b[K\r\n----------------------------------------------------------------------------------------------------\u001b["
+    ],
+    [
+      0.000024,
+      "K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[38;5;232m\u001b[48;5;154m 3 \u001b[38;5;154m\u001b[48;5;235m\u001b[38;5;235m\u001b[48;5;238m\u001b[38;5;222m 1  ruby \u001b[38;5;238m\u001b[48;5;235m\u001b[38;5;248m                                                                                                 \u001b[38;5;238m\u001b[38;5;222m\u001b[48;5;238m 2015-06-10  00:02 \u001b[38;5;154m\u001b[38;5;232m\u001b[48;5;154m MacBook-Pro-de-Thiago \u001b(B\u001b[m\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.273466,
+      "\u001b[23;43r\u001b[H\u001b[23d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                                             \u001b[23;1H \u001b[1;44r\u001b[H\u001b[23d"
+    ],
+    [
+      0.000815,
+      "\u001b[?25l\u001b[44d\u001b[38;5;232m\u001b[48;5;154m 3 \u001b[38;5;154m\u001b[48;5;235m\u001b[38;5;235m\u001b[48;5;238m\u001b[38;5;222m 1  ..pocs/failover \u001b[38;5;238m\u001b[48;5;235m\u001b[38;5;248m                                                                                      \u001b[38;5;238m\u001b[38;5;222m\u001b[48;5;238m 2015-06-10  00:02 \u001b[38;5;154m\u001b[38;5;232m\u001b[48;5;154m MacBook-Pro-de-Thiago \u001b(B\u001b[m\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159247,
+      "\u001b[23;43r\u001b[H\u001b[23d\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[24d\u001b[30m\u001b[47m 00:02:09 \u001b[37m\u001b[44m ...ruby on rails/pocs/failover \u001b[34m\u001b[47m\u001b[30m  master ✔ \u001b[49m\u001b[37m\r\n\u001b[32m\u001b[1m$\u001b[39m \u001b(B\u001b[m\u001b[K\u001b[1;44r\u001b[H\u001b[25;3H"
+    ],
+    [
+      0.000011,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.531839,
+      "\u001b[23;43r\u001b[H\u001b[25;3Hm\u001b[1;44r\u001b[H\u001b[25;4H"
+    ],
+    [
+      0.223355,
+      "\u001b[23;43r\u001b[H\u001b[25;3Hmo\u001b[1;44r\u001b[H\u001b[25;5H"
+    ],
+    [
+      0.087960,
+      "\u001b[23;43r\u001b[H\u001b[25;5Hn\u001b[1;44r\u001b[H\u001b[25;6H"
+    ],
+    [
+      0.112157,
+      "\u001b[23;43r\u001b[H\u001b[25;6Hg\u001b[1;44r\u001b[H\u001b[25;7H"
+    ],
+    [
+      0.111881,
+      "\u001b[23;43r\u001b[H\u001b[25;7Ho\u001b[1;44r\u001b[H\u001b[25;8H"
+    ],
+    [
+      0.561416,
+      "\u001b[1;21r\u001b[H\u001b[7BServers Up and Running: [\"localhost:27019\", \"localhost:27018\", \"localhost:27017\"]\u001b[1;44r\u001b[H\u001b[25;8H"
+    ],
+    [
+      0.000207,
+      "\u001b[1;21r\u001b[H\u001b[8BReading from server: localhost:27017\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250924336300 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\r\n----------------------------------------------------------------------------------------------------\u001b[1;44r\u001b[H\u001b[25;8H"
+    ],
+    [
+      0.422919,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000200,
+      "\r\n"
+    ],
+    [
+      0.002323,
+      "\u001b[?25l\u001b[44d\u001b[38;5;232m\u001b[48;5;154m 3 \u001b[38;5;154m\u001b[48;5;235m\u001b[38;5;235m\u001b[48;5;238m\u001b[38;5;222m 1  mongo \u001b[38;5;238m\u001b[48;5;235m\u001b[38;5;248m                                                                                                \u001b[38;5;238m\u001b[38;5;222m\u001b[48;5;238m 2015-06-10  00:02 \u001b[38;5;154m\u001b[38;5;232m\u001b[48;5;154m MacBook-Pro-de-Thiago \u001b(B\u001b[m\u001b[26;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.019192,
+      "\u001b[23;43r\u001b[H\u001b[26dMongoDB shell version: 3.0.0\u001b[1;44r\u001b[H\u001b[27d"
+    ],
+    [
+      0.041430,
+      "\u001b[23;43r\u001b[H\u001b[27dconnecting to: test\u001b[1;44r\u001b[H\u001b[28d"
+    ],
+    [
+      0.001295,
+      "\u001b[23;43r\u001b[H\u001b[28dWelcome to the MongoDB shell.\r\nFor interactive help, type \"help\".\r\nFor more comprehensive documentation, see\u001b[31;9Hhttp://docs.mongodb.org/\r\nQuestions? Try the support group\u001b[1;44r\u001b[H\u001b[33d"
+    ],
+    [
+      0.000056,
+      "\u001b[23;43r\u001b[H\u001b[33;9Hhttp://groups.google.com/group/mongodb-user\u001b[1;44r\u001b[H\u001b[34d"
+    ],
+    [
+      0.000281,
+      "\u001b[23;43r\u001b[H\u001b[34d2015-06-10T00:02:11.394-0300 I STORAGE  In File::open(), ::open for '/Users/thiagochiarato/.mongorc.js' failed with errno:2 No such file or directory\u001b[1;44r\u001b[H\u001b[35d"
+    ],
+    [
+      0.002334,
+      "\u001b[23;43r\u001b[H\u001b[35dServer has startup warnings: \u001b[1;44r\u001b[H\u001b[36d\u001b[23;43r\u001b[H\u001b[36d2015-06-09T23:58:17.695-0300 I CONTROL  [initandlisten] ** WARNING: You are running this process as the root user, which is not recommended.\r\n2015-06-09T23:58:17.697-0300 I CONTROL  [initandlisten] "
+    ],
+    [
+      0.000011,
+      "\u001b[1;44r\u001b[H\u001b[38d"
+    ],
+    [
+      0.002202,
+      "\u001b[23;43r\u001b[H\u001b[38dreplica_set:PRIMARY\u003e \u001b[1;44r\u001b[H\u001b[38;22H"
+    ],
+    [
+      1.578027,
+      "\u001b[23;43r\u001b[H\u001b[38;22Hu\u001b[1;44r\u001b[H\u001b[38;23H"
+    ],
+    [
+      0.167966,
+      "\u001b[23;43r\u001b[H\u001b[38;23Hs\u001b[1;44r\u001b[H\u001b[38;24H"
+    ],
+    [
+      0.192001,
+      "\u001b[23;43r\u001b[H\u001b[38;24He\u001b[1;44r\u001b[H\u001b[38;25H"
+    ],
+    [
+      0.224037,
+      "\u001b[23;43r\u001b[H\u001b[38;25H \u001b[1;44r\u001b[H\u001b[38;26H"
+    ],
+    [
+      0.104044,
+      "\u001b[23;43r\u001b[H\u001b[38;26Ha\u001b[1;44r\u001b[H\u001b[38;27H"
+    ],
+    [
+      0.127966,
+      "\u001b[23;43r\u001b[H\u001b[38;27Hd\u001b[1;44r\u001b[H\u001b[38;28H"
+    ],
+    [
+      0.112111,
+      "\u001b[23;43r\u001b[H\u001b[38;28Hm\u001b[1;44r\u001b[H\u001b[38;29H"
+    ],
+    [
+      0.003954,
+      "\u001b[1;21r\u001b[H\u001b[12dServers Up and Running: [\"localhost:27019\", \"localhost:27018\", \"localhost:27017\"]\u001b[1;44r\u001b[H\u001b[38;29H"
+    ],
+    [
+      0.000217,
+      "\u001b[1;21r\u001b[H\u001b[13dReading from server: localhost:27017\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250928369600 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\r\n----------------------------------------------------------------------------------------------------\u001b[1;44r\u001b[H\u001b[38;29H"
+    ],
+    [
+      0.187649,
+      "\u001b[23;43r\u001b[H\u001b[38;29Hi\u001b[1;44r\u001b[H\u001b[38;30H"
+    ],
+    [
+      0.088081,
+      "\u001b[23;43r\u001b[H\u001b[38;30Hn\u001b[1;44r\u001b[H\u001b[38;31H"
+    ],
+    [
+      0.688016,
+      "\u001b[23;43r\u001b[H\u001b[38;22H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[38;22Huse admin\u001b[1;44r\u001b[H\u001b[38;31H"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000459,
+      "\u001b[23;43r\u001b[H\u001b[39dswitched to db admin\u001b[1;44r\u001b[H\u001b[40d"
+    ],
+    [
+      0.000863,
+      "\u001b[23;43r\u001b[H\u001b[40dreplica_set:PRIMARY\u003e \u001b[1;44r\u001b[H\u001b[40;22H"
+    ],
+    [
+      0.838546,
+      "\u001b[23;43r\u001b[H\u001b[40;22Hd\u001b[1;44r\u001b[H\u001b[40;23H"
+    ],
+    [
+      0.200063,
+      "\u001b[23;43r\u001b[H\u001b[40;23Hb\u001b[1;44r\u001b[H\u001b[40;24H"
+    ],
+    [
+      0.480031,
+      "\u001b[23;43r\u001b[H\u001b[40;24H.\u001b[1;44r\u001b[H\u001b[40;25H"
+    ],
+    [
+      0.255970,
+      "\u001b[23;43r\u001b[H\u001b[40;25Hs\u001b[1;44r\u001b[H\u001b[40;26H"
+    ],
+    [
+      0.167987,
+      "\u001b[23;43r\u001b[H\u001b[40;26Hh\u001b[1;44r\u001b[H\u001b[40;27H"
+    ],
+    [
+      0.097960,
+      "\u001b[1;21r\u001b[H\u001b[16dServers Up and Running: [\"localhost:27019\", \"localhost:27018\", \"localhost:27017\"]\u001b[1;44r\u001b[H\u001b[40;27H"
+    ],
+    [
+      0.000278,
+      "\u001b[1;21r\u001b[H\u001b[17dReading from server: localhost:27017\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250928388820 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\r\n----------------------------------------------------------------------------------------------------\u001b[1;44r\u001b[H\u001b[40;27H"
+    ],
+    [
+      0.661775,
+      "\u001b[23;43r\u001b[H\u001b[40;27Hu\u001b[1;44r\u001b[H\u001b[40;28H"
+    ],
+    [
+      0.856035,
+      "\u001b[23;43r\u001b[H\u001b[40;28Ht\u001b[1;44r\u001b[H\u001b[40;29H"
+    ],
+    [
+      0.303942,
+      "\u001b[23;43r\u001b[H\u001b[40;29Hd\u001b[1;44r\u001b[H\u001b[40;30H"
+    ],
+    [
+      0.152009,
+      "\u001b[23;43r\u001b[H\u001b[40;30Ho\u001b[1;44r\u001b[H\u001b[40;31H"
+    ],
+    [
+      1.027571,
+      "\u001b[1;21r\u001b[H\u001b[20dServers Up and Running: [\"localhost:27019\", \"localhost:27018\", \"localhost:27017\"]\u001b[1;44r\u001b[H\u001b[40;31H"
+    ],
+    [
+      0.000222,
+      "\u001b[1;21r\u001b[H\u001b[21dReading from server: localhost:27017\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250934858280 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\r\n----------------------------------------------------------------------------------------------------\r\n\u001b[1;44r\u001b[H\u001b[40;31H"
+    ],
+    [
+      1.292301,
+      "\u001b[23;43r\u001b[H\u001b[40;31Hw\u001b[1;44r\u001b[H\u001b[40;32H"
+    ],
+    [
+      0.104098,
+      "\u001b[23;43r\u001b[H\u001b[40;32Hn\u001b[1;44r\u001b[H\u001b[40;33H"
+    ],
+    [
+      0.424469,
+      "\u001b[23;43r\u001b[H\u001b[40;33HS\u001b[1;44r\u001b[H\u001b[40;34H"
+    ],
+    [
+      0.215455,
+      "\u001b[23;43r\u001b[H\u001b[40;34He\u001b[1;44r\u001b[H\u001b[40;35H"
+    ],
+    [
+      0.112095,
+      "\u001b[23;43r\u001b[H\u001b[40;35Hr\u001b[1;44r\u001b[H\u001b[40;36H"
+    ],
+    [
+      0.231799,
+      "\u001b[23;43r\u001b[H\u001b[40;36Hv\u001b[1;44r\u001b[H\u001b[40;37H"
+    ],
+    [
+      0.135972,
+      "\u001b[23;43r\u001b[H\u001b[40;37He\u001b[1;44r\u001b[H\u001b[40;38H"
+    ],
+    [
+      0.104440,
+      "\u001b[23;43r\u001b[H\u001b[40;38Hr\u001b[1;44r\u001b[H\u001b[40;39H"
+    ],
+    [
+      0.359579,
+      "\u001b[23;43r\u001b[H\u001b[40;39H(\u001b[1;44r\u001b[H\u001b[40;40H"
+    ],
+    [
+      0.024442,
+      "\u001b[1;21r\u001b[H\u001b[21dServers Up and Running: [\"localhost:27019\", \"localhost:27018\", \"localhost:27017\"]\r\n\u001b[1;44r\u001b[H\u001b[40;40H\u001b[1;21r\u001b[H\u001b[21dReading from server: localhost:27017\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250928405820 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\r\n----------------------------------------------------------------------------------------------------\r\n"
+    ],
+    [
+      0.000011,
+      "\u001b[1;44r\u001b[H\u001b[40;40H"
+    ],
+    [
+      0.079693,
+      "\u001b[23;43r\u001b[H\u001b[40;40H)\u001b[1;44r\u001b[H\u001b[40;41H"
+    ],
+    [
+      1.175819,
+      "\u001b[23;43r\u001b[H\u001b[40;22H\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[40;22Hdb.shutdownServer()\u001b[1;44r\u001b[H\u001b[40;41H"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.066657,
+      "\u001b[23;43r\u001b[H\u001b[41d2015-06-10T00:02:24.243-0300 I NETWORK  DBClientCursor::init call() failed\u001b[1;44r\u001b[H\u001b[42d"
+    ],
+    [
+      0.001097,
+      "\u001b[23;43r\u001b[H\u001b[42dserver should be down...\u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      0.001873,
+      "\u001b[23;43r\u001b[H\u001b[43d2015-06-10T00:02:24.246-0300 I NETWORK  trying reconnect to 127.0.0.1:27017 (127.0.0.1) failed\r\n\u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      0.000323,
+      "\u001b[23;43r\u001b[H\u001b[43d2015-06-10T00:02:24.247-0300 I NETWORK  reconnect 127.0.0.1:27017 (127.0.0.1) ok\r\n\u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      0.648515,
+      "\u001b[23;43r\u001b[H\u001b[43d2015-06-10T00:02:24.895-0300 I NETWORK  Socket recv() errno:54 Connection reset by peer 127.0.0.1:27017\r\n\u001b[1;44r\u001b[H\u001b[43d\u001b[23;43r\u001b[H\u001b[43d2015-06-10T00:02:24.895-0300 I NETWORK  SocketException: remote: 127.0.0.1:27017 error: 9001 socket exception [RECV_ERROR] server [127.0.0.1:27017] \r\n2015-06-10T00:02:24.895-0300 I NETWORK  DBClientCursor::init call() failed\r\n\u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      0.002584,
+      "\u001b[23;43r\u001b[H\u001b[43d2015-06-10T00:02:24.898-0300 I NETWORK  trying reconnect to 127.0.0.1:27017 (127.0.0.1) failed\r\n\u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      0.000727,
+      "\u001b[23;43r\u001b[H\u001b[43d2015-06-10T00:02:24.898-0300 W NETWORK  Failed to connect to 127.0.0.1:27017, reason: errno:61 Connection refused\r\n\u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      0.000133,
+      "\u001b[23;43r\u001b[H\u001b[43d2015-06-10T00:02:24.898-0300 I NETWORK  reconnect 127.0.0.1:27017 (127.0.0.1) failed failed couldn't connect to server 127.0.0.1:27017 (127.0.0.1), connection attempt failed\r\n\u001b[1;44r\u001b[H\u001b[43d\u001b[23;43r\u001b[H\u001b[43d\u003e \u001b[1;44r\u001b[H\u001b[43;3H"
+    ],
+    [
+      1.025481,
+      "\u001b[1;21r\u001b[H\u001b[21dConnection reset by peer\r\nMongo::Error::SocketError\r\n- Server Down -\r\nRetrying connections ...\r\n\u001b[1;44r\u001b[H\u001b[43;3H"
+    ],
+    [
+      2.501277,
+      "\u001b[1;21r\u001b[H\u001b[21d----------------------------------------------------------------------------------------------------\r\n\u001b[1;44r\u001b[H\u001b[43;3H"
+    ],
+    [
+      0.025469,
+      "\u001b[1;21r\u001b[H\u001b[21dServers Up and Running: [\"localhost:27019\", \"localhost:27018\"]\r\n\u001b[1;44r\u001b[H\u001b[43;3H"
+    ],
+    [
+      0.000236,
+      "\u001b[1;21r\u001b[H\u001b[21dReading from server: localhost:27019\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250924385960 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\r\n----------------------------------------------------------------------------------------------------\r\n\u001b[1;44r\u001b[H\u001b[43;3H"
+    ],
+    [
+      3.003198,
+      "\u001b[1;21r\u001b[H\u001b[21dServers Up and Running: [\"localhost:27019\", \"localhost:27018\"]\r\n\u001b[1;44r\u001b[H\u001b[43;3H"
+    ],
+    [
+      0.000260,
+      "\u001b[1;21r\u001b[H\u001b[21dReading from server: localhost:27019\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250924405400 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\r\n----------------------------------------------------------------------------------------------------\r\n\u001b[1;44r\u001b[H\u001b[43;3H"
+    ],
+    [
+      0.770214,
+      "\u001b[23;43r\u001b[H\u001b[43;3H\u001b[K^C\u001b[1;44r\u001b[H\u001b[43;5H"
+    ],
+    [
+      0.000043,
+      "\u001b[23;43r\u001b[H\u001b[43d\nbye\r\n\u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      0.001683,
+      "\u001b[23;43r\u001b[H\u001b[43d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                                             \u001b[43;1H \u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      0.000752,
+      "\u001b[?25l\r\n\u001b[38;5;232m\u001b[48;5;154m 3 \u001b[38;5;154m\u001b[48;5;235m\u001b[38;5;235m\u001b[48;5;238m\u001b[38;5;222m 1  ..pocs/failover \u001b[38;5;238m\u001b[48;5;235m\u001b[38;5;248m                                                                                      \u001b[38;5;238m\u001b[38;5;222m\u001b[48;5;238m 2015-06-10  00:02 \u001b[38;5;154m\u001b[38;5;232m\u001b[48;5;154m MacBook-Pro-de-Thiago \u001b(B\u001b[m\u001b[43;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.178200,
+      "\u001b[23;43r\u001b[H\u001b[43d\u001b[K\n\u001b[30m\u001b[47m 00:02:32 \u001b[37m\u001b[44m ...ruby on rails/pocs/failover \u001b[34m\u001b[47m\u001b[30m  master ✔ \u001b[49m\u001b[37m\u001b(B\u001b[m\r\n\u001b[32m\u001b[1m$\u001b[39m \u001b(B\u001b[m\u001b[K\u001b[1;44r\u001b[H\u001b[43;3H"
+    ],
+    [
+      0.000009,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.227421,
+      "\u001b[23;43r\u001b[H\u001b[43d\n\u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      0.026103,
+      "\u001b[?25l\u001b[H                                                                                                                                                              \u001b[2;1H\u001b[K\r\n\u001b[30m\u001b[47m 00:02:03 \u001b[37m\u001b[44m ...ruby on rails/pocs/failover \u001b[34m\u001b[47m\u001b[30m  master ✔ \u001b[49m\u001b[37m\u001b(B\u001b[m\u001b[K\r\n\u001b[32m\u001b[1m$\u001b[39m \u001b(B\u001b[mruby failover.rb \u001b[K\r\nServers Up and Running: [\"localhost:27019\", \"localhost:27018\", \"localhost:27017\"]\u001b[K\r\nReading from server: localhost:27017\u001b[K\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250924341760 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\u001b[K\r\n----------------------------------------------------------------------------------------------------\u001b[K\r\nServers Up and Running: [\"localhost:27019\", \"localhost:27018\", \"localhost:27017\"]\u001b[K\r\nReading from server: localhost:27017\u001b[K\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250924336300 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\u001b[K\r\n----------------------------------------------------------------------------------------------------\u001b[K\r\nServers"
+    ],
+    [
+      0.000256,
+      " Up and Running: [\"localhost:27019\", \"localhost:27018\", \"localhost:27017\"]\u001b[K\r\nReading from server: localhost:27017\u001b[K\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250928369600 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\u001b[K\r\n----------------------------------------------------------------------------------------------------\u001b[K\r\nServers Up and Running: [\"localhost:27019\", \"localhost:27018\", \"localhost:27017\"]\u001b[K\r\nReading from server: localhost:27017\u001b[K\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250928388820 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\u001b[K\r\n----------------------------------------------------------------------------------------------------\u001b[K\r\nServers Up and Running: [\"localhost:27019\", \"localhost:27018\", \"localhost:27017\"]\u001b[K\r\nReading from server: localhost:27017\u001b[K\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250934858280 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\u001b[K\r\n----------------------------------------------------------------------------------------------------\u001b[K\r\nServers Up and Running:"
+    ],
+    [
+      0.000176,
+      " [\"localhost:27019\", \"localhost:27018\", \"localhost:27017\"]\u001b[K\r\nReading from server: localhost:27017\u001b[K\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250928405820 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\u001b[K\r\n----------------------------------------------------------------------------------------------------\u001b[K\r\nConnection reset by peer\u001b[K\r\nMongo::Error::SocketError\u001b[K\r\n- Server Down -\u001b[K\r\nRetrying connections ...\u001b[K\r\n----------------------------------------------------------------------------------------------------\u001b[K\r\nServers Up and Running: [\"localhost:27019\", \"localhost:27018\"]\u001b[K\r\nReading from server: localhost:27019\u001b[K\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250924385960 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\u001b[K\r\n----------------------------------------------------------------------------------------------------\u001b[K\r\nServers Up and Running: [\"localhost:27019\", \"localhost:27018\"]\u001b[K\r\nReading from server: localhost:27019\u001b[K\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250924405400 data=555fcab46f21ea1"
+    ],
+    [
+      0.000016,
+      "e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\u001b[K\r\n----------------------------------------------------------------------------------------------------\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[38;5;232m\u001b[48;5;154m 3 \u001b[38;5;154m\u001b[48;5;235m\u001b[38;5;235m\u001b[48;5;238m\u001b[38;5;222m 1  ..pocs/failover \u001b[38;5;238m\u001b[48;5;235m\u001b[38;5;248m                                                                                      \u001b[38;5;238m\u001b[38;5;222m\u001b[48;5;238m 2015-06-10  00:02 \u001b[38;5;154m\u001b[38;5;232m\u001b[48;5;154m MacBook-Pro-de-Thiago \u001b(B\u001b[m\u001b[42;1H\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.795720,
+      "\u001b[1;43r\u001b[H\u001b[42dServers Up and Running: [\"localhost:27019\", \"localhost:27018\"]\u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      0.000203,
+      "\u001b[1;43r\u001b[H\u001b[43dReading from server: localhost:27019\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250924424820 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\r\n----------------------------------------------------------------------------------------------------\r\n\u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      3.004829,
+      "\u001b[1;43r\u001b[H\u001b[43dServers Up and Running: [\"localhost:27019\", \"localhost:27018\"]\r\n\u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      0.000222,
+      "\u001b[1;43r\u001b[H\u001b[43dReading from server: localhost:27019\r\nUsers name: {\"_id\"=\u003e\u003cBSON::ObjectId:0x70250924419720 data=555fcab46f21ea1e573bc03a\u003e, \"name\"=\u003e\"Foo\"}\r\n----------------------------------------------------------------------------------------------------\r\n\u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      1.716361,
+      "\u001b[1;43r\u001b[H\u001b[43d^C\u001b[1;44r\u001b[H\u001b[43;3H"
+    ],
+    [
+      0.000318,
+      "\u001b[1;43r\u001b[H\u001b[43;3Hfailover.rb:28:in `sleep'\u001b[1;44r\u001b[H\u001b[43;28H"
+    ],
+    [
+      0.000952,
+      "\u001b[1;43r\u001b[H\u001b[43;28H: Interrupt\r\n\u001b[8Cfrom failover.rb:28:in `block (3 levels) in \u003cmain\u003e'\r\n\u001b[8Cfrom /Users/thiagochiarato/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/mongo-2.0.4/lib/mongo/collection/view/iterable.rb:41:in `block in each'\r\n\u001b[8Cfrom /Users/thiagochiarato/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/mongo-2.0.4/lib/mongo/cursor.rb:78:in `block in each'\r\n\u001b[8Cfrom /Users/thiagochiarato/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/mongo-2.0.4/lib/mongo/cursor.rb:78:in `each'\r\n\u001b[8Cfrom /Users/thiagochiarato/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/mongo-2.0.4/lib/mongo/cursor.rb:78:in `each'\r\n\u001b[8Cfrom /Users/thiagochiarato/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/mongo-2.0.4/lib/mongo/collection/view/iterable.rb:40:in `each'\r\n\u001b[8Cfrom /Users/thiagochiarato/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/mongo-2.0.4/lib/mongo/collection/view/iterable.rb:40:in `each'\r\n\u001b[8Cfrom failover.rb:23:in `block (2 levels) in \u003cmain\u003e'\r\n\u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      0.000154,
+      "\u001b[1;43r\u001b[H\u001b[43;9Hfrom failover.rb:9:in `failover'\r\n\u001b[8Cfrom failover.rb:22:in `block in \u003cmain\u003e'\r\n\u001b[8Cfrom failover.rb:21:in `loop'\r\n\u001b[8Cfrom failover.rb:21:in `\u003cmain\u003e'\r\n\u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      0.018395,
+      "\u001b[1;43r\u001b[H\u001b[43d\n\u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      0.000309,
+      "\u001b[1;43r\u001b[H\u001b[43d\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                                                                                                             \u001b[43;1H \u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      0.129215,
+      "\u001b[1;43r\u001b[H\u001b[43d\u001b[K\n\u001b[30m\u001b[47m 00:02:39 \u001b[37m\u001b[41m ✘ \u001b[31m\u001b[44m\u001b[37m ...ruby on rails/pocs/failover \u001b[34m\u001b[47m\u001b[30m  master ✔ \u001b[49m\u001b[37m\u001b(B\u001b[m\r\n\u001b[32m\u001b[1m$\u001b[39m \u001b(B\u001b[m\u001b[K\u001b[1;44r\u001b[H\u001b[43;3H"
+    ],
+    [
+      0.000009,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.450964,
+      "\u001b[1;43r\u001b[H\u001b[43d\n\u001b[1;44r\u001b[H\u001b[43d"
+    ],
+    [
+      0.036825,
+      "\u001b[1;44r\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J"
+    ],
+    [
+      0.000010,
+      "\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[?1049l"
+    ],
+    [
+      0.000166,
+      "[exited]\r\n"
+    ],
+    [
+      0.000528,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000113,
+      "\u001b]2;thiagochiarato@MacBook-Pro-de-Thiago: ~/Development/ruby on rails/pocs/failover\u0007"
+    ],
+    [
+      0.000039,
+      "\u001b]1;..pocs/failover\u0007"
+    ],
+    [
+      0.160421,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[39m\u001b[0m\u001b[49m\u001b[47m\u001b[30m 00:02:40 \u001b[44m\u001b[37m\u001b[37m ...ruby on rails/pocs/failover \u001b[47m\u001b[34m\u001b[30m  master ✔ \u001b[49m\u001b[37m\u001b[39m\r\n\u001b[01;39m\u001b[32m$\u001b[39m \u001b[00m"
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000033,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.841772,
+      "\r\r\n"
+    ],
+    [
+      0.002445,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                             \r \r"
+    ],
+    [
+      0.000105,
+      "\u001b]2;thiagochiarato@MacBook-Pro-de-Thiago: ~/Development/ruby on rails/pocs/failover\u0007"
+    ],
+    [
+      0.000024,
+      "\u001b]1;..pocs/failover\u0007"
+    ],
+    [
+      0.170176,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[39m\u001b[0m\u001b[49m\u001b[47m\u001b[30m 00:02:41 \u001b[41m\u001b[37m\u001b[37m ✘ \u001b[44m\u001b[31m\u001b[37m ...ruby on rails/pocs/failover \u001b[47m\u001b[34m\u001b[30m  master ✔ \u001b[49m\u001b[37m\u001b[39m\r\n\u001b[01;39m\u001b[32m$\u001b[39m \u001b[00m"
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000120,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.634955,
+      "\r\r\n"
+    ]
+  ]
+}
