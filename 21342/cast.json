@@ -1,0 +1,258 @@
+{
+  "version": 1,
+  "width": 82,
+  "height": 21,
+  "duration": 25.429527,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.113389,
+      "\u001b[01;32mPeter\u001b[01;36m ~ $\u001b[00m \u001b[01;31m\u001b[0;37m"
+    ],
+    [
+      2.494118,
+      "l"
+    ],
+    [
+      0.099220,
+      "s"
+    ],
+    [
+      0.086303,
+      " "
+    ],
+    [
+      0.451474,
+      "/etc/apt/sources.list.d/"
+    ],
+    [
+      0.309964,
+      "\r\n\u001b[01;32mPeter\u001b[01;36m ~ $\u001b[00m \u001b[01;31m\u001b[0;37m"
+    ],
+    [
+      1.879661,
+      "l"
+    ],
+    [
+      0.084019,
+      "s"
+    ],
+    [
+      0.135621,
+      " "
+    ],
+    [
+      0.406353,
+      "/var/lib/apt/lists/"
+    ],
+    [
+      0.222280,
+      "\r\nlock  \u001b[0m\u001b[01;36mpartial\u001b[0m/\r\n\u001b[01;32mPeter\u001b[01;36m ~ $\u001b[00m \u001b[01;31m\u001b[0;37m"
+    ],
+    [
+      2.913921,
+      "sudo add-apt-ppa ppa:git-core/ppa "
+    ],
+    [
+      0.956523,
+      "\r\n"
+    ],
+    [
+      1.430571,
+      " The most current stable version of Git for Ubuntu.\r\n\r\nFor release candidates, go to https://launchpad.net/~git-core/+archive/candidate .\r\n More info: https://launchpad.net/~git-core/+archive/ubuntu/ppa\r\nPress [ENTER] to continue or ctrl-c to cancel adding it\r\n"
+    ],
+    [
+      0.800582,
+      "\r\n"
+    ],
+    [
+      1.137306,
+      "gpg: keyring `/tmp/tmpyizz5mvv/secring.gpg' created\r\ngpg: keyring `/tmp/tmpyizz5mvv/pubring.gpg' created\r\ngpg: requesting key E1DF1F24 from hkp server keyserver.ubuntu.com\r\n"
+    ],
+    [
+      0.892834,
+      "gpg: /tmp/tmpyizz5mvv/trustdb.gpg: trustdb created\r\ngpg: key E1DF1F24: public key \"Launchpad PPA for Ubuntu Git Maintainers\" imported\r\ngpg: Total number processed: 1\r\ngpg:               imported: 1  (RSA: 1)\r\n"
+    ],
+    [
+      0.025285,
+      "OK"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.030379,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.500440,
+      "\r            \r0% [Waiting for headers]"
+    ],
+    [
+      0.052567,
+      "\r                        \rIgn http://ppa.launchpad.net trusty InRelease\r\n\r                        \r25% [Working]"
+    ],
+    [
+      0.274608,
+      "\r             \rGet:1 http://ppa.launchpad.net trusty Release.gpg [316 B]\r\n\r             \r0% [1 Release.gpg 0 B/316 B 0%]\r                               \r100% [Working]"
+    ],
+    [
+      0.274611,
+      "\r              \rGet:2 http://ppa.launchpad.net trusty Release [15.1 kB]\r\n\r              \r2% [2 Release 0 B/15.1 kB 0%]"
+    ],
+    [
+      0.274649,
+      "\r                             \r100% [Working]"
+    ],
+    [
+      0.000383,
+      "\r              \r100% [2 Release gpgv 15.1 kB]"
+    ],
+    [
+      0.001777,
+      "\r                             \r100% [Working]"
+    ],
+    [
+      0.276802,
+      "\r              \rGet:3 http://ppa.launchpad.net trusty/main amd64 Packages [3,344 B]\r\n"
+    ],
+    [
+      0.000403,
+      "\r100% [Working]"
+    ],
+    [
+      0.000452,
+      "\r              \r100% [3 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.001006,
+      "\r                                                 \r100% [Waiting for headers]"
+    ],
+    [
+      0.272525,
+      "\r                          \rGet:4 http://ppa.launchpad.net trusty/main i386 Packages [3,348 B]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "\r                          \r100% [4 Packages 3,348 B/3,348 B 100%]"
+    ],
+    [
+      0.000189,
+      "\r                                      \r100% [Working]"
+    ],
+    [
+      0.000174,
+      "\r              \r100% [4 Packages bzip2 0 B] [Waiting for headers]"
+    ],
+    [
+      0.000822,
+      "\r                                                 \r100% [Waiting for headers]"
+    ],
+    [
+      0.274083,
+      "\r                          \rGet:5 http://ppa.launchpad.net trusty/main Translation-en [2,645 B]\r\n\r                          \r100% [Working]\r              \r100% [5 Translation-en bzip2 0 B]\r                                 \r100% [Working]\r              \rFetched 24.7 kB in 2s (11.2 kB/s)\r\n"
+    ],
+    [
+      0.131644,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.002837,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000627,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000104,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.000298,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.000101,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.000083,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.002112,
+      "\rReading package lists... 2%\r"
+    ],
+    [
+      0.000095,
+      "\rReading package lists... 2%\r"
+    ],
+    [
+      0.030937,
+      "\rReading package lists... Done\r"
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.002914,
+      "\u001b[01;32mPeter\u001b[01;36m ~ $\u001b[00m \u001b[01;31m\u001b[0;37m"
+    ],
+    [
+      2.642294,
+      "l"
+    ],
+    [
+      0.084530,
+      "s"
+    ],
+    [
+      0.048808,
+      " "
+    ],
+    [
+      0.708952,
+      "/etc/apt/sources.list.d/"
+    ],
+    [
+      0.132255,
+      "\r\ngit-core-ppa-trusty.list\r\n\u001b[01;32mPeter\u001b[01;36m ~ $\u001b[00m \u001b[01;31m\u001b[0;37m"
+    ],
+    [
+      2.603740,
+      "l"
+    ],
+    [
+      0.084309,
+      "s"
+    ],
+    [
+      0.086316,
+      " "
+    ],
+    [
+      0.453149,
+      "/var/lib/apt/lists/"
+    ],
+    [
+      0.350405,
+      "\r\nlock\r\n\u001b[0m\u001b[01;36mpartial\u001b[0m/\r\nppa.launchpad.net_git-core_ppa_ubuntu_dists_trusty_main_binary-amd64_Packages\r\nppa.launchpad.net_git-core_ppa_ubuntu_dists_trusty_main_binary-i386_Packages\r\nppa.launchpad.net_git-core_ppa_ubuntu_dists_trusty_main_i18n_Translation-en\r\nppa.launchpad.net_git-core_ppa_ubuntu_dists_trusty_Release\r\nppa.launchpad.net_git-core_ppa_ubuntu_dists_trusty_Release.gpg\r\n\u001b[01;32mPeter\u001b[01;36m ~ $\u001b[00m \u001b[01;31m\u001b[0;37m"
+    ],
+    [
+      1.387248,
+      "exit\r\n"
+    ]
+  ]
+}
