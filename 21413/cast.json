@@ -1,0 +1,770 @@
+{
+  "version": 1,
+  "width": 87,
+  "height": 26,
+  "duration": 58.307263,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.021108,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000008,
+      "bash-3.2$ "
+    ],
+    [
+      0.410390,
+      "t"
+    ],
+    [
+      0.399932,
+      "m"
+    ],
+    [
+      0.160043,
+      "u"
+    ],
+    [
+      0.207794,
+      "x"
+    ],
+    [
+      0.216267,
+      "\r\n"
+    ],
+    [
+      0.007776,
+      "\u001b[?1049h\u001b(B\u001b[m\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b]112\u0007\u001b[?25l\u001b[1;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[1;26r\u001b[H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.127599,
+      "\u001b[36m$\u001b[39m "
+    ],
+    [
+      0.568868,
+      "l"
+    ],
+    [
+      0.095791,
+      "e"
+    ],
+    [
+      0.136020,
+      "i"
+    ],
+    [
+      0.080124,
+      "n"
+    ],
+    [
+      0.183906,
+      " "
+    ],
+    [
+      0.543558,
+      "k"
+    ],
+    [
+      0.152600,
+      "o"
+    ],
+    [
+      0.191780,
+      "a"
+    ],
+    [
+      0.288160,
+      "n"
+    ],
+    [
+      0.303976,
+      " "
+    ],
+    [
+      0.192052,
+      "r"
+    ],
+    [
+      0.088001,
+      "u"
+    ],
+    [
+      0.096053,
+      "n"
+    ],
+    [
+      0.167959,
+      "\r\n"
+    ],
+    [
+      1.606076,
+      "\u001b[12B────────────────────────────────────────────\u001b[32m───────────────────────────────────────────\u001b[?25l\u001b[1;1H\u001b(B\u001b[m\u001b[36m$\u001b[39m lein koan run\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[2B\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[11A\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.253571,
+      "\u001b[15;26r\u001b[H\u001b[15d\u001b[36m$\u001b[39m \u001b[1;26r\u001b[H\u001b[15;3H"
+    ],
+    [
+      0.612101,
+      "\u001b[15;26r\u001b[H\u001b[15;3He\u001b[1;26r\u001b[H\u001b[15;4H"
+    ],
+    [
+      0.159997,
+      "\u001b[15;26r\u001b[H\u001b[15;4H \u001b[1;26r\u001b[H\u001b[15;5H"
+    ],
+    [
+      0.392061,
+      "\u001b[15;26r\u001b[H\u001b[15;5Hs\u001b[1;26r\u001b[H\u001b[15;6H"
+    ],
+    [
+      0.223949,
+      "\u001b[15;26r\u001b[H\u001b[15;6Hr\u001b[1;26r\u001b[H\u001b[15;7H"
+    ],
+    [
+      0.096076,
+      "\u001b[15;26r\u001b[H\u001b[15;7Hc\u001b[1;26r\u001b[H\u001b[15;8H"
+    ],
+    [
+      0.183906,
+      "\u001b[15;26r\u001b[H\u001b[15;8H/\u001b[1;26r\u001b[H\u001b[15;9H"
+    ],
+    [
+      0.864078,
+      "\u001b[15;26r\u001b[H\u001b[15;9Hk\u001b[1;26r\u001b[H\u001b[15;10H"
+    ],
+    [
+      0.208166,
+      "\u001b[15;26r\u001b[H\u001b[15;10Hoans/\u001b[1;26r\u001b[H\u001b[15;15H"
+    ],
+    [
+      0.743893,
+      "\u001b[15;26r\u001b[H\u001b[15;15H0\u001b[1;26r\u001b[H\u001b[15;16H"
+    ],
+    [
+      0.151924,
+      "\u001b[15;26r\u001b[H\u001b[15;16H1\u001b[1;26r\u001b[H\u001b[15;17H"
+    ],
+    [
+      0.296294,
+      "\u001b[15;26r\u001b[H\u001b[15;17H_equalities.clj \u001b[1;26r\u001b[H\u001b[15;33H"
+    ],
+    [
+      0.671786,
+      "\r\n"
+    ],
+    [
+      0.008800,
+      "\u001b[?25l\u001b[A\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[10A\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.001374,
+      "\u001b[15;26r\u001b[H\u001b[15d\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[K\u001b[?25l\u001b[15d\u001b[36m$\u001b[39m e src/koans/01_equalities.clj \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[1;26r\u001b[H\u001b[16d\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000011,
+      "\u001b[?25l\u001b[A\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[10A\u001b[?12l\u001b[?25h\u001b[?1h\u001b="
+    ],
+    [
+      0.033055,
+      "\u001b[15;26r\u001b[H\u001b[15d\u001b[K\r\n\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1B\u001b[K\u001b[1;26r\u001b[H\u001b[15d\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40mBuffer has been modified; could not load undo-tree history                            "
+    ],
+    [
+      0.000030,
+      "\u001b[1;26r\u001b[H\u001b[15d\u001b(B\u001b[m"
+    ],
+    [
+      0.046115,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40mWhen done with a buffer, type C-x #                       \u001b[1;26r\u001b[H\u001b[15d\u001b(B\u001b[m"
+    ],
+    [
+      0.006921,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40mWhen done with a buffer, type C-x #                                                   \u001b[15;1H\u001b[42m(\u001b[33mns\u001b[37m \u001b[36mkoans\u001b[37m.01-equalities                                                                \u001b[15;1H\u001b[1;26r\u001b[H\u001b[15d\u001b[?25l\u001b(B\u001b[m"
+    ],
+    [
+      0.000465,
+      "\u001b[15;26r\u001b[H\u001b[16d\u001b[37m\u001b[40m  \u001b[36m(\u001b[1m:require\u001b(B\u001b[m\u001b[37m\u001b[40m [\u001b[36mkoan-engine.core\u001b[37m \u001b[36m\u001b[1m:refer\u001b(B\u001b[m\u001b[37m\u001b[40m \u001b[36m\u001b[1m:all\u001b(B\u001b[m\u001b[37m\u001b[40m]\u001b[36m)\u001b[37m)                                           \u001b[17;1H                                                                                       \u001b[18;1H(meditations                                                                           \u001b[19;1H  \u001b[33m\"같은지 확인해가며 현실을 시험해서 진실을 주의깊게 관찰하라\"\u001b[37m                         \u001b[20;1H  \u001b[36m(\u001b[37m= __ \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[36m\u001b[40m)\u001b[37m                                                                          \u001b[21;1H                           \u001b[1;26r\u001b[H\u001b[21;28H\u001b(B\u001b[m"
+    ],
+    [
+      0.000299,
+      "\u001b[15;26r\u001b[H\u001b[21;28H\u001b[37m\u001b[40m                                                            \u001b[22;1H  \u001b[33m\"현실을 이해하기 위해서는, 반드시 우리의 예상을 현실과 비교해야만 한다\"\u001b[37m              \u001b[23;1H  \u001b[36m(\u001b[37m= __ (+ 1 1)\u001b[36m)\u001b[37m                                                                       \u001b[24;1H                                                                                       \u001b[25;1H-UUU:@----F15  \u001b[1m01_equalities.clj\u001b(B\u001b[m\u001b[37m\u001b[40m   Top of 672  (1,0)     Git-korean  (Clojure , guru Se\u001b[25;1H\u001b[1;26r\u001b[H\u001b[15d\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      3.205477,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40m                                   \u001b[15;1H(\u001b[33mns\u001b[37m \u001b[36mkoans\u001b[37m.01-equalities                                                                \u001b[16;1H\u001b[42m  \u001b[36m(\u001b[1m:require\u001b(B\u001b[m\u001b[37m\u001b[42m [\u001b[36mkoan-engine.core\u001b[37m \u001b[36m\u001b[1m:refer\u001b(B\u001b[m\u001b[37m\u001b[42m \u001b[36m\u001b[1m:all\u001b(B\u001b[m\u001b[37m\u001b[42m]\u001b[36m)\u001b[37m)                                           \u001b[25;49H\u001b[40m2\u001b[1;26r\u001b[H\u001b[16d\u001b(B\u001b[m"
+    ],
+    [
+      1.027610,
+      "\u001b[15;26r\u001b[H\u001b[16d\u001b[37m\u001b[40m  \u001b[36m(\u001b[1m:require\u001b(B\u001b[m\u001b[37m\u001b[40m [\u001b[36mkoan-engine.core\u001b[37m \u001b[36m\u001b[1m:refer\u001b(B\u001b[m\u001b[37m\u001b[40m \u001b[36m\u001b[1m:all\u001b(B\u001b[m\u001b[37m\u001b[40m]\u001b[36m)\u001b[37m)                                           \u001b[17;1H\u001b[42m                                                                                       \u001b[25;49H\u001b[40m3\u001b[1;26r\u001b[H\u001b[17d\u001b(B\u001b[m"
+    ],
+    [
+      0.023127,
+      "\u001b[1;13r\u001b[H\r\nStarting auto-runner...\u001b[1;26r\u001b[H\u001b[17d"
+    ],
+    [
+      0.078779,
+      "\u001b[1;13r\u001b[H\u001b[2BConsidering /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj...\u001b[1;26r\u001b[H\u001b[17d"
+    ],
+    [
+      0.022641,
+      "\u001b[1;13r\u001b[H\u001b[4BNow meditate upon /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj:6\r\n---------------------\r\nAssertion failed!\u001b[1;26r\u001b[H\u001b[17d"
+    ],
+    [
+      0.000265,
+      "\u001b[1;13r\u001b[H\u001b[8d같은지 확인해가며 현실을 시험해서 진실을 주의깊게 관찰하라\r\n(= __ true)\u001b[1;26r\u001b[H\u001b[17d"
+    ],
+    [
+      0.244133,
+      "\u001b[15;26r\u001b[H\u001b[17d\u001b[37m\u001b[40m                                                                                       \u001b[18;1H\u001b[42m(meditations                                                                           \u001b[25;49H\u001b[40m4\u001b[1;26r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.136924,
+      "\u001b[15;26r\u001b[H\u001b[18d\u001b[37m\u001b[46m(\u001b[1;26r\u001b[H\u001b[18d\u001b(B\u001b[m"
+    ],
+    [
+      0.343057,
+      "\u001b[15;26r\u001b[H\u001b[18;2H\u001b[37m\u001b[40mmeditations                                                                           \u001b[19;1H\u001b[42m  \u001b[33m\"같은지 확인해가며 현실을 시험해서 진실을 주의깊게 관찰하라\"\u001b[37m                         \u001b[25;49H\u001b[40m5\u001b[1;26r\u001b[H\u001b[19d\u001b(B\u001b[m"
+    ],
+    [
+      0.132475,
+      "\u001b[15;26r\u001b[H\u001b[18d\u001b[37m\u001b[40m(\u001b[1;26r\u001b[H\u001b[19d\u001b(B\u001b[m"
+    ],
+    [
+      0.243655,
+      "\u001b[15;26r\u001b[H\u001b[19d\u001b[37m\u001b[40m  \u001b[33m\"같은지 확인해가며 현실을 시험해서 진실을 주의깊게 관찰하라\"\u001b[37m                         \u001b[20;1H\u001b[42m  \u001b[36m(\u001b[37m= __ \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[36m\u001b[42m)\u001b[37m                                                                          \u001b[25;49H\u001b[40m6\u001b[1;26r\u001b[H\u001b[20d\u001b(B\u001b[m"
+    ],
+    [
+      0.407634,
+      "\u001b[15;26r\u001b[H\u001b[25;51H\u001b[37m\u001b[40m1\u001b[1;26r\u001b[H\u001b[20;2H\u001b(B\u001b[m"
+    ],
+    [
+      0.167949,
+      "\u001b[15;26r\u001b[H\u001b[25;51H\u001b[37m\u001b[40m2\u001b[1;26r\u001b[H\u001b[20;3H\u001b(B\u001b[m"
+    ],
+    [
+      0.134762,
+      "\u001b[15;26r\u001b[H\u001b[20;3H\u001b[36m\u001b[46m(\u001b[37m\u001b[42m= __ \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[36m\u001b[46m)\u001b[1;26r\u001b[H\u001b[20;3H\u001b(B\u001b[m"
+    ],
+    [
+      0.009459,
+      "\u001b[15;26r\u001b[H\u001b[25;51H\u001b[37m\u001b[40m3\u001b[1;26r\u001b[H\u001b[20;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.128593,
+      "\u001b[15;26r\u001b[H\u001b[20;3H\u001b[36m\u001b[42m(\u001b[37m= __ \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[36m\u001b[42m)\u001b[1;26r\u001b[H\u001b[20;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.023297,
+      "\u001b[15;26r\u001b[H\u001b[25;51H\u001b[37m\u001b[40m4\u001b[1;26r\u001b[H\u001b[20;5H\u001b(B\u001b[m"
+    ],
+    [
+      0.128358,
+      "\u001b[15;26r\u001b[H\u001b[25;51H\u001b[37m\u001b[40m5\u001b[1;26r\u001b[H\u001b[20;6H\u001b(B\u001b[m"
+    ],
+    [
+      0.329781,
+      "\u001b[15;26r\u001b[H\u001b[20;7H\u001b[37m\u001b[42m \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[36m\u001b[42m)\u001b[37m \u001b[25;7H\u001b[40m**--F15  \u001b[1m01_equalities.clj\u001b(B\u001b[m\u001b[37m\u001b[40m   Top of 671\u001b[1;26r\u001b[H\u001b[20;6H\u001b(B\u001b[m"
+    ],
+    [
+      0.133950,
+      "\u001b[15;26r\u001b[H\u001b[20;6H\u001b[37m\u001b[42m \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[36m\u001b[42m)\u001b[37m \u001b[25;45H\u001b[40m0\u001b[1;26r\u001b[H\u001b[20;6H\u001b(B\u001b[m"
+    ],
+    [
+      0.345040,
+      "\u001b[15;26r\u001b[H\u001b[20;6H\u001b[37m\u001b[42mt \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[36m\u001b[42m)\u001b[25;45H\u001b[37m\u001b[40m1  (6,6\u001b[1;26r\u001b[H\u001b[20;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.222496,
+      "\u001b[15;26r\u001b[H\u001b[20;7H\u001b[37m\u001b[42mr \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[36m\u001b[42m)\u001b[25;45H\u001b[37m\u001b[40m2  (6,7\u001b[1;26r\u001b[H\u001b[20;8H\u001b(B\u001b[m"
+    ],
+    [
+      0.185664,
+      "\u001b[15;26r\u001b[H\u001b[20;8H\u001b[37m\u001b[42mu \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[36m\u001b[42m)\u001b[25;45H\u001b[37m\u001b[40m3  (6,8\u001b[1;26r\u001b[H\u001b[20;9H\u001b(B\u001b[m"
+    ],
+    [
+      0.104053,
+      "\u001b[15;26r\u001b[H\u001b[20;6H\u001b[36m\u001b[42m\u001b[1mtrue\u001b(B\u001b[m\u001b[37m\u001b[42m \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[36m\u001b[42m)\u001b[25;45H\u001b[37m\u001b[40m4  (6,9\u001b[1;26r\u001b[H\u001b[20;10H\u001b(B\u001b[m"
+    ],
+    [
+      2.949617,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40mSaving file /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj...\u001b[1;26r\u001b[H\u001b[20;10H\u001b(B\u001b[m"
+    ],
+    [
+      0.005398,
+      "\u001b[15;25r\u001b[H\u001b[24d\u001b[1M\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40mre-koans!src!koans!01_equalities.clj.~undo-tree~                                 \u001b[20;1H  \u001b[36m(\u001b[37m= \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[37m\u001b[40m \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[36m\u001b[40m)\u001b[37m                                                                        \u001b[20;1H\u001b[1;26r\u001b[H\u001b[21d\u001b[?25l\u001b(B\u001b[m"
+    ],
+    [
+      0.000067,
+      "\u001b[15;26r\u001b[H\u001b[25d\u001b[37m\u001b[40mWrote /var/folders/zh/sjrm3pjx53s4w400xcm9tprr0000gn/T/.!Users!hatemogi!work!clj!cloju\\\u001b[25;1H\u001b[1;26r\u001b[H\u001b[20;10H\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      0.003608,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40m                                                \u001b[25;8HUsers/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj               \u001b[25;1H\u001b[1;26r\u001b[H\u001b[20;10H\u001b(B\u001b[m"
+    ],
+    [
+      0.015560,
+      "\u001b[15;26r\u001b[H\u001b[25d\u001b[1L\u001b[1;26r\u001b[H\u001b[15d\u001b[15;26r\u001b[H\u001b[20d\u001b[37m\u001b[42m  \u001b[36m(\u001b[37m= \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[37m\u001b[42m \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[36m\u001b[42m)\u001b[37m                                                                        "
+    ],
+    [
+      0.000092,
+      "\u001b[20;1H\u001b[1;26r\u001b[H\u001b[21d\u001b[?25l\u001b(B\u001b[m\u001b[15;26r\u001b[H\u001b[24d\u001b[37m\u001b[40m                                                                                       \u001b[25;1H-UUU:@----F15  \u001b[1m01_equalities.clj\u001b(B\u001b[m\u001b[37m\u001b[40m   Top of 674  (6,9)     Git:korean  (Clojure , guru Se"
+    ],
+    [
+      0.000014,
+      "\u001b[25;1H\u001b[1;26r\u001b[H\u001b[20;10H\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      0.222570,
+      "\u001b[1;13r\u001b[H\u001b[11dConsidering /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj...\u001b[1;26r\u001b[H\u001b[20;10H"
+    ],
+    [
+      0.022470,
+      "\u001b[1;13r\u001b[H\u001b[13dNow meditate upon /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj:9\r\n---------------------\r\nAssertion failed!\r\n현실을 이해하기 위해서는, 반드시 우리의 예상을 현실과 비교해야만 한다\r\n(= __ (+ 1 1))\r\n\n\u001b[1;26r\u001b[H\u001b[20;10H"
+    ],
+    [
+      1.053013,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40m                                                                        \u001b[20;1H  \u001b[36m(\u001b[37m= \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[37m\u001b[40m \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[36m\u001b[40m)\u001b[37m                                                                        \u001b[20;1H\u001b[1;26r\u001b[H\u001b[21d\u001b[?25l\u001b(B\u001b[m\u001b[15;26r\u001b[H\u001b[21d\u001b[37m\u001b[42m                                                                                       \u001b[25;49H\u001b[40m7,0"
+    ],
+    [
+      0.000012,
+      "\u001b[1;26r\u001b[H\u001b[21d\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      0.190933,
+      "\u001b[15;26r\u001b[H\u001b[21d\u001b[37m\u001b[40m                                                                                       \u001b[22;1H\u001b[42m  \u001b[33m\"현실을 이해하기 위해서는, 반드시 우리의 예상을 현실과 비교해야만 한다\"\u001b[37m              \u001b[25;49H\u001b[40m8,9\u001b[1;26r\u001b[H\u001b[22;10H\u001b(B\u001b[m"
+    ],
+    [
+      0.184081,
+      "\u001b[15;26r\u001b[H\u001b[22d\u001b[37m\u001b[40m  \u001b[33m\"현실을 이해하기 위해서는, 반드시 우리의 예상을 현실과 비교해야만 한다\"\u001b[37m              \u001b[23;1H\u001b[42m  \u001b[36m(\u001b[37m= __ (+ 1 1)\u001b[36m)\u001b[37m                                                                       \u001b[25;49H\u001b[40m9\u001b[1;26r\u001b[H\u001b[23;10H\u001b(B\u001b[m"
+    ],
+    [
+      0.423626,
+      "\u001b[15;26r\u001b[H\u001b[25;51H\u001b[37m\u001b[40m8\u001b[1;26r\u001b[H\u001b[23;9H\u001b(B\u001b[m"
+    ],
+    [
+      0.130756,
+      "\u001b[15;26r\u001b[H\u001b[23;9H\u001b[37m\u001b[46m(\u001b[42m+ 1 1\u001b[46m)\u001b[1;26r\u001b[H\u001b[23;9H\u001b(B\u001b[m"
+    ],
+    [
+      0.165257,
+      "\u001b[15;26r\u001b[H\u001b[25;51H\u001b[37m\u001b[40m7\u001b[1;26r\u001b[H\u001b[23;8H\u001b(B\u001b[m"
+    ],
+    [
+      0.132759,
+      "\u001b[15;26r\u001b[H\u001b[23;9H\u001b[37m\u001b[42m(+ 1 1)\u001b[1;26r\u001b[H\u001b[23;8H\u001b(B\u001b[m"
+    ],
+    [
+      0.421530,
+      "\u001b[15;26r\u001b[H\u001b[23;7H\u001b[37m\u001b[42m (+ 1 1)\u001b[36m)\u001b[37m \u001b[25;7H\u001b[40m**--F15  \u001b[1m01_equalities.clj\u001b(B\u001b[m\u001b[37m\u001b[40m   Top of 673  (9,6\u001b[1;26r\u001b[H\u001b[23;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.135190,
+      "\u001b[15;26r\u001b[H\u001b[23;6H\u001b[37m\u001b[42m (+ 1 1)\u001b[36m)\u001b[37m \u001b[25;45H\u001b[40m2  (9,5\u001b[1;26r\u001b[H\u001b[23;6H\u001b(B\u001b[m"
+    ],
+    [
+      0.680784,
+      "\u001b[15;26r\u001b[H\u001b[23;6H\u001b[37m\u001b[42m2 (+ 1 1)\u001b[36m)\u001b[25;45H\u001b[37m\u001b[40m3  (9,6\u001b[1;26r\u001b[H\u001b[23;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.756501,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40mSaving file /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj...\u001b[1;26r\u001b[H\u001b[23;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.005152,
+      "\u001b[15;25r\u001b[H\u001b[24d\u001b[1M\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40mre-koans!src!koans!01_equalities.clj.~undo-tree~                                 \u001b[23;1H  \u001b[36m(\u001b[37m= 2 (+ 1 1)\u001b[36m)\u001b[37m                                                                        \u001b[25;1HWrote /var/folders/zh/sjrm3pjx53s4w400xcm9tprr0000gn/T/.!Users!hatemogi!work!clj!cloju\\\u001b[25;1H\u001b[1;26r\u001b[H\u001b[23;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.003395,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40m                                                \u001b[25;8HUsers/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj               \u001b[25;1H\u001b[1;26r\u001b[H\u001b[23;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.015188,
+      "\u001b[15;26r\u001b[H\u001b[25d\u001b[1L\u001b[1;26r\u001b[H\u001b[15d"
+    ],
+    [
+      0.000162,
+      "\u001b[15;26r\u001b[H\u001b[23d\u001b[37m\u001b[42m  \u001b[36m(\u001b[37m= 2 (+ 1 1)\u001b[36m)\u001b[37m                                                                        \u001b[24;1H\u001b[40m                                                                                       \u001b[25;1H-UUU:@----F15  \u001b[1m01_equalities.clj\u001b(B\u001b[m\u001b[37m\u001b[40m   Top of 673  (9,6)     Git:korean  (Clojure , guru Se\u001b[25;1H\u001b[1;26r\u001b[H\u001b[23;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.268599,
+      "\u001b[1;13r\u001b[H\u001b[13dConsidering /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj...\r\n\u001b[1;26r\u001b[H\u001b[23;7H"
+    ],
+    [
+      0.023173,
+      "\u001b[1;13r\u001b[H\u001b[13d\nNow meditate upon /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj:12\u001b[13;1H\n---------------------\r\nAssertion failed!\r\n여러 것이 같은지 한번에 확인할 수도 있다\r\n(= (+ 3 4) 7 (+ 2 __))\r\n\n\u001b[1;26r\u001b[H\u001b[23;7H"
+    ],
+    [
+      1.175446,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40m                                                                        \u001b[1;26r\u001b[H\u001b[26;73H\u001b[?25l\u001b(B\u001b[m\u001b[15;26r\u001b[H\u001b[23d\u001b[37m\u001b[40m  \u001b[36m(\u001b[37m= 2 (+ 1 1)\u001b[36m)\u001b[37m                                                                        \u001b[24;1H\u001b[42m                                                                                       \u001b[25;49H\u001b[40m10,0)"
+    ],
+    [
+      0.000008,
+      "\u001b[1;26r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      0.655507,
+      "\u001b[15;23r\u001b[H\u001b[15d\u001b[1M\u001b[15;26r\u001b[H\u001b[23d\u001b[37m\u001b[40m                                                                                       \u001b[24;3H\u001b[33m\u001b[42m\"여러 것이 같은지 한번에 확인할 수도 있다\"\u001b[25;36H\u001b[37m\u001b[40m 4% of 673  (11,5\u001b[1;26r\u001b[H\u001b[24;6H\u001b(B\u001b[m"
+    ],
+    [
+      0.447540,
+      "\u001b[15;22r\u001b[H\u001b[16d\u001b[1M\u001b[15;26r\u001b[H\u001b[15d\u001b[37m\u001b[40m                                            \u001b[1;26r\u001b[H\u001b[15;45H\u001b[?25l\u001b(B\u001b[m\u001b[15;26r\u001b[H\u001b[22d\u001b[37m\u001b[40m                                                                                       \u001b[23;1H  \u001b[33m\"여러 것이 같은지 한번에 확인할 수도 있다\"\u001b[24;3H\u001b[36m\u001b[42m(\u001b[37m= (+ 3 4) 7 (+ 2 __)\u001b[36m)\u001b[37m                    \u001b[25;36H\u001b[40m11% of 673  (12,6"
+    ],
+    [
+      0.000007,
+      "\u001b[1;26r\u001b[H\u001b[24;7H\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      0.736433,
+      "\u001b[15;23r\u001b[H\u001b[15d\u001b[1M\u001b[1;26r\u001b[H\u001b[15d"
+    ],
+    [
+      0.000141,
+      "\u001b[15;26r\u001b[H\u001b[23d\u001b[37m\u001b[40m  \u001b[36m(\u001b[37m= (+ 3 4) 7 (+ 2 __)\u001b[36m)\u001b[37m                                                               \u001b[24;3H\u001b[42m                      \u001b[25;50H\u001b[40m3,0\u001b[1;26r\u001b[H\u001b[24d\u001b(B\u001b[m"
+    ],
+    [
+      0.911590,
+      "\u001b[15;26r\u001b[H\u001b[23d\u001b[37m\u001b[42m  \u001b[36m(\u001b[37m= (+ 3 4) 7 (+ 2 __)\u001b[36m)\u001b[37m                                                               \u001b[24;1H\u001b[40m                                                                                       \u001b[25;50H2,6\u001b[1;26r\u001b[H\u001b[23;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.479309,
+      "\u001b[15;26r\u001b[H\u001b[25;52H\u001b[37m\u001b[40m24)\u001b[1;26r\u001b[H\u001b[23;25H\u001b(B\u001b[m"
+    ],
+    [
+      0.133933,
+      "\u001b[15;26r\u001b[H\u001b[23;3H\u001b[36m\u001b[46m(\u001b[37m\u001b[42m= (+ 3 4) 7 (+ 2 __)\u001b[36m\u001b[46m)\u001b[1;26r\u001b[H\u001b[23;25H\u001b(B\u001b[m"
+    ],
+    [
+      0.802104,
+      "\u001b[15;26r\u001b[H\u001b[25;53H\u001b[37m\u001b[40m3\u001b[1;26r\u001b[H\u001b[23;24H\u001b(B\u001b[m"
+    ],
+    [
+      0.135467,
+      "\u001b[15;26r\u001b[H\u001b[23;3H\u001b[36m\u001b[42m(\u001b[37m= (+ 3 4) 7 \u001b[46m(\u001b[42m+ 2 __\u001b[46m)\u001b[36m\u001b[42m)\u001b[1;26r\u001b[H\u001b[23;24H\u001b(B\u001b[m"
+    ],
+    [
+      0.168412,
+      "\u001b[15;26r\u001b[H\u001b[25;53H\u001b[37m\u001b[40m2\u001b[1;26r\u001b[H\u001b[23;23H\u001b(B\u001b[m"
+    ],
+    [
+      0.132838,
+      "\u001b[15;26r\u001b[H\u001b[23;16H\u001b[37m\u001b[42m(+ 2 __)\u001b[1;26r\u001b[H\u001b[23;23H\u001b(B\u001b[m"
+    ],
+    [
+      0.348931,
+      "\u001b[15;26r\u001b[H\u001b[23;22H\u001b[37m\u001b[42m)\u001b[36m)\u001b[37m \u001b[25;7H\u001b[40m**--F15  \u001b[1m01_equalities.clj\u001b(B\u001b[m\u001b[37m\u001b[40m   11% of 672  (12,21\u001b[1;26r\u001b[H\u001b[23;22H\u001b(B\u001b[m"
+    ],
+    [
+      0.151945,
+      "\u001b[15;26r\u001b[H\u001b[23;21H\u001b[37m\u001b[42m)\u001b[36m)\u001b[37m \u001b[25;45H\u001b[40m1  (12,20\u001b[1;26r\u001b[H\u001b[23;21H\u001b(B\u001b[m"
+    ],
+    [
+      0.520125,
+      "\u001b[15;26r\u001b[H\u001b[23;21H\u001b[37m\u001b[42m5)\u001b[36m)\u001b[25;45H\u001b[37m\u001b[40m2  (12,21\u001b[1;26r\u001b[H\u001b[23;22H\u001b(B\u001b[m"
+    ],
+    [
+      2.573079,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40mSaving file /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj...\u001b[1;26r\u001b[H\u001b[23;22H\u001b(B\u001b[m"
+    ],
+    [
+      0.004872,
+      "\u001b[15;25r\u001b[H\u001b[24d\u001b[1M\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40mre-koans!src!koans!01_equalities.clj.~undo-tree~                                 \u001b[1;26r\u001b[H\u001b[26;82H\u001b[?25l\u001b(B\u001b[m"
+    ],
+    [
+      0.000150,
+      "\u001b[15;26r\u001b[H\u001b[23d\u001b[37m\u001b[40m  \u001b[36m(\u001b[37m= (+ 3 4) 7 (+ 2 5)\u001b[36m)\u001b[37m                                                                \u001b[25;1HWrote /var/folders/zh/sjrm3pjx53s4w400xcm9tprr0000gn/T/.!Users!hatemogi!work!clj!cloju\\\u001b[25;1H\u001b[1;26r\u001b[H\u001b[23;22H\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      0.003386,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40m                                                \u001b[25;8HUsers/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj               \u001b[25;1H\u001b[1;26r\u001b[H\u001b[23;22H\u001b(B\u001b[m"
+    ],
+    [
+      0.023276,
+      "\u001b[15;26r\u001b[H\u001b[25d\u001b[1L\u001b[1;26r\u001b[H\u001b[15d"
+    ],
+    [
+      0.000354,
+      "\u001b[15;26r\u001b[H\u001b[23d\u001b[37m\u001b[42m  \u001b[36m(\u001b[37m= (+ 3 4) 7 (+ 2 5)\u001b[36m)\u001b[37m                                                                \u001b[24;1H\u001b[40m                                                                                       \u001b[25;1H-UUU:@----F15  \u001b[1m01_equalities.clj\u001b(B\u001b[m\u001b[37m\u001b[40m   11% of 672  (12,21)   Git:korean  (Clojure , guru Se\u001b[25;1H\u001b[1;26r\u001b[H\u001b[23;22H\u001b(B\u001b[m"
+    ],
+    [
+      0.242765,
+      "\u001b[1;13r\u001b[H\u001b[13dConsidering /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj...\r\n\u001b[1;26r\u001b[H\u001b[23;22H"
+    ],
+    [
+      0.028748,
+      "\u001b[1;13r\u001b[H\u001b[13d\nNow meditate upon /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj:15\u001b[13;1H\n---------------------\r\nAssertion failed!\r\n\u001b[1;26r\u001b[H\u001b[23;22H"
+    ],
+    [
+      0.004615,
+      "\u001b[1;13r\u001b[H\u001b[13d어떤 것들은 겉으로는 다르게 보일지도 모르지만, 사실은 같은 것이다\r\n(= __ (= 2 2))\r\n\n\u001b[1;26r\u001b[H\u001b[23;22H"
+    ],
+    [
+      0.548833,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40m                                                                        \u001b[1;26r\u001b[H\u001b[26;73H\u001b[?25l\u001b(B\u001b[m"
+    ],
+    [
+      0.000140,
+      "\u001b[15;26r\u001b[H\u001b[23d\u001b[37m\u001b[40m  \u001b[36m(\u001b[37m= (+ 3 4) 7 (+ 2 5)\u001b[36m)\u001b[37m                                                                \u001b[24;1H\u001b[42m                                                                                       \u001b[25;50H\u001b[40m3,0) \u001b[1;26r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      0.185309,
+      "\u001b[15;23r\u001b[H\u001b[15d\u001b[1M\u001b[15;26r\u001b[H\u001b[23d\u001b[37m\u001b[40m                                                                                       \u001b[24;3H\u001b[33m\u001b[42m\"어떤 것들은 겉으로는 다르게 보일지도 모르지만, 사실은 같은 것이다\"\u001b[25;37H\u001b[37m\u001b[40m3% of 672  (14,21)\u001b[1;26r\u001b[H\u001b[24;22H\u001b(B\u001b[m"
+    ],
+    [
+      0.174050,
+      "\u001b[15;22r\u001b[H\u001b[15d\u001b[1M\u001b[1;26r\u001b[H\u001b[15d"
+    ],
+    [
+      0.000178,
+      "\u001b[15;26r\u001b[H\u001b[22d\u001b[37m\u001b[40m                                                                                       \u001b[23;1H  \u001b[33m\"어떤 것들은 겉으로는 다르게 보일지도 모르지만, 사실은 같은 것이다\"\u001b[24;3H\u001b[36m\u001b[42m(\u001b[37m= __ (= 2 2/1)\u001b[36m)\u001b[37m                                                   \u001b[25;37H\u001b[40m8% of 672  (15,18\u001b[1;26r\u001b[H\u001b[24;19H\u001b(B\u001b[m"
+    ],
+    [
+      0.131146,
+      "\u001b[15;26r\u001b[H\u001b[24;3H\u001b[36m\u001b[46m(\u001b[37m\u001b[42m= __ (= 2 2/1)\u001b[36m\u001b[46m)\u001b[1;26r\u001b[H\u001b[24;19H\u001b(B\u001b[m"
+    ],
+    [
+      0.981788,
+      "\u001b[15;26r\u001b[H\u001b[25;52H\u001b[37m\u001b[40m2) \u001b[1;26r\u001b[H\u001b[24;3H\u001b(B\u001b[m"
+    ],
+    [
+      0.399774,
+      "\u001b[15;26r\u001b[H\u001b[25;52H\u001b[37m\u001b[40m3\u001b[1;26r\u001b[H\u001b[24;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.130193,
+      "\u001b[15;26r\u001b[H\u001b[24;3H\u001b[36m\u001b[42m(\u001b[37m= __ (= 2 2/1)\u001b[36m)\u001b[1;26r\u001b[H\u001b[24;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.051688,
+      "\u001b[15;26r\u001b[H\u001b[25;52H\u001b[37m\u001b[40m4\u001b[1;26r\u001b[H\u001b[24;5H\u001b(B\u001b[m"
+    ],
+    [
+      0.314154,
+      "\u001b[15;26r\u001b[H\u001b[25;52H\u001b[37m\u001b[40m5\u001b[1;26r\u001b[H\u001b[24;6H\u001b(B\u001b[m"
+    ],
+    [
+      0.498205,
+      "\u001b[15;26r\u001b[H\u001b[24;7H\u001b[37m\u001b[42m (= 2 2/1)\u001b[36m)\u001b[37m \u001b[25;7H\u001b[40m**--F15  \u001b[1m01_equalities.clj\u001b(B\u001b[m\u001b[37m\u001b[40m   18% of 671\u001b[1;26r\u001b[H\u001b[24;6H\u001b(B\u001b[m"
+    ],
+    [
+      0.407929,
+      "\u001b[15;26r\u001b[H\u001b[24;6H\u001b[37m\u001b[42m (= 2 2/1)\u001b[36m)\u001b[37m \u001b[25;45H\u001b[40m0\u001b[1;26r\u001b[H\u001b[24;6H\u001b(B\u001b[m"
+    ],
+    [
+      1.408287,
+      "\u001b[15;26r\u001b[H\u001b[24;6H\u001b[37m\u001b[42mt (= 2 2/1)\u001b[36m)\u001b[25;45H\u001b[37m\u001b[40m1  (15,6\u001b[1;26r\u001b[H\u001b[24;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.495236,
+      "\u001b[15;26r\u001b[H\u001b[24;7H\u001b[37m\u001b[42mr (= 2 2/1)\u001b[36m)\u001b[25;45H\u001b[37m\u001b[40m2  (15,7\u001b[1;26r\u001b[H\u001b[24;8H\u001b(B\u001b[m"
+    ],
+    [
+      0.295673,
+      "\u001b[15;26r\u001b[H\u001b[24;8H\u001b[37m\u001b[42mu (= 2 2/1)\u001b[36m)\u001b[25;45H\u001b[37m\u001b[40m3  (15,8\u001b[1;26r\u001b[H\u001b[24;9H\u001b(B\u001b[m"
+    ],
+    [
+      0.128258,
+      "\u001b[15;26r\u001b[H\u001b[24;6H\u001b[36m\u001b[42m\u001b[1mtrue\u001b(B\u001b[m\u001b[37m\u001b[42m (= 2 2/1)\u001b[36m)\u001b[25;45H\u001b[37m\u001b[40m4  (15,9\u001b[1;26r\u001b[H\u001b[24;10H\u001b(B\u001b[m"
+    ],
+    [
+      1.013535,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40mSaving file /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj...\u001b[1;26r\u001b[H\u001b[24;10H\u001b(B\u001b[m"
+    ],
+    [
+      0.005931,
+      "\u001b[15;23r\u001b[H\u001b[16d\u001b[1M\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40mre-koans!src!koans!01_equalities.clj.~undo-tree~                                 \u001b[15;1H                                                                                       \u001b[15;1H\u001b[1;26r\u001b[H\u001b[16d\u001b[?25l\u001b(B\u001b[m"
+    ],
+    [
+      0.000204,
+      "\u001b[15;26r\u001b[H\u001b[23d\u001b[37m\u001b[40m  \u001b[36m(\u001b[37m= \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[37m\u001b[40m (= 2 2/1)\u001b[36m)\u001b[37m                                                                   \u001b[24;1H-UUU:@**--F15  \u001b[1m01_equalities.clj\u001b(B\u001b[m\u001b[37m\u001b[40m   21% of 674  (15,9)    Git:korean  (Clojure , guru Se\u001b[25;1HWrote /var/folders/zh/sjrm3pjx53s4w400xcm9tprr0000gn/T/.!Users!hatemogi!work!clj!cloju\\\u001b[25;1H\u001b[1;26r\u001b[H\u001b[23;10H\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      0.003227,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40m                                                \u001b[25;8HUsers/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj               \u001b[25;1H\u001b[1;26r\u001b[H\u001b[23;10H\u001b(B\u001b[m"
+    ],
+    [
+      0.014994,
+      "\u001b[15;26r\u001b[H\u001b[25d\u001b[1L\u001b[1;26r\u001b[H\u001b[15d"
+    ],
+    [
+      0.000198,
+      "\u001b[15;26r\u001b[H\u001b[23d\u001b[37m\u001b[42m  \u001b[36m(\u001b[37m= \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[37m\u001b[42m (= 2 2/1)\u001b[36m)\u001b[37m                                                                   \u001b[24;1H\u001b[40m                                                                                       \u001b[25;1H-UUU:@----F15  \u001b[1m01_equalities.clj\u001b(B\u001b[m\u001b[37m\u001b[40m   21% of 674  (15,9)    Git:korean  (Clojure , guru Se\u001b[25;1H\u001b[1;26r\u001b[H\u001b[23;10H\u001b(B\u001b[m"
+    ],
+    [
+      0.428251,
+      "\u001b[1;13r\u001b[H\u001b[13dConsidering /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj...\r\n\u001b[1;26r\u001b[H\u001b[23;10H"
+    ],
+    [
+      0.022430,
+      "\u001b[1;13r\u001b[H\u001b[13d\nNow meditate upon /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj:18\u001b[13;1H\n---------------------\r\nAssertion failed!\r\n실수와 정수는 다르다\r\n(= __ (= 2 2.0))\r\n\n\u001b[1;26r\u001b[H\u001b[23;10H"
+    ],
+    [
+      1.343379,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40m                                                                        \u001b[1;26r\u001b[H\u001b[26;73H\u001b[?25l\u001b(B\u001b[m"
+    ],
+    [
+      0.000184,
+      "\u001b[15;26r\u001b[H\u001b[23d\u001b[37m\u001b[40m  \u001b[36m(\u001b[37m= \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[37m\u001b[40m (= 2 2/1)\u001b[36m)\u001b[37m                                                                   \u001b[24;1H\u001b[42m                                                                                       \u001b[25;50H\u001b[40m6,0\u001b[1;26r\u001b[H\u001b[24d\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      0.176311,
+      "\u001b[15;23r\u001b[H\u001b[15d\u001b[1M\u001b[15;26r\u001b[H\u001b[23d\u001b[37m\u001b[40m                                                                                       \u001b[24;3H\u001b[33m\u001b[42m\"실수와 정수는 다르다\"\u001b[25;50H\u001b[37m\u001b[40m7,9\u001b[1;26r\u001b[H\u001b[24;10H\u001b(B\u001b[m"
+    ],
+    [
+      0.487026,
+      "\u001b[15;22r\u001b[H\u001b[15d\u001b[1M\u001b[1;26r\u001b[H\u001b[15d"
+    ],
+    [
+      0.000178,
+      "\u001b[15;26r\u001b[H\u001b[22d\u001b[37m\u001b[40m                                                                                       \u001b[23;1H  \u001b[33m\"실수와 정수는 다르다\"\u001b[24;3H\u001b[36m\u001b[42m(\u001b[37m= __ (= 2 2.0)\u001b[36m)\u001b[37m      \u001b[25;37H\u001b[40m7% of 674  (18\u001b[1;26r\u001b[H\u001b[24;10H\u001b(B\u001b[m"
+    ],
+    [
+      1.173612,
+      "\u001b[15;26r\u001b[H\u001b[25;52H\u001b[37m\u001b[40m8\u001b[1;26r\u001b[H\u001b[24;9H\u001b(B\u001b[m"
+    ],
+    [
+      0.135968,
+      "\u001b[15;26r\u001b[H\u001b[24;9H\u001b[37m\u001b[46m(\u001b[42m= 2 2.0\u001b[46m)\u001b[1;26r\u001b[H\u001b[24;9H\u001b(B\u001b[m"
+    ],
+    [
+      0.345227,
+      "\u001b[15;26r\u001b[H\u001b[25;52H\u001b[37m\u001b[40m7\u001b[1;26r\u001b[H\u001b[24;8H\u001b(B\u001b[m"
+    ],
+    [
+      0.133011,
+      "\u001b[15;26r\u001b[H\u001b[24;9H\u001b[37m\u001b[42m(= 2 2.0)\u001b[1;26r\u001b[H\u001b[24;8H\u001b(B\u001b[m"
+    ],
+    [
+      0.381210,
+      "\u001b[15;26r\u001b[H\u001b[24;7H\u001b[37m\u001b[42m (= 2 2.0)\u001b[36m)\u001b[37m \u001b[25;7H\u001b[40m**--F15  \u001b[1m01_equalities.clj\u001b(B\u001b[m\u001b[37m\u001b[40m   27% of 673  (18,6\u001b[1;26r\u001b[H\u001b[24;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.135781,
+      "\u001b[15;26r\u001b[H\u001b[24;6H\u001b[37m\u001b[42m (= 2 2.0)\u001b[36m)\u001b[37m \u001b[25;45H\u001b[40m2  (18,5\u001b[1;26r\u001b[H\u001b[24;6H\u001b(B\u001b[m"
+    ],
+    [
+      2.296974,
+      "\u001b[15;26r\u001b[H\u001b[24;6H\u001b[37m\u001b[42mf (= 2 2.0)\u001b[36m)\u001b[25;45H\u001b[37m\u001b[40m3  (18,6\u001b[1;26r\u001b[H\u001b[24;7H\u001b(B\u001b[m"
+    ],
+    [
+      0.238959,
+      "\u001b[15;26r\u001b[H\u001b[24;7H\u001b[37m\u001b[42ma (= 2 2.0)\u001b[36m)\u001b[25;45H\u001b[37m\u001b[40m4  (18,7\u001b[1;26r\u001b[H\u001b[24;8H\u001b(B\u001b[m"
+    ],
+    [
+      0.002620,
+      "\u001b[?25l\u001b[15;1H\u001b[37m\u001b[40m  \u001b[36m(\u001b[37m= 2 (+ 1 1)\u001b[36m)\u001b[37m                                                                        \u001b[16;1H                                                                                       \u001b[17;1H  \u001b[33m\"여러 것이 같은지 한번에 확인할 수도 있다\"\u001b[37m                                           \u001b[18;1H  \u001b[36m(\u001b[37m= (+ 3 4) 7 (+ 2 5)\u001b[36m)\u001b[37m                                                                \u001b[19;1H                                                                                       \u001b[20;1H  \u001b[33m\"어떤 것들은 겉으로는 다르게 보일지도 모르지만, 사실은 같은 것이다\"\u001b[37m                  \u001b[21;1H  \u001b[36m(\u001b[37m= \u001b[36m\u001b[1mtrue\u001b(B\u001b[m\u001b[37m\u001b[40m (= 2 2/1)\u001b[36m)\u001b[37m                                                                   \u001b[22;1H                                                                                       \u001b[23;1H  \u001b[33m\"실수와 정수는 다르다\"\u001b[37m                                                        "
+    ],
+    [
+      0.000035,
+      "       \u001b[24;1H\u001b[42m  \u001b[36m(\u001b[37m= fa (= 2 2.0)\u001b[36m)\u001b[37m                                                                     \u001b[25;1H\u001b[40m-UUU:@**--F15  \u001b[1m01_equalities.clj\u001b(B\u001b[m\u001b[37m\u001b[40m   27% of 674  (18,7)    Git:korean  (Clojure , guru Se\u001b[26;1H                                                                                       \u001b(B\u001b[m\u001b[24;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.109248,
+      "\u001b[15;26r\u001b[H\u001b[24;8H\u001b[37m\u001b[42ml (= 2 2.0)\u001b[36m)\u001b[25;45H\u001b[37m\u001b[40m5  (18,8\u001b[1;26r\u001b[H\u001b[24;9H\u001b(B\u001b[m"
+    ],
+    [
+      0.222643,
+      "\u001b[15;26r\u001b[H\u001b[24;9H\u001b[37m\u001b[42ms (= 2 2.0)\u001b[36m)\u001b[25;45H\u001b[37m\u001b[40m6  (18,9\u001b[1;26r\u001b[H\u001b[24;10H\u001b(B\u001b[m"
+    ],
+    [
+      0.193319,
+      "\u001b[15;26r\u001b[H\u001b[24;6H\u001b[36m\u001b[42m\u001b[1mfalse\u001b(B\u001b[m\u001b[37m\u001b[42m (= 2 2.0)\u001b[36m)\u001b[25;45H\u001b[37m\u001b[40m7  (18,10)\u001b[1;26r\u001b[H\u001b[24;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.725264,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40mSaving file /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj...\u001b[1;26r\u001b[H\u001b[24;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.006146,
+      "\u001b[15;23r\u001b[H\u001b[16d\u001b[1M\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40mre-koans!src!koans!01_equalities.clj.~undo-tree~                                 \u001b[15;1H                                                                                       \u001b[15;1H\u001b[1;26r\u001b[H\u001b[16d\u001b[?25l\u001b(B\u001b[m"
+    ],
+    [
+      0.000253,
+      "\u001b[15;26r\u001b[H\u001b[23d\u001b[37m\u001b[40m  \u001b[36m(\u001b[37m= \u001b[36m\u001b[1mfalse\u001b(B\u001b[m\u001b[37m\u001b[40m (= 2 2.0)\u001b[36m)\u001b[37m                                                                  \u001b[24;1H-UUU:@**--F15  \u001b[1m01_equalities.clj\u001b(B\u001b[m\u001b[37m\u001b[40m   30% of 677  (18,10)   Git:korean  (Clojure , guru Se\u001b[25;1HWrote /var/folders/zh/sjrm3pjx53s4w400xcm9tprr0000gn/T/.!Users!hatemogi!work!clj!cloju\\\u001b[25;1H\u001b[1;26r\u001b[H\u001b[23;11H\u001b[?12l\u001b[?25h\u001b(B\u001b[m"
+    ],
+    [
+      0.003144,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40m                                                \u001b[25;8HUsers/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj               \u001b[25;1H\u001b[1;26r\u001b[H\u001b[23;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.014757,
+      "\u001b[1;13r\u001b[H\u001b[13dConsidering /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj...\r\n\u001b[1;26r\u001b[H\u001b[23;11H"
+    ],
+    [
+      0.003837,
+      "\u001b[15;26r\u001b[H\u001b[25d\u001b[1L\u001b[1;26r\u001b[H\u001b[15d"
+    ],
+    [
+      0.000386,
+      "\u001b[15;26r\u001b[H\u001b[23d\u001b[37m\u001b[42m  \u001b[36m(\u001b[37m= \u001b[36m\u001b[1mfalse\u001b(B\u001b[m\u001b[37m\u001b[42m (= 2 2.0)\u001b[36m)\u001b[37m                                                                  \u001b[24;1H\u001b[40m                                                                                       \u001b[25;1H-UUU:@----F15  \u001b[1m01_equalities.clj\u001b(B\u001b[m\u001b[37m\u001b[40m   30% of 677  (18,10)   Git:korean  (Clojure , guru Se\u001b[25;1H\u001b[1;26r\u001b[H\u001b[23;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.025899,
+      "\u001b[1;13r\u001b[H\u001b[13d\nNow meditate upon /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj:21\u001b[13;1H\n---------------------\r\nAssertion failed!\r\n그러나 관대하게 보자면 같게도 볼 수 있다\r\n(= __ (== 2.0 2))\r\n\n\u001b[1;26r\u001b[H\u001b[23;11H"
+    ],
+    [
+      2.352962,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40m                                                                        \u001b[1;26r\u001b[H\u001b[23;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.160833,
+      "\u001b[15;26r\u001b[H\u001b[26d\u001b[37m\u001b[40m(No files need saving)\u001b[1;26r\u001b[H\u001b[23;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.000771,
+      "\u001b[26;1H\u001b[K\u001b[?25l\u001b[11A\u001b[36m$\u001b[39m e src/koans/01_equalities.clj \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[10A\u001b[?12l\u001b[?25h\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000624,
+      "\u001b[15;26r\u001b[H\u001b[16d\u001b[36m$\u001b[39m \u001b[1;26r\u001b[H\u001b[16;3H"
+    ],
+    [
+      0.949442,
+      "\u001b[15;26r\u001b[H\u001b[16;3Hlogout\u001b[1;26r\u001b[H\u001b[17d"
+    ],
+    [
+      0.001772,
+      "\u001b[?25l\u001b[H\u001b[K\r\nConsidering /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj...\u001b[K\r\n\u001b[K\r\nNow meditate upon /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj:15\u001b[5;1H---------------------\u001b[K\r\nAssertion failed!\u001b[K\r\n어떤 것들은 겉으로는 다르게 보일지도 모르지만, 사실은 같은 것이다\u001b[K\r\n(= __ (= 2 2))\u001b[K\r\n\u001b[K\r\nConsidering /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj...\u001b[K\r\n\u001b[K\r\nNow meditate upon /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj:18\u001b[13;1H---------------------\u001b[K\r\nAssertion failed!\u001b[K\r\n실수와 정수는 다르다\u001b[K\r\n(= __ (= 2 2.0))\u001b[K\r\n\u001b[K\r\nConsidering /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj...\u001b[K\r\n\u001b[K\r\nNow meditate upon /Users/hatemogi/work/clj/clojure-koans/src/koans/01_equalities.clj:21\u001b[21;1H---------------------\u001b[K\r\nAssertion failed!\u001b[K\r\n그러나 관대하게 보자면 같게도 볼 수 있다\u001b[K\r\n(= __ (== 2.0 2))\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.790008,
+      "^C"
+    ],
+    [
+      0.112015,
+      "^D\u001b[2D"
+    ],
+    [
+      0.299973,
+      "\u001b[36m$\u001b[39m "
+    ],
+    [
+      0.620051,
+      "logout\r\n"
+    ],
+    [
+      0.001714,
+      "\u001b[1;26r\u001b(B\u001b[m\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000013,
+      "\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[?1049l"
+    ],
+    [
+      0.000249,
+      "[exited]\r\n"
+    ],
+    [
+      0.000882,
+      "bash-3.2$ "
+    ],
+    [
+      0.748958,
+      "exit\r\n"
+    ]
+  ]
+}
