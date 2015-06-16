@@ -1,0 +1,2182 @@
+{
+  "version": 1,
+  "width": 170,
+  "height": 38,
+  "duration": 180.965714,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      1.014160,
+      "\u001b]0;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007ekrem@ekrem-MS-16Y1:~/Desktop/TDD$ "
+    ],
+    [
+      2.435366,
+      "z"
+    ],
+    [
+      0.102022,
+      "s"
+    ],
+    [
+      1.200610,
+      "h"
+    ],
+    [
+      0.274210,
+      "\r\n"
+    ],
+    [
+      0.634138,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                         \r \r\u001b]2;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007\u001b]1;~/Desktop/TDD\u0007"
+    ],
+    [
+      0.016607,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m ekrem@ekrem-MS-16Y1 \u001b[44m\u001b[30m\u001b[30m ~/Desktop/TDD \u001b[49m\u001b[34m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000047,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.187716,
+      "\u001b[32masciinema\u001b[39m rec"
+    ],
+    [
+      0.844655,
+      "\u001b[13D\u001b[32mn\u001b[32ma\u001b[32mn\u001b[32mo\u001b[39m\u001b[39m \u001b[39ml\u001b[39mi\u001b[39mb\u001b[39m/calc.rb"
+    ],
+    [
+      1.295122,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;nano lib/calc.rb\u0007\u001b]1;nano\u0007"
+    ],
+    [
+      0.016522,
+      "\u001b[?1049h\u001b[1;38r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000080,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000043,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000002,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001382,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6                                           File: lib/calc.rb                                                                                              \u001b[36;80H[ New File ]\r\u001b[37d^G\u001b(B\u001b[m Get Help\u001b[37;29H\u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut\u001b[37;57H\u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File\u001b[37;85H\u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page\u001b[37;113H\u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text\u001b[37;141H\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[38d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[38;29H\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify\u001b[38;57H\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is\u001b[38;85H\u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page\u001b[38;113H\u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text\u001b[38;141H\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\r\u001b[3d"
+    ],
+    [
+      3.454084,
+      "\u001b[37d\u001b[J\u001b[38;170H\u001b[38;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000857,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                         \r \r\u001b]2;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007\u001b]1;~/Desktop/TDD\u0007"
+    ],
+    [
+      0.013381,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m ekrem@ekrem-MS-16Y1 \u001b[44m\u001b[30m\u001b[30m ~/Desktop/TDD \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000018,
+      "\u001b[K"
+    ],
+    [
+      0.000090,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.610726,
+      "\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.247224,
+      "\u0008\u001b[1m\u001b[31mr\u001b[1m\u001b[31mu\u001b[0m\u001b[39m"
+    ],
+    [
+      0.166804,
+      "\u0008\u0008\u001b[1m\u001b[31mr\u001b[1m\u001b[31mu\u001b[1m\u001b[31mb\u001b[0m\u001b[39m"
+    ],
+    [
+      0.063254,
+      "\u0008\u0008\u0008\u001b[0m\u001b[32mr\u001b[0m\u001b[32mu\u001b[0m\u001b[32mb\u001b[32my\u001b[39m"
+    ],
+    [
+      0.311489,
+      " "
+    ],
+    [
+      0.253307,
+      "-I test:lib \u001b[4mtest/calc_test.rb\u001b[24m"
+    ],
+    [
+      1.554425,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ruby -I test:lib test/calc_test.rb\u0007\u001b]1;ruby\u0007"
+    ],
+    [
+      26.988305,
+      "/home/ekrem/.rbenv/versions/2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/core_ext/kernel_require.rb:54:in `require'"
+    ],
+    [
+      0.000008,
+      ": cannot load such file -- calc (LoadError)\r\n\u0009from /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/core_ext/kernel_require.rb:54:in `require'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u0009"
+    ],
+    [
+      0.000002,
+      "from test/calc_test.rb:2:in `\u003cmain\u003e'"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.004676,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                         \r \r"
+    ],
+    [
+      0.000126,
+      "\u001b]2;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007"
+    ],
+    [
+      0.000031,
+      "\u001b]1;~/Desktop/TDD\u0007"
+    ],
+    [
+      0.009040,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘\u001b[40m\u001b[39m ekrem@ekrem-MS-16Y1 \u001b[44m\u001b[30m\u001b[30m ~/Desktop/TDD \u001b[49m\u001b[34m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000022,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      6.107898,
+      "\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.140518,
+      "\u0008\u001b[4m\u001b[33mt\u001b[4m\u001b[33mo\u001b[24m\u001b[39m"
+    ],
+    [
+      0.220400,
+      "\u0008\u0008\u001b[24m\u001b[1m\u001b[31mt\u001b[24m\u001b[1m\u001b[31mo\u001b[1m\u001b[31mu\u001b[0m\u001b[39m"
+    ],
+    [
+      0.664605,
+      "\u0008\u001b[1m\u001b[31mu\u001b[1m\u001b[31mc\u001b[0m\u001b[39m"
+    ],
+    [
+      0.331915,
+      "\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31mj\u001b[0m\u001b[39m"
+    ],
+    [
+      0.547410,
+      "\u0008\u0008\u001b[1m\u001b[31mc\u001b[0m\u001b[39m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.283290,
+      "\u0008\u001b[1m\u001b[31mc\u001b[1m\u001b[31mj\u001b[0m\u001b[39m"
+    ],
+    [
+      0.860191,
+      "\u0008\u0008\u001b[1m\u001b[31mc\u001b[0m\u001b[39m\u001b[0m\u001b[39m \u0008"
+    ],
+    [
+      0.494400,
+      "\u0008\u0008\u0008\u0008\u001b[0m\u001b[32mt\u001b[0m\u001b[32mo\u001b[0m\u001b[32mu\u001b[0m\u001b[32mc\u001b[32mh\u001b[39m"
+    ],
+    [
+      0.191560,
+      " "
+    ],
+    [
+      0.368911,
+      "\u001b[4ml\u001b[24m"
+    ],
+    [
+      0.100045,
+      "\u0008\u001b[4ml\u001b[4mi\u001b[24m"
+    ],
+    [
+      0.563887,
+      "\u0008\u001b[4mi\u001b[4mb\u001b[24m"
+    ],
+    [
+      0.592968,
+      "\u0008\u001b[4mb\u001b[4m/\u001b[24m"
+    ],
+    [
+      0.299523,
+      "\u0008\u0008\u0008\u0008\u001b[24ml\u001b[24mi\u001b[24mb\u001b[24m/c"
+    ],
+    [
+      0.139228,
+      "a"
+    ],
+    [
+      0.646851,
+      "l"
+    ],
+    [
+      0.118331,
+      "c"
+    ],
+    [
+      0.250900,
+      "."
+    ],
+    [
+      0.386011,
+      "r"
+    ],
+    [
+      0.119331,
+      "v"
+    ],
+    [
+      0.279455,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;touch lib/calc.rv\u0007\u001b]1;touch\u0007"
+    ],
+    [
+      0.002478,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                         \r \r\u001b]2;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007\u001b]1;~/Desktop/TDD\u0007"
+    ],
+    [
+      0.008868,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m ekrem@ekrem-MS-16Y1 \u001b[44m\u001b[30m\u001b[30m ~/Desktop/TDD \u001b[49m\u001b[34m\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.838335,
+      "\u001b[32mtouch\u001b[39m \u001b[4mlib/calc.rv\u001b[24m"
+    ],
+    [
+      1.572415,
+      "\u0008\u0008"
+    ],
+    [
+      0.221135,
+      "\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.223281,
+      "\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.521336,
+      "\u0008"
+    ],
+    [
+      0.329181,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[1m\u001b[31mt\u001b[1m\u001b[31mo\u001b[1m\u001b[31mu\u001b[1m\u001b[31mc\u001b[0m\u001b[39m\u001b[P\u001b[12C \u001b[13D"
+    ],
+    [
+      0.132189,
+      "\u0008\u0008\u001b[1m\u001b[31mu\u001b[0m\u001b[39m\u001b[P\u001b[12C \u001b[13D"
+    ],
+    [
+      0.130611,
+      "\u0008\u0008\u0008\u001b[1m\u001b[31mt\u001b[1m\u001b[31mo\u001b[0m\u001b[39m\u001b[P\u001b[12C \u001b[13D"
+    ],
+    [
+      0.132701,
+      "\u0008\u0008\u001b[1m\u001b[31mt\u001b[0m\u001b[39m\u001b[P\u001b[12C \u001b[13D"
+    ],
+    [
+      0.100654,
+      "\u0008\u001b[P\u001b[12C \u001b[13D"
+    ],
+    [
+      1.123630,
+      "\u001b[1m\u001b[31mm\u001b[0m\u001b[39m\u001b[24m \u001b[4ml\u001b[4mi\u001b[4mb\u001b[4m/\u001b[4mc\u001b[4ma\u001b[4ml\u001b[4mc\u001b[4m.\u001b[4mr\u001b[4mv\u001b[24m\u001b[12D"
+    ],
+    [
+      0.102920,
+      "\u0008\u001b[0m\u001b[32mm\u001b[32mv\u001b[39m\u001b[24m \u001b[4ml\u001b[4mi\u001b[4mb\u001b[4m/\u001b[4mc\u001b[4ma\u001b[4ml\u001b[4mc\u001b[4m.\u001b[4mr\u001b[4mv\u001b[24m\u001b[12D"
+    ],
+    [
+      0.558972,
+      "\u001b[12C"
+    ],
+    [
+      0.498648,
+      " "
+    ],
+    [
+      0.527072,
+      "\u001b[4m\u001b[33mk\u001b[24m\u001b[39m"
+    ],
+    [
+      0.694815,
+      "\u0008\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.355823,
+      "\u001b[4ml\u001b[24m"
+    ],
+    [
+      0.037858,
+      "\u0008\u001b[4ml\u001b[4mi\u001b[24m"
+    ],
+    [
+      0.210091,
+      "\u0008\u001b[4mi\u001b[4mb\u001b[1m\u001b[4m/\u001b[0m\u001b[24m"
+    ],
+    [
+      0.567096,
+      "\u0008\u001b[0m\u001b[4m/\u001b[4mc\u001b[24m"
+    ],
+    [
+      0.161673,
+      "\u0008\u001b[4mc\u001b[4ma\u001b[24m"
+    ],
+    [
+      0.353756,
+      "\u0008\u001b[4ma\u001b[4mlc.rv\u001b[24m\u001b[1m \u001b[0m"
+    ],
+    [
+      0.589459,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.165560,
+      "\u0008\u0008\u001b[4mr\u001b[24m\u001b[24m \u0008"
+    ],
+    [
+      0.183389,
+      "\u001b[10D\u001b[4m\u001b[33ml\u001b[4m\u001b[33mi\u001b[4m\u001b[33mb\u001b[4m\u001b[33m/\u001b[4m\u001b[33mc\u001b[4m\u001b[33ma\u001b[4m\u001b[33ml\u001b[4m\u001b[33mc\u001b[4m\u001b[33m.\u001b[4m\u001b[33mr\u001b[4m\u001b[33mb\u001b[24m\u001b[39m"
+    ],
+    [
+      0.460630,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;mv lib/calc.rv lib/calc.rb\u0007\u001b]1;mv\u0007"
+    ],
+    [
+      0.003905,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                         \r \r\u001b]2;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007\u001b]1;~/Desktop/TDD\u0007"
+    ],
+    [
+      0.009258,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m ekrem@ekrem-MS-16Y1 \u001b[44m\u001b[30m\u001b[30m ~/Desktop/TDD \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000047,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.790040,
+      "\u001b[32mmv\u001b[39m lib/calc.rv \u001b[4mlib/calc.rb\u001b[24m"
+    ],
+    [
+      0.402417,
+      "\u001b[26D\u001b[32mt\u001b[32mo\u001b[32mu\u001b[32mc\u001b[32mh\u001b[39m \u001b[4m\u001b[33ml\u001b[4m\u001b[33mi\u001b[4m\u001b[33mb\u001b[4m\u001b[33m/\u001b[4m\u001b[33mc\u001b[4m\u001b[33ma\u001b[4m\u001b[33ml\u001b[4m\u001b[33mc\u001b[4m\u001b[33m.\u001b[4m\u001b[33mr\u001b[4m\u001b[33mv\u001b[24m\u001b[39m\u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[9D"
+    ],
+    [
+      0.743634,
+      "\u001b[17D\u001b[32mr\u001b[32mu\u001b[32mb\u001b[32my\u001b[39m\u001b[39m -\u001b[24m\u001b[39mI\u001b[24m\u001b[39m \u001b[24m\u001b[39mt\u001b[24m\u001b[39me\u001b[24m\u001b[39ms\u001b[24m\u001b[39mt\u001b[24m\u001b[39m:\u001b[24m\u001b[39ml\u001b[24m\u001b[39mi\u001b[24m\u001b[39mb\u001b[24m\u001b[39m \u001b[4mtest/calc_test.rb\u001b[24m"
+    ],
+    [
+      0.879882,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ruby -I test:lib test/calc_test.rb\u0007\u001b]1;ruby\u0007"
+    ],
+    [
+      3.610259,
+      "Started with run options --seed 56226"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000379,
+      "CalcTest"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "  test: Calc should add numbers properly.                        "
+    ],
+    [
+      0.000045,
+      "\u001b[31mERROR\u001b[0m"
+    ],
+    [
+      0.000035,
+      " (0.00s)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "NameError: "
+    ],
+    [
+      0.000072,
+      "        NameError: uninitialized constant CalcTest::Calc"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "            test/calc_test.rb:7:in `setup'"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "        test/calc_test.rb:7:in `setup'"
+    ],
+    [
+      0.000005,
+      "\r\n\r\n"
+    ],
+    [
+      0.000052,
+      "  test: Calc should subtract numbers properly.                   "
+    ],
+    [
+      0.000012,
+      "\u001b[31mERROR\u001b[0m"
+    ],
+    [
+      0.000012,
+      " (0.00s)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "NameError: "
+    ],
+    [
+      0.000063,
+      "        NameError: uninitialized constant CalcTest::Calc\r\n"
+    ],
+    [
+      0.000009,
+      "            test/calc_test.rb:7:in `setup'"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "        test/calc_test.rb:7:in `setup'\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000367,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "Finished in 0.00142s"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "2 tests, 0 assertions, "
+    ],
+    [
+      0.000023,
+      "\u001b[31m0 failures, 2 errors, \u001b[0m"
+    ],
+    [
+      0.000009,
+      "\u001b[33m0 skips\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.174937,
+      "\u001b]2;[Minitest results] 2 tests\u0007"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.009935,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                         \r \r\u001b]2;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007\u001b]1;~/Desktop/TDD\u0007"
+    ],
+    [
+      0.007102,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘\u001b[40m\u001b[39m ekrem@ekrem-MS-16Y1 \u001b[44m\u001b[30m\u001b[30m ~/Desktop/TDD \u001b[49m\u001b[34m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000015,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.870080,
+      "\u001b[32mruby\u001b[39m -I test:lib \u001b[4mtest/calc_test.rb\u001b[24m"
+    ],
+    [
+      1.236581,
+      "\u001b[34D\u001b[32mm\u001b[32mv\u001b[39m\u001b[39m \u001b[39mlib/calc.rv \u001b[4ml\u001b[4mi\u001b[4mb\u001b[4m/\u001b[4mc\u001b[4ma\u001b[4ml\u001b[4mc\u001b[4m.\u001b[4mr\u001b[4mb\u001b[24m\u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[8D"
+    ],
+    [
+      0.242218,
+      "\u001b[26D\u001b[32mt\u001b[32mo\u001b[32mu\u001b[32mc\u001b[32mh\u001b[39m \u001b[4m\u001b[33ml\u001b[4m\u001b[33mi\u001b[4m\u001b[33mb\u001b[4m\u001b[33m/\u001b[4m\u001b[33mc\u001b[4m\u001b[33ma\u001b[4m\u001b[33ml\u001b[4m\u001b[33mc\u001b[4m\u001b[33m.\u001b[4m\u001b[33mr\u001b[4m\u001b[33mv\u001b[24m\u001b[39m\u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[9D"
+    ],
+    [
+      0.446941,
+      "\u001b[17D\u001b[32mr\u001b[32mu\u001b[32mb\u001b[32my\u001b[39m\u001b[39m -\u001b[24m\u001b[39mI\u001b[24m\u001b[39m \u001b[24m\u001b[39mt\u001b[24m\u001b[39me\u001b[24m\u001b[39ms\u001b[24m\u001b[39mt\u001b[24m\u001b[39m:\u001b[24m\u001b[39ml\u001b[24m\u001b[39mi\u001b[24m\u001b[39mb\u001b[24m\u001b[39m \u001b[4mtest/calc_test.rb\u001b[24m"
+    ],
+    [
+      0.461637,
+      "\u001b[34D\u001b[32mn\u001b[32ma\u001b[32mn\u001b[32mo\u001b[39m \u001b[4ml\u001b[4mi\u001b[4mb\u001b[4m/\u001b[4mc\u001b[4ma\u001b[4ml\u001b[4mc\u001b[4m.\u001b[4mr\u001b[4mb\u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[18D"
+    ],
+    [
+      0.435342,
+      "\u001b[16D\u001b[32ma\u001b[32ms\u001b[32mc\u001b[32mi\u001b[32mi\u001b[24m\u001b[32mn\u001b[24m\u001b[32me\u001b[24m\u001b[32mm\u001b[24m\u001b[32ma\u001b[39m\u001b[24m \u001b[24mr\u001b[24me\u001b[24mc\u001b[24m \u001b[24m \u001b[24m \u0008\u0008\u0008"
+    ],
+    [
+      0.401871,
+      "\u001b[13D\u001b[32mn\u001b[32ma\u001b[32mn\u001b[32mo\u001b[39m\u001b[39m \u001b[39m\u001b[4ml\u001b[39m\u001b[4mi\u001b[39m\u001b[4mb\u001b[39m\u001b[4m/\u001b[4mc\u001b[4ma\u001b[4ml\u001b[4mc\u001b[4m.rb\u001b[24m"
+    ],
+    [
+      0.617869,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;nano lib/calc.rb\u0007\u001b]1;nano\u0007"
+    ],
+    [
+      0.016942,
+      "\u001b[?1049h\u001b[1;38r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000040,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000047,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000002,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001485,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6                                           File: lib/calc.rb                                                                                              \u001b[36;78H[ Read 0 lines ]\r\u001b[37d^G\u001b(B\u001b[m Get Help\u001b[37;29H\u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut\u001b[37;57H\u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File\u001b[37;85H\u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page\u001b[37;113H\u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text\u001b[37;141H\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[38d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[38;29H\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify\u001b[38;57H\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is\u001b[38;85H\u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page\u001b[38;113H\u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text\u001b[38;141H\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\r\u001b[3d"
+    ],
+    [
+      2.400417,
+      "\u001b[1;161H\u001b(B\u001b[0;7mModified\r\u001b[3d\u001b(B\u001b[mc"
+    ],
+    [
+      0.186319,
+      "l"
+    ],
+    [
+      0.123986,
+      "a"
+    ],
+    [
+      0.080731,
+      "s"
+    ],
+    [
+      0.185221,
+      "\r\u001b[33mclass\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.257700,
+      " "
+    ],
+    [
+      1.650876,
+      "\u001b(B\u001b[0;1m\u001b[34mC\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.295618,
+      "\u001b(B\u001b[0;1m\u001b[34ma\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.330001,
+      "\u001b(B\u001b[0;1m\u001b[34ml\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.121725,
+      "\u001b(B\u001b[0;1m\u001b[34mc\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.730167,
+      "\r\u001b[4d"
+    ],
+    [
+      0.299355,
+      "\u001b[5d"
+    ],
+    [
+      0.250578,
+      "e"
+    ],
+    [
+      0.143313,
+      "n"
+    ],
+    [
+      0.140139,
+      "\r\u001b[33mend\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      1.200764,
+      "\r\u001b[36d\u001b(B\u001b[0;7mSave modified buffer (ANSWERING \"No\" WILL DESTROY CHANGES) ?                                                                                                              \u001b[37;1H Y\u001b(B\u001b[m Yes\u001b[K\r\u001b[38d\u001b(B\u001b[0;7m N\u001b(B\u001b[m No  \u001b[38;17H\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[K\u001b[36;62H"
+    ],
+    [
+      0.515683,
+      "\r\u001b(B\u001b[0;7mFile Name to Write: lib/calc.rb                             \r\u001b[37d^G\u001b(B\u001b[m Get Help\u001b[37;43H\u001b(B\u001b[0;7mM-D\u001b(B\u001b[m DOS Format\u001b[37;85H\u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Append\u001b[37;127H\u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Backup File\r\u001b[38d\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[17G         \u001b[38;43H\u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Mac Format\u001b[38;85H\u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Prepend\u001b[36;32H"
+    ],
+    [
+      0.305721,
+      "\r\u001b[37d\u001b[39;49m\u001b(B\u001b[m\u001b[J\u001b[1;161H\u001b(B\u001b[0;7m        \u001b[36;76H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Wrote 3 lines ]\u001b(B\u001b[m\u001b[K\u001b[38;170H\u001b[38;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001099,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                         \r \r\u001b]2;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007\u001b]1;~/Desktop/TDD\u0007"
+    ],
+    [
+      0.010598,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m ekrem@ekrem-MS-16Y1 \u001b[44m\u001b[30m\u001b[30m ~/Desktop/TDD \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000009,
+      "\u001b[K"
+    ],
+    [
+      0.000040,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.631972,
+      "\u001b[32mnano\u001b[39m \u001b[4mlib/calc.rb\u001b[24m"
+    ],
+    [
+      0.565229,
+      "\u001b[16D\u001b[32mr\u001b[32mu\u001b[32mb\u001b[32my\u001b[39m \u001b[24m-\u001b[24mI\u001b[24m \u001b[24mt\u001b[24me\u001b[24ms\u001b[24mt\u001b[24m:\u001b[24ml\u001b[24mi\u001b[24mb \u001b[4mtest/calc_test.rb\u001b[24m"
+    ],
+    [
+      0.842519,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000087,
+      "\r"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000602,
+      "\u001b]2;ruby -I test:lib test/calc_test.rb\u0007"
+    ],
+    [
+      0.000039,
+      "\u001b]1;ruby\u0007"
+    ],
+    [
+      0.500929,
+      "Started with run options --seed 51857"
+    ],
+    [
+      0.000008,
+      "\r\n\r\n"
+    ],
+    [
+      0.000361,
+      "CalcTest"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "  test: Calc should subtract numbers properly.                   "
+    ],
+    [
+      0.000027,
+      "\u001b[31mERROR\u001b[0m"
+    ],
+    [
+      0.000028,
+      " (0.00s)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "NoMethodError: "
+    ],
+    [
+      0.000073,
+      "        NoMethodError: undefined method `subtract' for #\u003cCalc:0x007f5dd93a0ca8\u003e"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "            test/calc_test.rb:15:in `block in \u003cclass:CalcTest\u003e'\r\n"
+    ],
+    [
+      0.000007,
+      "            /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `instance_exec'\r\n"
+    ],
+    [
+      0.000010,
+      "            /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `block in create_test_from_should_hash'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "        test/calc_test.rb:15:in `block in \u003cclass:CalcTest\u003e'"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "        /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `instance_exec'"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "        /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `block in create_test_from_should_hash'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "  test: Calc should add numbers properly.                        "
+    ],
+    [
+      0.000030,
+      "\u001b[31mERROR\u001b[0m"
+    ],
+    [
+      0.000002,
+      " (0.00s)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "NoMethodError: "
+    ],
+    [
+      0.000056,
+      "        NoMethodError: undefined method `add' for #\u003cCalc:0x007f5dd9389698\u003e\r\n"
+    ],
+    [
+      0.000019,
+      "            test/calc_test.rb:11:in `block in \u003cclass:CalcTest\u003e'\r\n"
+    ],
+    [
+      0.000008,
+      "            /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `instance_exec'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "            /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `block in create_test_from_should_hash'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "        test/calc_test.rb:11:in `block in \u003cclass:CalcTest\u003e'"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "        /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `instance_exec'\r\n"
+    ],
+    [
+      0.000010,
+      "        /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `block in create_test_from_should_hash'"
+    ],
+    [
+      0.000003,
+      "\r\n\r\n"
+    ],
+    [
+      0.000366,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "Finished in 0.00145s"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "2 tests, 0 assertions, "
+    ],
+    [
+      0.000015,
+      "\u001b[31m0 failures, 2 errors, \u001b[0m"
+    ],
+    [
+      0.000009,
+      "\u001b[33m0 skips\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.047868,
+      "\u001b]2;[Minitest results] 2 tests\u0007"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.008225,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                         \r \r\u001b]2;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007\u001b]1;~/Desktop/TDD\u0007"
+    ],
+    [
+      0.009618,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘\u001b[40m\u001b[39m ekrem@ekrem-MS-16Y1 \u001b[44m\u001b[30m\u001b[30m ~/Desktop/TDD \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000021,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      10.063429,
+      "\u001b[32mruby\u001b[39m -I test:lib \u001b[4mtest/calc_test.rb\u001b[24m"
+    ],
+    [
+      0.520376,
+      "\u001b[34D\u001b[32mn\u001b[32ma\u001b[32mn\u001b[32mo\u001b[39m \u001b[4ml\u001b[4mi\u001b[4mb\u001b[4m/\u001b[4mc\u001b[4ma\u001b[4ml\u001b[4mc\u001b[4m.\u001b[4mr\u001b[4mb\u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[18D"
+    ],
+    [
+      0.717767,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;nano lib/calc.rb\u0007\u001b]1;nano\u0007"
+    ],
+    [
+      0.011797,
+      "\u001b[?1049h\u001b[1;38r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000009,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000024,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000004,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.002197,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6                                           File: lib/calc.rb                                                                                              \u001b[3;1H\u001b(B\u001b[0m\u001b[33mclass\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[34mCalc\r\u001b[5d\u001b(B\u001b[0m\u001b[33mend\u001b[36;78H\u001b[39m\u001b(B\u001b[0;7m[ Read 3 lines ]\r\u001b[37d^G\u001b(B\u001b[m Get Help\u001b[37;29H\u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut\u001b[37;57H\u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File\u001b[37;85H\u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page\u001b[37;113H\u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text\u001b[37;141H\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[38d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[38;29H\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify\u001b[38;57H\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is\u001b[38;85H\u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page\u001b[38;113H\u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text\u001b[38;141H\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\r\u001b[3d"
+    ],
+    [
+      0.701075,
+      "\u001b[4d"
+    ],
+    [
+      0.502328,
+      "\u001b7\u001b[4;35r\u001b8\u001bM\u001b[1;38r\u001b[1;161H\u001b(B\u001b[0;7mModified\r\u001b[5d\u001b(B\u001b[m"
+    ],
+    [
+      0.274763,
+      "\u001b[A"
+    ],
+    [
+      0.294574,
+      "\u001b7\u001b[4;35r\u001b8\u001bM\u001b[1;38r\u001b[5;1H"
+    ],
+    [
+      1.496337,
+      "\u001b[5;9H"
+    ],
+    [
+      0.512515,
+      "d"
+    ],
+    [
+      0.120212,
+      "e"
+    ],
+    [
+      0.231615,
+      "\u0008\u0008\u001b[33mdef\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.442953,
+      " "
+    ],
+    [
+      0.158217,
+      "a"
+    ],
+    [
+      0.079647,
+      "d"
+    ],
+    [
+      0.192515,
+      "d"
+    ],
+    [
+      2.086043,
+      "("
+    ],
+    [
+      0.362017,
+      "a"
+    ],
+    [
+      0.673029,
+      ","
+    ],
+    [
+      0.433960,
+      "b"
+    ],
+    [
+      1.196301,
+      ")"
+    ],
+    [
+      0.683911,
+      "\u001b7\u001b[6;35r\u001b8\r\u001b[6d\u001bM\u001b[1;38r\u001b[6;1H"
+    ],
+    [
+      0.464638,
+      "\u001b7\u001b[6;35r\u001b8\u001bM\u001b[1;38r\u001b[7;1H"
+    ],
+    [
+      0.351632,
+      "\u001b[7;9H"
+    ],
+    [
+      0.309796,
+      "e"
+    ],
+    [
+      0.231625,
+      "n"
+    ],
+    [
+      0.429874,
+      "f"
+    ],
+    [
+      0.552048,
+      "\u0008 \u0008"
+    ],
+    [
+      0.082253,
+      "s"
+    ],
+    [
+      0.443287,
+      "\u0008 \r\u001b[36d\u001b[K\u001b[7;11H"
+    ],
+    [
+      0.079662,
+      "\u0008\u0008\u001b[33mend\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      1.124036,
+      "\r\u001b[36d\u001b(B\u001b[0;7mSave modified buffer (ANSWERING \"No\" WILL DESTROY CHANGES) ?                                                                                                              \u001b[37;1H Y\u001b(B\u001b[m Yes\u001b[K\r\u001b[38d\u001b(B\u001b[0;7m N\u001b(B\u001b[m No  \u001b[38;17H\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[K\u001b[36;62H"
+    ],
+    [
+      0.589250,
+      "\r\u001b(B\u001b[0;7mFile Name to Write: lib/calc.rb                             \r\u001b[37d^G\u001b(B\u001b[m Get Help\u001b[37;43H\u001b(B\u001b[0;7mM-D\u001b(B\u001b[m DOS Format\u001b[37;85H\u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Append\u001b[37;127H\u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Backup File\r\u001b[38d\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[17G         \u001b[38;43H\u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Mac Format\u001b[38;85H\u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Prepend\u001b[36;32H"
+    ],
+    [
+      0.325715,
+      "\r\u001b[37d\u001b[39;49m\u001b(B\u001b[m\u001b[J\u001b[1;161H\u001b(B\u001b[0;7m        \u001b[36;76H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Wrote 7 lines ]\u001b(B\u001b[m\u001b[K\u001b[38;170H\u001b[38;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001141,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                         \r \r\u001b]2;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007\u001b]1;~/Desktop/TDD\u0007"
+    ],
+    [
+      0.011529,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m ekrem@ekrem-MS-16Y1 \u001b[44m\u001b[30m\u001b[30m ~/Desktop/TDD \u001b[49m\u001b[34m\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      0.679796,
+      "\u001b[32mnano\u001b[39m \u001b[4mlib/calc.rb\u001b[24m"
+    ],
+    [
+      0.425430,
+      "\u001b[16D\u001b[32mr\u001b[32mu\u001b[32mb\u001b[32my\u001b[39m \u001b[24m-\u001b[24mI\u001b[24m \u001b[24mt\u001b[24me\u001b[24ms\u001b[24mt\u001b[24m:\u001b[24ml\u001b[24mi\u001b[24mb \u001b[4mtest/calc_test.rb\u001b[24m"
+    ],
+    [
+      0.916453,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ruby -I test:lib test/calc_test.rb\u0007\u001b]1;ruby\u0007"
+    ],
+    [
+      0.517324,
+      "Started with run options --seed 48762"
+    ],
+    [
+      0.000084,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.002127,
+      "CalcTest"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000432,
+      "  test: Calc should add numbers properly.                        "
+    ],
+    [
+      0.000144,
+      "\u001b[31m FAIL\u001b[0m"
+    ],
+    [
+      0.000083,
+      " (0.00s)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "Minitest::Assertion: "
+    ],
+    [
+      0.000017,
+      "        Expected: 4"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "          Actual: nil"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000308,
+      "        test/calc_test.rb:11:in `block in \u003cclass:CalcTest\u003e'"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "        /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `instance_exec'\r\n        /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `block in create_test_from_should_hash'\r\n\r\n"
+    ],
+    [
+      0.000135,
+      "  test: Calc should subtract numbers properly.                   "
+    ],
+    [
+      0.000048,
+      "\u001b[31mERROR\u001b[0m"
+    ],
+    [
+      0.000025,
+      " (0.00s)"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "NoMethodError: "
+    ],
+    [
+      0.000065,
+      "        NoMethodError: undefined method `subtract' for #\u003cCalc:0x007f358866cc08\u003e"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "            test/calc_test.rb:15:in `block in \u003cclass:CalcTest\u003e'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "            /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `instance_exec'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "            /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `block in create_test_from_should_hash'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "        test/calc_test.rb:15:in `block in \u003cclass:CalcTest\u003e'"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "        /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `instance_exec'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "        /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `block in create_test_from_should_hash'"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "Finished in 0.00404s"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "2 tests, 1 assertions, "
+    ],
+    [
+      0.000017,
+      "\u001b[31m1 failures, 1 errors, \u001b[0m"
+    ],
+    [
+      0.000012,
+      "\u001b[33m0 skips\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.053218,
+      "\u001b]2;[Minitest results] 2 tests\u0007\r\n"
+    ],
+    [
+      0.008847,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                         \r \r\u001b]2;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007\u001b]1;~/Desktop/TDD\u0007"
+    ],
+    [
+      0.009885,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘\u001b[40m\u001b[39m ekrem@ekrem-MS-16Y1 \u001b[44m\u001b[30m\u001b[30m ~/Desktop/TDD \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000012,
+      "\u001b[K"
+    ],
+    [
+      0.000199,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.999842,
+      "\u001b[32mruby\u001b[39m -I test:lib \u001b[4mtest/calc_test.rb\u001b[24m"
+    ],
+    [
+      0.468991,
+      "\u001b[34D\u001b[32mn\u001b[32ma\u001b[32mn\u001b[32mo\u001b[39m \u001b[4ml\u001b[4mi\u001b[4mb\u001b[4m/\u001b[4mc\u001b[4ma\u001b[4ml\u001b[4mc\u001b[4m.\u001b[4mr\u001b[4mb\u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[18D"
+    ],
+    [
+      0.780429,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;nano lib/calc.rb\u0007\u001b]1;nano\u0007"
+    ],
+    [
+      0.017277,
+      "\u001b[?1049h\u001b[1;38r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000248,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000174,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000003,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001706,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6                                           File: lib/calc.rb                                                                                              \u001b[3;1H\u001b(B\u001b[0m\u001b[33mclass\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[34mCalc\u001b[5d\u0008\u0008\u001b(B\u001b[0m\u001b[33mdef\u001b[39m\u001b(B\u001b[m add(a,b)\u001b[7;9H\u001b[33mend\r\u001b[9dend\u001b[36;78H\u001b[39m\u001b(B\u001b[0;7m[ Read 7 lines ]\r\u001b[37d^G\u001b(B\u001b[m Get Help\u001b[37;29H\u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut\u001b[37;57H\u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File\u001b[37;85H\u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page\u001b[37;113H\u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text\u001b[37;141H\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[38d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[38;29H\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify\u001b[38;57H\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is\u001b[38;85H\u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page\u001b[38;113H\u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text\u001b[38;141H\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\r\u001b[3d"
+    ],
+    [
+      0.889545,
+      "\u001b[4d"
+    ],
+    [
+      0.476082,
+      "\u001b[5d"
+    ],
+    [
+      0.204234,
+      "\u001b[6d"
+    ],
+    [
+      0.523276,
+      "\u001b[1;161H\u001b(B\u001b[0;7mModified\u001b[6;9H\u001b(B\u001b[m"
+    ],
+    [
+      0.527342,
+      "\u001b[6;17H"
+    ],
+    [
+      0.353909,
+      "a"
+    ],
+    [
+      0.451922,
+      "+"
+    ],
+    [
+      0.578145,
+      "b"
+    ],
+    [
+      1.424292,
+      "\r\u001b[36d\u001b(B\u001b[0;7mSave modified buffer (ANSWERING \"No\" WILL DESTROY CHANGES) ?                                                                                                              \u001b[37;1H Y\u001b(B\u001b[m Yes\u001b[K\r\u001b[38d\u001b(B\u001b[0;7m N\u001b(B\u001b[m No  \u001b[38;17H\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[K\u001b[36;62H"
+    ],
+    [
+      0.564549,
+      "\r\u001b(B\u001b[0;7mFile Name to Write: lib/calc.rb                             \r\u001b[37d^G\u001b(B\u001b[m Get Help\u001b[37;43H\u001b(B\u001b[0;7mM-D\u001b(B\u001b[m DOS Format\u001b[37;85H\u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Append\u001b[37;127H\u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Backup File\r\u001b[38d\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[17G         \u001b[38;43H\u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Mac Format\u001b[38;85H\u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Prepend\u001b[36;32H"
+    ],
+    [
+      0.412667,
+      "\r\u001b[37d\u001b[39;49m\u001b(B\u001b[m\u001b[J\u001b[1;161H\u001b(B\u001b[0;7m        \u001b[36;76H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Wrote 7 lines ]\u001b(B\u001b[m\u001b[K\u001b[38;170H\u001b[38;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001800,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                         \r \r\u001b]2;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007\u001b]1;~/Desktop/TDD\u0007"
+    ],
+    [
+      0.014450,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m ekrem@ekrem-MS-16Y1 \u001b[44m\u001b[30m\u001b[30m ~/Desktop/TDD \u001b[49m\u001b[34m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000054,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.455086,
+      "\u001b[32mnano\u001b[39m \u001b[4mlib/calc.rb\u001b[24m"
+    ],
+    [
+      0.395037,
+      "\u001b[16D\u001b[32mr\u001b[32mu\u001b[32mb\u001b[32my\u001b[39m \u001b[24m-\u001b[24mI\u001b[24m \u001b[24mt\u001b[24me\u001b[24ms\u001b[24mt\u001b[24m:\u001b[24ml\u001b[24mi\u001b[24mb \u001b[4mtest/calc_test.rb\u001b[24m"
+    ],
+    [
+      0.780454,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ruby -I test:lib test/calc_test.rb\u0007\u001b]1;ruby\u0007"
+    ],
+    [
+      0.518034,
+      "Started with run options --seed 53861"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000507,
+      "CalcTest\r\n"
+    ],
+    [
+      0.000082,
+      "  test: Calc should subtract numbers properly.                   "
+    ],
+    [
+      0.000034,
+      "\u001b[31mERROR\u001b[0m"
+    ],
+    [
+      0.000027,
+      " (0.00s)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "NoMethodError: "
+    ],
+    [
+      0.000072,
+      "        NoMethodError: undefined method `subtract' for #\u003cCalc:0x007f1eda144560\u003e"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "            test/calc_test.rb:15:in `block in \u003cclass:CalcTest\u003e'"
+    ],
+    [
+      0.000010,
+      "\r\n            /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `instance_exec'\r\n"
+    ],
+    [
+      0.000007,
+      "            /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `block in create_test_from_should_hash'\r\n"
+    ],
+    [
+      0.000023,
+      "        test/calc_test.rb:15:in `block in \u003cclass:CalcTest\u003e'"
+    ],
+    [
+      0.000005,
+      "\r\n        /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `instance_exec'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "        /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `block in create_test_from_should_hash'"
+    ],
+    [
+      0.000009,
+      "\r\n\r\n"
+    ],
+    [
+      0.000053,
+      "  test: Calc should add numbers properly.                        "
+    ],
+    [
+      0.000016,
+      "\u001b[32m PASS\u001b[0m"
+    ],
+    [
+      0.000007,
+      " (0.00s)"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000229,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "Finished in 0.00127s"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "2 tests, 1 assertions, "
+    ],
+    [
+      0.000017,
+      "\u001b[31m0 failures, 1 errors, \u001b[0m"
+    ],
+    [
+      0.000012,
+      "\u001b[33m0 skips\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.058228,
+      "\u001b]2;[Minitest results] 2 tests\u0007"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.009505,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                         \r \r"
+    ],
+    [
+      0.000080,
+      "\u001b]2;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007"
+    ],
+    [
+      0.000025,
+      "\u001b]1;~/Desktop/TDD\u0007"
+    ],
+    [
+      0.012784,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘\u001b[40m\u001b[39m ekrem@ekrem-MS-16Y1 \u001b[44m\u001b[30m\u001b[30m ~/Desktop/TDD \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000022,
+      "\u001b[K"
+    ],
+    [
+      0.000085,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.715324,
+      "\u001b[32mruby\u001b[39m -I test:lib \u001b[4mtest/calc_test.rb\u001b[24m"
+    ],
+    [
+      0.288793,
+      "\u001b[34D\u001b[32mn\u001b[32ma\u001b[32mn\u001b[32mo\u001b[39m \u001b[4ml\u001b[4mi\u001b[4mb\u001b[4m/\u001b[4mc\u001b[4ma\u001b[4ml\u001b[4mc\u001b[4m.\u001b[4mr\u001b[4mb\u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[18D"
+    ],
+    [
+      0.979313,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;nano lib/calc.rb\u0007\u001b]1;nano\u0007"
+    ],
+    [
+      0.018276,
+      "\u001b[?1049h\u001b[1;38r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000060,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000037,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000002,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001619,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6                                           File: lib/calc.rb                                                                                              \u001b[3;1H\u001b(B\u001b[0m\u001b[33mclass\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[34mCalc\u001b[5d\u0008\u0008\u001b(B\u001b[0m\u001b[33mdef\u001b[39m\u001b(B\u001b[m add(a,b)\u001b[6;17Ha+b\u001b[7;9H\u001b[33mend\r\u001b[9dend\u001b[36;78H\u001b[39m\u001b(B\u001b[0;7m[ Read 7 lines ]\r\u001b[37d^G\u001b(B\u001b[m Get Help\u001b[37;29H\u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut\u001b[37;57H\u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File\u001b[37;85H\u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page\u001b[37;113H\u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text\u001b[37;141H\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[38d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[38;29H\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify\u001b[38;57H\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is\u001b[38;85H\u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page\u001b[38;113H\u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text\u001b[38;141H\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\r\u001b[3d"
+    ],
+    [
+      0.696878,
+      "\u001b[4d"
+    ],
+    [
+      0.206664,
+      "\u001b[5d"
+    ],
+    [
+      0.175016,
+      "\u001b[6d"
+    ],
+    [
+      0.187601,
+      "\u001b[7d"
+    ],
+    [
+      0.184600,
+      "\u001b[8d"
+    ],
+    [
+      0.725630,
+      "\u001b7\u001b[8;35r\u001b8\u001bM\u001b[1;38r\u001b[1;161H\u001b(B\u001b[0;7mModified\r\u001b[9d\u001b(B\u001b[m"
+    ],
+    [
+      0.848823,
+      "\u001b[9;9H"
+    ],
+    [
+      0.772905,
+      "d"
+    ],
+    [
+      0.059969,
+      "e"
+    ],
+    [
+      0.120047,
+      "\u0008\u0008\u001b[33mdef\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.279929,
+      " "
+    ],
+    [
+      0.678264,
+      "s"
+    ],
+    [
+      0.181526,
+      "u"
+    ],
+    [
+      0.526364,
+      "b"
+    ],
+    [
+      0.417982,
+      "t"
+    ],
+    [
+      0.080021,
+      "r"
+    ],
+    [
+      0.079853,
+      "a"
+    ],
+    [
+      0.118775,
+      "c"
+    ],
+    [
+      0.363212,
+      "t"
+    ],
+    [
+      0.867965,
+      "("
+    ],
+    [
+      0.627989,
+      "a"
+    ],
+    [
+      0.352065,
+      ","
+    ],
+    [
+      0.202011,
+      "n"
+    ],
+    [
+      0.494656,
+      "\u0008 \u0008"
+    ],
+    [
+      0.061437,
+      "b"
+    ],
+    [
+      1.025728,
+      ")\r\u001b[36d\u001b[K\u001b[9;26H"
+    ],
+    [
+      0.378500,
+      "\u001b7\u001b[10;36r\u001b8\r\u001b[10d\u001bM\u001b[1;38r\u001b[10;1H"
+    ],
+    [
+      0.141989,
+      "\u001b7\u001b[10;36r\u001b8\u001bM\u001b[1;38r\u001b[11;1H"
+    ],
+    [
+      0.303716,
+      "e"
+    ],
+    [
+      0.648487,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.121472,
+      "\u001b[11;9H"
+    ],
+    [
+      0.599852,
+      "r"
+    ],
+    [
+      0.179809,
+      "n"
+    ],
+    [
+      0.418937,
+      "\u0008 \u0008"
+    ],
+    [
+      0.131942,
+      "\r\u001b[K\u001b[11;9H"
+    ],
+    [
+      0.123471,
+      "e"
+    ],
+    [
+      0.140148,
+      "m"
+    ],
+    [
+      0.161845,
+      "f"
+    ],
+    [
+      0.329427,
+      "\u0008 \u0008"
+    ],
+    [
+      0.100211,
+      "\u0008 \u0008"
+    ],
+    [
+      0.270472,
+      "n"
+    ],
+    [
+      0.161212,
+      "f"
+    ],
+    [
+      0.529199,
+      "\u0008 \u0008"
+    ],
+    [
+      0.041482,
+      "\u0008\u0008\u001b[33mend\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      1.288916,
+      "\r\u001b[36d\u001b(B\u001b[0;7mSave modified buffer (ANSWERING \"No\" WILL DESTROY CHANGES) ?                                                                                                              \u001b[37;1H Y\u001b(B\u001b[m Yes\u001b[K\r\u001b[38d\u001b(B\u001b[0;7m N\u001b(B\u001b[m No  \u001b[38;17H\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[K\u001b[36;62H"
+    ],
+    [
+      0.599069,
+      "\r\u001b(B\u001b[0;7mFile Name to Write: lib/calc.rb                             \r\u001b[37d^G\u001b(B\u001b[m Get Help\u001b[37;43H\u001b(B\u001b[0;7mM-D\u001b(B\u001b[m DOS Format\u001b[37;85H\u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Append\u001b[37;127H\u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Backup File\r\u001b[38d\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[17G         \u001b[38;43H\u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Mac Format\u001b[38;85H\u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Prepend\u001b[36;32H"
+    ],
+    [
+      0.613890,
+      "\r\u001b[37d\u001b[39;49m\u001b(B\u001b[m\u001b[J\u001b[1;161H\u001b(B\u001b[0;7m        \u001b[36;76H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Wrote 10 lines ]\u001b(B\u001b[m\u001b[K\u001b[38;170H\u001b[38;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001738,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                         \r \r\u001b]2;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007\u001b]1;~/Desktop/TDD\u0007"
+    ],
+    [
+      0.011687,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m ekrem@ekrem-MS-16Y1 \u001b[44m\u001b[30m\u001b[30m ~/Desktop/TDD \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000010,
+      "\u001b[K"
+    ],
+    [
+      0.000060,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.718843,
+      "\u001b[32mnano\u001b[39m \u001b[4mlib/calc.rb\u001b[24m"
+    ],
+    [
+      0.180751,
+      "\u001b[16D\u001b[32mr\u001b[32mu\u001b[32mb\u001b[32my\u001b[39m \u001b[24m-\u001b[24mI\u001b[24m \u001b[24mt\u001b[24me\u001b[24ms\u001b[24mt\u001b[24m:\u001b[24ml\u001b[24mi\u001b[24mb \u001b[4mtest/calc_test.rb\u001b[24m"
+    ],
+    [
+      0.493535,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000020,
+      "\r\r\n"
+    ],
+    [
+      0.000841,
+      "\u001b]2;ruby -I test:lib test/calc_test.rb\u0007\u001b]1;ruby\u0007"
+    ],
+    [
+      0.509526,
+      "Started with run options --seed 8214"
+    ],
+    [
+      0.000345,
+      "\r\n\r\n"
+    ],
+    [
+      0.000555,
+      "CalcTest\r\n"
+    ],
+    [
+      0.000164,
+      "  test: Calc should subtract numbers properly.                   "
+    ],
+    [
+      0.000032,
+      "\u001b[31m FAIL\u001b[0m"
+    ],
+    [
+      0.000039,
+      " (0.00s)\r\n"
+    ],
+    [
+      0.000014,
+      "Minitest::Assertion: "
+    ],
+    [
+      0.000030,
+      "        Expected: 0"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "          Actual: nil"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "        test/calc_test.rb:15:in `block in \u003cclass:CalcTest\u003e'"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "        /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `instance_exec'"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "        /home/ekrem/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/shoulda-context-1.2.1/lib/shoulda/context/context.rb:413:in `block in create_test_from_should_hash'"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "  test: Calc should add numbers properly.                        "
+    ],
+    [
+      0.000021,
+      "\u001b[32m PASS\u001b[0m"
+    ],
+    [
+      0.000016,
+      " (0.00s)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000235,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "Finished in 0.00177s"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "2 tests, 2 assertions, "
+    ],
+    [
+      0.000039,
+      "\u001b[31m1 failures, 0 errors, \u001b[0m"
+    ],
+    [
+      0.000019,
+      "\u001b[33m0 skips\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.065955,
+      "\u001b]2;[Minitest results] 2 tests\u0007"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.009047,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                         \r \r"
+    ],
+    [
+      0.000039,
+      "\u001b]2;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007"
+    ],
+    [
+      0.000050,
+      "\u001b]1;~/Desktop/TDD\u0007"
+    ],
+    [
+      0.012815,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘\u001b[40m\u001b[39m ekrem@ekrem-MS-16Y1 \u001b[44m\u001b[30m\u001b[30m ~/Desktop/TDD \u001b[49m\u001b[34m\u001b[39m "
+    ],
+    [
+      0.000011,
+      "\u001b[K"
+    ],
+    [
+      0.000040,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.062383,
+      "\u001b[32mruby\u001b[39m -I test:lib \u001b[4mtest/calc_test.rb\u001b[24m"
+    ],
+    [
+      0.349137,
+      "\u001b[34D\u001b[32mn\u001b[32ma\u001b[32mn\u001b[32mo\u001b[39m \u001b[4ml\u001b[4mi\u001b[4mb\u001b[4m/\u001b[4mc\u001b[4ma\u001b[4ml\u001b[4mc\u001b[4m.\u001b[4mr\u001b[4mb\u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[24m \u001b[18D"
+    ],
+    [
+      0.823369,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;nano lib/calc.rb\u0007\u001b]1;nano\u0007"
+    ],
+    [
+      0.013804,
+      "\u001b[?1049h\u001b[1;38r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000138,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000058,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000003,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001988,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.2.6                                           File: lib/calc.rb                                                                                              \u001b[3;1H\u001b(B\u001b[0m\u001b[33mclass\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m\u001b[34mCalc\u001b[5d\u0008\u0008\u001b(B\u001b[0m\u001b[33mdef\u001b[39m\u001b(B\u001b[m add(a,b)\u001b[6;17Ha+b\u001b[7;9H\u001b[33mend\u001b[9;9Hdef\u001b[39m\u001b(B\u001b[m subtract(a,b)\u001b[11;9H\u001b[33mend\r\u001b[12dend\u001b[36;77H\u001b[39m\u001b(B\u001b[0;7m[ Read 10 lines ]\r\u001b[37d^G\u001b(B\u001b[m Get Help\u001b[37;29H\u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut\u001b[37;57H\u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File\u001b[37;85H\u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page\u001b[37;113H\u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text\u001b[37;141H\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[38d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[38;29H\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify\u001b[38;57H\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is\u001b[38;85H\u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page\u001b[38;113H\u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text\u001b[38;141H\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\r\u001b[3d"
+    ],
+    [
+      0.633984,
+      "\u001b[4d"
+    ],
+    [
+      0.219003,
+      "\u001b[5d"
+    ],
+    [
+      0.192068,
+      "\u001b[6d"
+    ],
+    [
+      0.192937,
+      "\u001b[7d"
+    ],
+    [
+      0.194918,
+      "\u001b[8d"
+    ],
+    [
+      0.178033,
+      "\u001b[9d"
+    ],
+    [
+      0.345896,
+      "\u001b[10d"
+    ],
+    [
+      0.234525,
+      "\u001b[1;161H\u001b(B\u001b[0;7mModified\u001b[10;9H\u001b(B\u001b[m"
+    ],
+    [
+      0.408982,
+      "\u001b[10;17H"
+    ],
+    [
+      0.509255,
+      "a"
+    ],
+    [
+      0.455021,
+      "-"
+    ],
+    [
+      0.481803,
+      "n"
+    ],
+    [
+      0.489748,
+      "\u0008 \u0008"
+    ],
+    [
+      0.021514,
+      "b"
+    ],
+    [
+      1.309156,
+      "\r\u001b[36d\u001b(B\u001b[0;7mSave modified buffer (ANSWERING \"No\" WILL DESTROY CHANGES) ?                                                                                                              \u001b[37;1H Y\u001b(B\u001b[m Yes\u001b[K\r\u001b[38d\u001b(B\u001b[0;7m N\u001b(B\u001b[m No  \u001b[38;17H\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[K\u001b[36;62H"
+    ],
+    [
+      0.721830,
+      "\r\u001b(B\u001b[0;7mFile Name to Write: lib/calc.rb                             \r\u001b[37d^G\u001b(B\u001b[m Get Help\u001b[37;43H\u001b(B\u001b[0;7mM-D\u001b(B\u001b[m DOS Format\u001b[37;85H\u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Append\u001b[37;127H\u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Backup File\r\u001b[38d\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[17G         \u001b[38;43H\u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Mac Format\u001b[38;85H\u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Prepend\u001b[36;32H"
+    ],
+    [
+      0.466034,
+      "\r\u001b[37d\u001b[39;49m\u001b(B\u001b[m\u001b[J\u001b[1;161H\u001b(B\u001b[0;7m        \u001b[36;76H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Wrote 10 lines ]\u001b(B\u001b[m\u001b[K\u001b[38;170H\u001b[38;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001131,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                         \r \r\u001b]2;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007\u001b]1;~/Desktop/TDD\u0007"
+    ],
+    [
+      0.012865,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m ekrem@ekrem-MS-16Y1 \u001b[44m\u001b[30m\u001b[30m ~/Desktop/TDD \u001b[49m\u001b[34m\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.008301,
+      "\u001b[32mnano\u001b[39m \u001b[4mlib/calc.rb\u001b[24m"
+    ],
+    [
+      0.298795,
+      "\u001b[16D\u001b[32mr\u001b[32mu\u001b[32mb\u001b[32my\u001b[39m \u001b[24m-\u001b[24mI\u001b[24m \u001b[24mt\u001b[24me\u001b[24ms\u001b[24mt\u001b[24m:\u001b[24ml\u001b[24mi\u001b[24mb \u001b[4mtest/calc_test.rb\u001b[24m"
+    ],
+    [
+      0.523679,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000015,
+      "\r\r\n"
+    ],
+    [
+      0.000878,
+      "\u001b]2;ruby -I test:lib test/calc_test.rb\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b]1;ruby\u0007"
+    ],
+    [
+      0.536231,
+      "Started with run options --seed 9659\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000542,
+      "CalcTest"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "  test: Calc should add numbers properly.                        "
+    ],
+    [
+      0.000032,
+      "\u001b[32m PASS\u001b[0m"
+    ],
+    [
+      0.000036,
+      " (0.00s)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "  test: Calc should subtract numbers properly.                   "
+    ],
+    [
+      0.000020,
+      "\u001b[32m PASS\u001b[0m"
+    ],
+    [
+      0.000017,
+      " (0.00s)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000498,
+      "\r\n"
+    ],
+    [
+      0.000019,
+      "Finished in 0.00138s"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "2 tests, 2 assertions, "
+    ],
+    [
+      0.000020,
+      "\u001b[32m0 failures, 0 errors, \u001b[0m"
+    ],
+    [
+      0.000009,
+      "\u001b[33m0 skips\u001b[0m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.101208,
+      "\u001b]2;[Minitest results] 2 tests\u0007\r\n"
+    ],
+    [
+      0.011948,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                         \r \r\u001b]2;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007\u001b]1;~/Desktop/TDD\u0007"
+    ],
+    [
+      0.011456,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m ekrem@ekrem-MS-16Y1 \u001b[44m\u001b[30m\u001b[30m ~/Desktop/TDD \u001b[49m\u001b[34m\u001b[39m \u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.692846,
+      "\r\r\n"
+    ],
+    [
+      0.000873,
+      "\u001b]0;ekrem@ekrem-MS-16Y1: ~/Desktop/TDD\u0007ekrem@ekrem-MS-16Y1:~/Desktop/TDD$ "
+    ],
+    [
+      2.121794,
+      "exit\r\n"
+    ]
+  ]
+}
