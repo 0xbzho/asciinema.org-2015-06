@@ -1,0 +1,718 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 27,
+  "duration": 313.152381,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.366761,
+      "$ "
+    ],
+    [
+      0.433576,
+      "m"
+    ],
+    [
+      0.109991,
+      "a"
+    ],
+    [
+      0.084436,
+      "c"
+    ],
+    [
+      0.108617,
+      " "
+    ],
+    [
+      0.107334,
+      "i"
+    ],
+    [
+      0.106688,
+      "n"
+    ],
+    [
+      0.130012,
+      "f"
+    ],
+    [
+      0.222484,
+      "r"
+    ],
+    [
+      0.107737,
+      "a"
+    ],
+    [
+      0.052494,
+      "s"
+    ],
+    [
+      0.116189,
+      "t"
+    ],
+    [
+      0.118618,
+      "r"
+    ],
+    [
+      0.083991,
+      "u"
+    ],
+    [
+      0.086219,
+      "c"
+    ],
+    [
+      0.205879,
+      "t"
+    ],
+    [
+      0.428333,
+      "u"
+    ],
+    [
+      0.150828,
+      "r"
+    ],
+    [
+      0.119006,
+      "e"
+    ],
+    [
+      0.285153,
+      " "
+    ],
+    [
+      0.227238,
+      "m"
+    ],
+    [
+      0.035953,
+      "a"
+    ],
+    [
+      0.117428,
+      "c"
+    ],
+    [
+      0.113225,
+      "f"
+    ],
+    [
+      0.147873,
+      "i"
+    ],
+    [
+      0.152382,
+      "l"
+    ],
+    [
+      0.114163,
+      "e"
+    ],
+    [
+      0.166602,
+      " "
+    ],
+    [
+      0.410577,
+      "s"
+    ],
+    [
+      0.188287,
+      "w"
+    ],
+    [
+      0.309440,
+      "arm-consul.macfile "
+    ],
+    [
+      0.476024,
+      "\r\n"
+    ],
+    [
+      1.034266,
+      "Infrastructure demo version 1.0\r\n===============================\r\n\r\n[swarm-master][swarm] Infrastructure tier\r\n-----------------------------------------\r\n\r\n"
+    ],
+    [
+      0.096580,
+      "Creating instance 'a7pf1v39c7bs2g399but7pvg02'\r\n\r\n\r\n"
+    ],
+    [
+      0.000011,
+      "[swarm01][swarm] Infrastructure tier\r\n------------------------------------\r\n\r\n"
+    ],
+    [
+      0.112947,
+      "Creating instance '9le9v79p1kgnqa0gtkr2borjct'\r\n\r\n\r\n"
+    ],
+    [
+      0.000073,
+      "[swarm02][swarm] Infrastructure tier\r\n------------------------------------\r\n\r\n"
+    ],
+    [
+      0.229664,
+      "Creating instance 'a2uk0befmb30jkltscn8dcn12g'\r\n\r\n\r\n"
+    ],
+    [
+      0.118318,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002499,
+      "+---------------+----+----------------------------+---------+-------------------+\r\n| Instance name | IP |        Instance ID         |   Type  |       Status      |\r\n+---------------+----+----------------------------+---------+-------------------+\r\n|     master    |    | a7pf1v39c7bs2g399but7pvg02 | testing | Creating instance |\r\n|    swarm01    |    | 9le9v79p1kgnqa0gtkr2borjct | testing | Creating instance |\r\n|    swarm02    |    | a2uk0befmb30jkltscn8dcn12g | testing | Creating instance |\r\n"
+    ],
+    [
+      0.000008,
+      "+---------------+----+----------------------------+---------+-------------------+\r\n"
+    ],
+    [
+      3.070689,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002905,
+      "+---------------+----+----------------------------+---------+-------------------+\r\n| Instance name | IP |        Instance ID         |   Type  |       Status      |\r\n+---------------+----+----------------------------+---------+-------------------+\r\n|     master    |    | a7pf1v39c7bs2g399but7pvg02 | testing | Creating instance |\r\n|    swarm01    |    | 9le9v79p1kgnqa0gtkr2borjct | testing | Creating instance |\r\n|    swarm02    |    | a2uk0befmb30jkltscn8dcn12g | testing | Creating instance |\r\n"
+    ],
+    [
+      0.000011,
+      "+---------------+----+----------------------------+---------+-------------------+\r\n"
+    ],
+    [
+      3.073756,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002534,
+      "+---------------+----+----------------------------+---------+-------------------+\r\n| Instance name | IP |        Instance ID         |   Type  |       Status      |\r\n+---------------+----+----------------------------+---------+-------------------+\r\n|     master    |    | a7pf1v39c7bs2g399but7pvg02 | testing | Creating instance |\r\n|    swarm01    |    | 9le9v79p1kgnqa0gtkr2borjct | testing | Creating instance |\r\n|    swarm02    |    | a2uk0befmb30jkltscn8dcn12g | testing | Creating instance |\r\n"
+    ],
+    [
+      0.000010,
+      "+---------------+----+----------------------------+---------+-------------------+\r\n"
+    ],
+    [
+      3.177185,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002530,
+      "+---------------+----+----------------------------+---------+-------------------+\r\n| Instance name | IP |        Instance ID         |   Type  |       Status      |\r\n+---------------+----+----------------------------+---------+-------------------+\r\n|     master    |    | a7pf1v39c7bs2g399but7pvg02 | testing | Creating instance |\r\n|    swarm01    |    | 9le9v79p1kgnqa0gtkr2borjct | testing | Creating instance |\r\n|    swarm02    |    | a2uk0befmb30jkltscn8dcn12g | testing | Creating instance |\r\n"
+    ],
+    [
+      0.000009,
+      "+---------------+----+----------------------------+---------+-------------------+\r\n"
+    ],
+    [
+      3.068224,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002241,
+      "+-----------------+-----------------+----------------------------+---------+--------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |       Status       |\r\n+-----------------+-----------------+----------------------------+---------+--------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Instance completed |\r\n|      master     |                 | a7pf1v39c7bs2g399but7pvg02 | testing | Creating instance  |\r\n|     swarm02     |                 | a2uk0befmb30jkltscn8dcn12g | testing | Creating instance  |\r\n"
+    ],
+    [
+      0.000016,
+      "+-----------------+-----------------+----------------------------+---------+--------------------+\r\n"
+    ],
+    [
+      67.542589,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002418,
+      "+-----------------+-----------------+----------------------------+---------+--------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |       Status       |\r\n+-----------------+-----------------+----------------------------+---------+--------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Instance completed |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Instance completed |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Instance completed |\r\n"
+    ],
+    [
+      0.000014,
+      "+-----------------+-----------------+----------------------------+---------+--------------------+\r\n"
+    ],
+    [
+      62.354904,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002529,
+      "+-----------------+-----------------+----------------------------+---------+--------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |       Status       |\r\n+-----------------+-----------------+----------------------------+---------+--------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Instance completed |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing |    Configuring     |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Instance completed |\r\n"
+    ],
+    [
+      0.000012,
+      "+-----------------+-----------------+----------------------------+---------+--------------------+\r\n"
+    ],
+    [
+      18.814485,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002430,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing |   Instance completed   |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing |      Configuring       |"
+    ],
+    [
+      0.000011,
+      "\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      6.076463,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002506,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing |   Instance completed   |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing |      Configuring       |\r\n"
+    ],
+    [
+      0.000032,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      27.483656,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.001590,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing |      Configuring       |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000015,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      6.090242,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002627,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing |      Configuring       |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000011,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.122425,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002939,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000010,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.064537,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002019,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000008,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.166865,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002747,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000009,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.080648,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002687,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000018,
+      "| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.073676,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.003256,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |"
+    ],
+    [
+      0.000014,
+      "\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.062742,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.001967,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000014,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.079053,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.001828,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000008,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.116109,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002137,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000009,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.097426,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002922,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000012,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.061377,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.001340,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.080971,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.001217,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.091118,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002644,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000013,
+      "| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.056689,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.000920,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000006,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.084573,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002293,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |"
+    ],
+    [
+      0.000008,
+      "\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.072723,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002195,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000009,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.106635,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002477,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000010,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.069881,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.001232,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Applying configuration |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000006,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.058575,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.001251,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing |    Ready (55m left)    |\r\n"
+    ],
+    [
+      0.000007,
+      "| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.123637,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002449,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing |    Ready (55m left)    |\r\n"
+    ],
+    [
+      0.000018,
+      "| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.087373,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002362,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing |    Ready (55m left)    |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000011,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.077472,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002438,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing |    Ready (55m left)    |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |"
+    ],
+    [
+      0.000011,
+      "\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.075232,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002675,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+"
+    ],
+    [
+      0.000304,
+      "\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing |    Ready (55m left)    |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Applying configuration |\r\n"
+    ],
+    [
+      0.000012,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.084157,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002631,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing |    Ready (55m left)    |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing |    Ready (55m left)    |\r\n"
+    ],
+    [
+      0.000011,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.088715,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002296,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing |    Ready (55m left)    |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing |    Ready (55m left)    |\r\n"
+    ],
+    [
+      0.000017,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.065222,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002369,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing |    Ready (55m left)    |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing |    Ready (55m left)    |\r\n"
+    ],
+    [
+      0.000010,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.076179,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002722,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing |    Ready (55m left)    |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing |    Ready (55m left)    |\r\n"
+    ],
+    [
+      0.000011,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.116729,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.003119,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing |    Ready (55m left)    |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing |    Ready (55m left)    |\r\n"
+    ],
+    [
+      0.000010,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.060762,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002167,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing |    Ready (55m left)    |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing |    Ready (55m left)    |\r\n"
+    ],
+    [
+      0.000009,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.125043,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.003043,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing |    Ready (55m left)    |\r\n"
+    ],
+    [
+      0.000014,
+      "| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing |    Ready (55m left)    |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.073164,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002634,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing |    Ready (55m left)    |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing |    Ready (55m left)    |"
+    ],
+    [
+      0.000011,
+      "\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.068829,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002453,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing |    Ready (55m left)    |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing |    Ready (55m left)    |"
+    ],
+    [
+      0.000012,
+      "\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.079931,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002169,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |         Status         |\r\n+-----------------+-----------------+----------------------------+---------+------------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Applying configuration |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing |    Ready (55m left)    |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing |    Ready (55m left)    |\r\n"
+    ],
+    [
+      0.000009,
+      "+-----------------+-----------------+----------------------------+---------+------------------------+\r\n"
+    ],
+    [
+      3.101295,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002494,
+      "+-----------------+-----------------+----------------------------+---------+------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |      Status      |\r\n+-----------------+-----------------+----------------------------+---------+------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Ready (54m left) |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Ready (54m left) |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Ready (54m left) |\r\n"
+    ],
+    [
+      0.000010,
+      "+-----------------+-----------------+----------------------------+---------+------------------+\r\n"
+    ],
+    [
+      0.096435,
+      "\u001b[2J\r\n"
+    ],
+    [
+      0.002283,
+      "+-----------------+-----------------+----------------------------+---------+------------------+\r\n|  Instance name  |        IP       |        Instance ID         |   Type  |      Status      |\r\n+-----------------+-----------------+----------------------------+---------+------------------+\r\n| mct-swarm01-9le | 130.211.130.108 | 9le9v79p1kgnqa0gtkr2borjct | testing | Ready (54m left) |\r\n|  mct-master-a7p |  104.154.95.177 | a7pf1v39c7bs2g399but7pvg02 | testing | Ready (54m left) |\r\n| mct-swarm02-a2u |  104.154.81.17  | a2uk0befmb30jkltscn8dcn12g | testing | Ready (54m left) |\r\n"
+    ],
+    [
+      0.000010,
+      "+-----------------+-----------------+----------------------------+---------+------------------+\r\n"
+    ],
+    [
+      0.000035,
+      "Infrastructure created successfully.\r\n"
+    ],
+    [
+      0.025407,
+      "$ "
+    ],
+    [
+      2.411203,
+      "^C\r\n$ "
+    ],
+    [
+      0.435501,
+      "exit\r\n"
+    ]
+  ]
+}
