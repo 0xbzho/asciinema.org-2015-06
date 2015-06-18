@@ -1,0 +1,426 @@
+{
+  "version": 1,
+  "width": 178,
+  "height": 44,
+  "duration": 24.698898,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.015253,
+      "\u001b[?1034hbash-3.2# "
+    ],
+    [
+      1.192331,
+      "l"
+    ],
+    [
+      0.088010,
+      "s"
+    ],
+    [
+      0.159981,
+      " "
+    ],
+    [
+      0.078945,
+      "-"
+    ],
+    [
+      0.120937,
+      "a"
+    ],
+    [
+      1.304940,
+      "l"
+    ],
+    [
+      0.231152,
+      "\r\n"
+    ],
+    [
+      0.006996,
+      "total 24\r\n"
+    ],
+    [
+      0.000368,
+      "drwxr-xr-x   7 leechulhee  staff   238  6 19 00:56 .\r\n"
+    ],
+    [
+      0.000016,
+      "drwxr-xr-x  26 leechulhee  staff   884  6 19 00:27 ..\r\n-rw-r--r--   1 leechulhee  staff   149  6 19 00:33 bower.json\r\n"
+    ],
+    [
+      0.000032,
+      "drwxr-xr-x   7 leechulhee  staff   238  6 19 00:33 bower_components\r\n-rw-r--r--   1 leechulhee  staff  1124  6 19 00:38 gulpfile.js\r\n"
+    ],
+    [
+      0.000026,
+      "drwxr-xr-x   8 leechulhee  staff   272  6 19 00:35 node_modules\r\n"
+    ],
+    [
+      0.000009,
+      "-rw-r--r--   1 leechulhee  staff   215  6 19 00:35 package.json\r\n"
+    ],
+    [
+      0.000725,
+      "bash-3.2# "
+    ],
+    [
+      0.391931,
+      "g"
+    ],
+    [
+      0.079673,
+      "u"
+    ],
+    [
+      0.192152,
+      "l"
+    ],
+    [
+      0.238920,
+      "p"
+    ],
+    [
+      0.657363,
+      "\r\n"
+    ],
+    [
+      1.457592,
+      "[ '/Users/leechulhee/Developer/Projects/main-bower-files/bower_components/react/react.js',\r\n  '/Users/leechulhee/Developer/Projects/main-bower-files/bower_components/underscore/underscore.js',\r\n  '/Users/leechulhee/Developer/Projects/main-bower-files/bower_components/reset-css/reset.css',\r\n  '/Users/leechulhee/Developer/Projects/main-bower-files/bower_components/backbone/backbone.js' ]\r\n"
+    ],
+    [
+      0.004611,
+      "[\u001b[90m00:56:42\u001b[39m] Using gulpfile \u001b[35m~/Developer/Projects/main-bower-files/gulpfile.js\u001b[39m\r\n"
+    ],
+    [
+      0.002878,
+      "[\u001b[90m00:56:42\u001b[39m] Starting '\u001b[36mbuild-vendor:js\u001b[39m'...\r\n"
+    ],
+    [
+      0.023495,
+      "[\u001b[90m00:56:42\u001b[39m] Starting '\u001b[36mbuild-vendor:css\u001b[39m'...\r\n"
+    ],
+    [
+      0.307315,
+      "[\u001b[90m00:56:42\u001b[39m] Finished '\u001b[36mbuild-vendor:js\u001b[39m' after \u001b[35m329 ms\u001b[39m\r\n"
+    ],
+    [
+      0.000960,
+      "[\u001b[90m00:56:42\u001b[39m] Finished '\u001b[36mbuild-vendor:css\u001b[39m' after \u001b[35m308 ms\u001b[39m\r\n"
+    ],
+    [
+      0.000201,
+      "[\u001b[90m00:56:42\u001b[39m] Starting '\u001b[36mbuild-vendor\u001b[39m'...\r\n"
+    ],
+    [
+      0.000277,
+      "[\u001b[90m00:56:42\u001b[39m] Finished '\u001b[36mbuild-vendor\u001b[39m' after \u001b[35m27 μs\u001b[39m\r\n"
+    ],
+    [
+      0.000388,
+      "[\u001b[90m00:56:42\u001b[39m] Starting '\u001b[36mdefault\u001b[39m'...\r\n"
+    ],
+    [
+      0.000304,
+      "[\u001b[90m00:56:42\u001b[39m] Finished '\u001b[36mdefault\u001b[39m' after \u001b[35m30 μs\u001b[39m\r\n"
+    ],
+    [
+      0.009354,
+      "bash-3.2# "
+    ],
+    [
+      1.056648,
+      "l"
+    ],
+    [
+      0.151125,
+      "s"
+    ],
+    [
+      0.224546,
+      " "
+    ],
+    [
+      0.127801,
+      "-"
+    ],
+    [
+      0.183792,
+      "a"
+    ],
+    [
+      0.135648,
+      "l"
+    ],
+    [
+      0.424860,
+      "\r\n"
+    ],
+    [
+      0.008052,
+      "total 24\r\n"
+    ],
+    [
+      0.000405,
+      "drwxr-xr-x   8 leechulhee  staff   272  6 19 00:56 .\r\n"
+    ],
+    [
+      0.000016,
+      "drwxr-xr-x  26 leechulhee  staff   884  6 19 00:27 ..\r\n-rw-r--r--   1 leechulhee  staff   149  6 19 00:33 bower.json\r\n"
+    ],
+    [
+      0.000007,
+      "drwxr-xr-x   7 leechulhee  staff   238  6 19 00:33 bower_components\r\n"
+    ],
+    [
+      0.000007,
+      "drwxr-xr-x   4 root        staff   136  6 19 00:56 dist\r\n"
+    ],
+    [
+      0.000022,
+      "-rw-r--r--   1 leechulhee  staff  1124  6 19 00:38 gulpfile.js\r\n"
+    ],
+    [
+      0.000008,
+      "drwxr-xr-x   8 leechulhee  staff   272  6 19 00:35 node_modules\r\n"
+    ],
+    [
+      0.000045,
+      "-rw-r--r--   1 leechulhee  staff   215  6 19 00:35 package.json\r\n"
+    ],
+    [
+      0.000680,
+      "bash-3.2# "
+    ],
+    [
+      1.367021,
+      "l"
+    ],
+    [
+      0.087534,
+      "s"
+    ],
+    [
+      0.088136,
+      " "
+    ],
+    [
+      0.104051,
+      "-"
+    ],
+    [
+      0.134805,
+      "a"
+    ],
+    [
+      0.089214,
+      "l"
+    ],
+    [
+      0.111941,
+      " "
+    ],
+    [
+      0.318858,
+      "d"
+    ],
+    [
+      0.088390,
+      "i"
+    ],
+    [
+      0.080279,
+      "s"
+    ],
+    [
+      0.152256,
+      "t"
+    ],
+    [
+      0.136622,
+      "/"
+    ],
+    [
+      0.431391,
+      "\r\n"
+    ],
+    [
+      0.007466,
+      "total 3680\r\n"
+    ],
+    [
+      0.000332,
+      "drwxr-xr-x  4 root        staff      136  6 19 00:56 .\r\n"
+    ],
+    [
+      0.000014,
+      "drwxr-xr-x  8 leechulhee  staff      272  6 19 00:56 ..\r\n-rw-rw-r--  1 root        staff     3174  6 19 00:56 vendor.css\r\n"
+    ],
+    [
+      0.000041,
+      "-rw-rw-r--  1 root        staff  1878052  6 19 00:56 vendor.js\r\n"
+    ],
+    [
+      0.000670,
+      "bash-3.2# "
+    ],
+    [
+      2.473733,
+      "c"
+    ],
+    [
+      0.165829,
+      "a"
+    ],
+    [
+      0.144227,
+      "t"
+    ],
+    [
+      0.174905,
+      " "
+    ],
+    [
+      0.248836,
+      "v"
+    ],
+    [
+      0.207252,
+      "e"
+    ],
+    [
+      0.088265,
+      "n"
+    ],
+    [
+      0.088448,
+      "d"
+    ],
+    [
+      0.096094,
+      "o"
+    ],
+    [
+      0.087938,
+      "r"
+    ],
+    [
+      0.127463,
+      "\u0007"
+    ],
+    [
+      0.615862,
+      "."
+    ],
+    [
+      0.320618,
+      "c"
+    ],
+    [
+      0.192209,
+      "s"
+    ],
+    [
+      0.143608,
+      "s"
+    ],
+    [
+      0.472395,
+      "\u0008"
+    ],
+    [
+      0.249988,
+      "\u0008"
+    ],
+    [
+      0.037650,
+      "\u0008"
+    ],
+    [
+      0.032205,
+      "\u0008"
+    ],
+    [
+      0.032713,
+      "\u0008"
+    ],
+    [
+      0.037479,
+      "\u0008"
+    ],
+    [
+      0.032189,
+      "\u0008"
+    ],
+    [
+      0.034499,
+      "\u0008"
+    ],
+    [
+      0.270158,
+      "\u0008"
+    ],
+    [
+      0.544224,
+      "\u0008"
+    ],
+    [
+      0.184794,
+      "dvendor.css\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.103939,
+      "ivendor.css\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.087415,
+      "svendor.css\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.192581,
+      "tvendor.css\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.152033,
+      "/vendor.css\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.600057,
+      "\r\n"
+    ],
+    [
+      0.007968,
+      "/* http://meyerweb.com/eric/tools/css/reset/ \r\n   v2.0 | 20110126\r\n   License: none (public domain)\r\n*/\r\n\r\nhtml, body, div, span, applet, object, iframe,\r\nh1, h2, h3, h4, h5, h6, p, blockquote, pre,\r\na, abbr, acronym, address, big, cite, code,\r\ndel, dfn, em, img, ins, kbd, q, s, samp,\r\nsmall, strike, strong, sub, sup, tt, var,\r\nb, u, i, center,\r\ndl, dt, dd, ol, ul, li,\r\nfieldset, form, label, legend,\r\ntable, caption, tbody, tfoot, thead, tr, th, td,\r\narticle, aside, canvas, details, embed, \r\nfigure, figcaption, footer, header, hgroup, \r\nmenu, nav, output, ruby, section, summary,\r\ntime, mark, audio, video {\r\n\tmargin: 0;\r\n\tpadding: 0;\r\n\tborder: 0;\r\n\tfont-size: 100%;\r\n\tfont: inherit;\r\n\tvertical-align: baseline;\r\n}\r\n/* HTML5 display-role reset for older browsers */\r\narticle, aside, details, figcaption, figure, \r\nfooter, header, hgroup, menu, nav, section {\r\n\tdisplay: block;\r\n}\r\nbody {\r\n\tline-height: 1;\r\n}\r\nol, ul {\r\n\tlist-style: none;\r\n}\r\nblockquote, q {\r\n\tquotes: none;\r\n}\r\nblockquote:before, blockquote:after,\r\nq"
+    ],
+    [
+      0.001664,
+      ":before, q:after {\r\n\tcontent: '';\r\n\tcontent: none;\r\n}\r\ntable {\r\n\tborder-collapse: collapse;\r\n\tborder-spacing: 0;\r\n}\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInJlc2V0LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EiLCJmaWxlIjoidmVuZG9yLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qIGh0dHA6Ly9tZXllcndlYi5jb20vZXJpYy90b29scy9jc3MvcmVzZXQvIFxuICAgdjIuMCB8IDIwMTEwMTI2XG4gICBMaWNlbnNlOiBub25lIChwdWJsaWMgZG9tYWluKVxuKi9cblxuaHRtbCwgYm9keSwgZGl2LCBzcGFuLCBhcHBsZXQsIG9iamVjdCwgaWZyYW1lLFxuaDEsIGgyLCBoMywgaDQsIGg1LCBoNiwgcCwgYmxvY2txdW90ZSwgcHJlLFxuYSwgYWJiciwgYWNyb255bSwgYWRkcmVzcywgYmlnLCBjaXRlLCBjb2RlLFxuZGVsLCBkZm4sIGVtLCBpbWcsIGlucywga2JkLCBxLCBzLCBzYW1wLFxuc21hbGwsIHN0cmlrZSwgc"
+    ],
+    [
+      0.000313,
+      "3Ryb25nLCBzdWIsIHN1cCwgdHQsIHZhcixcbmIsIHUsIGksIGNlbnRlcixcbmRsLCBkdCwgZGQsIG9sLCB1bCwgbGksXG5maWVsZHNldCwgZm9ybSwgbGFiZWwsIGxlZ2VuZCxcbnRhYmxlLCBjYXB0aW9uLCB0Ym9keSwgdGZvb3QsIHRoZWFkLCB0ciwgdGgsIHRkLFxuYXJ0aWNsZSwgYXNpZGUsIGNhbnZhcywgZGV0YWlscywgZW1iZWQsIFxuZmlndXJlLCBmaWdjYXB0aW9uLCBmb290ZXIsIGhlYWRlciwgaGdyb3VwLCBcbm1lbnUsIG5hdiwgb3V0cHV0LCBydWJ5LCBzZWN0aW9uLCBzdW1tYXJ5LFxudGltZSwgbWFyaywgYXVkaW8sIHZpZGVvIHtcblx0bWFyZ2luOiAwO1xuXHRwYWRkaW5nOiAwO1xuXHRib3JkZXI6IDA7XG5cdGZvbnQtc2l6ZTogMTAwJTtcblx0Zm9udDogaW5oZXJpdDtcblx0dmVydGljYWwtYWxpZ246IGJhc2VsaW5lO1xufVxuLyogSFRNTDUgZGlzcGxheS1yb2xlIHJlc2V0IGZvciBvbGRlciBicm93c2VycyAqL1xuYXJ0aWNsZSwgYXNpZGUsIGRldGFpbHMsIGZpZ2NhcHRpb24sIGZpZ3VyZSwgXG5mb290ZXIsIGhlYWRlciwgaGdyb3VwLCBtZW51LCBuYXYsIHNlY3Rpb24ge1xuXHRkaXNwbGF5OiBibG9jaztcbn1cbmJvZHkge1xuXHRsaW5lLWhlaWdodDogMTtcbn1cbm9sLCB1bCB7XG5cdGxpc3Qtc3R5bGU6IG5vbmU7XG59XG5ibG9ja3F1b3RlLCBxIHtcblx0cXVvdGVzOiBub25lO1xufVxuYmxvY2txdW90ZTpiZWZvcmUsIGJsb2NrcXVvdGU6YWZ0ZXIsXG5xOmJlZm9yZSwgcTphZnRlciB7XG5cdGNvbnRlbnQ6ICcnO1xuX"
+    ],
+    [
+      0.000034,
+      "HRjb250ZW50OiBub25lO1xufVxudGFibGUge1xuXHRib3JkZXItY29sbGFwc2U6IGNvbGxhcHNlO1xuXHRib3JkZXItc3BhY2luZzogMDtcbn0iXSwic291cmNlUm9vdCI6Ii9zb3VyY2UvIn0= */"
+    ],
+    [
+      0.000820,
+      "bash-3.2# "
+    ],
+    [
+      2.293995,
+      "\u0007"
+    ],
+    [
+      2.072249,
+      "exit\r\n"
+    ]
+  ]
+}
