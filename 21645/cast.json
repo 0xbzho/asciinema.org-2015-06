@@ -1,0 +1,330 @@
+{
+  "version": 1,
+  "width": 108,
+  "height": 33,
+  "duration": 29.744698,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.016004,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      0.519595,
+      "\u001b[?1034h\u001b]2;/Users/gleb/git/chdir-promise\u0001\u0007\u001b]1;git/chdir-promise\u0007\u001b[1m\u001b[38;5;190m~/git/chdir-promise\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n"
+    ],
+    [
+      0.000007,
+      "$ \u001b(B\u001b[m"
+    ],
+    [
+      0.744358,
+      "n"
+    ],
+    [
+      0.079847,
+      "e"
+    ],
+    [
+      0.152043,
+      "x"
+    ],
+    [
+      0.120259,
+      "t"
+    ],
+    [
+      0.127622,
+      "-"
+    ],
+    [
+      0.328233,
+      "u"
+    ],
+    [
+      0.159941,
+      "p"
+    ],
+    [
+      0.040054,
+      "d"
+    ],
+    [
+      0.160250,
+      "a"
+    ],
+    [
+      0.167859,
+      "t"
+    ],
+    [
+      0.047997,
+      "e"
+    ],
+    [
+      0.064109,
+      " "
+    ],
+    [
+      0.351520,
+      "-"
+    ],
+    [
+      0.128327,
+      "-"
+    ],
+    [
+      0.311599,
+      "t"
+    ],
+    [
+      0.224113,
+      "l"
+    ],
+    [
+      0.192323,
+      "d"
+    ],
+    [
+      0.055972,
+      "r"
+    ],
+    [
+      0.551789,
+      "\r\n"
+    ],
+    [
+      0.697594,
+      "\u003e tests are passing at the start\r\n"
+    ],
+    [
+      2.152931,
+      "\r\navailable updates:\r\n"
+    ],
+    [
+      0.003724,
+      "package           current  available  success %       successful updates  failed updates\r\n----------------  -------  ---------  --------------  ------------------  --------------\r\ncheck-more-types  1.1.1    1.7.3       \u001b[93m74%\u001b[39m                  23               8\r\ncheck-types       1.4.0    3.3.0        \u001b[91m0%\u001b[39m                   0              26\r\nlazy-ass          0.5.3    0.5.8      \u001b[92m100%\u001b[39m                  20               0\r\nq                 1.1.2    1.4.1      \u001b[92m100%\u001b[39m                  15               0\r\nspots             0.3.0    0.5.0      \u001b[92m100%\u001b[39m                  14               0\r\npre-git           0.1.1    0.6.0      \u001b[92m100%\u001b[39m                  24               0\r\n\r\n"
+    ],
+    [
+      0.000067,
+      "update stats from \u001b[4mhttp://next-update.herokuapp.com\u001b[24m\r\n"
+    ],
+    [
+      0.163918,
+      "stats: check-more-types 1.1.1 -\u003e 1.7.3 success probability \u001b[93m74%\u001b[39m 23 success(es) 8 failure(s)\r\n"
+    ],
+    [
+      0.985521,
+      "\u001b[92mcheck-more-types@1.7.3 works\u001b[39m\r\n"
+    ],
+    [
+      0.659082,
+      "stats: check-types 1.4.0 -\u003e 3.3.0 success probability \u001b[91m0%\u001b[39m 0 success(es) 26 failure(s)\r\n"
+    ],
+    [
+      0.968937,
+      "\u001b[91mcheck-types@3.3.0 tests failed :(\u001b[39m\r\n"
+    ],
+    [
+      0.591561,
+      "stats: lazy-ass 0.5.3 -\u003e 0.5.8 success probability \u001b[92m100%\u001b[39m 20 success(es) 0 failure(s)\r\n"
+    ],
+    [
+      0.937799,
+      "\u001b[92mlazy-ass@0.5.8 works\u001b[39m\r\n"
+    ],
+    [
+      0.569605,
+      "stats: q 1.1.2 -\u003e 1.4.1 success probability \u001b[92m100%\u001b[39m 15 success(es) 0 failure(s)\r\n"
+    ],
+    [
+      0.969644,
+      "\u001b[92mq@1.4.1 works\u001b[39m\r\n"
+    ],
+    [
+      0.594404,
+      "stats: spots 0.3.0 -\u003e 0.5.0 success probability \u001b[92m100%\u001b[39m 14 success(es) 0 failure(s)\r\n"
+    ],
+    [
+      0.945662,
+      "\u001b[92mspots@0.5.0 works\u001b[39m\r\n"
+    ],
+    [
+      0.562454,
+      "stats: pre-git 0.1.1 -\u003e 0.6.0 success probability \u001b[92m100%\u001b[39m 24 success(es) 0 failure(s)\r\n"
+    ],
+    [
+      1.839841,
+      "\u001b[92mpre-git@0.6.0 works\u001b[39m\r\n"
+    ],
+    [
+      0.746052,
+      "\r\n\u003e next updates:\r\n"
+    ],
+    [
+      0.000257,
+      "check-more-types 1.1.1 -\u003e \u001b[92m1.7.3\u001b[39m\r\n"
+    ],
+    [
+      0.000098,
+      "check-types 1.4.0 -\u003e \u001b[91m3.3.0\u001b[39m\r\n"
+    ],
+    [
+      0.000053,
+      "lazy-ass 0.5.3 -\u003e \u001b[92m0.5.8\u001b[39m\r\n"
+    ],
+    [
+      0.000030,
+      "q 1.1.2 -\u003e \u001b[92m1.4.1\u001b[39m\r\n"
+    ],
+    [
+      0.000030,
+      "spots 0.3.0 -\u003e \u001b[92m0.5.0\u001b[39m\r\n"
+    ],
+    [
+      0.000029,
+      "pre-git 0.1.1 -\u003e \u001b[92m0.6.0\u001b[39m\r\n"
+    ],
+    [
+      0.000301,
+      "\u003e use the following commands to install working versions\r\n"
+    ],
+    [
+      0.000005,
+      "npm install --save --save-exact check-more-types@1.7.3 lazy-ass@0.5.8 q@1.4.1 spots@0.5.0\r\nnpm install --save-dev --save-exact pre-git@0.6.0\r\n"
+    ],
+    [
+      0.019897,
+      "\u001b]2;/Users/gleb/git/chdir-promise\u0001\u0007\u001b]1;git/chdir-promise\u0007\u001b[1m\u001b[38;5;190m~/git/chdir-promise\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      1.893751,
+      "n"
+    ],
+    [
+      0.127986,
+      "e"
+    ],
+    [
+      0.184081,
+      "x"
+    ],
+    [
+      0.144004,
+      "t"
+    ],
+    [
+      0.144128,
+      "-"
+    ],
+    [
+      0.391717,
+      "u"
+    ],
+    [
+      0.192257,
+      "p"
+    ],
+    [
+      0.096024,
+      "d"
+    ],
+    [
+      0.183963,
+      "a"
+    ],
+    [
+      0.191744,
+      "t"
+    ],
+    [
+      0.040047,
+      "e"
+    ],
+    [
+      0.056105,
+      " "
+    ],
+    [
+      0.408073,
+      "-"
+    ],
+    [
+      0.135983,
+      "-"
+    ],
+    [
+      0.215765,
+      "h"
+    ],
+    [
+      0.112071,
+      "e"
+    ],
+    [
+      0.127923,
+      "l"
+    ],
+    [
+      0.032212,
+      "p"
+    ],
+    [
+      0.415907,
+      "\r\n"
+    ],
+    [
+      0.277514,
+      "next-update - Tests if module's dependencies can be updated to the newer version without breaking the tests\r\n  version: 0.8.0\r\n  author: \"Gleb Bahmutov \u003cgleb.bahmutov@gmail.com\u003e\"\r\n\r\nOptions:\r\n  --revert         install original module versions listed in package.json   [default: false]\r\n  --available, -a  only query available later versions, do not test them     [default: false]\r\n  --module, -m     checks specific module, can include version name@version  [default: null]\r\n  --latest, -l     only check latest available update                        [default: true]\r\n  --color, -c      color terminal output (if available)                      [default: true]\r\n  --version, -v    show version and exit                                     [default: false]\r\n  --test, -t       custom test command to run instead of npm test          \r\n  --skip           skip running tests first                                  [default: false]\r\n  --all            install all modules at once before testing                [default: false]"
+    ],
+    [
+      0.000016,
+      "\r\n  --keep, -k       keep tested version if it is working                      [default: false]\r\n  --allow          allow major / minor / patch updates                       [default: \"major\"]\r\n  --type           check dependencies of type (all, prod, dev, peer)         [default: \"all\"]\r\n  --tldr           only print VERY important log messages                    [default: false]\r\n\r\n"
+    ],
+    [
+      0.016497,
+      "\u001b]2;/Users/gleb/git/chdir-promise\u0001\u0007\u001b]1;git/chdir-promise\u0007\u001b[1m\u001b[38;5;190m~/git/chdir-promise\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      2.788411,
+      "\r\u001b[K$ \u001b(B\u001b[m"
+    ],
+    [
+      0.052345,
+      "\r\u001b[K$ \u001b(B\u001b[m"
+    ],
+    [
+      0.036174,
+      "\r\u001b[K$ \u001b(B\u001b[m"
+    ],
+    [
+      0.027029,
+      "\r\u001b[K$ \u001b(B\u001b[m"
+    ],
+    [
+      0.599105,
+      "\r\u001b[K$ \u001b(B\u001b[m"
+    ],
+    [
+      0.037475,
+      "\r\u001b[K$ \u001b(B\u001b[m"
+    ],
+    [
+      0.030877,
+      "\r\u001b[K$ \u001b(B\u001b[m"
+    ],
+    [
+      0.029460,
+      "\r\u001b[K$ \u001b(B\u001b[m"
+    ],
+    [
+      2.801145,
+      "exit\r\n"
+    ]
+  ]
+}
