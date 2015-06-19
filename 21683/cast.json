@@ -1,0 +1,1270 @@
+{
+  "version": 1,
+  "width": 108,
+  "height": 24,
+  "duration": 39.860165,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.011888,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000010,
+      "bash-3.2$ "
+    ],
+    [
+      3.999818,
+      "g"
+    ],
+    [
+      0.079235,
+      "i"
+    ],
+    [
+      0.088495,
+      "t"
+    ],
+    [
+      0.231573,
+      " "
+    ],
+    [
+      0.303710,
+      "c"
+    ],
+    [
+      0.064622,
+      "l"
+    ],
+    [
+      0.151715,
+      "o"
+    ],
+    [
+      0.088284,
+      "n"
+    ],
+    [
+      0.047803,
+      "e"
+    ],
+    [
+      0.209046,
+      " "
+    ],
+    [
+      0.078744,
+      "h"
+    ],
+    [
+      0.136153,
+      "t"
+    ],
+    [
+      0.104318,
+      "t"
+    ],
+    [
+      0.151594,
+      "p"
+    ],
+    [
+      0.208425,
+      "s"
+    ],
+    [
+      0.247816,
+      ":"
+    ],
+    [
+      0.535624,
+      "/"
+    ],
+    [
+      0.144102,
+      "/"
+    ],
+    [
+      0.248030,
+      "g"
+    ],
+    [
+      0.087715,
+      "i"
+    ],
+    [
+      0.072185,
+      "t"
+    ],
+    [
+      0.104103,
+      "h"
+    ],
+    [
+      0.072582,
+      "u"
+    ],
+    [
+      0.039697,
+      "b"
+    ],
+    [
+      0.143904,
+      "."
+    ],
+    [
+      0.135621,
+      "c"
+    ],
+    [
+      0.096027,
+      "o"
+    ],
+    [
+      0.071861,
+      "m"
+    ],
+    [
+      0.239768,
+      "/"
+    ],
+    [
+      0.704951,
+      "p"
+    ],
+    [
+      0.127581,
+      "e"
+    ],
+    [
+      0.111957,
+      "e"
+    ],
+    [
+      0.167748,
+      "r"
+    ],
+    [
+      0.063965,
+      "-"
+    ],
+    [
+      0.264509,
+      "r"
+    ],
+    [
+      0.119153,
+      "e"
+    ],
+    [
+      0.160108,
+      "v"
+    ],
+    [
+      0.064571,
+      "i"
+    ],
+    [
+      0.103757,
+      "e"
+    ],
+    [
+      0.152091,
+      "w"
+    ],
+    [
+      0.208011,
+      "e"
+    ],
+    [
+      0.176027,
+      "r"
+    ],
+    [
+      0.439873,
+      "-"
+    ],
+    [
+      0.568410,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.231459,
+      "/"
+    ],
+    [
+      0.912161,
+      "p"
+    ],
+    [
+      0.144278,
+      "h"
+    ],
+    [
+      0.143684,
+      "p"
+    ],
+    [
+      0.191966,
+      "-"
+    ],
+    [
+      0.175960,
+      "p"
+    ],
+    [
+      0.120447,
+      "e"
+    ],
+    [
+      0.111633,
+      "e"
+    ],
+    [
+      0.136509,
+      "r"
+    ],
+    [
+      0.151962,
+      "s"
+    ],
+    [
+      0.327599,
+      "\r\n"
+    ],
+    [
+      0.035404,
+      "Cloning into 'php-peers'...\r\n"
+    ],
+    [
+      2.440293,
+      "remote: Counting objects: 2705, done.\u001b[K\r\nremote: Compressing objects:  12% (1/8)   \u001b[K\rremote: Compressing objects:  25% (2/8)   \u001b[K\rremote: Compressing objects:  37% (3/8)   \u001b[K\rremote: Compressing objects:  50% (4/8)   \u001b[K\rremote: Compressing objects:  62% (5/8)   \u001b[K\rremote: Compressing objects:  75% (6/8)   \u001b[K\r"
+    ],
+    [
+      0.000010,
+      "remote: Compressing objects:  87% (7/8)   \u001b[K\rremote: Compressing objects: 100% (8/8)   \u001b[K\rremote: Compressing objects: 100% (8/8), done.\u001b[K\r\n"
+    ],
+    [
+      0.136897,
+      "Receiving objects:   0% (1/2705)   \r"
+    ],
+    [
+      0.000710,
+      "Receiving objects:   1% (28/2705)   \r"
+    ],
+    [
+      0.000668,
+      "Receiving objects:   2% (55/2705)   \r"
+    ],
+    [
+      0.000876,
+      "Receiving objects:   3% (82/2705)   \r"
+    ],
+    [
+      0.005411,
+      "Receiving objects:   4% (109/2705)   \r"
+    ],
+    [
+      0.109381,
+      "Receiving objects:   5% (136/2705)   \r"
+    ],
+    [
+      0.000882,
+      "Receiving objects:   6% (163/2705)   \r"
+    ],
+    [
+      0.010239,
+      "Receiving objects:   7% (190/2705)   \r"
+    ],
+    [
+      0.005727,
+      "Receiving objects:   8% (217/2705)   \r"
+    ],
+    [
+      0.000899,
+      "Receiving objects:   9% (244/2705)   \r"
+    ],
+    [
+      0.006700,
+      "Receiving objects:  10% (271/2705)   \r"
+    ],
+    [
+      0.000858,
+      "Receiving objects:  11% (298/2705)   \r"
+    ],
+    [
+      0.006778,
+      "Receiving objects:  12% (325/2705)   \r"
+    ],
+    [
+      0.005319,
+      "Receiving objects:  13% (352/2705)   \r"
+    ],
+    [
+      0.000956,
+      "Receiving objects:  14% (379/2705)   \r"
+    ],
+    [
+      0.007929,
+      "Receiving objects:  15% (406/2705)   \r"
+    ],
+    [
+      0.087213,
+      "Receiving objects:  16% (433/2705)   \r"
+    ],
+    [
+      0.000742,
+      "Receiving objects:  17% (460/2705)   \r"
+    ],
+    [
+      0.006520,
+      "Receiving objects:  18% (487/2705)   \r"
+    ],
+    [
+      0.000863,
+      "Receiving objects:  19% (514/2705)   \r"
+    ],
+    [
+      0.007142,
+      "Receiving objects:  20% (541/2705)   \r"
+    ],
+    [
+      0.047459,
+      "Receiving objects:  21% (569/2705)   \r"
+    ],
+    [
+      0.691370,
+      "Receiving objects:  21% (575/2705), 892.01 KiB | 883.00 KiB/s   \r"
+    ],
+    [
+      0.528849,
+      "Receiving objects:  22% (596/2705), 1.44 MiB | 976.00 KiB/s   \r"
+    ],
+    [
+      0.034304,
+      "Receiving objects:  23% (623/2705), 1.44 MiB | 976.00 KiB/s   \r"
+    ],
+    [
+      0.046216,
+      "Receiving objects:  24% (650/2705), 1.44 MiB | 976.00 KiB/s   \r"
+    ],
+    [
+      0.343943,
+      "Receiving objects:  25% (677/2705), 1.44 MiB | 976.00 KiB/s   \r"
+    ],
+    [
+      0.040048,
+      "Receiving objects:  26% (704/2705), 1.44 MiB | 976.00 KiB/s   \r"
+    ],
+    [
+      0.000134,
+      "Receiving objects:  26% (706/2705), 1.44 MiB | 976.00 KiB/s   \r"
+    ],
+    [
+      0.025767,
+      "Receiving objects:  27% (731/2705), 2.02 MiB | 1.00 MiB/s   \r"
+    ],
+    [
+      0.317233,
+      "Receiving objects:  28% (758/2705), 2.02 MiB | 1.00 MiB/s   \r"
+    ],
+    [
+      0.138958,
+      "Receiving objects:  29% (785/2705), 2.02 MiB | 1.00 MiB/s   \r"
+    ],
+    [
+      0.000351,
+      "Receiving objects:  30% (812/2705), 2.02 MiB | 1.00 MiB/s   \r"
+    ],
+    [
+      0.011958,
+      "Receiving objects:  31% (839/2705), 2.02 MiB | 1.00 MiB/s   \r"
+    ],
+    [
+      0.013482,
+      "Receiving objects:  32% (866/2705), 2.02 MiB | 1.00 MiB/s   \r"
+    ],
+    [
+      0.000351,
+      "Receiving objects:  33% (893/2705), 2.02 MiB | 1.00 MiB/s   \r"
+    ],
+    [
+      0.000411,
+      "Receiving objects:  34% (920/2705), 2.02 MiB | 1.00 MiB/s   \r"
+    ],
+    [
+      0.014014,
+      "Receiving objects:  35% (947/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000413,
+      "Receiving objects:  36% (974/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.011159,
+      "Receiving objects:  37% (1001/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000405,
+      "Receiving objects:  38% (1028/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.013072,
+      "Receiving objects:  39% (1055/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.013482,
+      "Receiving objects:  40% (1082/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000264,
+      "Receiving objects:  41% (1110/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000511,
+      "Receiving objects:  42% (1137/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.012311,
+      "Receiving objects:  43% (1164/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000317,
+      "Receiving objects:  44% (1191/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000311,
+      "Receiving objects:  45% (1218/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000289,
+      "Receiving objects:  46% (1245/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.011757,
+      "Receiving objects:  47% (1272/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000138,
+      "Receiving objects:  48% (1299/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000193,
+      "Receiving objects:  49% (1326/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000157,
+      "Receiving objects:  50% (1353/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000156,
+      "Receiving objects:  51% (1380/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000173,
+      "Receiving objects:  52% (1407/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.012995,
+      "Receiving objects:  53% (1434/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000481,
+      "Receiving objects:  54% (1461/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.012918,
+      "Receiving objects:  55% (1488/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000303,
+      "Receiving objects:  56% (1515/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000040,
+      "Receiving objects:  57% (1542/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000265,
+      "Receiving objects:  58% (1569/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000239,
+      "Receiving objects:  59% (1596/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.011769,
+      "Receiving objects:  60% (1623/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000476,
+      "Receiving objects:  61% (1651/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000247,
+      "Receiving objects:  62% (1678/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000208,
+      "Receiving objects:  63% (1705/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.012897,
+      "Receiving objects:  64% (1732/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000513,
+      "Receiving objects:  65% (1759/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000391,
+      "Receiving objects:  66% (1786/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.012411,
+      "Receiving objects:  67% (1813/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000137,
+      "Receiving objects:  68% (1840/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000521,
+      "Receiving objects:  69% (1867/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000355,
+      "Receiving objects:  70% (1894/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.011210,
+      "Receiving objects:  71% (1921/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000247,
+      "Receiving objects:  72% (1948/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000352,
+      "Receiving objects:  73% (1975/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000332,
+      "Receiving objects:  74% (2002/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.012497,
+      "Receiving objects:  75% (2029/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000145,
+      "Receiving objects:  76% (2056/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000204,
+      "Receiving objects:  77% (2083/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000199,
+      "Receiving objects:  78% (2110/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000139,
+      "Receiving objects:  79% (2137/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000212,
+      "Receiving objects:  80% (2164/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.013181,
+      "Receiving objects:  81% (2192/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.011863,
+      "Receiving objects:  82% (2219/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000193,
+      "Receiving objects:  83% (2246/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000263,
+      "Receiving objects:  84% (2273/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000288,
+      "Receiving objects:  85% (2300/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000376,
+      "Receiving objects:  86% (2327/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.001117,
+      "Receiving objects:  87% (2354/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000182,
+      "Receiving objects:  88% (2381/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000160,
+      "Receiving objects:  89% (2408/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000160,
+      "Receiving objects:  90% (2435/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.007368,
+      "Receiving objects:  91% (2462/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000180,
+      "Receiving objects:  92% (2489/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000086,
+      "Receiving objects:  93% (2516/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000056,
+      "Receiving objects:  94% (2543/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.006607,
+      "Receiving objects:  95% (2570/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000308,
+      "Receiving objects:  96% (2597/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000269,
+      "Receiving objects:  97% (2624/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000262,
+      "Receiving objects:  98% (2651/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.000160,
+      "Receiving objects:  99% (2678/2705), 2.61 MiB | 1.04 MiB/s   \r"
+    ],
+    [
+      0.010187,
+      "remote: Total 2705 (delta 1), reused 0 (delta 0), pack-reused 2696\u001b[K\r\n"
+    ],
+    [
+      0.000415,
+      "Receiving objects: 100% (2705/2705), 2.61 MiB | 1.04 MiB/s   \rReceiving objects: 100% (2705/2705), 2.88 MiB | 1.04 MiB/s, done.\r\n"
+    ],
+    [
+      0.000407,
+      "Resolving deltas:   0% (0/1414)   \r"
+    ],
+    [
+      0.002713,
+      "Resolving deltas:   1% (16/1414)   \r"
+    ],
+    [
+      0.001058,
+      "Resolving deltas:   2% (39/1414)   \r"
+    ],
+    [
+      0.000249,
+      "Resolving deltas:   3% (43/1414)   \r"
+    ],
+    [
+      0.000874,
+      "Resolving deltas:   4% (59/1414)   \r"
+    ],
+    [
+      0.001765,
+      "Resolving deltas:   7% (112/1414)   \r"
+    ],
+    [
+      0.000189,
+      "Resolving deltas:   8% (118/1414)   \r"
+    ],
+    [
+      0.000938,
+      "Resolving deltas:   9% (138/1414)   \r"
+    ],
+    [
+      0.000157,
+      "Resolving deltas:  10% (143/1414)   \r"
+    ],
+    [
+      0.000640,
+      "Resolving deltas:  11% (161/1414)   \r"
+    ],
+    [
+      0.000332,
+      "Resolving deltas:  12% (170/1414)   \r"
+    ],
+    [
+      0.000765,
+      "Resolving deltas:  13% (191/1414)   \r"
+    ],
+    [
+      0.000268,
+      "Resolving deltas:  14% (198/1414)   \r"
+    ],
+    [
+      0.000586,
+      "Resolving deltas:  15% (214/1414)   \r"
+    ],
+    [
+      0.000484,
+      "Resolving deltas:  16% (230/1414)   \r"
+    ],
+    [
+      0.000608,
+      "Resolving deltas:  17% (250/1414)   \r"
+    ],
+    [
+      0.000194,
+      "Resolving deltas:  18% (255/1414)   \r"
+    ],
+    [
+      0.000531,
+      "Resolving deltas:  19% (269/1414)   \r"
+    ],
+    [
+      0.000458,
+      "Resolving deltas:  20% (283/1414)   \r"
+    ],
+    [
+      0.000454,
+      "Resolving deltas:  21% (299/1414)   \r"
+    ],
+    [
+      0.000571,
+      "Resolving deltas:  22% (319/1414)   \r"
+    ],
+    [
+      0.000559,
+      "Resolving deltas:  23% (339/1414)   \r"
+    ],
+    [
+      0.000054,
+      "Resolving deltas:  24% (341/1414)   \r"
+    ],
+    [
+      0.000513,
+      "Resolving deltas:  25% (359/1414)   \r"
+    ],
+    [
+      0.000865,
+      "Resolving deltas:  27% (389/1414)   \r"
+    ],
+    [
+      0.000949,
+      "Resolving deltas:  29% (418/1414)   \r"
+    ],
+    [
+      0.000323,
+      "Resolving deltas:  30% (427/1414)   \r"
+    ],
+    [
+      0.000792,
+      "Resolving deltas:  32% (456/1414)   \r"
+    ],
+    [
+      0.000379,
+      "Resolving deltas:  33% (469/1414)   \r"
+    ],
+    [
+      0.000688,
+      "Resolving deltas:  34% (493/1414)   \r"
+    ],
+    [
+      0.000022,
+      "Resolving deltas:  35% (495/1414)   \r"
+    ],
+    [
+      0.000832,
+      "Resolving deltas:  37% (526/1414)   \r"
+    ],
+    [
+      0.000566,
+      "Resolving deltas:  38% (546/1414)   \r"
+    ],
+    [
+      0.000444,
+      "Resolving deltas:  39% (562/1414)   \r"
+    ],
+    [
+      0.000874,
+      "Resolving deltas:  41% (589/1414)   \r"
+    ],
+    [
+      0.000331,
+      "Resolving deltas:  42% (597/1414)   \r"
+    ],
+    [
+      0.001021,
+      "Resolving deltas:  44% (630/1414)   \r"
+    ],
+    [
+      0.000411,
+      "Resolving deltas:  45% (643/1414)   \r"
+    ],
+    [
+      0.000876,
+      "Resolving deltas:  47% (677/1414)   \r"
+    ],
+    [
+      0.000189,
+      "Resolving deltas:  48% (684/1414)   \r"
+    ],
+    [
+      0.001716,
+      "Resolving deltas:  52% (748/1414)   \r"
+    ],
+    [
+      0.000169,
+      "Resolving deltas:  53% (754/1414)   \r"
+    ],
+    [
+      0.000488,
+      "Resolving deltas:  54% (771/1414)   \r"
+    ],
+    [
+      0.000498,
+      "Resolving deltas:  55% (787/1414)   \r"
+    ],
+    [
+      0.000652,
+      "Resolving deltas:  57% (811/1414)   \r"
+    ],
+    [
+      0.000632,
+      "Resolving deltas:  58% (834/1414)   \r"
+    ],
+    [
+      0.000217,
+      "Resolving deltas:  59% (840/1414)   \r"
+    ],
+    [
+      0.000930,
+      "Resolving deltas:  61% (876/1414)   \r"
+    ],
+    [
+      0.000112,
+      "Resolving deltas:  62% (880/1414)   \r"
+    ],
+    [
+      0.000595,
+      "Resolving deltas:  63% (898/1414)   \r"
+    ],
+    [
+      0.001044,
+      "Resolving deltas:  66% (937/1414)   \r"
+    ],
+    [
+      0.000644,
+      "Resolving deltas:  67% (961/1414)   \r"
+    ],
+    [
+      0.000027,
+      "Resolving deltas:  68% (962/1414)   \r"
+    ],
+    [
+      0.000850,
+      "Resolving deltas:  70% (991/1414)   \r"
+    ],
+    [
+      0.000584,
+      "Resolving deltas:  71% (1014/1414)   \r"
+    ],
+    [
+      0.000340,
+      "Resolving deltas:  72% (1026/1414)   \r"
+    ],
+    [
+      0.000351,
+      "Resolving deltas:  73% (1037/1414)   \r"
+    ],
+    [
+      0.000584,
+      "Resolving deltas:  74% (1058/1414)   \r"
+    ],
+    [
+      0.000410,
+      "Resolving deltas:  75% (1072/1414)   \r"
+    ],
+    [
+      0.000126,
+      "Resolving deltas:  76% (1075/1414)   \r"
+    ],
+    [
+      0.000606,
+      "Resolving deltas:  77% (1098/1414)   \r"
+    ],
+    [
+      0.000261,
+      "Resolving deltas:  78% (1107/1414)   \r"
+    ],
+    [
+      0.000296,
+      "Resolving deltas:  79% (1118/1414)   \r"
+    ],
+    [
+      0.000519,
+      "Resolving deltas:  80% (1135/1414)   \r"
+    ],
+    [
+      0.003092,
+      "Resolving deltas:  88% (1247/1414)   \r"
+    ],
+    [
+      0.000356,
+      "Resolving deltas:  89% (1259/1414)   \r"
+    ],
+    [
+      0.000416,
+      "Resolving deltas:  90% (1273/1414)   \r"
+    ],
+    [
+      0.000422,
+      "Resolving deltas:  91% (1287/1414)   \r"
+    ],
+    [
+      0.000660,
+      "Resolving deltas:  92% (1314/1414)   \r"
+    ],
+    [
+      0.000097,
+      "Resolving deltas:  93% (1317/1414)   \r"
+    ],
+    [
+      0.000355,
+      "Resolving deltas:  94% (1330/1414)   \r"
+    ],
+    [
+      0.000588,
+      "Resolving deltas:  95% (1351/1414)   \r"
+    ],
+    [
+      0.001216,
+      "Resolving deltas: 100% (1414/1414)   \r"
+    ],
+    [
+      0.000048,
+      "Resolving deltas: 100% (1414/1414), done.\r\n"
+    ],
+    [
+      0.008962,
+      "Checking connectivity... "
+    ],
+    [
+      0.007503,
+      "done.\r\n"
+    ],
+    [
+      0.066871,
+      "bash-3.2$ "
+    ],
+    [
+      0.687686,
+      "c"
+    ],
+    [
+      0.126789,
+      "d"
+    ],
+    [
+      0.184462,
+      " "
+    ],
+    [
+      0.111728,
+      "p"
+    ],
+    [
+      0.144015,
+      "h"
+    ],
+    [
+      0.144290,
+      "p"
+    ],
+    [
+      0.767727,
+      "-"
+    ],
+    [
+      0.223418,
+      "["
+    ],
+    [
+      0.487380,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.146580,
+      "p"
+    ],
+    [
+      0.070823,
+      "eers/"
+    ],
+    [
+      0.519872,
+      "\r\n"
+    ],
+    [
+      0.000233,
+      "bash-3.2$ "
+    ],
+    [
+      1.520154,
+      "g"
+    ],
+    [
+      0.071756,
+      "i"
+    ],
+    [
+      0.103632,
+      "t"
+    ],
+    [
+      0.175764,
+      " "
+    ],
+    [
+      0.104164,
+      "b"
+    ],
+    [
+      0.096393,
+      "r"
+    ],
+    [
+      0.111809,
+      "a"
+    ],
+    [
+      0.087938,
+      "n"
+    ],
+    [
+      0.112232,
+      "c"
+    ],
+    [
+      0.095598,
+      "h"
+    ],
+    [
+      0.151840,
+      "\r\n"
+    ],
+    [
+      0.007088,
+      "* \u001b[32mmaster\u001b[m\r\n"
+    ],
+    [
+      0.000252,
+      "bash-3.2$ "
+    ],
+    [
+      1.240557,
+      "g"
+    ],
+    [
+      0.103746,
+      "i"
+    ],
+    [
+      0.056436,
+      "t"
+    ],
+    [
+      0.200287,
+      " "
+    ],
+    [
+      0.160283,
+      "c"
+    ],
+    [
+      0.111667,
+      "h"
+    ],
+    [
+      0.080326,
+      "e"
+    ],
+    [
+      0.135450,
+      "c"
+    ],
+    [
+      0.079982,
+      "k"
+    ],
+    [
+      0.144250,
+      "o"
+    ],
+    [
+      0.072023,
+      "u"
+    ],
+    [
+      0.080254,
+      "t"
+    ],
+    [
+      0.199791,
+      " "
+    ],
+    [
+      0.039593,
+      "-"
+    ],
+    [
+      0.144586,
+      "b"
+    ],
+    [
+      0.263817,
+      " "
+    ],
+    [
+      0.656604,
+      "m"
+    ],
+    [
+      0.158933,
+      "y"
+    ],
+    [
+      0.167939,
+      "-"
+    ],
+    [
+      0.224084,
+      "n"
+    ],
+    [
+      0.424401,
+      "e"
+    ],
+    [
+      0.135986,
+      "w"
+    ],
+    [
+      0.087465,
+      "-"
+    ],
+    [
+      0.272687,
+      "a"
+    ],
+    [
+      0.175756,
+      "r"
+    ],
+    [
+      0.151986,
+      "t"
+    ],
+    [
+      0.079632,
+      "i"
+    ],
+    [
+      0.096275,
+      "c"
+    ],
+    [
+      0.103707,
+      "l"
+    ],
+    [
+      0.104017,
+      "e"
+    ],
+    [
+      0.704978,
+      "\r\n"
+    ],
+    [
+      0.028345,
+      "Switched to a new branch 'my-new-article'\r\n"
+    ],
+    [
+      0.000442,
+      "bash-3.2$ "
+    ],
+    [
+      2.147301,
+      "g"
+    ],
+    [
+      0.094804,
+      "i"
+    ],
+    [
+      0.057169,
+      "t"
+    ],
+    [
+      0.191019,
+      " "
+    ],
+    [
+      0.128340,
+      "b"
+    ],
+    [
+      0.094964,
+      "r"
+    ],
+    [
+      0.176473,
+      "a"
+    ],
+    [
+      0.200571,
+      "n"
+    ],
+    [
+      0.135828,
+      "c"
+    ],
+    [
+      0.071982,
+      "h"
+    ],
+    [
+      0.192075,
+      "\r\n"
+    ],
+    [
+      0.006044,
+      "  master\u001b[m\r\n* \u001b[32mmy-new-article\u001b[m\r\n"
+    ],
+    [
+      0.000254,
+      "bash-3.2$ "
+    ],
+    [
+      3.672748,
+      "exit\r\n"
+    ]
+  ]
+}
