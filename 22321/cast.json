@@ -1,0 +1,4714 @@
+{
+  "version": 1,
+  "width": 140,
+  "height": 36,
+  "duration": 475.920068,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.052767,
+      "\u001b]0;chronos@localhost:/\u0007"
+    ],
+    [
+      0.001383,
+      "\u001b[01;32mchronos@localhost\u001b[01;34m / $\u001b[00m "
+    ],
+    [
+      0.999341,
+      "\u001b[H\u001b[2J\u001b[01;32mchronos@localhost\u001b[01;34m / $\u001b[00m "
+    ],
+    [
+      1.210408,
+      "sudo sh -e ~/Downloads/crouton -r kali -t"
+    ],
+    [
+      1.557100,
+      " "
+    ],
+    [
+      0.376029,
+      "c"
+    ],
+    [
+      0.142722,
+      "o"
+    ],
+    [
+      0.109623,
+      "r"
+    ],
+    [
+      0.177844,
+      "e"
+    ],
+    [
+      4.378338,
+      "\r\n"
+    ],
+    [
+      0.015122,
+      "Password: "
+    ],
+    [
+      3.850052,
+      "\r\n"
+    ],
+    [
+      0.175348,
+      "Installing kali-amd64 chroot to /usr/local/chroots/kali\r\n"
+    ],
+    [
+      0.005980,
+      "Downloading latest debootstrap...\r\n"
+    ],
+    [
+      1.769449,
+      "2015-06-24 00:15:55 URL:http://anonscm.debian.org/gitweb/?p=d-i/debootstrap.git;a=snapshot;h=HEAD;sf=tgz [61841] -\u003e \"-\" [1]\r\n"
+    ],
+    [
+      0.004190,
+      "Patching debootstrap...\r\n"
+    ],
+    [
+      0.010908,
+      "Downloading bootstrap files...\r\n"
+    ],
+    [
+      0.024151,
+      "W: Cannot check Release signature; keyring file not available /usr/share/keyrings/debian-archive-keyring.gpg\r\n"
+    ],
+    [
+      0.014972,
+      "I: Retrieving Release \r\n"
+    ],
+    [
+      0.692828,
+      "I: Retrieving Packages \r\n"
+    ],
+    [
+      18.532986,
+      "I: Validating Packages \r\n"
+    ],
+    [
+      1.350691,
+      "I: Resolving dependencies of required packages...\r\n"
+    ],
+    [
+      1.029815,
+      "I: Resolving dependencies of base packages...\r\n"
+    ],
+    [
+      1.394214,
+      "I: Found additional required dependencies: insserv libbz2-1.0 libdb5.1 libsemanage1 libsemanage-common libslang2 libustr-1.0-1 \r\nI: Found additional base dependencies: libept1.4.12 libgcrypt11 libgnutls26 libgpg-error0 libidn11 libnfnetlink0 libp11-kit0 libsqlite3-0 libtasn1-3 libxapian22 \r\n"
+    ],
+    [
+      0.022590,
+      "I: Checking component main on http://http.kali.org...\r\n"
+    ],
+    [
+      0.236776,
+      "I: Retrieving adduser 3.113+nmu3\r\n"
+    ],
+    [
+      3.581032,
+      "I: Validating adduser 3.113+nmu3\r\n"
+    ],
+    [
+      0.025273,
+      "I: Retrieving apt 0.9.7.9+deb7u7\r\n"
+    ],
+    [
+      10.613980,
+      "I: Validating apt 0.9.7.9+deb7u7\r\n"
+    ],
+    [
+      0.042546,
+      "I: Retrieving apt-utils 0.9.7.9+deb7u7\r\n"
+    ],
+    [
+      5.947166,
+      "I: Validating apt-utils 0.9.7.9+deb7u7\r\n"
+    ],
+    [
+      0.026482,
+      "I: Retrieving aptitude 0.6.8.2-1\r\n"
+    ],
+    [
+      10.792247,
+      "I: Validating aptitude 0.6.8.2-1\r\n"
+    ],
+    [
+      0.035972,
+      "I: Retrieving aptitude-common 0.6.8.2-1\r\n"
+    ],
+    [
+      14.577540,
+      "I: Validating aptitude-common 0.6.8.2-1\r\n"
+    ],
+    [
+      0.039277,
+      "I: Retrieving base-files 1:1.1.0\r\n"
+    ],
+    [
+      3.894024,
+      "I: Validating base-files 1:1.1.0\r\n"
+    ],
+    [
+      0.020890,
+      "I: Retrieving base-passwd 3.5.26\r\n"
+    ],
+    [
+      2.966820,
+      "I: Validating base-passwd 3.5.26\r\n"
+    ],
+    [
+      0.020696,
+      "I: Retrieving bash 4.2+dfsg-0.1+deb7u3\r\n"
+    ],
+    [
+      11.686026,
+      "I: Validating bash 4.2+dfsg-0.1+deb7u3\r\n"
+    ],
+    [
+      0.040455,
+      "I: Retrieving bsdmainutils 9.0.3\r\n"
+    ],
+    [
+      3.972462,
+      "I: Validating bsdmainutils 9.0.3\r\n"
+    ],
+    [
+      0.022815,
+      "I: Retrieving bsdutils 1:2.20.1-5.3\r\n"
+    ],
+    [
+      3.477627,
+      "I: Validating bsdutils 1:2.20.1-5.3\r\n"
+    ],
+    [
+      0.036097,
+      "I: Retrieving coreutils 8.13-3.5\r\n"
+    ],
+    [
+      21.581842,
+      "I: Validating coreutils 8.13-3.5\r\n"
+    ],
+    [
+      0.091036,
+      "I: Retrieving cpio 2.11+dfsg-0.1+deb7u1\r\n"
+    ],
+    [
+      2.389400,
+      "I: Validating cpio 2.11+dfsg-0.1+deb7u1\r\n"
+    ],
+    [
+      0.027716,
+      "I: Retrieving cron 3.0pl1-124\r\n"
+    ],
+    [
+      1.488537,
+      "I: Validating cron 3.0pl1-124\r\n"
+    ],
+    [
+      0.023275,
+      "I: Retrieving dash 0.5.7-3\r\n"
+    ],
+    [
+      3.353242,
+      "I: Validating dash 0.5.7-3\r\n"
+    ],
+    [
+      0.018035,
+      "I: Retrieving debconf 1.5.49\r\n"
+    ],
+    [
+      3.587380,
+      "I: Validating debconf 1.5.49\r\n"
+    ],
+    [
+      0.034775,
+      "I: Retrieving debconf-i18n 1.5.49\r\n"
+    ],
+    [
+      5.011747,
+      "I: Validating debconf-i18n 1.5.49\r\n"
+    ],
+    [
+      0.021917,
+      "I: Retrieving debian-archive-keyring 2014.3~deb7u1\r\n"
+    ],
+    [
+      3.671281,
+      "I: Validating debian-archive-keyring 2014.3~deb7u1\r\n"
+    ],
+    [
+      0.023852,
+      "I: Retrieving debianutils 4.3.2\r\n"
+    ],
+    [
+      3.370980,
+      "I: Validating debianutils 4.3.2\r\n"
+    ],
+    [
+      0.025507,
+      "I: Retrieving diffutils 1:3.2-6\r\n"
+    ],
+    [
+      6.817917,
+      "I: Validating diffutils 1:3.2-6\r\n"
+    ],
+    [
+      0.032723,
+      "I: Retrieving dmidecode 2.11-9\r\n"
+    ],
+    [
+      3.474559,
+      "I: Validating dmidecode 2.11-9\r\n"
+    ],
+    [
+      0.021034,
+      "I: Retrieving dpkg 1.16.15\r\n"
+    ],
+    [
+      12.394178,
+      "I: Validating dpkg 1.16.15\r\n"
+    ],
+    [
+      0.054561,
+      "I: Retrieving e2fslibs 1.42.5-1.1\r\n"
+    ],
+    [
+      0.812509,
+      "I: Validating e2fslibs 1.42.5-1.1\r\n"
+    ],
+    [
+      0.024347,
+      "I: Retrieving e2fsprogs 1.42.5-1.1\r\n"
+    ],
+    [
+      2.194236,
+      "I: Validating e2fsprogs 1.42.5-1.1\r\n"
+    ],
+    [
+      0.040360,
+      "I: Retrieving findutils 4.4.2-4\r\n"
+    ],
+    [
+      1.682164,
+      "I: Validating findutils 4.4.2-4\r\n"
+    ],
+    [
+      0.029298,
+      "I: Retrieving gcc-4.7-base 4.7.2-5\r\n"
+    ],
+    [
+      0.719337,
+      "I: Validating gcc-4.7-base 4.7.2-5\r\n"
+    ],
+    [
+      0.020729,
+      "I: Retrieving gnupg 1.4.12-7+deb7u6\r\n"
+    ],
+    [
+      3.980753,
+      "I: Validating gnupg 1.4.12-7+deb7u6\r\n"
+    ],
+    [
+      0.044411,
+      "I: Retrieving gpgv 1.4.12-7+deb7u6\r\n"
+    ],
+    [
+      0.880128,
+      "I: Validating gpgv 1.4.12-7+deb7u6\r\n"
+    ],
+    [
+      0.024256,
+      "I: Retrieving grep 2.12-2\r\n"
+    ],
+    [
+      1.270042,
+      "I: Validating grep 2.12-2\r\n"
+    ],
+    [
+      0.028682,
+      "I: Retrieving groff-base 1.21-9\r\n"
+    ],
+    [
+      2.516321,
+      "I: Validating groff-base 1.21-9\r\n"
+    ],
+    [
+      0.038096,
+      "I: Retrieving gzip 1.5-1.1\r\n"
+    ],
+    [
+      0.682006,
+      "I: Validating gzip 1.5-1.1\r\n"
+    ],
+    [
+      0.033851,
+      "I: Retrieving hostname 3.11\r\n"
+    ],
+    [
+      0.470580,
+      "I: Validating hostname 3.11\r\n"
+    ],
+    [
+      0.022674,
+      "I: Retrieving ifupdown 0.7.8\r\n"
+    ],
+    [
+      0.557947,
+      "I: Validating ifupdown 0.7.8\r\n"
+    ],
+    [
+      0.019207,
+      "I: Retrieving info 4.13a.dfsg.1-10\r\n"
+    ],
+    [
+      0.872393,
+      "I: Validating info 4.13a.dfsg.1-10\r\n"
+    ],
+    [
+      0.026193,
+      "I: Retrieving initscripts 2.88dsf-41+kali2\r\n"
+    ],
+    [
+      0.614533,
+      "I: Validating initscripts 2.88dsf-41+kali2\r\n"
+    ],
+    [
+      0.035195,
+      "I: Retrieving insserv 1.14.0-5\r\n"
+    ],
+    [
+      0.577492,
+      "I: Validating insserv 1.14.0-5\r\n"
+    ],
+    [
+      0.025962,
+      "I: Retrieving install-info 4.13a.dfsg.1-10\r\n"
+    ],
+    [
+      0.731829,
+      "I: Validating install-info 4.13a.dfsg.1-10\r\n"
+    ],
+    [
+      0.026221,
+      "I: Retrieving iproute 20120521-3+b3\r\n"
+    ],
+    [
+      1.269133,
+      "I: Validating iproute 20120521-3+b3\r\n"
+    ],
+    [
+      0.029968,
+      "I: Retrieving iptables 1.4.14-3.1\r\n"
+    ],
+    [
+      1.183637,
+      "I: Validating iptables 1.4.14-3.1\r\n"
+    ],
+    [
+      0.021907,
+      "I: Retrieving iputils-ping 3:20101006-1+b1\r\n"
+    ],
+    [
+      0.598794,
+      "I: Validating iputils-ping 3:20101006-1+b1\r\n"
+    ],
+    [
+      0.034925,
+      "I: Retrieving isc-dhcp-client 4.2.2.dfsg.1-5+deb70u6\r\n"
+    ],
+    [
+      1.853770,
+      "I: Validating isc-dhcp-client 4.2.2.dfsg.1-5+deb70u6\r\n"
+    ],
+    [
+      0.027916,
+      "I: Retrieving isc-dhcp-common 4.2.2.dfsg.1-5+deb70u6\r\n"
+    ],
+    [
+      1.954171,
+      "I: Validating isc-dhcp-common 4.2.2.dfsg.1-5+deb70u6\r\n"
+    ],
+    [
+      0.032748,
+      "I: Retrieving kali-archive-keyring 2015.2\r\n"
+    ],
+    [
+      0.454347,
+      "I: Validating kali-archive-keyring 2015.2\r\n"
+    ],
+    [
+      0.024176,
+      "I: Retrieving kmod 9-3\r\n"
+    ],
+    [
+      0.550231,
+      "I: Validating kmod 9-3\r\n"
+    ],
+    [
+      0.020170,
+      "I: Retrieving libacl1 2.2.51-8\r\n"
+    ],
+    [
+      0.531782,
+      "I: Validating libacl1 2.2.51-8\r\n"
+    ],
+    [
+      0.027092,
+      "I: Retrieving libapt-inst1.5 0.9.7.9+deb7u7\r\n"
+    ],
+    [
+      0.746417,
+      "I: Validating libapt-inst1.5 0.9.7.9+deb7u7\r\n"
+    ],
+    [
+      0.019379,
+      "I: Retrieving libapt-pkg4.12 0.9.7.9+deb7u7\r\n"
+    ],
+    [
+      2.044713,
+      "I: Validating libapt-pkg4.12 0.9.7.9+deb7u7\r\n"
+    ],
+    [
+      0.033968,
+      "I: Retrieving libattr1 1:2.4.47-2~kali1\r\n"
+    ],
+    [
+      0.563774,
+      "I: Validating libattr1 1:2.4.47-2~kali1\r\n"
+    ],
+    [
+      0.018176,
+      "I: Retrieving libblkid1 2.20.1-5.3\r\n"
+    ],
+    [
+      0.656511,
+      "I: Validating libblkid1 2.20.1-5.3\r\n"
+    ],
+    [
+      0.020039,
+      "I: Retrieving libboost-iostreams1.49.0 1.49.0-3.2\r\n"
+    ],
+    [
+      0.570952,
+      "I: Validating libboost-iostreams1.49.0 1.49.0-3.2\r\n"
+    ],
+    [
+      0.018551,
+      "I: Retrieving libbz2-1.0 1.0.6-4\r\n"
+    ],
+    [
+      0.542302,
+      "I: Validating libbz2-1.0 1.0.6-4\r\n"
+    ],
+    [
+      0.017148,
+      "I: Retrieving libc-bin 2.13-38+deb7u6\r\n"
+    ],
+    [
+      2.709519,
+      "I: Validating libc-bin 2.13-38+deb7u6\r\n"
+    ],
+    [
+      0.040240,
+      "I: Retrieving libc6 2.13-38+deb7u6\r\n"
+    ],
+    [
+      7.992538,
+      "I: Validating libc6 2.13-38+deb7u6\r\n"
+    ],
+    [
+      0.073578,
+      "I: Retrieving libcomerr2 1.42.5-1.1\r\n"
+    ],
+    [
+      0.567368,
+      "I: Validating libcomerr2 1.42.5-1.1\r\n"
+    ],
+    [
+      0.018839,
+      "I: Retrieving libcwidget3 0.5.16-3.4\r\n"
+    ],
+    [
+      1.184885,
+      "I: Validating libcwidget3 0.5.16-3.4\r\n"
+    ],
+    [
+      0.027753,
+      "I: Retrieving libdb5.1 5.1.29-5\r\n"
+    ],
+    [
+      1.725098,
+      "I: Validating libdb5.1 5.1.29-5\r\n"
+    ],
+    [
+      0.028618,
+      "I: Retrieving libept1.4.12 1.0.9\r\n"
+    ],
+    [
+      0.834010,
+      "I: Validating libept1.4.12 1.0.9\r\n"
+    ],
+    [
+      0.020716,
+      "I: Retrieving libgcc1 1:4.7.2-5\r\n"
+    ],
+    [
+      0.530044,
+      "I: Validating libgcc1 1:4.7.2-5\r\n"
+    ],
+    [
+      0.019684,
+      "I: Retrieving libgcrypt11 1.5.0-5+deb7u2\r\n"
+    ],
+    [
+      1.000199,
+      "I: Validating libgcrypt11 1.5.0-5+deb7u2\r\n"
+    ],
+    [
+      0.026147,
+      "I: Retrieving libgdbm3 1.8.3-11\r\n"
+    ],
+    [
+      0.546864,
+      "I: Validating libgdbm3 1.8.3-11\r\n"
+    ],
+    [
+      0.023137,
+      "I: Retrieving libgnutls26 2.12.20-8+deb7u2\r\n"
+    ],
+    [
+      1.544603,
+      "I: Validating libgnutls26 2.12.20-8+deb7u2\r\n"
+    ],
+    [
+      0.035064,
+      "I: Retrieving libgpg-error0 1.10-3.1\r\n"
+    ],
+    [
+      0.602299,
+      "I: Validating libgpg-error0 1.10-3.1\r\n"
+    ],
+    [
+      0.032747,
+      "I: Retrieving libidn11 1.25-2\r\n"
+    ],
+    [
+      0.775631,
+      "I: Validating libidn11 1.25-2\r\n"
+    ],
+    [
+      0.021798,
+      "I: Retrieving libkmod2 9-3\r\n"
+    ],
+    [
+      0.538060,
+      "I: Validating libkmod2 9-3\r\n"
+    ],
+    [
+      0.025927,
+      "I: Retrieving liblocale-gettext-perl 1.05-7+b1\r\n"
+    ],
+    [
+      0.495900,
+      "I: Validating liblocale-gettext-perl 1.05-7+b1\r\n"
+    ],
+    [
+      0.023084,
+      "I: Retrieving liblzma5 5.1.1alpha+20120614-2\r\n"
+    ],
+    [
+      0.822521,
+      "I: Validating liblzma5 5.1.1alpha+20120614-2\r\n"
+    ],
+    [
+      0.026389,
+      "I: Retrieving libmount1 2.20.1-5.3\r\n"
+    ],
+    [
+      0.670430,
+      "I: Validating libmount1 2.20.1-5.3\r\n"
+    ],
+    [
+      0.037366,
+      "I: Retrieving libncurses5 5.9-10\r\n"
+    ],
+    [
+      0.662053,
+      "I: Validating libncurses5 5.9-10\r\n"
+    ],
+    [
+      0.019518,
+      "I: Retrieving libncursesw5 5.9-10\r\n"
+    ],
+    [
+      0.701451,
+      "I: Validating libncursesw5 5.9-10\r\n"
+    ],
+    [
+      0.036427,
+      "I: Retrieving libnewt0.52 0.52.14-11.1\r\n"
+    ],
+    [
+      0.605671,
+      "I: Validating libnewt0.52 0.52.14-11.1\r\n"
+    ],
+    [
+      0.022817,
+      "I: Retrieving libnfnetlink0 1.0.0-1.1\r\n"
+    ],
+    [
+      0.481044,
+      "I: Validating libnfnetlink0 1.0.0-1.1\r\n"
+    ],
+    [
+      0.032977,
+      "I: Retrieving libp11-kit0 0.12-3\r\n"
+    ],
+    [
+      0.560167,
+      "I: Validating libp11-kit0 0.12-3\r\n"
+    ],
+    [
+      0.020300,
+      "I: Retrieving libpam-modules 1.1.3-7.1\r\n"
+    ],
+    [
+      1.068731,
+      "I: Validating libpam-modules 1.1.3-7.1\r\n"
+    ],
+    [
+      0.023406,
+      "I: Retrieving libpam-modules-bin 1.1.3-7.1\r\n"
+    ],
+    [
+      0.688453,
+      "I: Validating libpam-modules-bin 1.1.3-7.1\r\n"
+    ],
+    [
+      0.019605,
+      "I: Retrieving libpam-runtime 1.1.3-7.1\r\n"
+    ],
+    [
+      0.878491,
+      "I: Validating libpam-runtime 1.1.3-7.1\r\n"
+    ],
+    [
+      0.028203,
+      "I: Retrieving libpam0g 1.1.3-7.1\r\n"
+    ],
+    [
+      0.666825,
+      "I: Validating libpam0g 1.1.3-7.1\r\n"
+    ],
+    [
+      0.027838,
+      "I: Retrieving libpipeline1 1.2.1-1\r\n"
+    ],
+    [
+      0.549289,
+      "I: Validating libpipeline1 1.2.1-1\r\n"
+    ],
+    [
+      0.022493,
+      "I: Retrieving libpopt0 1.16-7\r\n"
+    ],
+    [
+      0.616749,
+      "I: Validating libpopt0 1.16-7\r\n"
+    ],
+    [
+      0.019230,
+      "I: Retrieving libprocps0 1:3.3.3-3\r\n"
+    ],
+    [
+      0.558205,
+      "I: Validating libprocps0 1:3.3.3-3\r\n"
+    ],
+    [
+      0.019531,
+      "I: Retrieving libreadline6 6.2+dfsg-0.1\r\n"
+    ],
+    [
+      0.739593,
+      "I: Validating libreadline6 6.2+dfsg-0.1\r\n"
+    ],
+    [
+      0.025198,
+      "I: Retrieving libselinux1 2.1.9-5\r\n"
+    ],
+    [
+      0.596259,
+      "I: Validating libselinux1 2.1.9-5\r\n"
+    ],
+    [
+      0.023811,
+      "I: Retrieving libsemanage-common 2.1.6-6\r\n"
+    ],
+    [
+      0.497807,
+      "I: Validating libsemanage-common 2.1.6-6\r\n"
+    ],
+    [
+      0.033565,
+      "I: Retrieving libsemanage1 2.1.6-6\r\n"
+    ],
+    [
+      0.639877,
+      "I: Validating libsemanage1 2.1.6-6\r\n"
+    ],
+    [
+      0.024890,
+      "I: Retrieving libsepol1 2.1.4-3\r\n"
+    ],
+    [
+      0.707989,
+      "I: Validating libsepol1 2.1.4-3\r\n"
+    ],
+    [
+      0.025851,
+      "I: Retrieving libsigc++-2.0-0c2a 2.2.10-0.2\r\n"
+    ],
+    [
+      0.528247,
+      "I: Validating libsigc++-2.0-0c2a 2.2.10-0.2\r\n"
+    ],
+    [
+      0.019523,
+      "I: Retrieving libslang2 2.2.4-15\r\n"
+    ],
+    [
+      1.429632,
+      "I: Validating libslang2 2.2.4-15\r\n"
+    ],
+    [
+      0.025447,
+      "I: Retrieving libsqlite3-0 3.7.16.2-1~bpo70+1\r\n"
+    ],
+    [
+      1.291333,
+      "I: Validating libsqlite3-0 3.7.16.2-1~bpo70+1\r\n"
+    ],
+    [
+      0.024402,
+      "I: Retrieving libss2 1.42.5-1.1\r\n"
+    ],
+    [
+      0.555386,
+      "I: Validating libss2 1.42.5-1.1\r\n"
+    ],
+    [
+      0.023758,
+      "I: Retrieving libssl1.0.0 1.0.1e-2+deb7u13\r\n"
+    ],
+    [
+      2.687009,
+      "I: Validating libssl1.0.0 1.0.1e-2+deb7u13\r\n"
+    ],
+    [
+      0.035595,
+      "I: Retrieving libstdc++6 4.7.2-5\r\n"
+    ],
+    [
+      1.070099,
+      "I: Validating libstdc++6 4.7.2-5\r\n"
+    ],
+    [
+      0.024422,
+      "I: Retrieving libtasn1-3 2.13-2+deb7u1\r\n"
+    ],
+    [
+      0.612423,
+      "I: Validating libtasn1-3 2.13-2+deb7u1\r\n"
+    ],
+    [
+      0.023298,
+      "I: Retrieving libtext-charwidth-perl 0.04-7+b1\r\n"
+    ],
+    [
+      0.465582,
+      "I: Validating libtext-charwidth-perl 0.04-7+b1\r\n"
+    ],
+    [
+      0.020360,
+      "I: Retrieving libtext-iconv-perl 1.7-5\r\n"
+    ],
+    [
+      0.500366,
+      "I: Validating libtext-iconv-perl 1.7-5\r\n"
+    ],
+    [
+      0.019154,
+      "I: Retrieving libtext-wrapi18n-perl 0.06-7\r\n"
+    ],
+    [
+      0.455139,
+      "I: Validating libtext-wrapi18n-perl 0.06-7\r\n"
+    ],
+    [
+      0.022069,
+      "I: Retrieving libtinfo5 5.9-10\r\n"
+    ],
+    [
+      0.937647,
+      "I: Validating libtinfo5 5.9-10\r\n"
+    ],
+    [
+      0.018482,
+      "I: Retrieving libudev0 175-7.2\r\n"
+    ],
+    [
+      0.685203,
+      "I: Validating libudev0 175-7.2\r\n"
+    ],
+    [
+      0.024404,
+      "I: Retrieving libusb-0.1-4 2:0.1.12-20+nmu1\r\n"
+    ],
+    [
+      0.497867,
+      "I: Validating libusb-0.1-4 2:0.1.12-20+nmu1\r\n"
+    ],
+    [
+      0.021132,
+      "I: Retrieving libustr-1.0-1 1.0.4-3\r\n"
+    ],
+    [
+      0.617968,
+      "I: Validating libustr-1.0-1 1.0.4-3\r\n"
+    ],
+    [
+      0.023529,
+      "I: Retrieving libuuid1 2.20.1-5.3\r\n"
+    ],
+    [
+      0.556857,
+      "I: Validating libuuid1 2.20.1-5.3\r\n"
+    ],
+    [
+      0.022211,
+      "I: Retrieving libxapian22 1.2.12-2\r\n"
+    ],
+    [
+      2.575007,
+      "I: Validating libxapian22 1.2.12-2\r\n"
+    ],
+    [
+      0.036540,
+      "I: Retrieving login 1:4.1.5.1-1\r\n"
+    ],
+    [
+      2.207180,
+      "I: Validating login 1:4.1.5.1-1\r\n"
+    ],
+    [
+      0.032298,
+      "I: Retrieving logrotate 3.8.1-4\r\n"
+    ],
+    [
+      0.539814,
+      "I: Validating logrotate 3.8.1-4\r\n"
+    ],
+    [
+      0.019451,
+      "I: Retrieving lsb-base 4.1+Debian8+deb7u1\r\n"
+    ],
+    [
+      0.479005,
+      "I: Validating lsb-base 4.1+Debian8+deb7u1\r\n"
+    ],
+    [
+      0.019262,
+      "I: Retrieving man-db 2.6.2-1kali1\r\n"
+    ],
+    [
+      2.358376,
+      "I: Validating man-db 2.6.2-1kali1\r\n"
+    ],
+    [
+      0.034239,
+      "I: Retrieving manpages 3.44-1\r\n"
+    ],
+    [
+      1.849499,
+      "I: Validating manpages 3.44-1\r\n"
+    ],
+    [
+      0.028271,
+      "I: Retrieving mawk 1.3.3-17\r\n"
+    ],
+    [
+      0.643360,
+      "I: Validating mawk 1.3.3-17\r\n"
+    ],
+    [
+      0.019990,
+      "I: Retrieving mount 2.20.1-5.3\r\n"
+    ],
+    [
+      0.922278,
+      "I: Validating mount 2.20.1-5.3\r\n"
+    ],
+    [
+      0.027990,
+      "I: Retrieving multiarch-support 2.13-38+deb7u6\r\n"
+    ],
+    [
+      0.725282,
+      "I: Validating multiarch-support 2.13-38+deb7u6\r\n"
+    ],
+    [
+      0.024983,
+      "I: Retrieving nano 2.2.6-1+b1\r\n"
+    ],
+    [
+      1.515870,
+      "I: Validating nano 2.2.6-1+b1\r\n"
+    ],
+    [
+      0.035213,
+      "I: Retrieving ncurses-base 5.9-10\r\n"
+    ],
+    [
+      0.799791,
+      "I: Validating ncurses-base 5.9-10\r\n"
+    ],
+    [
+      0.022123,
+      "I: Retrieving ncurses-bin 5.9-10\r\n"
+    ],
+    [
+      1.060607,
+      "I: Validating ncurses-bin 5.9-10\r\n"
+    ],
+    [
+      0.035145,
+      "I: Retrieving net-tools 1.60-24.2\r\n"
+    ],
+    [
+      1.066691,
+      "I: Validating net-tools 1.60-24.2\r\n"
+    ],
+    [
+      0.038250,
+      "I: Retrieving netbase 5.0\r\n"
+    ],
+    [
+      0.499315,
+      "I: Validating netbase 5.0\r\n"
+    ],
+    [
+      0.032288,
+      "I: Retrieving netcat-traditional 1.10-40\r\n"
+    ],
+    [
+      0.570956,
+      "I: Validating netcat-traditional 1.10-40\r\n"
+    ],
+    [
+      0.023647,
+      "I: Retrieving passwd 1:4.1.5.1-1\r\n"
+    ],
+    [
+      2.724562,
+      "I: Validating passwd 1:4.1.5.1-1\r\n"
+    ],
+    [
+      0.038768,
+      "I: Retrieving perl-base 5.14.2-21+deb7u2\r\n"
+    ],
+    [
+      3.174184,
+      "I: Validating perl-base 5.14.2-21+deb7u2\r\n"
+    ],
+    [
+      0.040472,
+      "I: Retrieving procps 1:3.3.3-3\r\n"
+    ],
+    [
+      0.911878,
+      "I: Validating procps 1:3.3.3-3\r\n"
+    ],
+    [
+      0.024465,
+      "I: Retrieving readline-common 6.2+dfsg-0.1\r\n"
+    ],
+    [
+      0.497534,
+      "I: Validating readline-common 6.2+dfsg-0.1\r\n"
+    ],
+    [
+      0.019781,
+      "I: Retrieving rsyslog 5.8.11-3+deb7u2\r\n"
+    ],
+    [
+      1.413944,
+      "I: Validating rsyslog 5.8.11-3+deb7u2\r\n"
+    ],
+    [
+      0.036902,
+      "I: Retrieving sed 4.2.1-10\r\n"
+    ],
+    [
+      0.891200,
+      "I: Validating sed 4.2.1-10\r\n"
+    ],
+    [
+      0.023944,
+      "I: Retrieving sensible-utils 0.0.7\r\n"
+    ],
+    [
+      0.485525,
+      "I: Validating sensible-utils 0.0.7\r\n"
+    ],
+    [
+      0.019146,
+      "I: Retrieving sysv-rc 2.88dsf-41+kali2\r\n"
+    ],
+    [
+      0.607623,
+      "I: Validating sysv-rc 2.88dsf-41+kali2\r\n"
+    ],
+    [
+      0.022893,
+      "I: Retrieving sysvinit 2.88dsf-41+kali2\r\n"
+    ],
+    [
+      0.694108,
+      "I: Validating sysvinit 2.88dsf-41+kali2\r\n"
+    ],
+    [
+      0.021892,
+      "I: Retrieving sysvinit-utils 2.88dsf-41+kali2\r\n"
+    ],
+    [
+      0.624763,
+      "I: Validating sysvinit-utils 2.88dsf-41+kali2\r\n"
+    ],
+    [
+      0.021771,
+      "I: Retrieving tar 1.26+dfsg-0.1\r\n"
+    ],
+    [
+      2.214749,
+      "I: Validating tar 1.26+dfsg-0.1\r\n"
+    ],
+    [
+      0.038000,
+      "I: Retrieving tasksel 3.14+nmu1+kali2\r\n"
+    ],
+    [
+      0.604007,
+      "I: Validating tasksel 3.14+nmu1+kali2\r\n"
+    ],
+    [
+      0.021156,
+      "I: Retrieving tasksel-data 3.14+nmu1+kali2\r\n"
+    ],
+    [
+      0.485696,
+      "I: Validating tasksel-data 3.14+nmu1+kali2\r\n"
+    ],
+    [
+      0.018375,
+      "I: Retrieving traceroute 1:2.0.18-3\r\n"
+    ],
+    [
+      0.523998,
+      "I: Validating traceroute 1:2.0.18-3\r\n"
+    ],
+    [
+      0.021714,
+      "I: Retrieving tzdata 2014j-0wheezy1\r\n"
+    ],
+    [
+      1.251971,
+      "I: Validating tzdata 2014j-0wheezy1\r\n"
+    ],
+    [
+      0.024646,
+      "I: Retrieving udev 175-7.2\r\n"
+    ],
+    [
+      1.052795,
+      "I: Validating udev 175-7.2\r\n"
+    ],
+    [
+      0.027498,
+      "I: Retrieving util-linux 2.20.1-5.3\r\n"
+    ],
+    [
+      1.677767,
+      "I: Validating util-linux 2.20.1-5.3\r\n"
+    ],
+    [
+      0.034420,
+      "I: Retrieving vim-common 2:7.3.547-7\r\n"
+    ],
+    [
+      0.749506,
+      "I: Validating vim-common 2:7.3.547-7\r\n"
+    ],
+    [
+      0.022497,
+      "I: Retrieving vim-tiny 2:7.3.547-7\r\n"
+    ],
+    [
+      1.090899,
+      "I: Validating vim-tiny 2:7.3.547-7\r\n"
+    ],
+    [
+      0.026205,
+      "I: Retrieving wget 1.13.4-3+deb7u2\r\n"
+    ],
+    [
+      1.822446,
+      "I: Validating wget 1.13.4-3+deb7u2\r\n"
+    ],
+    [
+      0.033450,
+      "I: Retrieving whiptail 0.52.14-11.1\r\n"
+    ],
+    [
+      0.511691,
+      "I: Validating whiptail 0.52.14-11.1\r\n"
+    ],
+    [
+      0.033149,
+      "I: Retrieving xz-utils 5.1.1alpha+20120614-2\r\n"
+    ],
+    [
+      0.889479,
+      "I: Validating xz-utils 5.1.1alpha+20120614-2\r\n"
+    ],
+    [
+      0.026877,
+      "I: Retrieving zlib1g 1:1.2.7.dfsg-13\r\n"
+    ],
+    [
+      0.601920,
+      "I: Validating zlib1g 1:1.2.7.dfsg-13\r\n"
+    ],
+    [
+      0.022173,
+      "I: Chosen extractor for .deb packages: ar\r\n"
+    ],
+    [
+      0.053242,
+      "I: Extracting base-files...\r\n"
+    ],
+    [
+      0.049747,
+      "I: Extracting base-passwd...\r\n"
+    ],
+    [
+      0.017745,
+      "I: Extracting bash...\r\n"
+    ],
+    [
+      0.089561,
+      "I: Extracting bsdutils...\r\n"
+    ],
+    [
+      0.020912,
+      "I: Extracting coreutils...\r\n"
+    ],
+    [
+      0.289419,
+      "I: Extracting dash...\r\n"
+    ],
+    [
+      0.022248,
+      "I: Extracting debconf...\r\n"
+    ],
+    [
+      0.028306,
+      "I: Extracting debconf-i18n...\r\n"
+    ],
+    [
+      0.035763,
+      "I: Extracting debianutils...\r\n"
+    ],
+    [
+      0.018756,
+      "I: Extracting diffutils...\r\n"
+    ],
+    [
+      0.038722,
+      "I: Extracting dpkg...\r\n"
+    ],
+    [
+      0.123290,
+      "I: Extracting e2fslibs...\r\n"
+    ],
+    [
+      0.026046,
+      "I: Extracting e2fsprogs...\r\n"
+    ],
+    [
+      0.072342,
+      "I: Extracting findutils...\r\n"
+    ],
+    [
+      0.044502,
+      "I: Extracting gcc-4.7-base...\r\n"
+    ],
+    [
+      0.026024,
+      "I: Extracting grep...\r\n"
+    ],
+    [
+      0.046820,
+      "I: Extracting gzip...\r\n"
+    ],
+    [
+      0.019567,
+      "I: Extracting hostname...\r\n"
+    ],
+    [
+      0.022156,
+      "I: Extracting initscripts...\r\n"
+    ],
+    [
+      0.028496,
+      "I: Extracting insserv...\r\n"
+    ],
+    [
+      0.020339,
+      "I: Extracting libacl1...\r\n"
+    ],
+    [
+      0.021733,
+      "I: Extracting libattr1...\r\n"
+    ],
+    [
+      0.022756,
+      "I: Extracting libblkid1...\r\n"
+    ],
+    [
+      0.020215,
+      "I: Extracting libbz2-1.0...\r\n"
+    ],
+    [
+      0.021636,
+      "I: Extracting libc-bin...\r\n"
+    ],
+    [
+      0.092122,
+      "I: Extracting libc6...\r\n"
+    ],
+    [
+      0.194310,
+      "I: Extracting libcomerr2...\r\n"
+    ],
+    [
+      0.018565,
+      "I: Extracting libdb5.1...\r\n"
+    ],
+    [
+      0.050167,
+      "I: Extracting libgcc1...\r\n"
+    ],
+    [
+      0.017994,
+      "I: Extracting liblocale-gettext-perl...\r\n"
+    ],
+    [
+      0.018426,
+      "I: Extracting liblzma5...\r\n"
+    ],
+    [
+      0.028761,
+      "I: Extracting libmount1...\r\n"
+    ],
+    [
+      0.031850,
+      "I: Extracting libncurses5...\r\n"
+    ],
+    [
+      0.026948,
+      "I: Extracting libpam-modules...\r\n"
+    ],
+    [
+      0.033463,
+      "I: Extracting libpam-modules-bin...\r\n"
+    ],
+    [
+      0.021415,
+      "I: Extracting libpam-runtime...\r\n"
+    ],
+    [
+      0.030674,
+      "I: Extracting libpam0g...\r\n"
+    ],
+    [
+      0.020382,
+      "I: Extracting libselinux1...\r\n"
+    ],
+    [
+      0.024253,
+      "I: Extracting libsemanage-common...\r\n"
+    ],
+    [
+      0.020100,
+      "I: Extracting libsemanage1...\r\n"
+    ],
+    [
+      0.022800,
+      "I: Extracting libsepol1...\r\n"
+    ],
+    [
+      0.023698,
+      "I: Extracting libslang2...\r\n"
+    ],
+    [
+      0.047617,
+      "I: Extracting libss2...\r\n"
+    ],
+    [
+      0.016770,
+      "I: Extracting libtext-charwidth-perl...\r\n"
+    ],
+    [
+      0.014403,
+      "I: Extracting libtext-iconv-perl...\r\n"
+    ],
+    [
+      0.024220,
+      "I: Extracting libtext-wrapi18n-perl...\r\n"
+    ],
+    [
+      0.020107,
+      "I: Extracting libtinfo5...\r\n"
+    ],
+    [
+      0.038149,
+      "I: Extracting libustr-1.0-1...\r\n"
+    ],
+    [
+      0.022620,
+      "I: Extracting libuuid1...\r\n"
+    ],
+    [
+      0.019897,
+      "I: Extracting login...\r\n"
+    ],
+    [
+      0.061593,
+      "I: Extracting lsb-base...\r\n"
+    ],
+    [
+      0.021667,
+      "I: Extracting mawk...\r\n"
+    ],
+    [
+      0.028634,
+      "I: Extracting mount...\r\n"
+    ],
+    [
+      0.029483,
+      "I: Extracting multiarch-support...\r\n"
+    ],
+    [
+      0.019041,
+      "I: Extracting ncurses-base...\r\n"
+    ],
+    [
+      0.023036,
+      "I: Extracting ncurses-bin...\r\n"
+    ],
+    [
+      0.031079,
+      "I: Extracting passwd...\r\n"
+    ],
+    [
+      0.064519,
+      "I: Extracting perl-base...\r\n"
+    ],
+    [
+      0.107389,
+      "I: Extracting sed...\r\n"
+    ],
+    [
+      0.030614,
+      "I: Extracting sensible-utils...\r\n"
+    ],
+    [
+      0.017132,
+      "I: Extracting sysv-rc...\r\n"
+    ],
+    [
+      0.023665,
+      "I: Extracting sysvinit...\r\n"
+    ],
+    [
+      0.020385,
+      "I: Extracting sysvinit-utils...\r\n"
+    ],
+    [
+      0.025467,
+      "I: Extracting tar...\r\n"
+    ],
+    [
+      0.066245,
+      "I: Extracting tzdata...\r\n"
+    ],
+    [
+      0.065303,
+      "I: Extracting util-linux...\r\n"
+    ],
+    [
+      0.045892,
+      "I: Extracting xz-utils...\r\n"
+    ],
+    [
+      0.027282,
+      "I: Extracting zlib1g...\r\n"
+    ],
+    [
+      0.083467,
+      "Moving bootstrap files into the chroot...\r\n"
+    ],
+    [
+      0.497328,
+      "Preparing chroot environment...\r\n"
+    ],
+    [
+      0.018702,
+      "Installing brightness into the chroot...\r\n"
+    ],
+    [
+      0.007572,
+      "Installing croutonpowerd into the chroot...\r\n"
+    ],
+    [
+      0.006918,
+      "Installing croutonversion into the chroot...\r\n"
+    ],
+    [
+      0.007689,
+      "Installing host-dbus into the chroot...\r\n"
+    ],
+    [
+      0.004626,
+      "Installing host-x11 into the chroot...\r\n"
+    ],
+    [
+      0.014088,
+      "Installing enter-chroot into the host...\r\n"
+    ],
+    [
+      0.006230,
+      "Installing delete-chroot into the host...\r\n"
+    ],
+    [
+      0.003005,
+      "Installing edit-chroot into the host...\r\n"
+    ],
+    [
+      0.009494,
+      "Installing mount-chroot into the host...\r\n"
+    ],
+    [
+      0.012336,
+      "Installing unmount-chroot into the host...\r\n"
+    ],
+    [
+      0.005657,
+      "Installing crash_reporter_wrapper into the host...\r\n"
+    ],
+    [
+      1.100829,
+      "I: Keyring file not available at /usr/share/keyrings/debian-archive-keyring.gpg; switching to https mirror https://mirrors.kernel.org/debian\r\n"
+    ],
+    [
+      0.084786,
+      "I: Installing core packages...\r\n"
+    ],
+    [
+      3.700401,
+      "I: Unpacking required packages...\r\n"
+    ],
+    [
+      0.111856,
+      "I: Unpacking base-files...\r\n"
+    ],
+    [
+      0.113573,
+      "I: Unpacking base-passwd...\r\n"
+    ],
+    [
+      0.100551,
+      "I: Unpacking bash...\r\n"
+    ],
+    [
+      0.193998,
+      "I: Unpacking bsdutils...\r\n"
+    ],
+    [
+      0.089921,
+      "I: Unpacking coreutils...\r\n"
+    ],
+    [
+      0.384614,
+      "I: Unpacking dash...\r\n"
+    ],
+    [
+      0.195500,
+      "I: Unpacking debconf...\r\n"
+    ],
+    [
+      0.142570,
+      "I: Unpacking debconf-i18n...\r\n"
+    ],
+    [
+      0.141512,
+      "I: Unpacking debianutils...\r\n"
+    ],
+    [
+      0.091115,
+      "I: Unpacking diffutils...\r\n"
+    ],
+    [
+      0.159774,
+      "I: Unpacking dpkg...\r\n"
+    ],
+    [
+      0.256981,
+      "I: Unpacking e2fslibs:amd64...\r\n"
+    ],
+    [
+      0.079133,
+      "I: Unpacking e2fsprogs...\r\n"
+    ],
+    [
+      0.638009,
+      "I: Unpacking findutils...\r\n"
+    ],
+    [
+      0.135680,
+      "I: Unpacking gcc-4.7-base:amd64...\r\n"
+    ],
+    [
+      0.074181,
+      "I: Unpacking grep...\r\n"
+    ],
+    [
+      0.109728,
+      "I: Unpacking gzip...\r\n"
+    ],
+    [
+      0.094229,
+      "I: Unpacking hostname...\r\n"
+    ],
+    [
+      0.089128,
+      "I: Unpacking initscripts...\r\n"
+    ],
+    [
+      0.097005,
+      "I: Unpacking insserv...\r\n"
+    ],
+    [
+      0.086876,
+      "I: Unpacking libacl1:amd64...\r\n"
+    ],
+    [
+      0.077192,
+      "I: Unpacking libattr1:amd64...\r\n"
+    ],
+    [
+      0.089535,
+      "I: Unpacking libblkid1:amd64...\r\n"
+    ],
+    [
+      0.087792,
+      "I: Unpacking libbz2-1.0:amd64...\r\n"
+    ],
+    [
+      0.077651,
+      "I: Unpacking libc-bin...\r\n"
+    ],
+    [
+      0.202441,
+      "I: Unpacking libc6:amd64...\r\n"
+    ],
+    [
+      0.520815,
+      "I: Unpacking libcomerr2:amd64...\r\n"
+    ],
+    [
+      0.085863,
+      "I: Unpacking libdb5.1:amd64...\r\n"
+    ],
+    [
+      0.141339,
+      "I: Unpacking libgcc1:amd64...\r\n"
+    ],
+    [
+      0.069443,
+      "I: Unpacking liblocale-gettext-perl...\r\n"
+    ],
+    [
+      0.083139,
+      "I: Unpacking liblzma5:amd64...\r\n"
+    ],
+    [
+      0.094210,
+      "I: Unpacking libmount1...\r\n"
+    ],
+    [
+      0.097004,
+      "I: Unpacking libncurses5:amd64...\r\n"
+    ],
+    [
+      0.098226,
+      "I: Unpacking libpam-modules:amd64..."
+    ],
+    [
+      0.000151,
+      "\r\n"
+    ],
+    [
+      0.235824,
+      "I: Unpacking libpam-modules-bin...\r\n"
+    ],
+    [
+      0.096896,
+      "I: Unpacking libpam-runtime...\r\n"
+    ],
+    [
+      0.130062,
+      "I: Unpacking libpam0g:amd64...\r\n"
+    ],
+    [
+      0.092684,
+      "I: Unpacking libselinux1:amd64...\r\n"
+    ],
+    [
+      0.073625,
+      "I: Unpacking libsemanage-common...\r\n"
+    ],
+    [
+      0.078077,
+      "I: Unpacking libsemanage1:amd64...\r\n"
+    ],
+    [
+      0.091946,
+      "I: Unpacking libsepol1:amd64...\r\n"
+    ],
+    [
+      0.090567,
+      "I: Unpacking libslang2:amd64...\r\n"
+    ],
+    [
+      0.124320,
+      "I: Unpacking libss2:amd64...\r\n"
+    ],
+    [
+      0.096204,
+      "I: Unpacking libtext-charwidth-perl...\r\n"
+    ],
+    [
+      0.064950,
+      "I: Unpacking libtext-iconv-perl...\r\n"
+    ],
+    [
+      0.099001,
+      "I: Unpacking libtext-wrapi18n-perl...\r\n"
+    ],
+    [
+      0.085346,
+      "I: Unpacking libtinfo5:amd64...\r\n"
+    ],
+    [
+      0.093088,
+      "I: Unpacking libustr-1.0-1:amd64...\r\n"
+    ],
+    [
+      0.087109,
+      "I: Unpacking libuuid1:amd64...\r\n"
+    ],
+    [
+      0.083075,
+      "I: Unpacking login...\r\n"
+    ],
+    [
+      0.842679,
+      "I: Unpacking lsb-base...\r\n"
+    ],
+    [
+      0.087862,
+      "I: Unpacking mawk...\r\n"
+    ],
+    [
+      0.097570,
+      "I: Unpacking mount...\r\n"
+    ],
+    [
+      0.083691,
+      "I: Unpacking multiarch-support...\r\n"
+    ],
+    [
+      0.066335,
+      "I: Unpacking ncurses-base...\r\n"
+    ],
+    [
+      0.081792,
+      "I: Unpacking ncurses-bin...\r\n"
+    ],
+    [
+      0.094196,
+      "I: Unpacking passwd...\r\n"
+    ],
+    [
+      0.225817,
+      "I: Unpacking perl-base...\r\n"
+    ],
+    [
+      0.406081,
+      "I: Unpacking sed...\r\n"
+    ],
+    [
+      0.115370,
+      "I: Unpacking sensible-utils...\r\n"
+    ],
+    [
+      0.101669,
+      "I: Unpacking sysv-rc...\r\n"
+    ],
+    [
+      0.083223,
+      "I: Unpacking sysvinit...\r\n"
+    ],
+    [
+      0.098567,
+      "I: Unpacking sysvinit-utils...\r\n"
+    ],
+    [
+      0.095173,
+      "I: Unpacking tar...\r\n"
+    ],
+    [
+      0.155061,
+      "I: Unpacking tzdata...\r\n"
+    ],
+    [
+      0.465052,
+      "I: Unpacking util-linux...\r\n"
+    ],
+    [
+      0.182902,
+      "I: Unpacking xz-utils...\r\n"
+    ],
+    [
+      0.101752,
+      "I: Unpacking zlib1g:amd64...\r\n"
+    ],
+    [
+      0.080254,
+      "I: Configuring required packages...\r\n"
+    ],
+    [
+      0.043710,
+      "I: Configuring lsb-base...\r\n"
+    ],
+    [
+      0.030237,
+      "I: Configuring ncurses-base...\r\n"
+    ],
+    [
+      0.022681,
+      "I: Configuring sensible-utils...\r\n"
+    ],
+    [
+      0.041672,
+      "I: Configuring libsemanage-common...\r\n"
+    ],
+    [
+      0.025188,
+      "I: Configuring gcc-4.7-base:amd64...\r\n"
+    ],
+    [
+      0.055918,
+      "I: Configuring libc-bin...\r\n"
+    ],
+    [
+      0.037014,
+      "I: Configuring libc6:amd64...\r\n"
+    ],
+    [
+      1.504753,
+      "I: Configuring debianutils...\r\n"
+    ],
+    [
+      0.028983,
+      "I: Configuring bsdutils...\r\n"
+    ],
+    [
+      0.035082,
+      "I: Configuring tar...\r\n"
+    ],
+    [
+      0.037475,
+      "I: Configuring base-passwd...\r\n"
+    ],
+    [
+      0.027356,
+      "I: Configuring mawk...\r\n"
+    ],
+    [
+      0.049929,
+      "I: Configuring hostname...\r\n"
+    ],
+    [
+      0.042074,
+      "I: Configuring insserv...\r\n"
+    ],
+    [
+      0.023454,
+      "I: Configuring multiarch-support...\r\n"
+    ],
+    [
+      0.025990,
+      "I: Configuring libselinux1:amd64...\r\n"
+    ],
+    [
+      1.054555,
+      "I: Configuring libustr-1.0-1:amd64...\r\n"
+    ],
+    [
+      0.029309,
+      "I: Configuring libsepol1:amd64...\r\n"
+    ],
+    [
+      1.056554,
+      "I: Configuring zlib1g:amd64...\r\n"
+    ],
+    [
+      0.028599,
+      "I: Configuring libgcc1:amd64...\r\n"
+    ],
+    [
+      0.098136,
+      "I: Configuring base-files...\r\n"
+    ],
+    [
+      0.030683,
+      "I: Configuring libattr1:amd64...\r\n"
+    ],
+    [
+      0.038399,
+      "I: Configuring e2fslibs:amd64...\r\n"
+    ],
+    [
+      0.032913,
+      "I: Configuring libcomerr2:amd64...\r\n"
+    ],
+    [
+      0.048247,
+      "I: Configuring libacl1:amd64...\r\n"
+    ],
+    [
+      0.030716,
+      "I: Configuring libslang2:amd64...\r\n"
+    ],
+    [
+      0.030030,
+      "I: Configuring libss2:amd64...\r\n"
+    ],
+    [
+      0.030897,
+      "I: Configuring liblzma5:amd64...\r\n"
+    ],
+    [
+      0.040253,
+      "I: Configuring libdb5.1:amd64...\r\n"
+    ],
+    [
+      0.030615,
+      "I: Configuring libbz2-1.0:amd64...\r\n"
+    ],
+    [
+      0.033330,
+      "I: Configuring libtinfo5:amd64...\r\n"
+    ],
+    [
+      0.039429,
+      "I: Configuring sysvinit-utils...\r\n"
+    ],
+    [
+      0.023598,
+      "I: Configuring ncurses-bin...\r\n"
+    ],
+    [
+      0.026563,
+      "I: Configuring libsemanage1:amd64...\r\n"
+    ],
+    [
+      0.035685,
+      "I: Configuring libncurses5:amd64...\r\n"
+    ],
+    [
+      0.036099,
+      "I: Configuring xz-utils...\r\n"
+    ],
+    [
+      0.075107,
+      "I: Configuring dpkg...\r\n"
+    ],
+    [
+      0.032281,
+      "I: Configuring dash...\r\n"
+    ],
+    [
+      0.241506,
+      "I: Configuring coreutils...\r\n"
+    ],
+    [
+      0.026969,
+      "I: Configuring perl-base...\r\n"
+    ],
+    [
+      0.024037,
+      "I: Configuring diffutils...\r\n"
+    ],
+    [
+      0.022141,
+      "I: Configuring libtext-iconv-perl...\r\n"
+    ],
+    [
+      0.022122,
+      "I: Configuring sed...\r\n"
+    ],
+    [
+      0.024373,
+      "I: Configuring grep...\r\n"
+    ],
+    [
+      0.023910,
+      "I: Configuring findutils...\r\n"
+    ],
+    [
+      0.026487,
+      "I: Configuring gzip...\r\n"
+    ],
+    [
+      0.025827,
+      "I: Configuring liblocale-gettext-perl...\r\n"
+    ],
+    [
+      0.060040,
+      "I: Configuring bash...\r\n"
+    ],
+    [
+      0.065004,
+      "I: Configuring libtext-charwidth-perl...\r\n"
+    ],
+    [
+      0.024597,
+      "I: Configuring libtext-wrapi18n-perl...\r\n"
+    ],
+    [
+      0.046079,
+      "I: Configuring debconf...\r\n"
+    ],
+    [
+      0.190658,
+      "I: Configuring libpam0g:amd64...\r\n"
+    ],
+    [
+      0.161239,
+      "I: Configuring sysv-rc...\r\n"
+    ],
+    [
+      0.049170,
+      "I: Configuring tzdata...\r\n"
+    ],
+    [
+      0.196753,
+      "I: Configuring debconf-i18n...\r\n"
+    ],
+    [
+      0.022590,
+      "I: Configuring libpam-modules-bin...\r\n"
+    ],
+    [
+      0.090879,
+      "I: Configuring libpam-modules:amd64...\r\n"
+    ],
+    [
+      0.098325,
+      "I: Configuring passwd...\r\n"
+    ],
+    [
+      0.101586,
+      "I: Configuring libpam-runtime...\r\n"
+    ],
+    [
+      0.236161,
+      "I: Configuring login...\r\n"
+    ],
+    [
+      0.032234,
+      "I: Configuring libuuid1:amd64...\r\n"
+    ],
+    [
+      0.095920,
+      "I: Configuring libblkid1:amd64...\r\n"
+    ],
+    [
+      0.036070,
+      "I: Configuring libmount1...\r\n"
+    ],
+    [
+      0.031691,
+      "I: Configuring mount...\r\n"
+    ],
+    [
+      0.319954,
+      "I: Configuring initscripts...\r\n"
+    ],
+    [
+      1.227679,
+      "I: Configuring util-linux...\r\n"
+    ],
+    [
+      0.164955,
+      "I: Configuring sysvinit...\r\n"
+    ],
+    [
+      0.037483,
+      "I: Configuring e2fsprogs...\r\n"
+    ],
+    [
+      0.034828,
+      "I: Unpacking the base system...\r\n"
+    ],
+    [
+      0.124087,
+      "I: Unpacking adduser...\r\n"
+    ],
+    [
+      0.141907,
+      "I: Unpacking apt...\r\n"
+    ],
+    [
+      0.192337,
+      "I: Unpacking apt-utils...\r\n"
+    ],
+    [
+      0.127648,
+      "I: Unpacking aptitude...\r\n"
+    ],
+    [
+      0.366418,
+      "I: Unpacking aptitude-common..."
+    ],
+    [
+      0.000195,
+      "\r\n"
+    ],
+    [
+      1.115775,
+      "I: Unpacking bsdmainutils...\r\n"
+    ],
+    [
+      0.114202,
+      "I: Unpacking cpio...\r\n"
+    ],
+    [
+      0.105598,
+      "I: Unpacking cron...\r\n"
+    ],
+    [
+      0.096011,
+      "I: Unpacking debian-archive-keyring...\r\n"
+    ],
+    [
+      0.069376,
+      "I: Unpacking dmidecode...\r\n"
+    ],
+    [
+      0.074175,
+      "I: Unpacking gnupg...\r\n"
+    ],
+    [
+      0.172414,
+      "I: Unpacking gpgv...\r\n"
+    ],
+    [
+      0.095092,
+      "I: Unpacking groff-base...\r\n"
+    ],
+    [
+      0.168073,
+      "I: Unpacking ifupdown...\r\n"
+    ],
+    [
+      0.112047,
+      "I: Unpacking info...\r\n"
+    ],
+    [
+      0.082157,
+      "I: Unpacking install-info...\r\n"
+    ],
+    [
+      0.090638,
+      "I: Unpacking iproute...\r\n"
+    ],
+    [
+      0.113909,
+      "I: Unpacking iptables...\r\n"
+    ],
+    [
+      0.121108,
+      "I: Unpacking iputils-ping...\r\n"
+    ],
+    [
+      0.091425,
+      "I: Unpacking isc-dhcp-client...\r\n"
+    ],
+    [
+      0.126439,
+      "I: Unpacking isc-dhcp-common...\r\n"
+    ],
+    [
+      0.131886,
+      "I: Unpacking kali-archive-keyring...\r\n"
+    ],
+    [
+      0.084814,
+      "I: Unpacking kmod...\r\n"
+    ],
+    [
+      0.104320,
+      "I: Unpacking libapt-inst1.5:amd64...\r\n"
+    ],
+    [
+      0.135682,
+      "I: Unpacking libapt-pkg4.12:amd64...\r\n"
+    ],
+    [
+      0.157811,
+      "I: Unpacking libboost-iostreams1.49.0...\r\n"
+    ],
+    [
+      0.087674,
+      "I: Unpacking libcwidget3...\r\n"
+    ],
+    [
+      0.129118,
+      "I: Unpacking libept1.4.12...\r\n"
+    ],
+    [
+      0.094246,
+      "I: Unpacking libgcrypt11:amd64...\r\n"
+    ],
+    [
+      0.100683,
+      "I: Unpacking libgdbm3:amd64..."
+    ],
+    [
+      0.000502,
+      "\r\n"
+    ],
+    [
+      0.089606,
+      "I: Unpacking libgnutls26:amd64...\r\n"
+    ],
+    [
+      0.119325,
+      "I: Unpacking libgpg-error0:amd64...\r\n"
+    ],
+    [
+      0.102729,
+      "I: Unpacking libidn11:amd64...\r\n"
+    ],
+    [
+      0.103698,
+      "I: Unpacking libkmod2:amd64...\r\n"
+    ],
+    [
+      0.081526,
+      "I: Unpacking libncursesw5:amd64..."
+    ],
+    [
+      0.000402,
+      "\r\n"
+    ],
+    [
+      0.114859,
+      "I: Unpacking libnewt0.52...\r\n"
+    ],
+    [
+      0.137661,
+      "I: Unpacking libnfnetlink0...\r\n"
+    ],
+    [
+      0.089103,
+      "I: Unpacking libp11-kit0:amd64...\r\n"
+    ],
+    [
+      0.086256,
+      "I: Unpacking libpipeline1:amd64...\r\n"
+    ],
+    [
+      0.105228,
+      "I: Unpacking libpopt0:amd64...\r\n"
+    ],
+    [
+      0.111263,
+      "I: Unpacking libprocps0:amd64..."
+    ],
+    [
+      0.000079,
+      "\r\n"
+    ],
+    [
+      0.083746,
+      "I: Unpacking libreadline6:amd64...\r\n"
+    ],
+    [
+      0.141240,
+      "I: Unpacking libsigc++-2.0-0c2a:amd64..."
+    ],
+    [
+      0.000377,
+      "\r\n"
+    ],
+    [
+      0.081231,
+      "I: Unpacking libsqlite3-0:amd64...\r\n"
+    ],
+    [
+      0.118180,
+      "I: Unpacking libssl1.0.0:amd64...\r\n"
+    ],
+    [
+      0.158767,
+      "I: Unpacking libstdc++6:amd64...\r\n"
+    ],
+    [
+      0.105187,
+      "I: Unpacking libtasn1-3:amd64...\r\n"
+    ],
+    [
+      0.086874,
+      "I: Unpacking libudev0:amd64...\r\n"
+    ],
+    [
+      0.089181,
+      "I: Unpacking libusb-0.1-4:amd64...\r\n"
+    ],
+    [
+      0.080688,
+      "I: Unpacking libxapian22...\r\n"
+    ],
+    [
+      0.144475,
+      "I: Unpacking logrotate...\r\n"
+    ],
+    [
+      0.109761,
+      "I: Unpacking man-db...\r\n"
+    ],
+    [
+      0.178932,
+      "I: Unpacking manpages...\r\n"
+    ],
+    [
+      0.170405,
+      "I: Unpacking nano...\r\n"
+    ],
+    [
+      0.136940,
+      "I: Unpacking net-tools..."
+    ],
+    [
+      0.000206,
+      "\r\n"
+    ],
+    [
+      0.131063,
+      "I: Unpacking netbase...\r\n"
+    ],
+    [
+      0.078798,
+      "I: Unpacking netcat-traditional...\r\n"
+    ],
+    [
+      0.106319,
+      "I: Unpacking procps...\r\n"
+    ],
+    [
+      0.111592,
+      "I: Unpacking readline-common...\r\n"
+    ],
+    [
+      0.092782,
+      "I: Unpacking rsyslog...\r\n"
+    ],
+    [
+      0.125841,
+      "I: Unpacking tasksel...\r\n"
+    ],
+    [
+      0.116317,
+      "I: Unpacking tasksel-data...\r\n"
+    ],
+    [
+      0.120271,
+      "I: Unpacking traceroute...\r\n"
+    ],
+    [
+      0.109193,
+      "I: Unpacking udev...\r\n"
+    ],
+    [
+      0.275327,
+      "I: Unpacking vim-common...\r\n"
+    ],
+    [
+      0.120552,
+      "I: Unpacking vim-tiny...\r\n"
+    ],
+    [
+      0.146399,
+      "I: Unpacking wget...\r\n"
+    ],
+    [
+      1.422715,
+      "I: Unpacking whiptail...\r\n"
+    ],
+    [
+      0.092154,
+      "I: Configuring the base system...\r\n"
+    ],
+    [
+      0.024917,
+      "I: Configuring gpgv...\r\n"
+    ],
+    [
+      0.026560,
+      "I: Configuring libssl1.0.0:amd64...\r\n"
+    ],
+    [
+      0.187221,
+      "I: Configuring libgdbm3:amd64...\r\n"
+    ],
+    [
+      0.038050,
+      "I: Configuring isc-dhcp-common...\r\n"
+    ],
+    [
+      0.032747,
+      "I: Configuring libtasn1-3:amd64...\r\n"
+    ],
+    [
+      0.034980,
+      "I: Configuring libpopt0:amd64...\r\n"
+    ],
+    [
+      0.035640,
+      "I: Configuring libusb-0.1-4:amd64...\r\n"
+    ],
+    [
+      0.034701,
+      "I: Configuring libgpg-error0:amd64...\r\n"
+    ],
+    [
+      0.036180,
+      "I: Configuring install-info...\r\n"
+    ],
+    [
+      0.146414,
+      "I: Configuring vim-common...\r\n"
+    ],
+    [
+      0.029758,
+      "I: Configuring libprocps0:amd64...\r\n"
+    ],
+    [
+      0.052599,
+      "I: Configuring netbase...\r\n"
+    ],
+    [
+      0.027937,
+      "I: Configuring dmidecode...\r\n"
+    ],
+    [
+      0.023113,
+      "I: Configuring libudev0:amd64...\r\n"
+    ],
+    [
+      0.031882,
+      "I: Configuring libkmod2:amd64...\r\n"
+    ],
+    [
+      0.041243,
+      "I: Configuring adduser...\r\n"
+    ],
+    [
+      0.178869,
+      "I: Configuring traceroute...\r\n"
+    ],
+    [
+      0.067087,
+      "I: Configuring manpages...\r\n"
+    ],
+    [
+      0.024010,
+      "I: Configuring libsqlite3-0:amd64...\r\n"
+    ],
+    [
+      0.045049,
+      "I: Configuring kali-archive-keyring...\r\n"
+    ],
+    [
+      0.083218,
+      "I: Configuring iproute...\r\n"
+    ],
+    [
+      0.028622,
+      "I: Configuring libidn11:amd64...\r\n"
+    ],
+    [
+      0.042352,
+      "I: Configuring libnewt0.52...\r\n"
+    ],
+    [
+      0.031260,
+      "I: Configuring net-tools...\r\n"
+    ],
+    [
+      0.025617,
+      "I: Configuring libpipeline1:amd64...\r\n"
+    ],
+    [
+      0.058583,
+      "I: Configuring bsdmainutils...\r\n"
+    ],
+    [
+      0.050144,
+      "I: Configuring netcat-traditional...\r\n"
+    ],
+    [
+      0.093410,
+      "I: Configuring debian-archive-keyring...\r\n"
+    ],
+    [
+      0.027059,
+      "I: Configuring libncursesw5:amd64...\r\n"
+    ],
+    [
+      0.033547,
+      "I: Configuring info...\r\n"
+    ],
+    [
+      0.033060,
+      "I: Configuring iputils-ping...\r\n"
+    ],
+    [
+      0.028575,
+      "I: Configuring aptitude-common...\r\n"
+    ],
+    [
+      0.095593,
+      "I: Configuring cron...\r\n"
+    ],
+    [
+      0.190514,
+      "I: Configuring nano...\r\n"
+    ],
+    [
+      0.056036,
+      "I: Configuring libp11-kit0:amd64...\r\n"
+    ],
+    [
+      0.075990,
+      "I: Configuring rsyslog...\r\n"
+    ],
+    [
+      0.092227,
+      "I: Configuring cpio...\r\n"
+    ],
+    [
+      0.035120,
+      "I: Configuring libstdc++6:amd64...\r\n"
+    ],
+    [
+      0.079172,
+      "I: Configuring isc-dhcp-client...\r\n"
+    ],
+    [
+      0.142797,
+      "I: Configuring vim-tiny...\r\n"
+    ],
+    [
+      0.062010,
+      "I: Configuring readline-common...\r\n"
+    ],
+    [
+      0.028797,
+      "I: Configuring libnfnetlink0...\r\n"
+    ],
+    [
+      0.031670,
+      "I: Configuring libgcrypt11:amd64...\r\n"
+    ],
+    [
+      0.067083,
+      "I: Configuring procps...\r\n"
+    ],
+    [
+      0.099462,
+      "I: Configuring libxapian22...\r\n"
+    ],
+    [
+      0.032694,
+      "I: Configuring whiptail...\r\n"
+    ],
+    [
+      0.098649,
+      "I: Configuring ifupdown...\r\n"
+    ],
+    [
+      0.171959,
+      "I: Configuring kmod...\r\n"
+    ],
+    [
+      0.080575,
+      "I: Configuring libapt-pkg4.12:amd64...\r\n"
+    ],
+    [
+      0.032543,
+      "I: Configuring libept1.4.12...\r\n"
+    ],
+    [
+      0.032356,
+      "I: Configuring libapt-inst1.5:amd64...\r\n"
+    ],
+    [
+      0.033711,
+      "I: Configuring libreadline6:amd64...\r\n"
+    ],
+    [
+      0.050732,
+      "I: Configuring logrotate...\r\n"
+    ],
+    [
+      0.027254,
+      "I: Configuring libboost-iostreams1.49.0...\r\n"
+    ],
+    [
+      0.057574,
+      "I: Configuring groff-base...\r\n"
+    ],
+    [
+      0.027200,
+      "I: Configuring gnupg...\r\n"
+    ],
+    [
+      0.024762,
+      "I: Configuring libsigc++-2.0-0c2a:amd64...\r\n"
+    ],
+    [
+      0.037518,
+      "I: Configuring libgnutls26:amd64...\r\n"
+    ],
+    [
+      0.041415,
+      "I: Configuring apt-utils...\r\n"
+    ],
+    [
+      0.110855,
+      "I: Configuring udev...\r\n"
+    ],
+    [
+      0.114980,
+      "I: Configuring iptables...\r\n"
+    ],
+    [
+      0.086179,
+      "I: Configuring man-db...\r\n"
+    ],
+    [
+      7.451641,
+      "I: Configuring apt...\r\n"
+    ],
+    [
+      0.144660,
+      "I: Configuring wget...\r\n"
+    ],
+    [
+      0.024519,
+      "I: Configuring libcwidget3...\r\n"
+    ],
+    [
+      0.045207,
+      "I: Configuring aptitude...\r\n"
+    ],
+    [
+      0.042275,
+      "I: Configuring tasksel...\r\n"
+    ],
+    [
+      0.174963,
+      "I: Configuring tasksel-data...\r\n"
+    ],
+    [
+      0.037712,
+      "I: Base system installed successfully.\r\n"
+    ],
+    [
+      7.858541,
+      "Pruning /mnt/stateful_partition/crouton/chroots/kali mounts...\r\n"
+    ],
+    [
+      0.700967,
+      "Creating hwaudio group with GID 18...\r\n"
+    ],
+    [
+      0.049937,
+      "Changing audio GID from 29 to 220...\r\n"
+    ],
+    [
+      0.029053,
+      "Changing cdrom GID from 24 to 19...\r\n"
+    ],
+    [
+      0.030410,
+      "Creating devbroker-access group with GID 403...\r\n"
+    ],
+    [
+      0.047571,
+      "Changing floppy GID from 25 to 11...\r\n"
+    ],
+    [
+      0.032469,
+      "Creating i2c group with GID 404...\r\n"
+    ],
+    [
+      0.037495,
+      "Creating input group with GID 222...\r\n"
+    ],
+    [
+      0.041227,
+      "Creating serial group with GID 402...\r\n"
+    ],
+    [
+      0.051872,
+      "Changing plugdev GID from 46 to 85...\r\n"
+    ],
+    [
+      0.040156,
+      "Changing uucp GID from 10 to 14...\r\n"
+    ],
+    [
+      0.037687,
+      "Changing video GID from 44 to 27...\r\n"
+    ],
+    [
+      0.007040,
+      "Moving sudo GID from 27 to 28...\r\n"
+    ],
+    [
+      0.138540,
+      "Installing target core...\r\nPreparing environment...\r\n"
+    ],
+    [
+      0.012130,
+      "Preparing software sources...\r\n"
+    ],
+    [
+      0.032951,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.499281,
+      "\r            \r0% [Connecting to http.kali.org] [Connecting to security.kali.org]"
+    ],
+    [
+      0.500647,
+      "\r0% [Connecting to http.kali.org] [Connecting to security.kali.org]"
+    ],
+    [
+      0.405460,
+      "\r                                                                  \r0% [Waiting for headers]\r                        \r0% [Working]"
+    ],
+    [
+      0.107288,
+      "\r            \rGet:1 http://security.kali.org kali/updates Release.gpg [819 B]\r\n\r            \r100% [1 Release.gpg 819 B/819 B 100%]"
+    ],
+    [
+      0.000641,
+      "\r                                     \r100% [Working]"
+    ],
+    [
+      0.031562,
+      "\r              \rGet:2 http://http.kali.org kali Release.gpg [819 B]\r\n\r              \r100% [Waiting for headers]"
+    ],
+    [
+      0.184796,
+      "\r100% [Waiting for headers]"
+    ],
+    [
+      0.030036,
+      "\r                          \rGet:3 http://security.kali.org kali/updates Release [11.0 kB]\r\n\r                          \r23% [3 Release 1230 B/11.0 kB 11%] [Waiting for headers]"
+    ],
+    [
+      0.027937,
+      "\r                                                        \r100% [Waiting for headers]\r                          \r100% [Working]"
+    ],
+    [
+      0.000896,
+      "\r              \r100% [3 Release gpgv 11.0 kB] [Waiting for headers]"
+    ],
+    [
+      0.005178,
+      "\r                                                   \r100% [Waiting for headers]"
+    ],
+    [
+      0.039050,
+      "\r                          \rGet:4 http://http.kali.org kali Release [21.1 kB]\r\n\r                          \r41% [4 Release 1231 B/21.1 kB 6%] [Waiting for headers]"
+    ],
+    [
+      0.037791,
+      "\r                                                       \r100% [Waiting for headers]"
+    ],
+    [
+      0.000124,
+      "\r                          \r100% [4 Release gpgv 21.1 kB] [Waiting for headers]"
+    ],
+    [
+      0.005629,
+      "\r                                                   \r100% [Waiting for headers]"
+    ],
+    [
+      0.137309,
+      "\r100% [Waiting for headers]"
+    ],
+    [
+      0.034474,
+      "\r                          \rGet:5 http://security.kali.org kali/updates/main Sources [167 kB]\r\n\r                          \r17% [5 Sources 1235 B/167 kB 1%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.076626,
+      "\r                                                                            \r39% [5 Sources 44.4 kB/167 kB 27%] [Waiting for headers]"
+    ],
+    [
+      0.147094,
+      "\r                                                        \r76% [5 Sources 119 kB/167 kB 71%] [Waiting for headers]"
+    ],
+    [
+      0.094679,
+      "\r                                                       \r100% [Waiting for headers] [Waiting for headers]\r100% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.001827,
+      "\r                                                \r100% [5 Sources gzip 0 B] [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.026798,
+      "\r                                                                                           \rGet:6 http://http.kali.org kali/main Sources [7564 kB]\r\n\r                                                                                           \r3% [5 Sources gzip 0 B] [6 Sources 1234 B/7564 kB 0%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.004836,
+      "\r                                                                                                 \r3% [6 Sources 2674 B/7564 kB 0%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.126792,
+      "\r                                                                            \r4% [6 Sources 73.2 kB/7564 kB 1%] [Waiting for headers]"
+    ],
+    [
+      0.091693,
+      "\r                                                       \r4% [6 Sources 124 kB/7564 kB 2%] [Waiting for headers]"
+    ],
+    [
+      0.167309,
+      "\r5% [6 Sources 216 kB/7564 kB 3%] [Waiting for headers]"
+    ],
+    [
+      0.092317,
+      "\r                                                      \r6% [6 Sources 266 kB/7564 kB 4%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.158612,
+      "\r                                                                            \r7% [6 Sources 354 kB/7564 kB 5%] [Waiting for headers]"
+    ],
+    [
+      0.102320,
+      "\r8% [6 Sources 410 kB/7564 kB 5%] [Waiting for headers]"
+    ],
+    [
+      0.162823,
+      "\r9% [6 Sources 499 kB/7564 kB 7%] [Waiting for headers]"
+    ],
+    [
+      0.104233,
+      "\r                                                      \r10% [6 Sources 557 kB/7564 kB 7%] [Waiting for headers]"
+    ],
+    [
+      0.500991,
+      "\r                                                       \r13% [6 Sources 835 kB/7564 kB 11%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.501317,
+      "\r                                                                              \r17% [6 Sources 1113 kB/7564 kB 15%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.501090,
+      "\r20% [6 Sources 1389 kB/7564 kB 18%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.500826,
+      "\r24% [6 Sources 1669 kB/7564 kB 22%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.214370,
+      "\r                                                                               \rIgn http://http.kali.org kali/contrib Translation-en\r\n\r                                                                               \r26% [6 Sources 1790 kB/7564 kB 24%] [Waiting for headers]"
+    ],
+    [
+      0.212449,
+      "\r                                                         \rIgn http://http.kali.org kali/main Translation-en\r\n\r                                                         \rIgn http://security.kali.org kali/updates/contrib Translation-en\r\n\r                                                         \r27% [6 Sources 1905 kB/7564 kB 25%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.208693,
+      "\r                                                                               \rIgn http://http.kali.org kali/non-free Translation-en\r\n\r                                                                               \r29% [6 Sources 2024 kB/7564 kB 27%] [Waiting for headers]                                                                      368 kB/s 15s"
+    ],
+    [
+      0.001192,
+      "\r                                                                                                                                           \rIgn http://security.kali.org kali/updates/main Translation-en\r\n\r29% [6 Sources 2024 kB/7564 kB 27%] [Waiting for headers]                                                                      368 kB/s 15s"
+    ],
+    [
+      0.213754,
+      "\r                                                                                                                                           \rIgn http://security.kali.org kali/updates/non-free Translation-en\r\n\r30% [6 Sources 2144 kB/7564 kB 28%]                                                                                            368 kB/s 14s"
+    ],
+    [
+      0.500679,
+      "\r34% [6 Sources 2425 kB/7564 kB 32%]                                                                                            368 kB/s 13s"
+    ],
+    [
+      0.500740,
+      "\r37% [6 Sources 2707 kB/7564 kB 36%]                                                                                            368 kB/s 13s"
+    ],
+    [
+      0.500712,
+      "\r41% [6 Sources 2989 kB/7564 kB 40%]                                                                                            368 kB/s 12s"
+    ],
+    [
+      0.500625,
+      "\r45% [6 Sources 3270 kB/7564 kB 43%]                                                                                            368 kB/s 11s"
+    ],
+    [
+      0.500671,
+      "\r48% [6 Sources 3552 kB/7564 kB 47%]                                                                                            368 kB/s 10s"
+    ],
+    [
+      0.500769,
+      "\r52% [6 Sources 3835 kB/7564 kB 51%]                                                                                            368 kB/s 10s"
+    ],
+    [
+      0.500643,
+      "\r56% [6 Sources 4115 kB/7564 kB 54%]                                                                                             368 kB/s 9s"
+    ],
+    [
+      0.500346,
+      "\r59% [6 Sources 4393 kB/7564 kB 58%]                                                                                             368 kB/s 8s"
+    ],
+    [
+      0.500733,
+      "\r63% [6 Sources 4673 kB/7564 kB 62%]                                                                                             368 kB/s 7s"
+    ],
+    [
+      0.500631,
+      "\r66% [6 Sources 4955 kB/7564 kB 66%]                                                                                             368 kB/s 7s"
+    ],
+    [
+      0.500734,
+      "\r70% [6 Sources 5231 kB/7564 kB 69%]                                                                                             368 kB/s 6s"
+    ],
+    [
+      0.500544,
+      "\r74% [6 Sources 5514 kB/7564 kB 73%]                                                                                             561 kB/s 3s"
+    ],
+    [
+      0.500739,
+      "\r77% [6 Sources 5794 kB/7564 kB 77%]                                                                                             561 kB/s 3s"
+    ],
+    [
+      0.500437,
+      "\r81% [6 Sources 6077 kB/7564 kB 80%]                                                                                             561 kB/s 2s"
+    ],
+    [
+      0.500728,
+      "\r84% [6 Sources 6357 kB/7564 kB 84%]                                                                                             561 kB/s 2s"
+    ],
+    [
+      0.500635,
+      "\r88% [6 Sources 6595 kB/7564 kB 87%]                                                                                             561 kB/s 1s"
+    ],
+    [
+      0.500684,
+      "\r88% [6 Sources 6595 kB/7564 kB 87%]                                                                                             561 kB/s 1s"
+    ],
+    [
+      0.500635,
+      "\r88% [6 Sources 6595 kB/7564 kB 87%]                                                                                             561 kB/s 1s"
+    ],
+    [
+      0.500586,
+      "\r93% [6 Sources 7046 kB/7564 kB 93%]                                                                                             561 kB/s 0s"
+    ],
+    [
+      0.155579,
+      "\r100% [Working]                                                                                                                  561 kB/s 0s"
+    ],
+    [
+      0.003460,
+      "\r100% [6 Sources gzip 0 B] [Waiting for headers]                                                                                 561 kB/s 0s"
+    ],
+    [
+      0.025379,
+      "\r                                                                                                                                           \rGet:7 http://security.kali.org kali/updates/non-free Sources [20 B]\r\n\r100% [6 Sources gzip 0 B] [Waiting for headers]                                                                                 561 kB/s 0s"
+    ],
+    [
+      0.029350,
+      "\r                                                                                                                                           \rGet:8 http://http.kali.org kali/non-free Sources [119 kB]\r\n\r99% [6 Sources gzip 0 B] [8 Sources 1235 B/119 kB 1%]                                                                           561 kB/s 0s"
+    ],
+    [
+      0.209671,
+      "\r100% [6 Sources gzip 0 B]                                                                                                       561 kB/s 0s"
+    ],
+    [
+      0.027893,
+      "\r                                                                                                                                           \rGet:9 http://security.kali.org kali/updates/contrib Sources [20 B]\r\n\r100% [6 Sources gzip 0 B] [Waiting for headers]                                                                                 561 kB/s 0s"
+    ],
+    [
+      0.030854,
+      "\r                                                                                                                                           \rGet:10 http://http.kali.org kali/contrib Sources [56.9 kB]\r\n\r99% [6 Sources gzip 0 B] [10 Sources 1236 B/56.9 kB 2%]                                                                         561 kB/s 0s"
+    ],
+    [
+      0.096335,
+      "\r100% [6 Sources gzip 0 B] [Waiting for headers]                                                                                 561 kB/s 0s"
+    ],
+    [
+      0.035869,
+      "\r                                                                                                                                           \rGet:11 http://security.kali.org kali/updates/main amd64 Packages [398 kB]\r\n\r95% [6 Sources gzip 0 B] [11 Packages 1235 B/398 kB 0%]                                                                         561 kB/s 0s"
+    ],
+    [
+      0.500604,
+      "\r99% [6 Sources gzip 0 B] [11 Packages 283 kB/398 kB 71%]                                                                        561 kB/s 0s"
+    ],
+    [
+      0.155716,
+      "\r100% [11 Packages 371 kB/398 kB 93%]                                                                                            561 kB/s 0s"
+    ],
+    [
+      0.000316,
+      "\r100% [7 Sources gzip 0 B] [11 Packages 371 kB/398 kB 93%]                                                                       561 kB/s 0s"
+    ],
+    [
+      0.000904,
+      "\r100% [11 Packages 373 kB/398 kB 94%]                                                                                            561 kB/s 0s"
+    ],
+    [
+      0.000373,
+      "\r100% [8 Sources gzip 0 B] [11 Packages 373 kB/398 kB 94%]                                                                       561 kB/s 0s"
+    ],
+    [
+      0.020654,
+      "\r100% [11 Packages 384 kB/398 kB 97%]                                                                                            561 kB/s 0s"
+    ],
+    [
+      0.000129,
+      "\r100% [9 Sources gzip 0 B] [11 Packages 384 kB/398 kB 97%]                                                                       561 kB/s 0s"
+    ],
+    [
+      0.000326,
+      "\r100% [11 Packages 384 kB/398 kB 97%]                                                                                            561 kB/s 0s"
+    ],
+    [
+      0.000116,
+      "\r100% [10 Sources gzip 0 B] [11 Packages 384 kB/398 kB 97%]                                                                      561 kB/s 0s"
+    ],
+    [
+      0.008628,
+      "\r100% [11 Packages 390 kB/398 kB 98%]                                                                                            561 kB/s 0s"
+    ],
+    [
+      0.014838,
+      "\r100% [Working]                                                                                                                  561 kB/s 0s"
+    ],
+    [
+      0.000260,
+      "\r100% [11 Packages gzip 0 B] [Waiting for headers]                                                                               561 kB/s 0s"
+    ],
+    [
+      0.028867,
+      "\r                                                                                                                                           \rGet:12 http://http.kali.org kali/main amd64 Packages [8481 kB]\r\n\r50% [11 Packages gzip 0 B] [12 Packages 1234 B/8481 kB 0%]                                                                     561 kB/s 15s"
+    ],
+    [
+      0.047975,
+      "\r50% [12 Packages 27.2 kB/8481 kB 0%]                                                                                           561 kB/s 15s"
+    ],
+    [
+      0.501027,
+      "\r51% [12 Packages 309 kB/8481 kB 4%]                                                                                            561 kB/s 14s"
+    ],
+    [
+      0.500288,
+      "\r53% [12 Packages 592 kB/8481 kB 7%]                                                                                            561 kB/s 14s"
+    ],
+    [
+      0.500728,
+      "\r55% [12 Packages 872 kB/8481 kB 10%]                                                                                           546 kB/s 13s"
+    ],
+    [
+      0.500715,
+      "\r56% [12 Packages 1155 kB/8481 kB 14%]                                                                                          546 kB/s 13s"
+    ],
+    [
+      0.500711,
+      "\r58% [12 Packages 1435 kB/8481 kB 17%]                                                                                          546 kB/s 12s"
+    ],
+    [
+      0.500712,
+      "\r60% [12 Packages 1716 kB/8481 kB 20%]                                                                                          546 kB/s 12s"
+    ],
+    [
+      0.500712,
+      "\r61% [12 Packages 2000 kB/8481 kB 24%]                                                                                          546 kB/s 11s"
+    ],
+    [
+      0.500734,
+      "\r63% [12 Packages 2282 kB/8481 kB 27%]                                                                                          546 kB/s 11s"
+    ],
+    [
+      0.500607,
+      "\r65% [12 Packages 2564 kB/8481 kB 30%]                                                                                          546 kB/s 10s"
+    ],
+    [
+      0.500631,
+      "\r66% [12 Packages 2818 kB/8481 kB 33%]                                                                                          546 kB/s 10s"
+    ],
+    [
+      0.500744,
+      "\r68% [12 Packages 3127 kB/8481 kB 37%]                                                                                           546 kB/s 9s"
+    ],
+    [
+      0.500613,
+      "\r70% [12 Packages 3377 kB/8481 kB 40%]                                                                                           546 kB/s 9s"
+    ],
+    [
+      0.500768,
+      "\r70% [12 Packages 3377 kB/8481 kB 40%]                                                                                           546 kB/s 9s"
+    ],
+    [
+      0.500720,
+      "\r70% [12 Packages 3377 kB/8481 kB 40%]                                                                                           546 kB/s 9s"
+    ],
+    [
+      0.500652,
+      "\r73% [12 Packages 3891 kB/8481 kB 46%]                                                                                           502 kB/s 9s"
+    ],
+    [
+      0.500906,
+      "\r74% [12 Packages 4049 kB/8481 kB 48%]                                                                                           502 kB/s 8s"
+    ],
+    [
+      0.500679,
+      "\r74% [12 Packages 4177 kB/8481 kB 49%]                                                                                           502 kB/s 8s"
+    ],
+    [
+      0.500685,
+      "\r74% [12 Packages 4177 kB/8481 kB 49%]                                                                                           502 kB/s 8s"
+    ],
+    [
+      0.500625,
+      "\r82% [12 Packages 5378 kB/8481 kB 63%]                                                                                           502 kB/s 6s"
+    ],
+    [
+      0.500846,
+      "\r83% [12 Packages 5658 kB/8481 kB 67%]                                                                                           502 kB/s 5s"
+    ],
+    [
+      0.500500,
+      "\r85% [12 Packages 5940 kB/8481 kB 70%]                                                                                           502 kB/s 5s"
+    ],
+    [
+      0.500608,
+      "\r87% [12 Packages 6221 kB/8481 kB 73%]                                                                                           502 kB/s 4s"
+    ],
+    [
+      0.500844,
+      "\r88% [12 Packages 6501 kB/8481 kB 77%]                                                                                           502 kB/s 3s"
+    ],
+    [
+      0.500628,
+      "\r90% [12 Packages 6784 kB/8481 kB 80%]                                                                                           502 kB/s 3s"
+    ],
+    [
+      0.500736,
+      "\r92% [12 Packages 7064 kB/8481 kB 83%]                                                                                           502 kB/s 2s"
+    ],
+    [
+      0.500653,
+      "\r93% [12 Packages 7347 kB/8481 kB 87%]                                                                                           502 kB/s 2s"
+    ],
+    [
+      0.500713,
+      "\r95% [12 Packages 7627 kB/8481 kB 90%]                                                                                           622 kB/s 1s"
+    ],
+    [
+      0.500144,
+      "\r97% [12 Packages 7905 kB/8481 kB 93%]                                                                                           622 kB/s 0s"
+    ],
+    [
+      0.500788,
+      "\r98% [12 Packages 8188 kB/8481 kB 97%]                                                                                           622 kB/s 0s"
+    ],
+    [
+      0.500659,
+      "\r100% [12 Packages 8467 kB/8481 kB 100%]                                                                                         622 kB/s 0s"
+    ],
+    [
+      0.024668,
+      "\r100% [Working]                                                                                                                  622 kB/s 0s"
+    ],
+    [
+      0.000177,
+      "\r100% [12 Packages gzip 0 B] [Waiting for headers]                                                                               622 kB/s 0s"
+    ],
+    [
+      0.026789,
+      "\r                                                                                                                                           \rGet:13 http://security.kali.org kali/updates/non-free amd64 Packages [20 B]\r\n\r100% [12 Packages gzip 0 B] [Waiting for headers]                                                                               622 kB/s 0s"
+    ],
+    [
+      0.041425,
+      "\r                                                                                                                                           \rGet:14 http://http.kali.org kali/non-free amd64 Packages [139 kB]\r\n\r99% [12 Packages gzip 0 B] [14 Packages 1235 B/139 kB 1%]                                                                       622 kB/s 0s"
+    ],
+    [
+      0.246125,
+      "\r100% [12 Packages gzip 0 B] [Waiting for headers]                                                                               622 kB/s 0s"
+    ],
+    [
+      0.031961,
+      "\r                                                                                                                                           \rGet:15 http://security.kali.org kali/updates/contrib amd64 Packages [20 B]\r\n\r100% [12 Packages gzip 0 B] [15 Packages 20 B/20 B 100%]                                                                        622 kB/s 0s\r100% [12 Packages gzip 0 B]                                                                                                     622 kB/s 0s"
+    ],
+    [
+      0.041394,
+      "\r                                                                                                                                           \rGet:16 http://http.kali.org kali/contrib amd64 Packages [57.7 kB]\r\n\r100% [12 Packages gzip 0 B] [16 Packages 1238 B/57.7 kB 2%]                                                                     622 kB/s 0s"
+    ],
+    [
+      0.100553,
+      "\r100% [12 Packages gzip 0 B]                                                                                                     622 kB/s 0s"
+    ],
+    [
+      0.500752,
+      "\r100% [12 Packages gzip 0 B]                                                                                                     622 kB/s 0s"
+    ],
+    [
+      0.288331,
+      "\r100% [Working]                                                                                                                  622 kB/s 0s"
+    ],
+    [
+      0.000242,
+      "\r100% [13 Packages gzip 0 B]                                                                                                     622 kB/s 0s"
+    ],
+    [
+      0.000989,
+      "\r100% [Working]                                                                                                                  622 kB/s 0s"
+    ],
+    [
+      0.000434,
+      "\r100% [14 Packages gzip 0 B]                                                                                                     622 kB/s 0s"
+    ],
+    [
+      0.023395,
+      "\r100% [Working]                                                                                                                  622 kB/s 0s"
+    ],
+    [
+      0.000222,
+      "\r100% [15 Packages gzip 0 B]                                                                                                     622 kB/s 0s"
+    ],
+    [
+      0.000406,
+      "\r100% [Working]                                                                                                                  622 kB/s 0s"
+    ],
+    [
+      0.000155,
+      "\r100% [16 Packages gzip 0 B]                                                                                                     622 kB/s 0s"
+    ],
+    [
+      0.008638,
+      "\r100% [Working]                                                                                                                  622 kB/s 0s\r                                                                                                                                           \rFetched 17.0 MB in 33s (508 kB/s)\r\n"
+    ],
+    [
+      0.010054,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.014374,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.007759,
+      "\rReading package lists... 1%\r"
+    ],
+    [
+      0.705480,
+      "\rReading package lists... 62%\r"
+    ],
+    [
+      0.439117,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.000228,
+      "\rReading package lists... 92%\r"
+    ],
+    [
+      0.019071,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.000227,
+      "\rReading package lists... 93%\r"
+    ],
+    [
+      0.010613,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.000069,
+      "\rReading package lists... 94%\r"
+    ],
+    [
+      0.057007,
+      "\rReading package lists... 99%\r"
+    ],
+    [
+      0.000009,
+      "\rReading package lists... 99%\r"
+    ],
+    [
+      0.000235,
+      "\rReading package lists... 99%\r"
+    ],
+    [
+      0.000108,
+      "\rReading package lists... 99%\r"
+    ],
+    [
+      0.255714,
+      "\rReading package lists... 99%\r"
+    ],
+    [
+      0.000085,
+      "\rReading package lists... 99%\r"
+    ],
+    [
+      0.213074,
+      "\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.002509,
+      "Ensuring system is up-to-date..."
+    ],
+    [
+      0.000291,
+      "\r\n"
+    ],
+    [
+      0.006369,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.002193,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.004656,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.032798,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.138134,
+      "\rBuilding dependency tree... Done\r\r\n"
+    ],
+    [
+      0.077592,
+      "Calculating upgrade... "
+    ],
+    [
+      0.128296,
+      "Done\r\n"
+    ],
+    [
+      0.007510,
+      "The following packages will be upgraded:\r\n  dpkg e2fslibs e2fsprogs gnupg gpgv libc-bin libc6 libcomerr2 libgcrypt11 libgnutls26 libss2 libssl1.0.0 libtasn1-3 multiarch-support\r\n"
+    ],
+    [
+      0.006413,
+      "14 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.\r\n"
+    ],
+    [
+      0.021988,
+      "Need to get 14.2 MB of archives.\r\n"
+    ],
+    [
+      0.000009,
+      "After this operation, 62.5 kB disk space will be freed.\r\n"
+    ],
+    [
+      0.003483,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.364470,
+      "\r0% [Working]"
+    ],
+    [
+      0.083711,
+      "\r            \rGet:1 http://security.kali.org/kali-security/ kali/updates/main dpkg amd64 1.16.16 [2662 kB]\r\n\r            \r0% [1 dpkg 2669 B/2662 kB 0%] [Waiting for headers]"
+    ],
+    [
+      0.169659,
+      "\r                                                   \r1% [1 dpkg 94.8 kB/2662 kB 4%]"
+    ],
+    [
+      0.300308,
+      "\r2% [1 dpkg 262 kB/2662 kB 10%]"
+    ],
+    [
+      0.320228,
+      "\r3% [1 dpkg 439 kB/2662 kB 16%]"
+    ],
+    [
+      0.325323,
+      "\r4% [1 dpkg 622 kB/2662 kB 23%]"
+    ],
+    [
+      0.343359,
+      "\r6% [1 dpkg 813 kB/2662 kB 31%]"
+    ],
+    [
+      0.356952,
+      "\r                              \r7% [1 dpkg 1012 kB/2662 kB 38%]"
+    ],
+    [
+      0.371022,
+      "\r9% [1 dpkg 1219 kB/2662 kB 46%]"
+    ],
+    [
+      0.400257,
+      "\r                               \r10% [1 dpkg 1443 kB/2662 kB 54%]"
+    ],
+    [
+      0.409514,
+      "\r12% [1 dpkg 1672 kB/2662 kB 63%]"
+    ],
+    [
+      0.420699,
+      "\r13% [1 dpkg 1906 kB/2662 kB 72%]"
+    ],
+    [
+      0.445707,
+      "\r15% [1 dpkg 2155 kB/2662 kB 81%]"
+    ],
+    [
+      0.468926,
+      "\r16% [1 dpkg 2312 kB/2662 kB 87%]"
+    ],
+    [
+      0.443577,
+      "\r                                \r19% [Waiting for headers]"
+    ],
+    [
+      0.001543,
+      "\r19% [Waiting for headers]"
+    ],
+    [
+      0.049256,
+      "\r                         \rGet:2 http://security.kali.org/kali-security/ kali/updates/main libc-bin amd64 2.13-38+deb7u8 [1274 kB]\r\n\r                         \r19% [2 libc-bin 1228 B/1274 kB 0%]"
+    ],
+    [
+      0.500726,
+      "\r                                  \r20% [2 libc-bin 141 kB/1274 kB 11%]"
+    ],
+    [
+      0.500730,
+      "\r                                   \r23% [2 libc-bin 566 kB/1274 kB 44%]                                                                                            514 kB/s 21s"
+    ],
+    [
+      0.500694,
+      "\r25% [2 libc-bin 847 kB/1274 kB 66%]                                                                                            514 kB/s 20s"
+    ],
+    [
+      0.500705,
+      "\r27% [2 libc-bin 1129 kB/1274 kB 89%]                                                                                           514 kB/s 20s"
+    ],
+    [
+      0.257675,
+      "\r28% [Working]                                                                                                                  514 kB/s 19s"
+    ],
+    [
+      0.040721,
+      "\r                                                                                                                                           \rGet:3 http://security.kali.org/kali-security/ kali/updates/main libc6 amd64 2.13-38+deb7u8 [4335 kB]\r\n\r28% [3 libc6 1228 B/4335 kB 0%]                                                                                                514 kB/s 19s"
+    ],
+    [
+      0.500654,
+      "\r30% [3 libc6 278 kB/4335 kB 6%]                                                                                                514 kB/s 19s"
+    ],
+    [
+      0.500622,
+      "\r32% [3 libc6 559 kB/4335 kB 13%]                                                                                               514 kB/s 18s"
+    ],
+    [
+      0.500714,
+      "\r34% [3 libc6 841 kB/4335 kB 19%]                                                                                               514 kB/s 18s"
+    ],
+    [
+      0.500612,
+      "\r36% [3 libc6 1122 kB/4335 kB 26%]                                                                                              514 kB/s 17s"
+    ],
+    [
+      0.500722,
+      "\r38% [3 libc6 1402 kB/4335 kB 32%]                                                                                              514 kB/s 17s"
+    ],
+    [
+      0.500617,
+      "\r40% [3 libc6 1686 kB/4335 kB 39%]                                                                                              514 kB/s 16s"
+    ],
+    [
+      0.500770,
+      "\r42% [3 libc6 1964 kB/4335 kB 45%]                                                                                              514 kB/s 16s"
+    ],
+    [
+      0.500991,
+      "\r44% [3 libc6 2249 kB/4335 kB 52%]                                                                                              514 kB/s 15s"
+    ],
+    [
+      0.500891,
+      "\r46% [3 libc6 2531 kB/4335 kB 58%]                                                                                              514 kB/s 14s"
+    ],
+    [
+      0.500529,
+      "\r48% [3 libc6 2814 kB/4335 kB 65%]                                                                                              558 kB/s 13s"
+    ],
+    [
+      0.500707,
+      "\r50% [3 libc6 3094 kB/4335 kB 71%]                                                                                              558 kB/s 12s"
+    ],
+    [
+      0.500649,
+      "\r52% [3 libc6 3377 kB/4335 kB 78%]                                                                                              558 kB/s 12s"
+    ],
+    [
+      0.500715,
+      "\r54% [3 libc6 3659 kB/4335 kB 84%]                                                                                              558 kB/s 11s"
+    ],
+    [
+      0.500687,
+      "\r56% [3 libc6 3938 kB/4335 kB 91%]                                                                                              558 kB/s 11s"
+    ],
+    [
+      0.500709,
+      "\r58% [3 libc6 4222 kB/4335 kB 97%]                                                                                              558 kB/s 10s"
+    ],
+    [
+      0.203539,
+      "\r58% [Working]                                                                                                                  558 kB/s 10s"
+    ],
+    [
+      0.049368,
+      "\r                                                                                                                                           \rGet:4 http://security.kali.org/kali-security/ kali/updates/main e2fslibs amd64 1.42.5-1.1+deb7u1 [197 kB]\r\n\r58% [4 e2fslibs 1229 B/197 kB 1%]                                                                                              558 kB/s 10s"
+    ],
+    [
+      0.350248,
+      "\r60% [Working]                                                                                                                  558 kB/s 10s"
+    ],
+    [
+      0.038656,
+      "\r                                                                                                                                           \rGet:5 http://security.kali.org/kali-security/ kali/updates/main e2fsprogs amd64 1.42.5-1.1+deb7u1 [979 kB]\r\n\r60% [5 e2fsprogs 1229 B/979 kB 0%]                                                                                             558 kB/s 10s"
+    ],
+    [
+      0.500739,
+      "\r62% [5 e2fsprogs 282 kB/979 kB 29%]                                                                                             558 kB/s 9s"
+    ],
+    [
+      0.500706,
+      "\r64% [5 e2fsprogs 564 kB/979 kB 58%]                                                                                             558 kB/s 9s"
+    ],
+    [
+      0.500706,
+      "\r66% [5 e2fsprogs 842 kB/979 kB 86%]                                                                                             558 kB/s 8s"
+    ],
+    [
+      0.244646,
+      "\r67% [Working]                                                                                                                   558 kB/s 8s"
+    ],
+    [
+      0.046187,
+      "\r                                                                                                                                           \rGet:6 http://security.kali.org/kali-security/ kali/updates/main libcomerr2 amd64 1.42.5-1.1+deb7u1 [56.1 kB]\r\n\r67% [6 libcomerr2 1230 B/56.1 kB 2%]                                                                                            558 kB/s 8s"
+    ],
+    [
+      0.098035,
+      "\r67% [Working]                                                                                                                   558 kB/s 8s"
+    ],
+    [
+      0.032057,
+      "\r                                                                                                                                           \rGet:7 http://security.kali.org/kali-security/ kali/updates/main libss2 amd64 1.42.5-1.1+deb7u1 [61.4 kB]\r\n\r67% [7 libss2 1230 B/61.4 kB 2%]                                                                                                558 kB/s 8s"
+    ],
+    [
+      0.111184,
+      "\r68% [Working]                                                                                                                   558 kB/s 8s"
+    ],
+    [
+      0.030133,
+      "\r                                                                                                                                           \rGet:8 http://security.kali.org/kali-security/ kali/updates/main libgcrypt11 amd64 1.5.0-5+deb7u3 [300 kB]\r\n\r68% [8 libgcrypt11 1229 B/300 kB 0%]                                                                                            558 kB/s 8s"
+    ],
+    [
+      0.500616,
+      "\r70% [8 libgcrypt11 282 kB/300 kB 94%]                                                                                           558 kB/s 7s"
+    ],
+    [
+      0.031275,
+      "\r70% [Working]                                                                                                                   558 kB/s 7s"
+    ],
+    [
+      0.029359,
+      "\r                                                                                                                                           \rGet:9 http://security.kali.org/kali-security/ kali/updates/main libtasn1-3 amd64 2.13-2+deb7u2 [67.8 kB]\r\n\r70% [9 libtasn1-3 1230 B/67.8 kB 2%]                                                                                            558 kB/s 7s"
+    ],
+    [
+      0.118707,
+      "\r70% [Working]                                                                                                                   558 kB/s 7s"
+    ],
+    [
+      0.032002,
+      "\r                                                                                                                                           \rGet:10 http://security.kali.org/kali-security/ kali/updates/main libgnutls26 amd64 2.12.20-8+deb7u3 [620 kB]\r\n\r70% [10 libgnutls26 1229 B/620 kB 0%]                                                                                           558 kB/s 7s"
+    ],
+    [
+      0.501022,
+      "\r72% [10 libgnutls26 282 kB/620 kB 45%]                                                                                          540 kB/s 7s"
+    ],
+    [
+      0.501022,
+      "\r74% [10 libgnutls26 564 kB/620 kB 91%]                                                                                          540 kB/s 6s"
+    ],
+    [
+      0.100433,
+      "\r75% [Working]                                                                                                                   540 kB/s 6s"
+    ],
+    [
+      0.029824,
+      "\r                                                                                                                                           \rGet:11 http://security.kali.org/kali-security/ kali/updates/main libssl1.0.0 amd64 1.0.1e-2+deb7u17 [1262 kB]\r\n\r75% [11 libssl1.0.0 1228 B/1262 kB 0%]                                                                                          540 kB/s 6s"
+    ],
+    [
+      0.500705,
+      "\r76% [11 libssl1.0.0 132 kB/1262 kB 10%]                                                                                         540 kB/s 6s"
+    ],
+    [
+      0.500708,
+      "\r79% [11 libssl1.0.0 560 kB/1262 kB 44%]                                                                                         540 kB/s 5s"
+    ],
+    [
+      0.500419,
+      "\r80% [11 libssl1.0.0 836 kB/1262 kB 66%]                                                                                         540 kB/s 5s"
+    ],
+    [
+      0.500694,
+      "\r83% [11 libssl1.0.0 1122 kB/1262 kB 89%]                                                                                        540 kB/s 4s"
+    ],
+    [
+      0.248295,
+      "\r83% [Working]                                                                                                                   540 kB/s 4s"
+    ],
+    [
+      0.047903,
+      "\r                                                                                                                                           \rGet:12 http://security.kali.org/kali-security/ kali/updates/main gpgv amd64 1.4.12-7+deb7u7 [228 kB]\r\n\r84% [12 gpgv 1229 B/228 kB 1%]                                                                                                  540 kB/s 4s"
+    ],
+    [
+      0.403230,
+      "\r85% [Working]                                                                                                                   540 kB/s 3s"
+    ],
+    [
+      0.046883,
+      "\r                                                                                                                                           \rGet:13 http://security.kali.org/kali-security/ kali/updates/main gnupg amd64 1.4.12-7+deb7u7 [1956 kB]\r\n\r85% [13 gnupg 1228 B/1956 kB 0%]                                                                                                540 kB/s 3s"
+    ],
+    [
+      0.500476,
+      "\r87% [13 gnupg 282 kB/1956 kB 14%]                                                                                               540 kB/s 3s"
+    ],
+    [
+      0.500760,
+      "\r89% [13 gnupg 564 kB/1956 kB 29%]                                                                                               540 kB/s 2s"
+    ],
+    [
+      0.500607,
+      "\r91% [13 gnupg 847 kB/1956 kB 43%]                                                                                               540 kB/s 2s"
+    ],
+    [
+      0.500715,
+      "\r93% [13 gnupg 1127 kB/1956 kB 58%]                                                                                              540 kB/s 1s"
+    ],
+    [
+      0.500722,
+      "\r95% [13 gnupg 1410 kB/1956 kB 72%]                                                                                              540 kB/s 1s"
+    ],
+    [
+      0.500216,
+      "\r97% [13 gnupg 1690 kB/1956 kB 86%]                                                                                              551 kB/s 0s"
+    ],
+    [
+      0.472024,
+      "\r99% [Working]                                                                                                                   551 kB/s 0s"
+    ],
+    [
+      0.049588,
+      "\r                                                                                                                                           \rGet:14 http://security.kali.org/kali-security/ kali/updates/main multiarch-support amd64 2.13-38+deb7u8 [151 kB]\r\n\r99% [14 multiarch-support 1230 B/151 kB 1%]                                                                                     551 kB/s 0s"
+    ],
+    [
+      0.267052,
+      "\r100% [Working]                                                                                                                  551 kB/s 0s\r                                                                                                                                           \rFetched 14.2 MB in 26s (541 kB/s)\r\n"
+    ],
+    [
+      0.196267,
+      "Preconfiguring packages ...\r\n"
+    ],
+    [
+      0.151259,
+      "(Reading database ... \r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r(Reading database ... 75%\r(Reading database ... 80%\r"
+    ],
+    [
+      0.001910,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.001800,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.000931,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.001552,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000014,
+      "(Reading database ... "
+    ],
+    [
+      0.000141,
+      "9321 files and directories currently installed.)"
+    ],
+    [
+      0.000096,
+      "\r\n"
+    ],
+    [
+      0.001762,
+      "Preparing to replace dpkg 1.16.15 (using .../dpkg_1.16.16_amd64.deb) ..."
+    ],
+    [
+      0.000149,
+      "\r\n"
+    ],
+    [
+      0.033017,
+      "Unpacking replacement dpkg ...\r\n"
+    ],
+    [
+      0.239031,
+      "Processing triggers for man-db ...\r\n"
+    ],
+    [
+      1.448509,
+      "Setting up dpkg (1.16.16) ...\r\n"
+    ],
+    [
+      0.626861,
+      "(Reading database ... \r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r(Reading database ... 75%\r(Reading database ... 80%\r(Reading database ... 85%\r(Reading database ... 90%\r"
+    ],
+    [
+      0.000555,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.003026,
+      "(Reading database ... 100%\r(Reading database ... 9321 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.001116,
+      "Preparing to replace libc-bin 2.13-38+deb7u6 (using .../libc-bin_2.13-38+deb7u8_amd64.deb) ...\r\n"
+    ],
+    [
+      0.027880,
+      "Unpacking replacement libc-bin ...\r\n"
+    ],
+    [
+      0.172014,
+      "Processing triggers for man-db ...\r\n"
+    ],
+    [
+      0.820868,
+      "Setting up libc-bin (2.13-38+deb7u8) ...\r\n"
+    ],
+    [
+      0.650553,
+      "(Reading database ... \r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r(Reading database ... 75%\r"
+    ],
+    [
+      0.000368,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.003503,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.002143,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.001500,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.003492,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000468,
+      "(Reading database ... "
+    ],
+    [
+      0.000227,
+      "9321 files and directories currently installed.)"
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.001042,
+      "Preparing to replace libc6:amd64 2.13-38+deb7u6 (using .../libc6_2.13-38+deb7u8_amd64.deb) ..."
+    ],
+    [
+      0.000261,
+      "\r\n"
+    ],
+    [
+      0.233736,
+      "Unpacking replacement libc6:amd64 ...\r\n"
+    ],
+    [
+      0.794230,
+      "Setting up libc6:amd64 (2.13-38+deb7u8) ...\r\n"
+    ],
+    [
+      1.956251,
+      "(Reading database ... \r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r"
+    ],
+    [
+      0.001247,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.001739,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.000737,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.002224,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.001330,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.001660,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.002470,
+      "(Reading database ... 100%\r(Reading database ... 9321 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.003341,
+      "Preparing to replace e2fslibs:amd64 1.42.5-1.1 (using .../e2fslibs_1.42.5-1.1+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.022738,
+      "Unpacking replacement e2fslibs:amd64 ...\r\n"
+    ],
+    [
+      0.589994,
+      "Setting up e2fslibs:amd64 (1.42.5-1.1+deb7u1) ...\r\n"
+    ],
+    [
+      0.609865,
+      "(Reading database ... \r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r"
+    ],
+    [
+      0.003307,
+      "(Reading database ... 75%\r(Reading database ... 80%\r"
+    ],
+    [
+      0.001027,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.001253,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.000800,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.003672,
+      "(Reading database ... 100%\r(Reading database ... 9321 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.000954,
+      "Preparing to replace e2fsprogs 1.42.5-1.1 (using .../e2fsprogs_1.42.5-1.1+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.026655,
+      "Unpacking replacement e2fsprogs ...\r\n"
+    ],
+    [
+      0.139027,
+      "Processing triggers for man-db ...\r\n"
+    ],
+    [
+      0.847160,
+      "Setting up e2fsprogs (1.42.5-1.1+deb7u1) ...\r\n"
+    ],
+    [
+      0.606351,
+      "(Reading database ... \r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r(Reading database ... 75%\r(Reading database ... 80%\r(Reading database ... 85%\r(Reading database ... 90%\r(Reading database ... 95%\r"
+    ],
+    [
+      0.003144,
+      "(Reading database ... 100%\r(Reading database ... 9321 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.000506,
+      "Preparing to replace libcomerr2:amd64 1.42.5-1.1 (using .../libcomerr2_1.42.5-1.1+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.024753,
+      "Unpacking replacement libcomerr2:amd64 ..."
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.579841,
+      "Setting up libcomerr2:amd64 (1.42.5-1.1+deb7u1) ...\r\n"
+    ],
+    [
+      0.625682,
+      "(Reading database ... \r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r(Reading database ... 75%\r(Reading database ... 80%\r(Reading database ... 85%\r"
+    ],
+    [
+      0.000314,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.002436,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.001742,
+      "(Reading database ... 100%\r(Reading database ... 9321 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.003371,
+      "Preparing to replace libss2:amd64 1.42.5-1.1 (using .../libss2_1.42.5-1.1+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.021129,
+      "Unpacking replacement libss2:amd64 ..."
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.588531,
+      "Setting up libss2:amd64 (1.42.5-1.1+deb7u1) ...\r\n"
+    ],
+    [
+      0.614262,
+      "(Reading database ... \r"
+    ],
+    [
+      0.000425,
+      "(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r"
+    ],
+    [
+      0.004558,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.001547,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.000806,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.002520,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.001249,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.000858,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.001186,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000224,
+      "(Reading database ... "
+    ],
+    [
+      0.000160,
+      "9321 files and directories currently installed.)"
+    ],
+    [
+      0.000132,
+      "\r\n"
+    ],
+    [
+      0.000913,
+      "Preparing to replace libgcrypt11:amd64 1.5.0-5+deb7u2 (using .../libgcrypt11_1.5.0-5+deb7u3_amd64.deb) ..."
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      0.025706,
+      "Unpacking replacement libgcrypt11:amd64 ...\r\n"
+    ],
+    [
+      0.099949,
+      "Preparing to replace libtasn1-3:amd64 2.13-2+deb7u1 (using .../libtasn1-3_2.13-2+deb7u2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.024600,
+      "Unpacking replacement libtasn1-3:amd64 ..."
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.086619,
+      "Preparing to replace libgnutls26:amd64 2.12.20-8+deb7u2 (using .../libgnutls26_2.12.20-8+deb7u3_amd64.deb) ...\r\n"
+    ],
+    [
+      0.024601,
+      "Unpacking replacement libgnutls26:amd64 ...\r\n"
+    ],
+    [
+      0.128333,
+      "Preparing to replace libssl1.0.0:amd64 1.0.1e-2+deb7u13 (using .../libssl1.0.0_1.0.1e-2+deb7u17_amd64.deb) ...\r\n"
+    ],
+    [
+      0.024996,
+      "Unpacking replacement libssl1.0.0:amd64 ...\r\n"
+    ],
+    [
+      0.147449,
+      "Preparing to replace gpgv 1.4.12-7+deb7u6 (using .../gpgv_1.4.12-7+deb7u7_amd64.deb) ...\r\n"
+    ],
+    [
+      0.024661,
+      "Unpacking replacement gpgv ..."
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.086220,
+      "Processing triggers for man-db ...\r\n"
+    ],
+    [
+      0.685858,
+      "Setting up gpgv (1.4.12-7+deb7u7) ...\r\n"
+    ],
+    [
+      0.599528,
+      "(Reading database ... \r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r"
+    ],
+    [
+      0.003126,
+      "(Reading database ... 75%\r(Reading database ... 80%\r"
+    ],
+    [
+      0.001172,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.001285,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.001286,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.001014,
+      "(Reading database ... 100%\r(Reading database ... 9321 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.000965,
+      "Preparing to replace gnupg 1.4.12-7+deb7u6 (using .../gnupg_1.4.12-7+deb7u7_amd64.deb) ...\r\n"
+    ],
+    [
+      0.024481,
+      "Unpacking replacement gnupg ...\r\n"
+    ],
+    [
+      0.198013,
+      "Processing triggers for man-db ...\r\n"
+    ],
+    [
+      0.295398,
+      "Processing triggers for install-info ...\r\n"
+    ],
+    [
+      0.642343,
+      "Setting up gnupg (1.4.12-7+deb7u7) ...\r\n"
+    ],
+    [
+      0.580241,
+      "(Reading database ... \r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r"
+    ],
+    [
+      0.003353,
+      "(Reading database ... 70%\r(Reading database ... 75%\r(Reading database ... 80%\r"
+    ],
+    [
+      0.002594,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.001230,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.001330,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.002951,
+      "(Reading database ... 100%\r(Reading database ... 9321 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.000495,
+      "Preparing to replace multiarch-support 2.13-38+deb7u6 (using .../multiarch-support_2.13-38+deb7u8_amd64.deb) ..."
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.023440,
+      "Unpacking replacement multiarch-support ...\r\n"
+    ],
+    [
+      0.575835,
+      "Setting up multiarch-support (2.13-38+deb7u8) ...\r\n"
+    ],
+    [
+      0.029806,
+      "Setting up libgcrypt11:amd64 (1.5.0-5+deb7u3) ...\r\n"
+    ],
+    [
+      0.039084,
+      "Setting up libtasn1-3:amd64 (2.13-2+deb7u2) ...\r\n"
+    ],
+    [
+      0.031237,
+      "Setting up libgnutls26:amd64 (2.12.20-8+deb7u3) ...\r\n"
+    ],
+    [
+      0.031038,
+      "Setting up libssl1.0.0:amd64 (1.0.1e-2+deb7u17) ...\r\n"
+    ],
+    [
+      1.033705,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.004382,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.006651,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.032535,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.145557,
+      "\rBuilding dependency tree       \r"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.000074,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.000037,
+      "\rReading state information... Done\r"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.076009,
+      "wget is already the newest version.\r\n"
+    ],
+    [
+      0.098102,
+      "The following extra packages will be installed:\r\n  libcurl3-gnutls libgssapi-krb5-2 libk5crypto3 libkeyutils1 libkrb5-3 libkrb5support0 libldap-2.4-2 librtmp0 libsasl2-2 libssh2-1 openssl\r\n"
+    ],
+    [
+      0.001464,
+      "Suggested packages:\r\n"
+    ],
+    [
+      0.000009,
+      "  krb5-doc krb5-user\r\nRecommended packages:\r\n  krb5-locales libsasl2-modules\r\n"
+    ],
+    [
+      0.002373,
+      "The following NEW packages will be installed:\r\n"
+    ],
+    [
+      0.000009,
+      "  apt-transport-https ca-certificates libcurl3-gnutls libgssapi-krb5-2 libk5crypto3 libkeyutils1 libkrb5-3 libkrb5support0 libldap-2.4-2\r\n  librtmp0 libsasl2-2 libssh2-1 openssl sudo\r\n"
+    ],
+    [
+      0.009683,
+      "0 upgraded, 14 newly installed, 0 to remove and 0 not upgraded.\r\n"
+    ],
+    [
+      0.012167,
+      "Need to get 3462 kB of archives.\r\n"
+    ],
+    [
+      0.000009,
+      "After this operation, 7109 kB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.006000,
+      "\r\r0% [Working]"
+    ],
+    [
+      0.479357,
+      "\r            \r0% [Waiting for headers]"
+    ],
+    [
+      0.018770,
+      "\r                        \r0% [Connecting to ftp.free.fr (212.27.60.27)] [Waiting for headers]"
+    ],
+    [
+      0.087504,
+      "\r                                                                   \rGet:1 http://http.kali.org/ kali/main libkeyutils1 amd64 1.5.5-3+deb7u1 [8664 B]\r\n\r                                                                   \r0% [1 libkeyutils1 1232 B/8664 B 14%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.011239,
+      "\r                                                                                 \r0% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.044259,
+      "\r                                              \rGet:2 http://security.kali.org/kali-security/ kali/updates/main libkrb5support0 amd64 1.10.1+dfsg-5+deb7u3 [49.9 kB]\r\n\r                                              \r0% [2 libkrb5support0 1230 B/49.9 kB 2%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.073484,
+      "\r                                                                                    \r1% [2 libkrb5support0 40.1 kB/49.9 kB 80%] [Waiting for headers]"
+    ],
+    [
+      0.022193,
+      "\r                                                                \r2% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.054314,
+      "\r                                              \rGet:3 http://http.kali.org/ kali/main libsasl2-2 amd64 2.1.25.dfsg1-6+deb7u1 [120 kB]\r\n\r                                              \r2% [3 libsasl2-2 1229 B/120 kB 1%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.192861,
+      "\r                                                                              \r5% [3 libsasl2-2 108 kB/120 kB 90%] [Waiting for headers]"
+    ],
+    [
+      0.021645,
+      "\r                                                         \r5% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.007173,
+      "\r5% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.031697,
+      "\r                                              \rGet:4 http://security.kali.org/kali-security/ kali/updates/main libk5crypto3 amd64 1.10.1+dfsg-5+deb7u3 [113 kB]\r\n\r                                              \r5% [4 libk5crypto3 1230 B/113 kB 1%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.201113,
+      "\r                                                                                \r8% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.000196,
+      "\r                                              \r8% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.003361,
+      "\r8% [Waiting for headers] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.047636,
+      "\r                                                                    \rGet:5 http://http.kali.org/ kali/main librtmp0 amd64 2.4+20111222.git4e06e21-1 [62.3 kB]\r\n\r                                                                    \r8% [5 librtmp0 1230 B/62.3 kB 2%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.108857,
+      "\r                                                                             \r10% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.047632,
+      "\r                                               \rGet:6 http://security.kali.org/kali-security/ kali/updates/main libkrb5-3 amd64 1.10.1+dfsg-5+deb7u3 [393 kB]\r\n\r                                               \r10% [6 libkrb5-3 1229 B/393 kB 0%] [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.109184,
+      "\r                                                                              \r12% [6 libkrb5-3 60.3 kB/393 kB 15%] [Waiting for headers]"
+    ],
+    [
+      0.001464,
+      "\r                                                          \r12% [6 libkrb5-3 60.3 kB/393 kB 15%]"
+    ],
+    [
+      0.299821,
+      "\r                                    \r17% [6 libkrb5-3 227 kB/393 kB 58%]"
+    ],
+    [
+      0.301156,
+      "\r                                   \r22% [Waiting for headers]"
+    ],
+    [
+      0.000441,
+      "\r22% [Waiting for headers]"
+    ],
+    [
+      0.054138,
+      "\r                         \rGet:7 http://http.kali.org/ kali/main apt-transport-https amd64 0.9.7.9+deb7u7 [109 kB]\r\n\r                         \r22% [7 apt-transport-https 1229 B/109 kB 1%] [Waiting for headers]"
+    ],
+    [
+      0.192449,
+      "\r                                                                  \r25% [Waiting for headers]"
+    ],
+    [
+      0.002009,
+      "\r                         \r25% [Waiting for headers] [Waiting for headers]"
+    ],
+    [
+      0.041645,
+      "\r                                               \rGet:8 http://security.kali.org/kali-security/ kali/updates/main libgssapi-krb5-2 amd64 1.10.1+dfsg-5+deb7u3 [148 kB]\r\n\r                                               \r25% [8 libgssapi-krb5-2 1229 B/148 kB 1%] [Waiting for headers]"
+    ],
+    [
+      0.261518,
+      "\r                                                               \r29% [Waiting for headers]"
+    ],
+    [
+      0.002750,
+      "\r29% [Waiting for headers]"
+    ],
+    [
+      0.050239,
+      "\r                         \rGet:9 http://http.kali.org/ kali/main ca-certificates all 20130119+deb7u1 [210 kB]\r\n\r                         \r29% [9 ca-certificates 1229 B/210 kB 1%]"
+    ],
+    [
+      0.371201,
+      "\r                                        \r35% [Working]"
+    ],
+    [
+      0.045786,
+      "\r             \rGet:10 http://security.kali.org/kali-security/ kali/updates/main libldap-2.4-2 amd64 2.4.31-2 [243 kB]\r\n\r             \r35% [10 libldap-2.4-2 1229 B/243 kB 1%]"
+    ],
+    [
+      0.427279,
+      "\r                                       \r42% [Working]"
+    ],
+    [
+      0.044157,
+      "\r             \rGet:11 http://security.kali.org/kali-security/ kali/updates/main libssh2-1 amd64 1.4.2-1.1+deb7u1 [134 kB]\r\n\r             \r42% [11 libssh2-1 1229 B/134 kB 1%]"
+    ],
+    [
+      0.236283,
+      "\r                                   \r46% [Working]"
+    ],
+    [
+      0.043409,
+      "\r             \rGet:12 http://security.kali.org/kali-security/ kali/updates/main libcurl3-gnutls amd64 7.26.0-1+wheezy13 [322 kB]\r\n\r             \r46% [12 libcurl3-gnutls 1230 B/322 kB 0%]"
+    ],
+    [
+      0.500625,
+      "\r                                         \r54% [12 libcurl3-gnutls 282 kB/322 kB 88%]"
+    ],
+    [
+      0.069687,
+      "\r                                          \r55% [Working]"
+    ],
+    [
+      0.046663,
+      "\r             \rGet:13 http://security.kali.org/kali-security/ kali/updates/main openssl amd64 1.0.1e-2+deb7u17 [701 kB]\r\n\r             \r55% [13 openssl 1229 B/701 kB 0%]"
+    ],
+    [
+      0.500708,
+      "\r                                 \r63% [13 openssl 282 kB/701 kB 40%]"
+    ],
+    [
+      0.500650,
+      "\r72% [13 openssl 564 kB/701 kB 80%]"
+    ],
+    [
+      0.243336,
+      "\r                                  \r75% [Working]"
+    ],
+    [
+      0.050977,
+      "\r             \rGet:14 http://security.kali.org/kali-security/ kali/updates/main sudo amd64 1.8.5p2-1+nmu2 [848 kB]\r\n\r             \r76% [14 sudo 1229 B/848 kB 0%]"
+    ],
+    [
+      0.500566,
+      "\r                              \r84% [14 sudo 283 kB/848 kB 33%]                                                                                                 456 kB/s 1s"
+    ],
+    [
+      0.500652,
+      "\r92% [14 sudo 560 kB/848 kB 66%]                                                                                                 456 kB/s 0s"
+    ],
+    [
+      0.500617,
+      "\r100% [14 sudo 841 kB/848 kB 99%]                                                                                                456 kB/s 0s"
+    ],
+    [
+      0.012487,
+      "\r100% [Working]                                                                                                                  456 kB/s 0s\r                                                                                                                                           \rFetched 3462 kB in 7s (470 kB/s)\r\n"
+    ],
+    [
+      0.180554,
+      "Preconfiguring packages ...\r\n"
+    ],
+    [
+      0.123517,
+      "Selecting previously unselected package libkeyutils1:amd64.\r\n(Reading database ... \r(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r(Reading database ... 35%\r(Reading database ... 40%\r(Reading database ... 45%\r(Reading database ... 50%\r(Reading database ... 55%\r(Reading database ... 60%\r(Reading database ... 65%\r(Reading database ... 70%\r(Reading database ... 75%\r(Reading database ... 80%\r"
+    ],
+    [
+      0.003796,
+      "(Reading database ... 85%\r(Reading database ... 90%\r(Reading database ... 95%\r"
+    ],
+    [
+      0.001847,
+      "(Reading database ... 100%\r(Reading database ... 9321 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.001466,
+      "Unpacking libkeyutils1:amd64 (from .../libkeyutils1_1.5.5-3+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.082908,
+      "Selecting previously unselected package libkrb5support0:amd64.\r\n"
+    ],
+    [
+      0.000244,
+      "Unpacking libkrb5support0:amd64 (from .../libkrb5support0_1.10.1+dfsg-5+deb7u3_amd64.deb) ..."
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.084725,
+      "Selecting previously unselected package libk5crypto3:amd64.\r\nUnpacking libk5crypto3:amd64 (from .../libk5crypto3_1.10.1+dfsg-5+deb7u3_amd64.deb) ...\r\n"
+    ],
+    [
+      0.088145,
+      "Selecting previously unselected package libkrb5-3:amd64.\r\nUnpacking libkrb5-3:amd64 (from .../libkrb5-3_1.10.1+dfsg-5+deb7u3_amd64.deb) ...\r\n"
+    ],
+    [
+      0.107595,
+      "Selecting previously unselected package libgssapi-krb5-2:amd64.\r\nUnpacking libgssapi-krb5-2:amd64 (from .../libgssapi-krb5-2_1.10.1+dfsg-5+deb7u3_amd64.deb) ...\r\n"
+    ],
+    [
+      0.084912,
+      "Selecting previously unselected package libsasl2-2:amd64.\r\nUnpacking libsasl2-2:amd64 (from .../libsasl2-2_2.1.25.dfsg1-6+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.091102,
+      "Selecting previously unselected package libldap-2.4-2:amd64.\r\nUnpacking libldap-2.4-2:amd64 (from .../libldap-2.4-2_2.4.31-2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.124305,
+      "Selecting previously unselected package librtmp0:amd64.\r\nUnpacking librtmp0:amd64 (from .../librtmp0_2.4+20111222.git4e06e21-1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.086412,
+      "Selecting previously unselected package libssh2-1:amd64.\r\nUnpacking libssh2-1:amd64 (from .../libssh2-1_1.4.2-1.1+deb7u1_amd64.deb) ...\r\n"
+    ],
+    [
+      0.083174,
+      "Selecting previously unselected package libcurl3-gnutls:amd64.\r\nUnpacking libcurl3-gnutls:amd64 (from .../libcurl3-gnutls_7.26.0-1+wheezy13_amd64.deb) ...\r\n"
+    ],
+    [
+      0.086846,
+      "Selecting previously unselected package apt-transport-https.\r\nUnpacking apt-transport-https (from .../apt-transport-https_0.9.7.9+deb7u7_amd64.deb) ...\r\n"
+    ],
+    [
+      0.075825,
+      "Selecting previously unselected package openssl.\r\nUnpacking openssl (from .../openssl_1.0.1e-2+deb7u17_amd64.deb) ...\r\n"
+    ],
+    [
+      0.138891,
+      "Selecting previously unselected package ca-certificates.\r\nUnpacking ca-certificates (from .../ca-certificates_20130119+deb7u1_all.deb) ...\r\n"
+    ],
+    [
+      0.172190,
+      "Selecting previously unselected package sudo.\r\nUnpacking sudo (from .../sudo_1.8.5p2-1+nmu2_amd64.deb) ...\r\n"
+    ],
+    [
+      0.107163,
+      "Processing triggers for man-db ...\r\n"
+    ],
+    [
+      1.086723,
+      "Setting up libkeyutils1:amd64 (1.5.5-3+deb7u1) ...\r\n"
+    ],
+    [
+      0.048581,
+      "Setting up libkrb5support0:amd64 (1.10.1+dfsg-5+deb7u3) ...\r\n"
+    ],
+    [
+      0.030580,
+      "Setting up libk5crypto3:amd64 (1.10.1+dfsg-5+deb7u3) ...\r\n"
+    ],
+    [
+      0.032929,
+      "Setting up libkrb5-3:amd64 (1.10.1+dfsg-5+deb7u3) ...\r\n"
+    ],
+    [
+      0.030646,
+      "Setting up libgssapi-krb5-2:amd64 (1.10.1+dfsg-5+deb7u3) ...\r\n"
+    ],
+    [
+      0.035396,
+      "Setting up libsasl2-2:amd64 (2.1.25.dfsg1-6+deb7u1) ...\r\n"
+    ],
+    [
+      0.032436,
+      "Setting up libldap-2.4-2:amd64 (2.4.31-2) ...\r\n"
+    ],
+    [
+      0.038964,
+      "Setting up librtmp0:amd64 (2.4+20111222.git4e06e21-1) ...\r\n"
+    ],
+    [
+      0.032270,
+      "Setting up libssh2-1:amd64 (1.4.2-1.1+deb7u1) ...\r\n"
+    ],
+    [
+      0.031615,
+      "Setting up libcurl3-gnutls:amd64 (7.26.0-1+wheezy13) ...\r\n"
+    ],
+    [
+      0.031689,
+      "Setting up apt-transport-https (0.9.7.9+deb7u7) ...\r\n"
+    ],
+    [
+      0.023451,
+      "Setting up openssl (1.0.1e-2+deb7u17) ...\r\n"
+    ],
+    [
+      0.036020,
+      "Setting up ca-certificates (20130119+deb7u1) ...\r\n"
+    ],
+    [
+      0.979346,
+      "Setting up sudo (1.8.5p2-1+nmu2) ...\r\n"
+    ],
+    [
+      0.158960,
+      "Processing triggers for ca-certificates ...\r\n"
+    ],
+    [
+      0.015309,
+      "Updating certificates in /etc/ssl/certs... "
+    ],
+    [
+      4.224647,
+      "171 added, 0 removed; done.\r\nRunning hooks in /etc/ca-certificates/update.d...."
+    ],
+    [
+      0.002873,
+      "done.\r\n"
+    ],
+    [
+      0.816810,
+      "Syncing timezone...\r\n"
+    ],
+    [
+      0.003986,
+      "Installing target post-common...\r\nCleaning up...\r\n"
+    ],
+    [
+      0.006119,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.002651,
+      "\rReading package lists... 100%\r\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.004678,
+      "\rBuilding dependency tree... 0%\r\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.032629,
+      "\rBuilding dependency tree... 50%\r\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.137076,
+      "\rBuilding dependency tree       \r\r\n\rReading state information... 0%\r"
+    ],
+    [
+      0.000071,
+      "\rReading state information... 8%\r"
+    ],
+    [
+      0.000223,
+      "\rReading state information... Done\r\r\n"
+    ],
+    [
+      0.184980,
+      "0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.\r\n"
+    ],
+    [
+      0.041268,
+      "Please specify a username for the primary user: "
+    ],
+    [
+      2.921542,
+      "a"
+    ],
+    [
+      0.264829,
+      "r"
+    ],
+    [
+      0.132235,
+      "m"
+    ],
+    [
+      0.106928,
+      "a"
+    ],
+    [
+      0.147788,
+      "a"
+    ],
+    [
+      0.097319,
+      "l"
+    ],
+    [
+      0.132515,
+      "\r\n"
+    ],
+    [
+      0.093094,
+      "Enter new UNIX password: "
+    ],
+    [
+      3.318706,
+      "\r\nRetype new UNIX password: "
+    ],
+    [
+      3.508309,
+      "\r\n"
+    ],
+    [
+      0.040278,
+      "passwd: password updated successfully"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.357126,
+      "Unmounting /mnt/stateful_partition/crouton/chroots/kali...\r\n"
+    ],
+    [
+      0.501794,
+      "Done! You can enter the chroot using enter-chroot.\r\n"
+    ],
+    [
+      0.728280,
+      "\u001b]0;chronos@localhost:/\u0007\u001b[01;32mchronos@localhost\u001b[01;34m / $\u001b[00m "
+    ],
+    [
+      3.426791,
+      "\r\n\u001b]0;chronos@localhost:/\u0007\u001b[01;32mchronos@localhost\u001b[01;34m / $\u001b[00m "
+    ],
+    [
+      0.278005,
+      "\r\n\u001b]0;chronos@localhost:/\u0007\u001b[01;32mchronos@localhost\u001b[01;34m / $\u001b[00m "
+    ],
+    [
+      0.940116,
+      "exit\r\n"
+    ]
+  ]
+}
