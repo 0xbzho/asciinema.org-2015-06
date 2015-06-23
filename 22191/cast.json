@@ -1,0 +1,3042 @@
+{
+  "version": 1,
+  "width": 84,
+  "height": 12,
+  "duration": 458.612970,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      1.861066,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      1.139224,
+      "l"
+    ],
+    [
+      0.583992,
+      "s"
+    ],
+    [
+      0.211964,
+      "\r\n"
+    ],
+    [
+      0.003659,
+      "line_test.py\t  run_example_2.sh  tecan_funcs.py"
+    ],
+    [
+      0.000028,
+      "\r\nrun_example_1.sh  tecan\t\t    tecan_funcs.pyc\r\n"
+    ],
+    [
+      0.000548,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      3.760374,
+      "."
+    ],
+    [
+      0.092473,
+      "/"
+    ],
+    [
+      0.295269,
+      "t"
+    ],
+    [
+      0.066552,
+      "e"
+    ],
+    [
+      0.201791,
+      "c"
+    ],
+    [
+      0.295811,
+      "a"
+    ],
+    [
+      0.218168,
+      "n "
+    ],
+    [
+      1.139111,
+      "f"
+    ],
+    [
+      0.405826,
+      "i"
+    ],
+    [
+      0.142660,
+      "r"
+    ],
+    [
+      0.073866,
+      "e"
+    ],
+    [
+      0.111553,
+      "m"
+    ],
+    [
+      0.200557,
+      "w"
+    ],
+    [
+      0.626966,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.155364,
+      "\u0008\u001b[K"
+    ],
+    [
+      1.601473,
+      "m"
+    ],
+    [
+      0.461338,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.157544,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.214290,
+      "m"
+    ],
+    [
+      0.283461,
+      "w"
+    ],
+    [
+      0.181039,
+      "a"
+    ],
+    [
+      0.046604,
+      "r"
+    ],
+    [
+      0.042426,
+      "e"
+    ],
+    [
+      1.883422,
+      "\r\n"
+    ],
+    [
+      0.104924,
+      "calling command AM1RFV0\r\n"
+    ],
+    [
+      0.702677,
+      "First Ack: @M1\r\n"
+    ],
+    [
+      3.011702,
+      "Second Ack/Data: QM1@GENESIS-V1.61-07/2001\r\n"
+    ],
+    [
+      0.000035,
+      "Reply Ack: @M1\r\n"
+    ],
+    [
+      0.018682,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      0.944509,
+      "./tecan firmware"
+    ],
+    [
+      1.161329,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151602,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.157266,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.146581,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.123935,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.172774,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.137603,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.387022,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.588673,
+      "i"
+    ],
+    [
+      0.104581,
+      "n"
+    ],
+    [
+      0.146143,
+      "i"
+    ],
+    [
+      0.210427,
+      "t"
+    ],
+    [
+      1.441398,
+      "\r\n"
+    ],
+    [
+      0.029060,
+      "calling command AM1PIS\r\n"
+    ],
+    [
+      0.703242,
+      "First Ack: @M1\r\n"
+    ],
+    [
+      44.233757,
+      "Second Ack/Data: QM1@\r\nReply Ack: @M1"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "calling command BR1PIA"
+    ],
+    [
+      0.001650,
+      "\r\n"
+    ],
+    [
+      0.702694,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      83.365620,
+      "Second Ack/Data: RR1@"
+    ],
+    [
+      0.000035,
+      "\r\nReply Ack: @R1\r\n"
+    ],
+    [
+      0.000148,
+      "init both complete"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.015998,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      0.744807,
+      "./tecan init"
+    ],
+    [
+      0.696424,
+      "\u0008\u0008\u0008\u0008firmware"
+    ],
+    [
+      0.755172,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[4Pinit"
+    ],
+    [
+      0.416213,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.155000,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151107,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.147856,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.144198,
+      "r"
+    ],
+    [
+      0.114766,
+      "o"
+    ],
+    [
+      0.050910,
+      "m"
+    ],
+    [
+      0.672078,
+      "a"
+    ],
+    [
+      0.360337,
+      "_"
+    ],
+    [
+      0.305331,
+      "x"
+    ],
+    [
+      0.425634,
+      " "
+    ],
+    [
+      0.277770,
+      "1"
+    ],
+    [
+      1.289002,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.870187,
+      "6"
+    ],
+    [
+      0.137163,
+      "0"
+    ],
+    [
+      0.175444,
+      "0"
+    ],
+    [
+      0.156980,
+      "0"
+    ],
+    [
+      1.076051,
+      "\r\n"
+    ],
+    [
+      0.028264,
+      "calling command AR1PAX6000\r\n"
+    ],
+    [
+      0.702539,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.905071,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000024,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.014575,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      0.439981,
+      "./tecan roma_x 6000"
+    ],
+    [
+      0.414382,
+      "\u0008"
+    ],
+    [
+      0.188992,
+      "\u0008"
+    ],
+    [
+      0.175383,
+      "\u0008"
+    ],
+    [
+      0.177941,
+      "\u0008"
+    ],
+    [
+      0.160001,
+      "\u0008"
+    ],
+    [
+      0.235510,
+      "\u0008"
+    ],
+    [
+      0.504393,
+      "\u001b[1@r"
+    ],
+    [
+      0.319475,
+      "\u001b[C"
+    ],
+    [
+      0.177753,
+      "\u001b[C"
+    ],
+    [
+      0.154517,
+      "\u001b[C"
+    ],
+    [
+      0.274861,
+      "\u0008\u001b[1P000\u0008\u0008\u0008"
+    ],
+    [
+      0.107470,
+      "1000\u0008\u0008\u0008"
+    ],
+    [
+      0.729884,
+      "\r\n"
+    ],
+    [
+      0.031309,
+      "calling command AR1PRX1000\r\n"
+    ],
+    [
+      0.702741,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903360,
+      "Second Ack/Data: QR1@\r\nReply Ack: @R1"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.020121,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      0.754559,
+      "./tecan roma_rx 1000"
+    ],
+    [
+      0.536219,
+      "\u0008"
+    ],
+    [
+      0.178526,
+      "\u0008"
+    ],
+    [
+      0.179718,
+      "\u0008"
+    ],
+    [
+      0.181339,
+      "\u0008"
+    ],
+    [
+      0.197779,
+      "\u0008"
+    ],
+    [
+      0.456478,
+      "\u0008\u001b[1P 1000\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.258337,
+      "y 1000\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.914907,
+      "\r\n"
+    ],
+    [
+      0.030826,
+      "calling command AR1PRY1000\r\n"
+    ],
+    [
+      0.702711,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903381,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000061,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.018002,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      0.315407,
+      "./tecan roma_ry 1000"
+    ],
+    [
+      0.224166,
+      "\r\n"
+    ],
+    [
+      0.031286,
+      "calling command AR1PRY1000\r\n"
+    ],
+    [
+      0.702837,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.902968,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000061,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.017169,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      0.266602,
+      "./tecan roma_ry 1000"
+    ],
+    [
+      0.252130,
+      "\u0008"
+    ],
+    [
+      0.190216,
+      "\u0008"
+    ],
+    [
+      0.302505,
+      "\u001b[C"
+    ],
+    [
+      0.224600,
+      "\u001b[K\u0008"
+    ],
+    [
+      0.149083,
+      "\u001b[K\u0008"
+    ],
+    [
+      0.173991,
+      "\u0008\u001b[1P0\u0008"
+    ],
+    [
+      0.320968,
+      "\u0008"
+    ],
+    [
+      0.173432,
+      "\u0008"
+    ],
+    [
+      0.315797,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.219071,
+      "\r\n"
+    ],
+    [
+      0.031502,
+      "calling command AR1PAY0\r\n"
+    ],
+    [
+      0.702629,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903437,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000043,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.016663,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      0.482925,
+      "./tecan roma_y 0"
+    ],
+    [
+      0.797581,
+      "\u0008"
+    ],
+    [
+      0.192415,
+      "\u0008"
+    ],
+    [
+      0.425557,
+      "\u0008\u001b[1P 0\u0008\u0008"
+    ],
+    [
+      0.333884,
+      "z 0\u0008\u0008"
+    ],
+    [
+      0.359635,
+      "\u001b[C"
+    ],
+    [
+      0.152157,
+      "\u001b[C"
+    ],
+    [
+      0.272997,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.515732,
+      "2"
+    ],
+    [
+      0.221927,
+      "0"
+    ],
+    [
+      0.169669,
+      "0"
+    ],
+    [
+      0.163715,
+      "0"
+    ],
+    [
+      0.969234,
+      "\r\n"
+    ],
+    [
+      0.027843,
+      "calling command AR1PAZ2000\r\n"
+    ],
+    [
+      0.702673,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903400,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000060,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.016392,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      0.359541,
+      "./tecan roma_z 2000"
+    ],
+    [
+      0.200833,
+      "\u0008"
+    ],
+    [
+      0.180335,
+      "\u0008"
+    ],
+    [
+      0.177990,
+      "\u0008"
+    ],
+    [
+      0.169722,
+      "\u0008"
+    ],
+    [
+      0.180702,
+      "\u0008"
+    ],
+    [
+      0.147469,
+      "\u0008"
+    ],
+    [
+      1.342827,
+      "\u001b[1@r"
+    ],
+    [
+      0.306255,
+      "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.279766,
+      "\u0008"
+    ],
+    [
+      0.385671,
+      "\u001b[K\u0008"
+    ],
+    [
+      0.149945,
+      "\u001b[K\u0008"
+    ],
+    [
+      0.146332,
+      "\u0008\u001b[1P0\u0008"
+    ],
+    [
+      0.160292,
+      "10\u0008"
+    ],
+    [
+      0.156031,
+      "\u001b[C0\u0008"
+    ],
+    [
+      0.920411,
+      "\r\n"
+    ],
+    [
+      0.030343,
+      "calling command AR1PRZ100\r\n"
+    ],
+    [
+      0.702826,
+      "First Ack: @R1"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.213932,
+      "^[[A"
+    ],
+    [
+      0.230009,
+      "\r\n"
+    ],
+    [
+      0.459432,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000042,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.015140,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      0.000023,
+      "./tecan roma_rz 100"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.030531,
+      "calling command AR1PRZ100\r\n"
+    ],
+    [
+      0.702614,
+      "First Ack: @R1"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.903130,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000061,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.016469,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      0.405640,
+      "./tecan roma_rz 100"
+    ],
+    [
+      0.465556,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.159581,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.326955,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.169980,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160182,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.173393,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.544251,
+      "z"
+    ],
+    [
+      0.354247,
+      "2"
+    ],
+    [
+      0.154616,
+      "4"
+    ],
+    [
+      0.380637,
+      "8"
+    ],
+    [
+      0.143923,
+      "0"
+    ],
+    [
+      0.432854,
+      "\u0008"
+    ],
+    [
+      0.180738,
+      "\u0008"
+    ],
+    [
+      0.156050,
+      "\u0008"
+    ],
+    [
+      0.137439,
+      "\u0008"
+    ],
+    [
+      0.124707,
+      " 2480\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.350566,
+      "\r\n"
+    ],
+    [
+      0.029386,
+      "calling command AR1PAZ2480\r\n"
+    ],
+    [
+      0.702669,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903382,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000061,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.032279,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      1.049998,
+      "l"
+    ],
+    [
+      0.099332,
+      "s"
+    ],
+    [
+      2.232361,
+      "\r\n"
+    ],
+    [
+      0.005155,
+      "line_test.py\t"
+    ],
+    [
+      0.000037,
+      "  run_example_2.sh  tecan_funcs.py\r\nrun_example_1.sh  tecan"
+    ],
+    [
+      0.001055,
+      "\t\t    tecan_funcs.pyc"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.002029,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      3.728077,
+      "."
+    ],
+    [
+      0.102285,
+      "/"
+    ],
+    [
+      0.331274,
+      "r"
+    ],
+    [
+      0.105560,
+      "u"
+    ],
+    [
+      0.064117,
+      "n"
+    ],
+    [
+      0.097667,
+      "\u0007"
+    ],
+    [
+      0.000231,
+      "_example_"
+    ],
+    [
+      0.674499,
+      "1"
+    ],
+    [
+      1.387905,
+      "."
+    ],
+    [
+      0.174554,
+      "sh "
+    ],
+    [
+      1.151829,
+      "\r\n"
+    ],
+    [
+      0.007710,
+      "./run_example_1.sh: line 4: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.002846,
+      "./run_example_1.sh: line 6: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001573,
+      "./run_example_1.sh: line 8: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.000991,
+      "./run_example_1.sh: line 9: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001245,
+      "./run_example_1.sh: line 10: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001254,
+      "./run_example_1.sh: line 13: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001266,
+      "./run_example_1.sh: line 14: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001255,
+      "./run_example_1.sh: line 15: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001380,
+      "./run_example_1.sh: line 16: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001678,
+      "./run_example_1.sh: line 17: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001806,
+      "./run_example_1.sh: line 18: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001193,
+      "./run_example_1.sh: line 19: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001030,
+      "./run_example_1.sh: line 20: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001031,
+      "./run_example_1.sh: line 21: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001053,
+      "./run_example_1.sh: line 22: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001063,
+      "./run_example_1.sh: line 23: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001054,
+      "./run_example_1.sh: line 24: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001040,
+      "./run_example_1.sh: line 25: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001054,
+      "./run_example_1.sh: line 26: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001049,
+      "./run_example_1.sh: line 29: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001019,
+      "./run_example_1.sh: line 30: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001103,
+      "./run_example_1.sh: line 31: ./bin/tecan: No such file or directory\r\n"
+    ],
+    [
+      0.001034,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      26.368753,
+      "./run_example_1.sh "
+    ],
+    [
+      0.499523,
+      "\r\n"
+    ],
+    [
+      0.033619,
+      "calling command AR1PAG900\r\n"
+    ],
+    [
+      0.702309,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.902655,
+      "Second Ack/Data: QR1@"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "Reply Ack: @R1"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.042102,
+      "calling command AR1PAZ2480"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.702174,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.902474,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000026,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.037629,
+      "calling command AR1PAX0\r\n"
+    ],
+    [
+      0.702141,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      2.104457,
+      "Second Ack/Data: QR1@\r\nReply Ack: @R1\r\n"
+    ],
+    [
+      0.036917,
+      "calling command AR1PAY0\r\n"
+    ],
+    [
+      0.702192,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.902721,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000022,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.039516,
+      "calling command AR1PAR0\r\n"
+    ],
+    [
+      0.702886,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.902263,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000044,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.047278,
+      "calling command AR1PAG900\r\n"
+    ],
+    [
+      0.702116,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.902909,
+      "Second Ack/Data: QR1@\r\nReply Ack: @R1\r\n"
+    ],
+    [
+      0.058845,
+      "calling command AR1PAZ2480"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.702483,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.904214,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000050,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.043897,
+      "calling command AR1PAX6750\r\n"
+    ],
+    [
+      0.702208,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      2.106998,
+      "Second Ack/Data: QR1@\r\nReply Ack: @R1\r\n"
+    ],
+    [
+      0.048782,
+      "calling command AR1PAY2900\r\n"
+    ],
+    [
+      0.702127,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.204145,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000059,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.044667,
+      "calling command AR1PAR900\r\n"
+    ],
+    [
+      0.701780,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903459,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000128,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.045638,
+      "calling command AR1PAZ1110\r\n"
+    ],
+    [
+      0.702511,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.805823,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000043,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.041088,
+      "calling command AR1PAG805"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.702637,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903425,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000043,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.045519,
+      "calling command AR1PAZ2000\r\n"
+    ],
+    [
+      0.702314,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.305049,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000054,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.043474,
+      "calling command AR1PAX6750\r\n"
+    ],
+    [
+      0.702214,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903343,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000061,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.048463,
+      "calling command AR1PRX-1500\r\n"
+    ],
+    [
+      0.702153,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903561,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000040,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.043163,
+      "calling command AR1PAZ1000\r\n"
+    ],
+    [
+      0.702173,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.404472,
+      "Second Ack/Data: QR1@\r\nReply Ack: @R1"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.047370,
+      "calling command AR1PRZ-40\r\n"
+    ],
+    [
+      0.702156,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903385,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000038,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.046853,
+      "calling command AR1PAG850\r\n"
+    ],
+    [
+      0.703077,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903100,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000035,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.044396,
+      "calling command AR1PAZ2000\r\n"
+    ],
+    [
+      0.702075,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.505160,
+      "Second Ack/Data: QR1@\r\nReply Ack: @R1"
+    ],
+    [
+      0.000088,
+      "\r\n"
+    ],
+    [
+      0.041623,
+      "calling command AR1PAY0\r\n"
+    ],
+    [
+      0.702166,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.204357,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000060,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.045415,
+      "calling command AR1PAZ2480\r\n"
+    ],
+    [
+      0.702191,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903245,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000022,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.042590,
+      "calling command AR1PAR0\r\n"
+    ],
+    [
+      0.702025,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903604,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000061,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.018484,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      1.118688,
+      "./run_example_1.sh "
+    ],
+    [
+      0.463654,
+      "\u0008"
+    ],
+    [
+      0.161905,
+      "\u0008"
+    ],
+    [
+      0.180768,
+      "\u0008"
+    ],
+    [
+      0.152625,
+      "\u0008"
+    ],
+    [
+      0.401840,
+      "\u0008\u001b[1P"
+    ],
+    [
+      0.136679,
+      "\u001b[1@2"
+    ],
+    [
+      0.188068,
+      "\r\n"
+    ],
+    [
+      0.029070,
+      "calling command AR1PAG900\r\n"
+    ],
+    [
+      0.702293,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.902765,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000060,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.044343,
+      "calling command AR1PAZ2480\r\n"
+    ],
+    [
+      0.702200,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903568,
+      "Second Ack/Data: QR1@\r\nReply Ack: @R1"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.044217,
+      "calling command AR1PAX0\r\n"
+    ],
+    [
+      0.702244,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.705829,
+      "Second Ack/Data: QR1@\r\nReply Ack: @R1\r\n"
+    ],
+    [
+      0.040862,
+      "calling command AR1PAY0\r\n"
+    ],
+    [
+      0.702371,
+      "First Ack: @R1"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.903288,
+      "Second Ack/Data: QR1@\r\nReply Ack: @R1"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.044270,
+      "calling command AR1PAR0\r\n"
+    ],
+    [
+      0.702237,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903473,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000062,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.040254,
+      "calling command AR1PAG900\r\n"
+    ],
+    [
+      0.702274,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903015,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000019,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.038642,
+      "calling command AR1PAR900\r\n"
+    ],
+    [
+      0.702637,
+      "First Ack: @R1"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.902992,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000045,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.044756,
+      "calling command AR1PAZ2480\r\n"
+    ],
+    [
+      0.702724,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903470,
+      "Second Ack/Data: QR1@\r\nReply Ack: @R1"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.043251,
+      "calling command AR1PAX5250\r\n"
+    ],
+    [
+      0.702459,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.809713,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000074,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.041799,
+      "calling command AR1PAY2900\r\n"
+    ],
+    [
+      0.702169,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.204311,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000062,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.044445,
+      "calling command AR1PAZ1000\r\n"
+    ],
+    [
+      0.702229,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.906562,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000063,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.043036,
+      "calling command AR1PRZ-60\r\n"
+    ],
+    [
+      0.702441,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903239,
+      "Second Ack/Data: QR1@"
+    ],
+    [
+      0.000042,
+      "\r\nReply Ack: @R1\r\n"
+    ],
+    [
+      0.048464,
+      "calling command AR1PAG805\r\n"
+    ],
+    [
+      0.702091,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903427,
+      "Second Ack/Data: QR1@\r\nReply Ack: @R1"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.045785,
+      "calling command AR1PAZ2000\r\n"
+    ],
+    [
+      0.703215,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.504620,
+      "Second Ack/Data: QR1@\r\nReply Ack: @R1"
+    ],
+    [
+      0.000072,
+      "\r\n"
+    ],
+    [
+      0.048533,
+      "calling command AR1PRX1500\r\n"
+    ],
+    [
+      0.702268,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903436,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000043,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.044369,
+      "calling command AR1PAZ1110\r\n"
+    ],
+    [
+      0.702177,
+      "First Ack: @R1"
+    ],
+    [
+      0.000415,
+      "\r\n"
+    ],
+    [
+      1.304070,
+      "Second Ack/Data: QR1@\r\nReply Ack: @R1"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.040293,
+      "calling command AR1PAG850\r\n"
+    ],
+    [
+      0.702260,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903800,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000040,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.041928,
+      "calling command AR1PAZ2000\r\n"
+    ],
+    [
+      0.702321,
+      "First Ack: @R1"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      1.304699,
+      "Second Ack/Data: QR1@\r\nReply Ack: @R1"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.045843,
+      "calling command AR1PAZ2480\r\n"
+    ],
+    [
+      0.702460,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.902459,
+      "Second Ack/Data: QR1@\r\nReply Ack: @R1\r\n"
+    ],
+    [
+      0.042065,
+      "calling command AR1PAY0\r\n"
+    ],
+    [
+      0.702068,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.204055,
+      "Second Ack/Data: QR1@"
+    ],
+    [
+      0.000060,
+      "\r\nReply Ack: @R1\r\n"
+    ],
+    [
+      0.046836,
+      "calling command AR1PAR0\r\n"
+    ],
+    [
+      0.702053,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903317,
+      "Second Ack/Data: QR1@"
+    ],
+    [
+      0.000061,
+      "\r\nReply Ack: @R1\r\n"
+    ],
+    [
+      0.048129,
+      "calling command AR1PAX0\r\n"
+    ],
+    [
+      0.703063,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      2.006872,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000043,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.016816,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      1.020849,
+      "\r\n"
+    ],
+    [
+      0.000589,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      0.406836,
+      "\r\n"
+    ],
+    [
+      0.000763,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      0.161123,
+      "\r\n"
+    ],
+    [
+      0.000243,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      1.890662,
+      "p"
+    ],
+    [
+      0.415023,
+      "y"
+    ],
+    [
+      0.196129,
+      "t"
+    ],
+    [
+      0.072553,
+      "h"
+    ],
+    [
+      0.127158,
+      "o"
+    ],
+    [
+      0.085782,
+      "n"
+    ],
+    [
+      2.410776,
+      "\r\n"
+    ],
+    [
+      0.020823,
+      "Python 2.7.6 (default, Mar 22 2014, 22:59:38) \r\n[GCC 4.8.2] on linux2\r\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information."
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.022546,
+      "\u003e\u003e\u003e "
+    ],
+    [
+      2.972823,
+      "i"
+    ],
+    [
+      0.039288,
+      "m"
+    ],
+    [
+      0.075234,
+      "m"
+    ],
+    [
+      0.116429,
+      "p"
+    ],
+    [
+      0.072197,
+      "o"
+    ],
+    [
+      0.096549,
+      "r"
+    ],
+    [
+      0.064481,
+      "t"
+    ],
+    [
+      0.182229,
+      " "
+    ],
+    [
+      0.316308,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.139062,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.150797,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.149087,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.146434,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.153847,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.693314,
+      "["
+    ],
+    [
+      0.108943,
+      "p"
+    ],
+    [
+      0.403128,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.172085,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.716641,
+      "p"
+    ],
+    [
+      0.185515,
+      "o"
+    ],
+    [
+      0.214469,
+      "r"
+    ],
+    [
+      0.198149,
+      "t"
+    ],
+    [
+      0.157201,
+      " "
+    ],
+    [
+      0.751557,
+      "t"
+    ],
+    [
+      0.217208,
+      "e"
+    ],
+    [
+      0.497968,
+      "c"
+    ],
+    [
+      0.218789,
+      "a"
+    ],
+    [
+      0.121032,
+      "n"
+    ],
+    [
+      0.280274,
+      "_"
+    ],
+    [
+      0.185407,
+      "f"
+    ],
+    [
+      0.091392,
+      "u"
+    ],
+    [
+      0.054285,
+      "n"
+    ],
+    [
+      0.215991,
+      "s"
+    ],
+    [
+      0.380115,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.067331,
+      "c"
+    ],
+    [
+      0.116993,
+      "s"
+    ],
+    [
+      0.137107,
+      " "
+    ],
+    [
+      0.199174,
+      "a"
+    ],
+    [
+      0.074737,
+      "s"
+    ],
+    [
+      0.107399,
+      " "
+    ],
+    [
+      0.232367,
+      "t"
+    ],
+    [
+      0.291768,
+      "\r\n"
+    ],
+    [
+      0.014121,
+      "\u003e\u003e\u003e "
+    ],
+    [
+      4.265422,
+      "d"
+    ],
+    [
+      0.148590,
+      "i"
+    ],
+    [
+      0.085034,
+      "r"
+    ],
+    [
+      0.191520,
+      ")"
+    ],
+    [
+      0.244899,
+      "t"
+    ],
+    [
+      0.334298,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.151494,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.356900,
+      "("
+    ],
+    [
+      0.219843,
+      "t"
+    ],
+    [
+      0.270090,
+      ")"
+    ],
+    [
+      0.458128,
+      "\r\n"
+    ],
+    [
+      0.000207,
+      "['__builtins__', '__doc__', '__file__', '__name__', '__package__', 'close', 'do_action', 'do_cmd', 'lihiaxis', 'nextseq', 'parse_stream', 'read', 'romaaxis', 'seq', 'seqnum', 'ser', 'serial', 'showBytes', 'time']"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "\u003e\u003e\u003e "
+    ],
+    [
+      1.192626,
+      "dir(t)"
+    ],
+    [
+      0.425169,
+      "\u0008"
+    ],
+    [
+      0.288208,
+      "\u0008"
+    ],
+    [
+      1.191950,
+      "\u001b[C"
+    ],
+    [
+      0.462287,
+      ".)\u0008"
+    ],
+    [
+      0.127512,
+      "s)\u0008"
+    ],
+    [
+      0.082292,
+      "e)\u0008"
+    ],
+    [
+      0.224910,
+      "r)\u0008"
+    ],
+    [
+      0.582276,
+      "\r\n"
+    ],
+    [
+      0.011393,
+      "['BAUDRATES', 'BYTESIZES', 'PARITIES', 'STOPBITS', '_SETTINGS', '__abstractmethods__', '__class__', '__delattr__', '__dict__', '__doc__', '__enter__', '__exit__', '__format__', '__getattribute__', '__hash__', '__init__', '__iter__', '__metaclass__', '__module__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_abc_cache', '_abc_negative_cache', '_abc_negative_cache_version', '_abc_registry', '_checkClosed', '_checkReadable', '_checkSeekable', '_checkWritable', '_reconfigurePort', 'applySettingsDict', 'baudrate', 'bytesize', 'close', 'closed', 'drainOutput', 'dsrdtr', 'fileno', 'flowControl', 'flush', 'flushInput', 'flushOutput', 'getBaudrate', 'getByteSize', 'getCD', 'getCTS', 'getDSR', 'getDsrDtr', 'getInterCharTimeout', 'getParity', 'getPort', 'getRI', 'getRtsCts', 'getSettingsDict', 'getStopbits', 'getSupportedBaudrates', 'getSupportedByteSizes', 'getSupportedParities', 'getSupportedStopbits', 'getTimeout', 'getWriteTimeout'"
+    ],
+    [
+      0.000046,
+      ", 'getXonXoff', 'inWaiting', 'interCharTimeout', 'isOpen', 'isatty', 'makeDeviceName', 'next', 'nonblocking', 'open', 'parity', 'port', 'read', 'readable', 'readall', 'readinto', 'readline', 'readlines', 'rtscts', 'seek', 'seekable', 'sendBreak', 'setBaudrate', 'setBreak', 'setByteSize', 'setDTR', 'setDsrDtr', 'setInterCharTimeout', 'setParity', 'setPort', 'setRTS', 'setRtsCts', 'setStopbits', 'setTimeout', 'setWriteTimeout', 'setXonXoff', 'stopbits', 'tell', 'timeout', 'truncate', 'writable', 'write', 'writeTimeout', 'writelines', 'xonxoff']"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000187,
+      "\u003e\u003e\u003e "
+    ],
+    [
+      1.029702,
+      "dir(t.ser)"
+    ],
+    [
+      0.400821,
+      "\u0008"
+    ],
+    [
+      1.676873,
+      "\u0008\u0008\u0008\u0008)\u001b[K"
+    ],
+    [
+      1.379857,
+      "\u0008"
+    ],
+    [
+      1.373522,
+      ".ser)"
+    ],
+    [
+      0.382618,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[K"
+    ],
+    [
+      1.539170,
+      "d"
+    ],
+    [
+      0.230252,
+      "i"
+    ],
+    [
+      0.104383,
+      "r"
+    ],
+    [
+      0.259014,
+      "("
+    ],
+    [
+      0.064363,
+      ")"
+    ],
+    [
+      0.252974,
+      "\r\n"
+    ],
+    [
+      0.000352,
+      "['__builtins__', '__doc__', '__name__', '__package__', 't']\r\n"
+    ],
+    [
+      0.000093,
+      "\u003e\u003e\u003e "
+    ],
+    [
+      1.695345,
+      "l"
+    ],
+    [
+      0.109162,
+      "s"
+    ],
+    [
+      0.275004,
+      "("
+    ],
+    [
+      0.042754,
+      ")"
+    ],
+    [
+      0.297727,
+      "\r\n"
+    ],
+    [
+      0.305008,
+      "Traceback (most recent call last):\r\n  File \"\u003cstdin\u003e\", line 1, in \u003cmodule\u003e"
+    ],
+    [
+      0.000035,
+      "\r\nNameError"
+    ],
+    [
+      0.000024,
+      ": "
+    ],
+    [
+      0.000029,
+      "name 'ls' is not defined"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "\u003e\u003e\u003e "
+    ],
+    [
+      2.936404,
+      "\r\n"
+    ],
+    [
+      0.000335,
+      "\u003e\u003e\u003e "
+    ],
+    [
+      1.406786,
+      "t"
+    ],
+    [
+      0.223306,
+      "."
+    ],
+    [
+      0.373150,
+      "d"
+    ],
+    [
+      0.104297,
+      "o"
+    ],
+    [
+      0.252533,
+      "_"
+    ],
+    [
+      0.240231,
+      "a"
+    ],
+    [
+      0.085594,
+      "c"
+    ],
+    [
+      0.488658,
+      "t"
+    ],
+    [
+      0.131085,
+      "i"
+    ],
+    [
+      0.053300,
+      "o"
+    ],
+    [
+      0.054817,
+      "n"
+    ],
+    [
+      0.244578,
+      "("
+    ],
+    [
+      0.222133,
+      "\""
+    ],
+    [
+      0.360425,
+      "f"
+    ],
+    [
+      0.140435,
+      "i"
+    ],
+    [
+      0.141366,
+      "r"
+    ],
+    [
+      0.084311,
+      "e"
+    ],
+    [
+      0.536414,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.166778,
+      "m"
+    ],
+    [
+      0.402012,
+      "w"
+    ],
+    [
+      0.150654,
+      "a"
+    ],
+    [
+      0.082744,
+      "r"
+    ],
+    [
+      0.040251,
+      "e"
+    ],
+    [
+      0.412098,
+      "\""
+    ],
+    [
+      0.127717,
+      ")"
+    ],
+    [
+      1.035109,
+      "\r\n"
+    ],
+    [
+      0.000873,
+      "calling command AM1RFV0\r\n"
+    ],
+    [
+      0.702324,
+      "First Ack: @M1\r\n"
+    ],
+    [
+      3.011501,
+      "Second Ack/Data: QM1@GENESIS-V1.61-07/2001\r\n"
+    ],
+    [
+      0.000060,
+      "Reply Ack: @M1\r\n"
+    ],
+    [
+      0.000179,
+      "\u003e\u003e\u003e "
+    ],
+    [
+      1.373452,
+      "t.do_action(\"firmware\")"
+    ],
+    [
+      0.328471,
+      "\u0008"
+    ],
+    [
+      0.185393,
+      "\u0008"
+    ],
+    [
+      0.487153,
+      "\u0008\u001b[1P\")\u0008\u0008"
+    ],
+    [
+      0.147886,
+      "\u0008\u001b[1P\")\u0008\u0008"
+    ],
+    [
+      0.131012,
+      "\u0008\u001b[1P\")\u0008\u0008"
+    ],
+    [
+      0.153775,
+      "\u0008\u001b[1P\")\u0008\u0008"
+    ],
+    [
+      0.137511,
+      "\u0008\u001b[1P\")\u0008\u0008"
+    ],
+    [
+      0.147255,
+      "\u0008\u001b[1P\")\u0008\u0008"
+    ],
+    [
+      0.150947,
+      "\u0008\u001b[1P\")\u0008\u0008"
+    ],
+    [
+      0.542902,
+      "\u0008\u001b[1P\")\u0008\u0008"
+    ],
+    [
+      0.704021,
+      "r\")\u0008\u0008"
+    ],
+    [
+      0.106560,
+      "o\")\u0008\u0008"
+    ],
+    [
+      0.055747,
+      "m\")\u0008\u0008"
+    ],
+    [
+      0.098114,
+      "e\")\u0008\u0008"
+    ],
+    [
+      0.557293,
+      "_\")\u0008\u0008"
+    ],
+    [
+      0.497714,
+      "\u0008\u001b[1P\")\u0008\u0008"
+    ],
+    [
+      0.159060,
+      "\u0008\u001b[1P\")\u0008\u0008"
+    ],
+    [
+      0.162831,
+      "a\")\u0008\u0008"
+    ],
+    [
+      0.349794,
+      "_\")\u0008\u0008"
+    ],
+    [
+      3.484209,
+      "x\")\u0008\u0008"
+    ],
+    [
+      0.611730,
+      "\u001b[C"
+    ],
+    [
+      0.629946,
+      ",)\u0008"
+    ],
+    [
+      0.913977,
+      "[)\u0008"
+    ],
+    [
+      0.071511,
+      "])\u0008"
+    ],
+    [
+      0.274341,
+      "\u0008"
+    ],
+    [
+      0.340124,
+      "\"])\u0008\u0008"
+    ],
+    [
+      0.148411,
+      "\"])\u0008\u0008"
+    ],
+    [
+      0.188950,
+      "\u0008"
+    ],
+    [
+      0.808352,
+      "\u001b[C"
+    ],
+    [
+      0.253072,
+      "\u0008\u001b[1P])\u0008\u0008"
+    ],
+    [
+      0.139032,
+      "\u0008\u001b[1P])\u0008\u0008"
+    ],
+    [
+      1.286431,
+      "4])\u0008\u0008"
+    ],
+    [
+      0.205803,
+      "0])\u0008\u0008"
+    ],
+    [
+      0.160883,
+      "0])\u0008\u0008"
+    ],
+    [
+      0.172642,
+      "0])\u0008\u0008"
+    ],
+    [
+      0.376163,
+      "\u0008\u001b[1P])\u0008\u0008"
+    ],
+    [
+      0.948628,
+      "0])\u0008\u0008"
+    ],
+    [
+      0.456771,
+      "\r\n"
+    ],
+    [
+      0.000821,
+      "calling command BR1PAX4000"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.702067,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.503680,
+      "Second Ack/Data: RR1@\r\nReply Ack: @R1"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "\u003e\u003e\u003e "
+    ],
+    [
+      0.819791,
+      "t.do_action(\"roma_x\",[4000])"
+    ],
+    [
+      0.372335,
+      "\u0008"
+    ],
+    [
+      0.175331,
+      "\u0008"
+    ],
+    [
+      0.327647,
+      "\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.417108,
+      "\u0008"
+    ],
+    [
+      0.170225,
+      "\u0008"
+    ],
+    [
+      0.164038,
+      "\u0008"
+    ],
+    [
+      0.189174,
+      "\u0008"
+    ],
+    [
+      0.524523,
+      "rx\",[4000])\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.262136,
+      "yx\",[4000])\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.705893,
+      "\u001b[1P\",[4000])\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.371107,
+      "\u001b[C"
+    ],
+    [
+      0.160893,
+      "\u001b[C"
+    ],
+    [
+      0.154958,
+      "\u001b[C"
+    ],
+    [
+      0.183879,
+      "\u001b[C"
+    ],
+    [
+      0.649913,
+      "\u0008\u001b[1P000])\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.159703,
+      "2000])\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.466403,
+      "\r\n"
+    ],
+    [
+      0.000352,
+      "calling command CR1PRY2000"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.702273,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903163,
+      "Second Ack/Data: SR1@\r\nReply Ack: @R1\r\n\u003e\u003e\u003e "
+    ],
+    [
+      0.660626,
+      "t.do_action(\"roma_ry\",[2000])"
+    ],
+    [
+      0.174954,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1Px\",[4000])"
+    ],
+    [
+      0.656566,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[5Pfirmware\")"
+    ],
+    [
+      0.348827,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008roma_x\",[4000])"
+    ],
+    [
+      0.161204,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008ry\",[2000])"
+    ],
+    [
+      0.472229,
+      "\u0008"
+    ],
+    [
+      0.382802,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[1Px\",[4000])"
+    ],
+    [
+      0.519409,
+      "\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.214087,
+      "\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.752525,
+      "rx\",[4000])\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.262490,
+      "\u001b[C"
+    ],
+    [
+      0.139981,
+      "\u001b[C"
+    ],
+    [
+      0.152733,
+      "\u001b[C"
+    ],
+    [
+      0.181052,
+      "\u001b[C"
+    ],
+    [
+      0.152534,
+      "\u001b[C"
+    ],
+    [
+      1.142089,
+      "\r\n"
+    ],
+    [
+      0.000377,
+      "calling command DR1PRX4000"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.702502,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.505160,
+      "Second Ack/Data: TR1@\r\n"
+    ],
+    [
+      0.000040,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.000242,
+      "\u003e\u003e\u003e "
+    ],
+    [
+      0.429157,
+      "t.do_action(\"roma_rx\",[4000])"
+    ],
+    [
+      0.173888,
+      "\u0008"
+    ],
+    [
+      0.190004,
+      "\u0008"
+    ],
+    [
+      0.172960,
+      "\u0008"
+    ],
+    [
+      0.168812,
+      "\u0008"
+    ],
+    [
+      0.160315,
+      "\u0008"
+    ],
+    [
+      0.611149,
+      "\u0008\u001b[1P000])\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.422847,
+      "-000])\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.099688,
+      "2000])\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.567679,
+      "\u0008"
+    ],
+    [
+      0.187404,
+      "\u0008"
+    ],
+    [
+      0.154235,
+      "\u0008"
+    ],
+    [
+      0.154940,
+      "\u0008"
+    ],
+    [
+      0.147822,
+      "\u0008"
+    ],
+    [
+      0.371974,
+      "\r\n"
+    ],
+    [
+      0.000338,
+      "calling command ER1PRX-2000"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.702561,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.003430,
+      "Second Ack/Data: UR1@\r\nReply Ack: @R1\r\n"
+    ],
+    [
+      0.000570,
+      "\u003e\u003e\u003e "
+    ],
+    [
+      5.915468,
+      "t.do_action(\"roma_rx\",[-2000])"
+    ],
+    [
+      0.414939,
+      "\u0008"
+    ],
+    [
+      0.235211,
+      "\u0008"
+    ],
+    [
+      0.595763,
+      "\u001b[C"
+    ],
+    [
+      0.212222,
+      "\u0008\u001b[1P)\u0008"
+    ],
+    [
+      0.660701,
+      "\u0008\u001b[1P)\u0008"
+    ],
+    [
+      0.041556,
+      "\u0008\u001b[1P)\u0008"
+    ],
+    [
+      0.040151,
+      "\u0008\u001b[1P)\u0008"
+    ],
+    [
+      0.040090,
+      "\u0008\u001b[1P)\u0008"
+    ],
+    [
+      0.039620,
+      "\u0008\u001b[1P)\u0008"
+    ],
+    [
+      0.179360,
+      "\u0008\u001b[1P)\u0008"
+    ],
+    [
+      0.165303,
+      "\u0008\u001b[1P)\u0008"
+    ],
+    [
+      0.166024,
+      "\u0008\u001b[1P)\u0008"
+    ],
+    [
+      0.146610,
+      "\u0008\u001b[1P)\u0008"
+    ],
+    [
+      0.161803,
+      "\u0008\u001b[1P)\u0008"
+    ],
+    [
+      6.912288,
+      "h)\u0008"
+    ],
+    [
+      0.150380,
+      "o)\u0008"
+    ],
+    [
+      0.084762,
+      "m)\u0008"
+    ],
+    [
+      0.084462,
+      "e)\u0008"
+    ],
+    [
+      0.511572,
+      "\")\u0008"
+    ],
+    [
+      0.487752,
+      "\r\n"
+    ],
+    [
+      0.000461,
+      "calling command FR1PAZ2480\r\n"
+    ],
+    [
+      0.702132,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.903465,
+      "Second Ack/Data: VR1@"
+    ],
+    [
+      0.000039,
+      "\r\nReply Ack: @R1\r\n"
+    ],
+    [
+      0.000221,
+      "calling command GR1PAR0"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.702453,
+      "First Ack: @R1"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.903507,
+      "Second Ack/Data: WR1@\r\n"
+    ],
+    [
+      0.000039,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.000109,
+      "calling command AR1PAY0"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.703447,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      0.902303,
+      "Second Ack/Data: QR1@\r\n"
+    ],
+    [
+      0.000060,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.000055,
+      "calling command BR1PAX0\r\n"
+    ],
+    [
+      0.702747,
+      "First Ack: @R1\r\n"
+    ],
+    [
+      1.906615,
+      "Second Ack/Data: RR1@\r\n"
+    ],
+    [
+      0.000044,
+      "Reply Ack: @R1\r\n"
+    ],
+    [
+      0.000269,
+      "\u003e\u003e\u003e "
+    ],
+    [
+      1.717373,
+      "e"
+    ],
+    [
+      0.199945,
+      "x"
+    ],
+    [
+      0.139931,
+      "i"
+    ],
+    [
+      0.224137,
+      "t"
+    ],
+    [
+      0.148946,
+      "\r\n"
+    ],
+    [
+      0.000316,
+      "Use exit() or Ctrl-D (i.e. EOF) to exit"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000151,
+      "\u003e\u003e\u003e "
+    ],
+    [
+      1.069639,
+      "\r\n"
+    ],
+    [
+      0.016950,
+      "tomhodder@tungsten:bin$ "
+    ],
+    [
+      1.514873,
+      "exit"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ]
+  ]
+}
