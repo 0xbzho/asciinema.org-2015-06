@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "width": 158,
+  "height": 40,
+  "duration": 5.183975,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.038663,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000007,
+      "\u001b]0;iangelov@MacBook-Pro: ~\u0007iangelov@MacBook-Pro:~$ "
+    ],
+    [
+      0.616881,
+      "S"
+    ],
+    [
+      0.236357,
+      "v"
+    ],
+    [
+      0.072358,
+      "e"
+    ],
+    [
+      0.164067,
+      "t"
+    ],
+    [
+      0.422487,
+      "l"
+    ],
+    [
+      0.222881,
+      "i"
+    ],
+    [
+      0.068159,
+      "o"
+    ],
+    [
+      0.126342,
+      " "
+    ],
+    [
+      0.165485,
+      "b"
+    ],
+    [
+      0.061838,
+      "e"
+    ],
+    [
+      0.993673,
+      "\r\n"
+    ],
+    [
+      0.005066,
+      "bash: Svetlio: command not found\r\n"
+    ],
+    [
+      0.000428,
+      "\u001b]0;iangelov@MacBook-Pro: ~\u0007iangelov@MacBook-Pro:~$ "
+    ],
+    [
+      1.987520,
+      "exit\r\n"
+    ]
+  ]
+}
