@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 21.869201,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.031778,
+      "Try the Moo Shu Pork.  It is especially good today.\r\n"
+    ],
+    [
+      0.000530,
+      "\u001b]0;charlie@Darvaza-Antergos:~\u0007"
+    ],
+    [
+      0.000322,
+      "[charlie@Darvaza-Antergos ~]$ "
+    ],
+    [
+      2.018943,
+      "p"
+    ],
+    [
+      0.069666,
+      "a"
+    ],
+    [
+      0.079757,
+      "c"
+    ],
+    [
+      0.090160,
+      "k"
+    ],
+    [
+      0.066210,
+      "e"
+    ],
+    [
+      0.104837,
+      "r"
+    ],
+    [
+      0.109995,
+      " "
+    ],
+    [
+      0.190878,
+      "a"
+    ],
+    [
+      0.165012,
+      "s"
+    ],
+    [
+      0.139942,
+      "c"
+    ],
+    [
+      0.161060,
+      "i"
+    ],
+    [
+      0.140241,
+      "i"
+    ],
+    [
+      0.200886,
+      "n"
+    ],
+    [
+      0.115106,
+      "e"
+    ],
+    [
+      0.099830,
+      "m"
+    ],
+    [
+      0.130064,
+      "a"
+    ],
+    [
+      0.156483,
+      "\r\n"
+    ],
+    [
+      0.242708,
+      "  \r\n"
+    ],
+    [
+      0.847002,
+      "0 \u001b[1;35maur/\u001b[1;39masciinema \u001b[1;32m1.0.0-1\u001b[0m (17)\r\n"
+    ],
+    [
+      0.000021,
+      "    Record and share your terminal sessions, the right way\r\n1 \u001b[1;35maur/\u001b[1;39masciinema-git \u001b[1;32m1.0.0.r8.g365b36c-1\u001b[0m (7)\r\n"
+    ],
+    [
+      0.000216,
+      "    Record and share your terminal sessions, the right way\r\n"
+    ],
+    [
+      0.000332,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[1;32mType numbers to install. Separate each number with a space.\u001b[0m\r\n"
+    ],
+    [
+      0.000032,
+      "\u001b[1;32mNumbers: \u001b[0m"
+    ],
+    [
+      0.738818,
+      "0"
+    ],
+    [
+      0.209971,
+      "\r\n"
+    ],
+    [
+      1.645027,
+      "\u001b[1;33mwarning:\u001b[0m asciinema-1.0.0-1 is up to date -- reinstalling\r\n"
+    ],
+    [
+      0.002769,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "\u001b[1;33mAur Targets    (1):\u001b[0m asciinema\r\n"
+    ],
+    [
+      0.000012,
+      "\r\nProceed with installation? [Y/n] "
+    ],
+    [
+      0.953505,
+      "y"
+    ],
+    [
+      0.001281,
+      "\r\n"
+    ],
+    [
+      0.017633,
+      "\u001b[1;33mEdit asciinema PKGBUILD with $EDITOR? [Y/n]\u001b[0m "
+    ],
+    [
+      0.908295,
+      "n"
+    ],
+    [
+      0.001086,
+      "\r\n"
+    ],
+    [
+      0.173234,
+      "\u001b[1m\u001b[32m==\u003e\u001b(B\u001b[m\u001b[1m Making package: asciinema 1.0.0-1 (Wed Jun 24 06:53:29 EDT 2015)\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.002675,
+      "\u001b[1m\u001b[32m==\u003e\u001b(B\u001b[m\u001b[1m Checking runtime dependencies...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.004208,
+      "\u001b[1m\u001b[32m==\u003e\u001b(B\u001b[m\u001b[1m Checking buildtime dependencies...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.007316,
+      "\u001b[1m\u001b[32m==\u003e\u001b(B\u001b[m\u001b[1m Retrieving sources...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.008573,
+      "\u001b[1m\u001b[34m  -\u003e\u001b(B\u001b[m\u001b[1m Found asciinema-1.0.0-linux-amd64.tar.gz\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.003783,
+      "\u001b[1m\u001b[32m==\u003e\u001b(B\u001b[m\u001b[1m Validating source files with sha1sums...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.002534,
+      "    asciinema-1.0.0-linux-amd64.tar.gz ... "
+    ],
+    [
+      0.017743,
+      "Passed\r\n"
+    ],
+    [
+      0.006238,
+      "\u001b[1m\u001b[32m==\u003e\u001b(B\u001b[m\u001b[1m Extracting sources...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.033405,
+      "\u001b[1m\u001b[34m  -\u003e\u001b(B\u001b[m\u001b[1m Extracting asciinema-1.0.0-linux-amd64.tar.gz with bsdtar\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.038480,
+      "\u001b[1m\u001b[32m==\u003e\u001b(B\u001b[m\u001b[1m Removing existing $pkgdir/ directory...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.004638,
+      "\u001b[1m\u001b[32m==\u003e\u001b(B\u001b[m\u001b[1m Entering fakeroot environment...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.166236,
+      "\u001b[1m\u001b[32m==\u003e\u001b(B\u001b[m\u001b[1m Starting package()...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.012502,
+      "\u001b[1m\u001b[32m==\u003e\u001b(B\u001b[m\u001b[1m Tidying install...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.001806,
+      "\u001b[1m\u001b[34m  -\u003e\u001b(B\u001b[m\u001b[1m Purging unwanted files...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.012755,
+      "\u001b[1m\u001b[34m  -\u003e\u001b(B\u001b[m\u001b[1m Removing libtool files...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.005254,
+      "\u001b[1m\u001b[34m  -\u003e\u001b(B\u001b[m\u001b[1m Removing static library files...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.019371,
+      "\u001b[1m\u001b[34m  -\u003e\u001b(B\u001b[m\u001b[1m Compressing man and info pages...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.008203,
+      "\u001b[1m\u001b[34m  -\u003e\u001b(B\u001b[m\u001b[1m Stripping unneeded symbols from binaries and libraries...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.051934,
+      "\u001b[1m\u001b[32m==\u003e\u001b(B\u001b[m\u001b[1m Creating package \"asciinema\"...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.009690,
+      "\u001b[1m\u001b[34m  -\u003e\u001b(B\u001b[m\u001b[1m Generating .PKGINFO file...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.024693,
+      "\u001b[1m\u001b[34m  -\u003e\u001b(B\u001b[m\u001b[1m Generating .MTREE file...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.033796,
+      "\u001b[1m\u001b[34m  -\u003e\u001b(B\u001b[m\u001b[1m Compressing package...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      2.473274,
+      "\u001b[1m\u001b[32m==\u003e\u001b(B\u001b[m\u001b[1m Leaving fakeroot environment.\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.003901,
+      "\u001b[1m\u001b[32m==\u003e\u001b(B\u001b[m\u001b[1m Finished making: asciinema 1.0.0-1 (Wed Jun 24 06:53:32 EDT 2015)\u001b(B\u001b[m\r\n"
+    ],
+    [
+      0.005573,
+      "[sudo] password for charlie: "
+    ],
+    [
+      5.134050,
+      "\r\n"
+    ],
+    [
+      0.030030,
+      "loading packages...\r\n"
+    ],
+    [
+      0.003812,
+      "warning: asciinema-1.0.0-1 is up to date -- reinstalling\r\nresolving dependencies...\r\n"
+    ],
+    [
+      0.000171,
+      "looking for conflicting packages...\r\n"
+    ],
+    [
+      0.016279,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "Packages (1) asciinema-1.0.0-1\r\n\r\nTotal Installed Size:  4.93 MiB\r\nNet Upgrade Size:      0.00 MiB\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n:: "
+    ],
+    [
+      0.000003,
+      "Proceed with installation?"
+    ],
+    [
+      0.000027,
+      " [Y/n] "
+    ],
+    [
+      0.909496,
+      "y"
+    ],
+    [
+      0.406059,
+      "\r\n"
+    ],
+    [
+      0.001316,
+      "(0/1) checking keys in keyring                     [----------------------]   0%\r(1/1) checking keys in keyring                     [######################] 100%\r\n(0/1) checking package integrity                   [----------------------]   0%\r(1/1) checking package integrity                   [######################] 100%\r\n(0/1) loading package files                        [----------------------]   0%\r(1/1) loading package files                        [######################] 100%\r\n(0/1) checking for file conflicts                  [----------------------]   0%\r(1/1) checking for file conflicts                  [######################] 100%\r\n(0/1) checking available disk space                [----------------------]   0%\r(1/1) checking available disk space                [######################] 100%\r\n"
+    ],
+    [
+      0.026082,
+      "(1/1) reinstalling asciinema                       [----------------------]   0%\r"
+    ],
+    [
+      0.095385,
+      "(1/1) reinstalling asciinema                       [######################] 100%\r\n"
+    ],
+    [
+      0.064447,
+      "\u001b]0;charlie@Darvaza-Antergos:~\u0007"
+    ],
+    [
+      0.000060,
+      "[charlie@Darvaza-Antergos ~]$ "
+    ],
+    [
+      2.408562,
+      "exit\r\n"
+    ]
+  ]
+}
