@@ -1,0 +1,870 @@
+{
+  "version": 1,
+  "width": 239,
+  "height": 59,
+  "duration": 49.632961,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.656326,
+      "\r\n"
+    ],
+    [
+      0.581905,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000009,
+      "\u001b]2;cristian@wash: ~/Desktop/docker/webapp\u0007\u001b]1;..docker/webapp\u0007"
+    ],
+    [
+      0.009988,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~/Desktop/docker/webapp]\u001b[32m\u001b[1m$\u001b[0m \u001b[K\u001b[210C \u001b[211D"
+    ],
+    [
+      0.000043,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000055,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000027,
+      "\r"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000925,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000308,
+      "\u001b]2;cristian@wash: ~/Desktop/docker/webapp\u0007\u001b]1;..docker/webapp\u0007"
+    ],
+    [
+      0.012792,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~/Desktop/docker/webapp]\u001b[32m\u001b[1m$\u001b[0m \u001b[K\u001b[210C \u001b[211D"
+    ],
+    [
+      0.000015,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.586084,
+      "m"
+    ],
+    [
+      0.127503,
+      "\u0008mv"
+    ],
+    [
+      0.249466,
+      "n"
+    ],
+    [
+      0.094384,
+      " "
+    ],
+    [
+      0.224243,
+      "p"
+    ],
+    [
+      0.087797,
+      "a"
+    ],
+    [
+      0.127877,
+      "c"
+    ],
+    [
+      0.168218,
+      "k"
+    ],
+    [
+      0.103987,
+      "a"
+    ],
+    [
+      0.207989,
+      "g"
+    ],
+    [
+      0.080048,
+      "e"
+    ],
+    [
+      1.207887,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000040,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000612,
+      "\u001b]2;mvn package\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;mvn\u0007"
+    ],
+    [
+      0.014901,
+      "Picked up JAVA_TOOL_OPTIONS: -javaagent:/usr/share/java/jayatanaag.jar \r\n"
+    ],
+    [
+      1.056479,
+      "[INFO] "
+    ],
+    [
+      0.000008,
+      "Scanning for projects..."
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.144880,
+      "[INFO] "
+    ],
+    [
+      0.000022,
+      "                                                                        \r\n[INFO] "
+    ],
+    [
+      0.000006,
+      "------------------------------------------------------------------------"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "[INFO] "
+    ],
+    [
+      0.000005,
+      "Building gs-spring-boot-docker 0.1.0"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "[INFO] "
+    ],
+    [
+      0.000012,
+      "------------------------------------------------------------------------"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.567224,
+      "[INFO] "
+    ],
+    [
+      0.000012,
+      "\r\n[INFO] "
+    ],
+    [
+      0.000005,
+      "--- maven-resources-plugin:2.6:resources (default-resources) @ gs-spring-boot-docker ---"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.191189,
+      "[INFO] "
+    ],
+    [
+      0.000008,
+      "Using 'UTF-8' encoding to copy filtered resources."
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "[INFO] "
+    ],
+    [
+      0.000012,
+      "skip non existing resourceDirectory /home/cristian/Desktop/docker/webapp/src/main/resources"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "[INFO] "
+    ],
+    [
+      0.000012,
+      "skip non existing resourceDirectory /home/cristian/Desktop/docker/webapp/src/main/resources"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001223,
+      "[INFO] "
+    ],
+    [
+      0.000012,
+      "\r\n[INFO] "
+    ],
+    [
+      0.000013,
+      "--- maven-compiler-plugin:3.1:compile (default-compile) @ gs-spring-boot-docker ---"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.243336,
+      "[INFO] "
+    ],
+    [
+      0.000012,
+      "Changes detected - recompiling the module!\r\n"
+    ],
+    [
+      0.004364,
+      "[INFO] "
+    ],
+    [
+      0.000031,
+      "Compiling 1 source file to /home/cristian/Desktop/docker/webapp/target/classes"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.427680,
+      "[INFO] "
+    ],
+    [
+      0.000021,
+      "\r\n[INFO] "
+    ],
+    [
+      0.000016,
+      "--- maven-resources-plugin:2.6:testResources (default-testResources) @ gs-spring-boot-docker ---"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.011585,
+      "[INFO] Using 'UTF-8' encoding to copy filtered resources.\r\n[INFO] skip non existing resourceDirectory /home/cristian/Desktop/docker/webapp/src/test/resources\r\n[INFO] \r\n[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ gs-spring-boot-docker ---\r\n[INFO] No sources to compile\r\n[INFO] \r\n[INFO] --- maven-surefire-plugin:2.17:test (default-test) @ gs-spring-boot-docker ---\r\n"
+    ],
+    [
+      0.116903,
+      "[INFO] "
+    ],
+    [
+      0.000009,
+      "No tests to run.\r\n"
+    ],
+    [
+      0.148262,
+      "[INFO] "
+    ],
+    [
+      0.000015,
+      "\r\n[INFO] --- maven-jar-plugin:2.5:jar (default-jar) @ gs-spring-boot-docker ---\r\n"
+    ],
+    [
+      0.191853,
+      "[INFO] "
+    ],
+    [
+      0.000032,
+      "Building jar: /home/cristian/Desktop/docker/webapp/target/gs-spring-boot-docker-0.1.0.jar"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.008529,
+      "[INFO] "
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "[INFO] "
+    ],
+    [
+      0.000043,
+      "--- spring-boot-maven-plugin:1.2.4.RELEASE:repackage (default) @ gs-spring-boot-docker ---"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.589797,
+      "[INFO] "
+    ],
+    [
+      0.000010,
+      "------------------------------------------------------------------------"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "[INFO] "
+    ],
+    [
+      0.000015,
+      "BUILD SUCCESS"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "[INFO] "
+    ],
+    [
+      0.000013,
+      "------------------------------------------------------------------------"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000596,
+      "[INFO] "
+    ],
+    [
+      0.000006,
+      "Total time: 2.663s"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "[INFO] "
+    ],
+    [
+      0.000015,
+      "Finished at: Thu Jun 25 15:22:18 CEST 2015"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.129859,
+      "[INFO] "
+    ],
+    [
+      0.000041,
+      "Final Memory: 22M/271M"
+    ],
+    [
+      0.000048,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "[INFO] "
+    ],
+    [
+      0.000021,
+      "------------------------------------------------------------------------"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.040148,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000014,
+      "\u001b]2;cristian@wash: ~/Desktop/docker/webapp\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;..docker/webapp\u0007"
+    ],
+    [
+      0.006882,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~/Desktop/docker/webapp]\u001b[32m\u001b[1m$\u001b[0m "
+    ],
+    [
+      0.000010,
+      "\u001b[K\u001b[210C \u001b[211D"
+    ],
+    [
+      0.000022,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.398368,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000039,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000676,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000341,
+      "\u001b]2;cristian@wash: ~/Desktop/docker/webapp\u0007"
+    ],
+    [
+      0.000018,
+      "\u001b]1;..docker/webapp\u0007"
+    ],
+    [
+      0.010873,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~/Desktop/docker/webapp]\u001b[32m\u001b[1m$\u001b[0m "
+    ],
+    [
+      0.000032,
+      "\u001b[K\u001b[210C \u001b[211D"
+    ],
+    [
+      0.000064,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.731949,
+      "j"
+    ],
+    [
+      0.056245,
+      "\u0008ja"
+    ],
+    [
+      0.175744,
+      "v"
+    ],
+    [
+      0.112026,
+      "a"
+    ],
+    [
+      1.152028,
+      " "
+    ],
+    [
+      0.575920,
+      "-"
+    ],
+    [
+      0.535960,
+      "j"
+    ],
+    [
+      0.063907,
+      "a"
+    ],
+    [
+      0.384254,
+      "r"
+    ],
+    [
+      0.111765,
+      " "
+    ],
+    [
+      1.432167,
+      "t"
+    ],
+    [
+      0.128257,
+      "arget\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.620781,
+      "\u0007\u0008\u001b[0m/"
+    ],
+    [
+      0.000010,
+      "\r\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[J\u001b[1;31mclasses\u001b[0m/                         \u001b[J\u001b[1;31mgenerated-sources\u001b[0m/               \u001b[Jgs-spring-boot-docker-0.1.0.jar  \u001b[J\u001b[1;31mmaven-archiver\u001b[0m/                  \u001b[J\u001b[1;31mmaven-status\u001b[0m/                  \u001b[J\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\r\u001b[27C"
+    ],
+    [
+      0.000006,
+      "java -jar target/\u001b[K\u001b[193C \u001b[0m\u001b[27m\u001b[24m\u001b[194D"
+    ],
+    [
+      1.362886,
+      "g"
+    ],
+    [
+      0.279948,
+      "s"
+    ],
+    [
+      0.107746,
+      "-spring-boot-docker-0.1.0.jar\u001b[1m \u001b[0m"
+    ],
+    [
+      1.268195,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000031,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000037,
+      "\r\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[J"
+    ],
+    [
+      0.000721,
+      "\u001b]2;java -jar target/gs-spring-boot-docker-0.1.0.jar\u0007\u001b]1;java\u0007"
+    ],
+    [
+      0.002746,
+      "Picked up JAVA_TOOL_OPTIONS: -javaagent:/usr/share/java/jayatanaag.jar \r\n"
+    ],
+    [
+      0.574917,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "  .   ____          _            __ _ _\r\n"
+    ],
+    [
+      0.000004,
+      " /\\\\ / ___'_ __ _ _(_)_ __  __ _ \\ \\ \\ \\"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "( ( )\\___ | '_ | '_| | '_ \\/ _` | \\ \\ \\ \\"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      " \\\\/  ___)| |_)| | | | | || (_| |  ) ) ) )"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "  '  |____| .__|_| |_|_| |_\\__, | / / / /"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      " =========|_|==============|___/=/_/_/_/"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.001994,
+      "\u001b[32m :: Spring Boot :: \u001b[39m      \u001b[2m (v1.2.4.RELEASE)\u001b[0;39m"
+    ],
+    [
+      0.000013,
+      "\r\n\r\n"
+    ],
+    [
+      0.120650,
+      "\u001b[2m2015-06-25 15:22:30.048\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mhello.Application                       \u001b[0;39m \u001b[2m:\u001b[0;39m Starting Application v0.1.0 on wash with PID 9069 (/home/cristian/Desktop/docker/webapp/target/gs-spring-boot-docker-0.1.0.jar started by cristian in /home/cristian/Desktop/docker/webapp)\r\n"
+    ],
+    [
+      0.064066,
+      "\u001b[2m2015-06-25 15:22:30.115\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mationConfigEmbeddedWebApplicationContext\u001b[0;39m \u001b[2m:\u001b[0;39m Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5c0e5799: startup date [Thu Jun 25 15:22:30 CEST 2015]; root of context hierarchy\r\n"
+    ],
+    [
+      0.267487,
+      "\u001b[2m2015-06-25 15:22:30.382\u001b[0;39m \u001b[33m WARN\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36m.i.s.PathMatchingResourcePatternResolver\u001b[0;39m \u001b[2m:\u001b[0;39m Skipping [/usr/share/java/jayatana.jar] because it does not denote a directory"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.424278,
+      "\u001b[2m2015-06-25 15:22:30.807\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mo.s.b.f.s.DefaultListableBeanFactory    \u001b[0;39m \u001b[2m:\u001b[0;39m Overriding bean definition for bean 'beanNameViewResolver': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration$WhitelabelErrorViewConfiguration; factoryMethodName=beanNameViewResolver; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/web/ErrorMvcAutoConfiguration$WhitelabelErrorViewConfiguration.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter; factoryMethodName=beanNameViewResolver; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter.class]]\r\n"
+    ],
+    [
+      0.732506,
+      "\u001b[2m2015-06-25 15:22:31.539\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36ms.b.c.e.t.TomcatEmbeddedServletContainer\u001b[0;39m \u001b[2m:\u001b[0;39m Tomcat initialized with port(s): 8080 (http)\r\n"
+    ],
+    [
+      0.182173,
+      "\u001b[2m2015-06-25 15:22:31.721\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mo.apache.catalina.core.StandardService  \u001b[0;39m \u001b[2m:\u001b[0;39m Starting service Tomcat"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.001339,
+      "\u001b[2m2015-06-25 15:22:31.723\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36morg.apache.catalina.core.StandardEngine \u001b[0;39m \u001b[2m:\u001b[0;39m Starting Servlet Engine: Apache Tomcat/8.0.23"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.103524,
+      "\u001b[2m2015-06-25 15:22:31.826\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[ost-startStop-1]\u001b[0;39m \u001b[36mo.a.c.c.C.[Tomcat].[localhost].[/]      \u001b[0;39m \u001b[2m:\u001b[0;39m Initializing Spring embedded WebApplicationContext"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000331,
+      "\u001b[2m2015-06-25 15:22:31.827\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[ost-startStop-1]\u001b[0;39m \u001b[36mo.s.web.context.ContextLoader           \u001b[0;39m \u001b[2m:\u001b[0;39m Root WebApplicationContext: initialization completed in 1715 ms"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.778457,
+      "\u001b[2m2015-06-25 15:22:32.602\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[ost-startStop-1]\u001b[0;39m \u001b[36mo.s.b.c.e.ServletRegistrationBean       \u001b[0;39m \u001b[2m:\u001b[0;39m Mapping servlet: 'dispatcherServlet' to [/]\r\n"
+    ],
+    [
+      0.002512,
+      "\u001b[2m2015-06-25 15:22:32.608\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[ost-startStop-1]\u001b[0;39m \u001b[36mo.s.b.c.embedded.FilterRegistrationBean \u001b[0;39m \u001b[2m:\u001b[0;39m Mapping filter: 'characterEncodingFilter' to: [/*]"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000502,
+      "\u001b[2m2015-06-25 15:22:32.608\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[ost-startStop-1]\u001b[0;39m \u001b[36mo.s.b.c.embedded.FilterRegistrationBean \u001b[0;39m \u001b[2m:\u001b[0;39m Mapping filter: 'hiddenHttpMethodFilter' to: [/*]\r\n"
+    ],
+    [
+      0.324295,
+      "\u001b[2m2015-06-25 15:22:32.932\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36ms.w.s.m.m.a.RequestMappingHandlerAdapter\u001b[0;39m \u001b[2m:\u001b[0;39m Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5c0e5799: startup date [Thu Jun 25 15:22:30 CEST 2015]; root of context hierarchy"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.092874,
+      "\u001b[2m2015-06-25 15:22:33.025\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36ms.w.s.m.m.a.RequestMappingHandlerMapping\u001b[0;39m \u001b[2m:\u001b[0;39m Mapped \"{[/],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public java.lang.String hello.Application.home()"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.002367,
+      "\u001b[2m2015-06-25 15:22:33.028\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36ms.w.s.m.m.a.RequestMappingHandlerMapping\u001b[0;39m \u001b[2m:\u001b[0;39m Mapped \"{[/error],methods=[],params=[],headers=[],consumes=[],produces=[text/html],custom=[]}\" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest)"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.000222,
+      "\u001b[2m2015-06-25 15:22:33.028\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36ms.w.s.m.m.a.RequestMappingHandlerMapping\u001b[0;39m \u001b[2m:\u001b[0;39m Mapped \"{[/error],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}\" onto public org.springframework.http.ResponseEntity\u003cjava.util.Map\u003cjava.lang.String, java.lang.Object\u003e\u003e org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.040205,
+      "\u001b[2m2015-06-25 15:22:33.068\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mo.s.w.s.handler.SimpleUrlHandlerMapping \u001b[0;39m \u001b[2m:\u001b[0;39m Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000130,
+      "\u001b[2m2015-06-25 15:22:33.068\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mo.s.w.s.handler.SimpleUrlHandlerMapping \u001b[0;39m \u001b[2m:\u001b[0;39m Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.058478,
+      "\u001b[2m2015-06-25 15:22:33.127\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mo.s.w.s.handler.SimpleUrlHandlerMapping \u001b[0;39m \u001b[2m:\u001b[0;39m Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.096224,
+      "\u001b[2m2015-06-25 15:22:33.223\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mo.s.j.e.a.AnnotationMBeanExporter       \u001b[0;39m \u001b[2m:\u001b[0;39m Registering beans for JMX exposure on startup"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.080957,
+      "\u001b[2m2015-06-25 15:22:33.304\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36ms.b.c.e.t.TomcatEmbeddedServletContainer\u001b[0;39m \u001b[2m:\u001b[0;39m Tomcat started on port(s): 8080 (http)"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.001614,
+      "\u001b[2m2015-06-25 15:22:33.306\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[           main]\u001b[0;39m \u001b[36mhello.Application                       \u001b[0;39m \u001b[2m:\u001b[0;39m Started Application in 3.548 seconds (JVM running for 3.952)"
+    ],
+    [
+      0.000094,
+      "\r\n"
+    ],
+    [
+      5.612931,
+      "\u001b[2m2015-06-25 15:22:38.919\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[nio-8080-exec-1]\u001b[0;39m \u001b[36mo.a.c.c.C.[Tomcat].[localhost].[/]      \u001b[0;39m \u001b[2m:\u001b[0;39m Initializing Spring FrameworkServlet 'dispatcherServlet'\r\n"
+    ],
+    [
+      0.000042,
+      "\u001b[2m2015-06-25 15:22:38.919\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[nio-8080-exec-1]\u001b[0;39m \u001b[36mo.s.web.servlet.DispatcherServlet       \u001b[0;39m \u001b[2m:\u001b[0;39m FrameworkServlet 'dispatcherServlet': initialization started\r\n"
+    ],
+    [
+      0.022387,
+      "\u001b[2m2015-06-25 15:22:38.941\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[nio-8080-exec-1]\u001b[0;39m \u001b[36mo.s.web.servlet.DispatcherServlet       \u001b[0;39m \u001b[2m:\u001b[0;39m FrameworkServlet 'dispatcherServlet': initialization completed in 22 ms\r\n"
+    ],
+    [
+      17.000497,
+      "^C"
+    ],
+    [
+      0.002743,
+      "\u001b[2m2015-06-25 15:22:55.944\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[       Thread-2]\u001b[0;39m \u001b[36mationConfigEmbeddedWebApplicationContext\u001b[0;39m \u001b[2m:\u001b[0;39m Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5c0e5799: startup date [Thu Jun 25 15:22:30 CEST 2015]; root of context hierarchy\r\n"
+    ],
+    [
+      0.003500,
+      "\u001b[2m2015-06-25 15:22:55.946\u001b[0;39m \u001b[32m INFO\u001b[0;39m \u001b[35m9069\u001b[0;39m \u001b[2m---\u001b[0;39m \u001b[2m[       Thread-2]\u001b[0;39m \u001b[36mo.s.j.e.a.AnnotationMBeanExporter       \u001b[0;39m \u001b[2m:\u001b[0;39m Unregistering JMX-exposed beans on shutdown\r\n"
+    ],
+    [
+      0.088123,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000010,
+      "\u001b]2;cristian@wash: ~/Desktop/docker/webapp\u0007\u001b]1;..docker/webapp\u0007"
+    ],
+    [
+      0.009851,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~/Desktop/docker/webapp]\u001b[31m\u001b[1m$\u001b[0m "
+    ],
+    [
+      0.000008,
+      "\u001b[K\u001b[210C \u001b[211D"
+    ],
+    [
+      0.000049,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.383650,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000029,
+      "\r\r\n"
+    ],
+    [
+      0.010416,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000055,
+      "\u001b]2;cristian@wash: ~/Desktop/docker/webapp\u0007"
+    ],
+    [
+      0.000031,
+      "\u001b]1;..docker/webapp\u0007"
+    ],
+    [
+      0.010138,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~/Desktop/docker/webapp]\u001b[31m\u001b[1m$\u001b[0m "
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[210C \u001b[211D"
+    ],
+    [
+      0.000060,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.579163,
+      "\r\r\n"
+    ]
+  ]
+}
