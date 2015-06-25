@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "width": 239,
+  "height": 59,
+  "duration": 11.016403,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.187226,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000043,
+      "\u001b]2;cristian@wash: ~/Desktop/docker/webapp\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b]1;..docker/webapp\u0007"
+    ],
+    [
+      0.009658,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~/Desktop/docker/webapp]\u001b[32m\u001b[1m$\u001b[0m "
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[210C \u001b[211D"
+    ],
+    [
+      0.000026,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.227106,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000035,
+      "\r\r\n"
+    ],
+    [
+      0.007611,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000244,
+      "\u001b]2;cristian@wash: ~/Desktop/docker/webapp\u0007\u001b]1;..docker/webapp\u0007"
+    ],
+    [
+      0.013687,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~/Desktop/docker/webapp]\u001b[32m\u001b[1m$\u001b[0m \u001b[K\u001b[210C \u001b[211D"
+    ],
+    [
+      0.000016,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.794366,
+      "asciinema rec $HOME/Desktop/docker/recordings/docker_spring_docker_web"
+    ],
+    [
+      0.456031,
+      "\u001b[70Dlynx 192.168.99.100:8080                                              \u001b[46D"
+    ],
+    [
+      1.207811,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000043,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000675,
+      "\u001b]2;lynx 192.168.99.100:8080\u0007\u001b]1;lynx\u0007"
+    ],
+    [
+      0.005515,
+      "Looking up  '192.168.99.100' first\r\r\n"
+    ],
+    [
+      0.014980,
+      "\u001b[?1049h\u001b[1;59r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000904,
+      "\u001b[39;49m\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J\u001b[37m\u001b[40m\u001b[J\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000807,
+      "\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000132,
+      "\u001b[57d\u001b(B\u001b[0;1m\u001b[33m\u001b[44mLooking up 192.168.99.100 first\u001b[K\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000249,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mGetting http://192.168.99.100:8080/\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000074,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mLooking up 192.168.99.100:8080\u001b[K\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000467,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mMaking HTTP connection to 192.168.99.100:8080\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.002387,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mSending HTTP request.\u001b[K\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000195,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mHTTP request sent; waiting for response.\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.016161,
+      "\u001b[5G\u001b(B\u001b[0;1m\u001b[33m\u001b[44m/1.1 200 OK\u001b[K\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.006935,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mData transfer complete\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000691,
+      "\u001b[2;4H\u001b[37m\u001b[40mHello Docker World\r\u001b[56d\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000130,
+      "\n\n\u001b[3G\u001b[37m\u001b[40mArrow keys: Up and Down to move.  Right to follow a link; Left to go back.\r\n H)elp O)ptions P)rint G)o M)ain screen Q)uit /=search [delete]=history list \u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000177,
+      "\r\u001b[57d\u001b(B\u001b[0;1m\u001b[33m\u001b[44mCommands: Use arrow keys to move, '?' for help, 'q' to quit, '\u003c-' to go back.\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.013732,
+      "\n\n"
+    ],
+    [
+      0.000083,
+      "\u001b[57d"
+    ],
+    [
+      0.479904,
+      "\r\u001b(B\u001b[0;1m\u001b[33m\u001b[44mAre you sure you want to quit? (y)\u001b[K \u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.935971,
+      "\r\n\n\u001b[37m\u001b[40m\u001b[J\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000012,
+      "\u001b[59;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000628,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000060,
+      "\u001b]2;cristian@wash: ~/Desktop/docker/webapp\u0007"
+    ],
+    [
+      0.000020,
+      "\u001b]1;..docker/webapp\u0007"
+    ],
+    [
+      0.006585,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~/Desktop/docker/webapp]\u001b[32m\u001b[1m$\u001b[0m \u001b[K\u001b[210C \u001b[211D"
+    ],
+    [
+      0.000009,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.608613,
+      "\r\r\n"
+    ]
+  ]
+}
