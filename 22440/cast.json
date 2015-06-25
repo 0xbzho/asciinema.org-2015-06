@@ -1,0 +1,430 @@
+{
+  "version": 1,
+  "width": 239,
+  "height": 59,
+  "duration": 17.885116,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.155719,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000015,
+      "\u001b]2;cristian@wash: ~/Desktop/docker/recordings\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;..er/recordings\u0007"
+    ],
+    [
+      0.009713,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~/Desktop/docker/recordings]\u001b[32m\u001b[1m$\u001b[0m "
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[206C \u001b[207D"
+    ],
+    [
+      0.000041,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.010515,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000038,
+      "\r\r\n"
+    ],
+    [
+      0.000685,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000068,
+      "\u001b]2;cristian@wash: ~/Desktop/docker/recordings\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;..er/recordings\u0007"
+    ],
+    [
+      0.010415,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~/Desktop/docker/recordings]\u001b[32m\u001b[1m$\u001b[0m "
+    ],
+    [
+      0.000009,
+      "\u001b[K\u001b[206C \u001b[207D"
+    ],
+    [
+      0.000022,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.437379,
+      "d"
+    ],
+    [
+      0.079346,
+      "\u0008do"
+    ],
+    [
+      0.103929,
+      "c"
+    ],
+    [
+      0.096133,
+      "k"
+    ],
+    [
+      0.079963,
+      "e"
+    ],
+    [
+      0.136040,
+      "r"
+    ],
+    [
+      0.079799,
+      " "
+    ],
+    [
+      0.712184,
+      "r"
+    ],
+    [
+      0.079996,
+      "u"
+    ],
+    [
+      0.183991,
+      "n"
+    ],
+    [
+      2.095658,
+      " "
+    ],
+    [
+      0.320009,
+      "h"
+    ],
+    [
+      0.112020,
+      "e"
+    ],
+    [
+      0.103981,
+      "l"
+    ],
+    [
+      0.144019,
+      "l"
+    ],
+    [
+      0.111946,
+      "o"
+    ],
+    [
+      0.727891,
+      "-"
+    ],
+    [
+      0.304112,
+      "w"
+    ],
+    [
+      0.120049,
+      "o"
+    ],
+    [
+      0.223994,
+      "r"
+    ],
+    [
+      0.127999,
+      "l"
+    ],
+    [
+      0.111925,
+      "d"
+    ],
+    [
+      0.784025,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000028,
+      "\r"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000705,
+      "\u001b]2;docker run hello-world\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b]1;docker\u0007"
+    ],
+    [
+      0.176217,
+      "Unable to find image 'hello-world:latest' locally"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      2.973828,
+      "latest: "
+    ],
+    [
+      0.000015,
+      "Pulling from hello-world\r\n\u001b[0B\r\n\u001b[0A\u001b[2K\r"
+    ],
+    [
+      0.000004,
+      "a8219747be10: Pulling fs layer \r\u001b[0B"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\u001b[0A\u001b[2K\r"
+    ],
+    [
+      0.000003,
+      "91c95931e552: "
+    ],
+    [
+      0.000004,
+      "Pulling fs layer \r\u001b[0B"
+    ],
+    [
+      0.000065,
+      "\u001b[1A\u001b[2K\r91c95931e552: Pulling fs layer \r\u001b[1B\u001b[1A\u001b[2K\r91c95931e552: Layer already being pulled by another client. Waiting. \r\u001b[1B"
+    ],
+    [
+      0.903187,
+      "\u001b[1A\u001b[2K\r91c95931e552: "
+    ],
+    [
+      0.000014,
+      "Downloading [==================================================\u003e]     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.000093,
+      "\u001b[1A\u001b[2K\r"
+    ],
+    [
+      0.000006,
+      "91c95931e552: Verifying Checksum \r"
+    ],
+    [
+      0.000034,
+      "\u001b[1B"
+    ],
+    [
+      0.000026,
+      "\u001b[1A"
+    ],
+    [
+      0.000026,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000004,
+      "91c95931e552: "
+    ],
+    [
+      0.000003,
+      "Download complete \r"
+    ],
+    [
+      0.000003,
+      "\u001b[1B"
+    ],
+    [
+      0.000027,
+      "\u001b[1A"
+    ],
+    [
+      0.000003,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000003,
+      "91c95931e552: "
+    ],
+    [
+      0.000007,
+      "Download complete \r"
+    ],
+    [
+      0.000010,
+      "\u001b[1B"
+    ],
+    [
+      0.023034,
+      "\u001b[2A"
+    ],
+    [
+      0.000008,
+      "\u001b[2K\ra8219747be10: Downloading [==================================================\u003e]    596 B/596 B\r\u001b[2B"
+    ],
+    [
+      0.000067,
+      "\u001b[2A\u001b[2K\ra8219747be10: "
+    ],
+    [
+      0.000005,
+      "Verifying Checksum \r\u001b[2B"
+    ],
+    [
+      0.000022,
+      "\u001b[2A"
+    ],
+    [
+      0.000004,
+      "\u001b[2K\ra8219747be10: "
+    ],
+    [
+      0.000005,
+      "Download complete \r"
+    ],
+    [
+      0.000004,
+      "\u001b[2B"
+    ],
+    [
+      0.000032,
+      "\u001b[2A\u001b[2K\ra8219747be10: "
+    ],
+    [
+      0.000010,
+      "Extracting [==================================================\u003e]    596 B/596 B\r"
+    ],
+    [
+      0.000004,
+      "\u001b[2B"
+    ],
+    [
+      0.003308,
+      "\u001b[2A"
+    ],
+    [
+      0.000008,
+      "\u001b[2K\ra8219747be10: Extracting [==================================================\u003e]    596 B/596 B\r\u001b[2B"
+    ],
+    [
+      0.042606,
+      "\u001b[2A"
+    ],
+    [
+      0.000011,
+      "\u001b[2K\ra8219747be10: Pull complete \r\u001b[2B"
+    ],
+    [
+      0.000659,
+      "\u001b[1A"
+    ],
+    [
+      0.000008,
+      "\u001b[2K\r91c95931e552: Extracting [==================================================\u003e]     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.006780,
+      "\u001b[1A"
+    ],
+    [
+      0.000026,
+      "\u001b[2K\r91c95931e552: "
+    ],
+    [
+      0.000017,
+      "Extracting [==================================================\u003e]     32 B/32 B\r"
+    ],
+    [
+      0.000030,
+      "\u001b[1B"
+    ],
+    [
+      0.036591,
+      "\u001b[1A"
+    ],
+    [
+      0.000010,
+      "\u001b[2K\r91c95931e552: Pull complete \r\u001b[1B\u001b[1A\u001b[2K\r91c95931e552: Already exists \r\u001b[1B"
+    ],
+    [
+      0.000037,
+      "hello-world:latest: The image you are pulling has been verified. Important: image verification is a tech preview feature and should not be relied on to provide security.\r\n\u001b[1B"
+    ],
+    [
+      0.000016,
+      "Digest: sha256:aa03e5d0d5553b4c3473e89c8619cf79df368babd18681cf5daeb82aab55838d\r\n"
+    ],
+    [
+      0.000619,
+      "Status: Downloaded newer image for hello-world:latest"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.250020,
+      "Hello from Docker."
+    ],
+    [
+      0.000020,
+      "\r\nThis message shows that your installation appears to be working correctly.\r\n\r\nTo generate this message, Docker took the following steps:\r\n 1. The Docker client contacted the Docker daemon.\r\n 2. The Docker daemon pulled the \"hello-world\" image from the Docker Hub."
+    ],
+    [
+      0.000015,
+      "\r\n    (Assuming it was not already locally available.)\r\n 3. The Docker daemon created a new container from that image which runs the\r\n    executable that produces the output you are currently reading.\r\n 4. The Docker daemon streamed that output to the Docker client, which sent it\r\n"
+    ],
+    [
+      0.000016,
+      "    to your terminal.\r\n\r\nTo try something more ambitious, you can run an Ubuntu container with:\r\n $ docker run -it ubuntu bash\r\n\r\nFor more examples and ideas, visit:"
+    ],
+    [
+      0.000011,
+      "\r\n http://docs.docker.com/userguide/\r\n"
+    ],
+    [
+      0.168885,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                              \r \r"
+    ],
+    [
+      0.000061,
+      "\u001b]2;cristian@wash: ~/Desktop/docker/recordings\u0007"
+    ],
+    [
+      0.000089,
+      "\u001b]1;..er/recordings\u0007"
+    ],
+    [
+      0.006451,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~/Desktop/docker/recordings]\u001b[32m\u001b[1m$\u001b[0m \u001b[K\u001b[206C \u001b[207D"
+    ],
+    [
+      0.000025,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.814056,
+      "\r\r\n"
+    ]
+  ]
+}
