@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "width": 112,
+  "height": 29,
+  "duration": 52.204988,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.039539,
+      "\u001b]0;root@server:~\u0007\u001b[?1034h[root@server ~]# "
+    ],
+    [
+      4.077482,
+      "yum list installed | grep docker"
+    ],
+    [
+      0.864072,
+      "\r\n"
+    ],
+    [
+      0.747637,
+      "\u001b]0;root@server:~\u0007[root@server ~]# "
+    ],
+    [
+      4.626733,
+      "curl -fsS https://raw.githubusercontent.com/russmckendrick/docker-install/master/install-offica \rl | bash"
+    ],
+    [
+      0.938552,
+      "\r\n"
+    ],
+    [
+      0.481354,
+      "======================================================================================\r\nDocker Engine \u0026 Compose installation\r\n\r\nThis script will remove the vendor version of Docker and install the more\r\nup-to-date package from 'get.docker.com' along with Docker Compose\r\n\r\n======================================================================================\r\n\r\n=\u003e Downloading the RPM ...\r\n"
+    ],
+    [
+      3.013904,
+      "=\u003e Done!\r\n=\u003e Removing vendor installation of Docker ...\r\n"
+    ],
+    [
+      0.611809,
+      "=\u003e Done!\r\n=\u003e Installing offical Docker Engine RPM ...\r\n"
+    ],
+    [
+      6.685347,
+      "=\u003e Enabling \u0026 starting Docker Engine ...\r\n"
+    ],
+    [
+      0.050195,
+      "=\u003e Done!\r\n=\u003e Cleaning /tmp ...\r\n"
+    ],
+    [
+      0.005787,
+      "=\u003e Done!\r\n=\u003e Installing Docker Compose ...\r\n"
+    ],
+    [
+      8.219846,
+      "/usr/lib/python2.7/site-packages/pip-7.0.3-py2.7.egg/pip/_vendor/requests/packages/urllib3/util/ssl_.py:90: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.\r\n  InsecurePlatformWarning\r\n"
+    ],
+    [
+      0.108902,
+      "/usr/lib/python2.7/site-packages/pip-7.0.3-py2.7.egg/pip/_vendor/requests/packages/urllib3/util/ssl_.py:90: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.\r\n  InsecurePlatformWarning\r\n"
+    ],
+    [
+      6.682274,
+      "=\u003e Done!\r\n=\u003e Creating SymLink for Fig ...\r\n"
+    ],
+    [
+      0.001297,
+      "=\u003e Done!\r\nRunning 'hello-world' container ...\r\n"
+    ],
+    [
+      0.021787,
+      "Unable to find image 'hello-world:latest' locally\r\n"
+    ],
+    [
+      2.287789,
+      "latest: Pulling from hello-world\r\n\u001b[0B\r\n\u001b[0A\u001b[2K\ra8219747be10: Pulling fs layer \r\u001b[0B\r\n\u001b[0A\u001b[2K\r91c95931e552: Pulling fs layer \r\u001b[0B\u001b[1A\u001b[2K\r91c95931e552: Pulling fs layer \r\u001b[1B\u001b[1A\u001b[2K\r91c95931e552: Layer already being pulled by another client. Waiting. \r\u001b[1B"
+    ],
+    [
+      0.453524,
+      "\u001b[2A\u001b[2K\ra8219747be10: Downloading [==================================================\u003e]    596 B/596 B\r\u001b[2B\u001b[2A\u001b[2K\ra8219747be10: Verifying Checksum \r\u001b[2B\u001b[2A\u001b[2K\ra8219747be10: Download complete \r\u001b[2B"
+    ],
+    [
+      0.008326,
+      "\u001b[1A\u001b[2K\r91c95931e552: Downloading [==================================================\u003e]     32 B/32 B\r\u001b[1B\u001b[1A\u001b[2K\r91c95931e552: Verifying Checksum \r\u001b[1B\u001b[1A\u001b[2K\r91c95931e552: Download complete \r\u001b[1B\u001b[1A\u001b[2K\r91c95931e552: Download complete \r\u001b[1B"
+    ],
+    [
+      0.071719,
+      "\u001b[2A\u001b[2K\ra8219747be10: Extracting [==================================================\u003e]    596 B/596 B\r\u001b[2B"
+    ],
+    [
+      0.015759,
+      "\u001b[2A\u001b[2K\ra8219747be10: Extracting [==================================================\u003e]    596 B/596 B\r\u001b[2B"
+    ],
+    [
+      0.056252,
+      "\u001b[2A\u001b[2K\ra8219747be10: Pull complete \r\u001b[2B"
+    ],
+    [
+      0.030417,
+      "\u001b[1A\u001b[2K\r91c95931e552: Extracting [==================================================\u003e]     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.015599,
+      "\u001b[1A\u001b[2K\r91c95931e552: Extracting [==================================================\u003e]     32 B/32 B\r\u001b[1B"
+    ],
+    [
+      0.052900,
+      "\u001b[1A\u001b[2K\r91c95931e552: Pull complete \r\u001b[1B\u001b[1A\u001b[2K\r91c95931e552: Already exists \r\u001b[1Bhello-world:latest: The image you are pulling has been verified. Important: image verification is a tech preview feature and should not be relied on to provide security.\r\n\u001b[1BDigest: sha256:aa03e5d0d5553b4c3473e89c8619cf79df368babd18681cf5daeb82aab55838d\r\nStatus: Downloaded newer image for hello-world:latest\r\n"
+    ],
+    [
+      0.410679,
+      "Hello from Docker.\r\nThis message shows that your installation appears to be working correctly.\r\n\r\nTo generate this message, Docker took the following steps:\r\n 1. The Docker client contacted the Docker daemon.\r\n 2. The Docker daemon pulled the \"hello-world\" image from the Docker Hub.\r\n    (Assuming it was not already locally available.)\r\n 3. The Docker daemon created a new container from that image which runs the\r\n    executable that produces the output you are currently reading.\r\n 4. The Docker daemon streamed that output to the Docker client, which sent it\r\n    to your terminal.\r\n\r\nTo try something more ambitious, you can run an Ubuntu container with:\r\n $ docker run -it ubuntu bash\r\n\r\nFor more examples and ideas, visit:\r\n http://docs.docker.com/userguide/\r\n"
+    ],
+    [
+      0.099052,
+      "=\u003e Done!\r\n\r\n======================================================================================\r\nThe latest versions of Docker Engine and Docker Compose has installed and configured:\r\n\r\n"
+    ],
+    [
+      0.039781,
+      "Docker version 1.7.0, build 0baf609\r\n"
+    ],
+    [
+      0.000714,
+      "\r\n"
+    ],
+    [
+      0.400119,
+      "docker-compose version: 1.3.1\r\nCPython version: 2.7.5\r\nOpenSSL version: OpenSSL 1.0.1e-fips 11 Feb 2013\r\n"
+    ],
+    [
+      0.010968,
+      "\r\n"
+    ],
+    [
+      0.009828,
+      "docker.service - Docker Application Container Engine\r\n   Loaded: loaded (/usr/lib/systemd/system/docker.service; enabled)\r\n   Active: \u001b[1;32mactive (running)\u001b[0m since Sun 2015-06-28 15:11:01 BST; 19s ago\r\n     Docs: https://docs.docker.com\r\n Main PID: 11245 (docker)\r\n   CGroup: /system.slice/docker.service\r\n           └─11245 /usr/bin/docker -d -H fd://\r\n\r\nJun 28 15:11:06 server.mckendrick.io docker[11245]: time=\"2015-06-28T15:11:06.979653705+01:00\" level=info ...()\"\r\nJun 28 15:11:16 server.mckendrick.io docker[11245]: time=\"2015-06-28T15:11:16.118876114+01:00\" level=info ...te\"\r\nJun 28 15:11:16 server.mckendrick.io docker[11245]: time=\"2015-06-28T15:11:16.119542513+01:00\" level=error...t)\"\r\nJun 28 15:11:16 server.mckendrick.io docker[11245]: time=\"2015-06-28T15:11:16.119576223+01:00\" level=error...404\r\nJun 28 15:11:16 server.mckendrick.io docker[11245]: time=\"2015-06-28T15:11:16.121205232+01:00\" level=info ...st\"\r\nJun 28 15:11:18 server.mckendrick.io docker[11245]: time=\"2015-06-28T15:11:18.404327848+01:00\" level=info ...ed\"\r\nJun 28 15:11:19 server.mckendrick.io docker[11245]: time=\"2015-06-28T15:11:19.110667788+01:00\" level=info ...te\"\r\nJun 28 15:11:19 server.mckendrick.io docker[11245]: time=\"2015-06-28T15:11:19.245380498+01:00\" level=info ...=1\"\r\nJun 28 15:11:19 server.mckendrick.io docker[11245]: time=\"2015-06-28T15:11:19.248007850+01:00\" level=info ...rt\"\r\nJun 28 15:11:19 server.mckendrick.io docker[11245]: time=\"2015-06-28T15:11:19.527023616+01:00\" level=info ...it\"\r\nHint: Some lines were ellipsized, use -l to show in full.\r\n\r\n======================================================================================\r\n\u001b]0;root@server:~\u0007[root@server ~]# "
+    ],
+    [
+      6.119979,
+      "yum list installed | grep docker"
+    ],
+    [
+      0.472789,
+      "\r\n"
+    ],
+    [
+      0.802793,
+      "\u001b[01;31m\u001b[Kdocker\u001b[m\u001b[K-engine.x86_64              1.7.0-1.el7.centos                  @/\u001b[01;31m\u001b[Kdocker\u001b[m\u001b[K-engine-1.7.0-1.el7.centos.x86_64\r\n"
+    ],
+    [
+      0.113366,
+      "\u001b]0;root@server:~\u0007[root@server ~]# "
+    ],
+    [
+      3.555983,
+      "exit\r\n"
+    ]
+  ]
+}
