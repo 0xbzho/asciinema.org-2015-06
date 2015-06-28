@@ -1,0 +1,1334 @@
+{
+  "version": 1,
+  "width": 82,
+  "height": 23,
+  "duration": 119.712363,
+  "command": "/bin/ash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/ash"
+  },
+  "stdout": [
+    [
+      0.003833,
+      "localhost:~# \u001b[6n\rlocalhost:~# \u001b[J"
+    ],
+    [
+      1.996053,
+      "."
+    ],
+    [
+      0.101653,
+      "/"
+    ],
+    [
+      0.320588,
+      "s"
+    ],
+    [
+      0.163595,
+      "e"
+    ],
+    [
+      0.216295,
+      "t"
+    ],
+    [
+      0.280812,
+      "u"
+    ],
+    [
+      0.081892,
+      "p"
+    ],
+    [
+      0.479182,
+      "-"
+    ],
+    [
+      0.239516,
+      "p"
+    ],
+    [
+      0.238162,
+      "a"
+    ],
+    [
+      0.243147,
+      "r"
+    ],
+    [
+      0.193589,
+      "t"
+    ],
+    [
+      0.218062,
+      "i"
+    ],
+    [
+      0.163789,
+      "t"
+    ],
+    [
+      0.098114,
+      "i"
+    ],
+    [
+      0.175249,
+      "o"
+    ],
+    [
+      0.181624,
+      "n"
+    ],
+    [
+      0.163918,
+      "s"
+    ],
+    [
+      0.552401,
+      "\r\n"
+    ],
+    [
+      0.005397,
+      "\u001b[H\u001b[J"
+    ],
+    [
+      0.000498,
+      "\u001b[1;4mAlpine Linux Custom Installation:"
+    ],
+    [
+      0.000069,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "\u001b[0m"
+    ],
+    [
+      0.036068,
+      "\u001b[4mNAME       SIZE       VENDOR     LABEL\u001b[0m "
+    ],
+    [
+      0.000339,
+      "\r\n"
+    ],
+    [
+      0.244815,
+      "vda        2G         0x1af4               "
+    ],
+    [
+      0.000351,
+      "\r\n"
+    ],
+    [
+      0.000303,
+      "vdb        2G         0x1af4               "
+    ],
+    [
+      0.000183,
+      "\r\n"
+    ],
+    [
+      0.000929,
+      "\r\n"
+    ],
+    [
+      0.000198,
+      "\u001b[4mChoose Disk [ vda ]\u001b[0m"
+    ],
+    [
+      0.000980,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.006026,
+      "\u001b[1A\u001b[K"
+    ],
+    [
+      0.000282,
+      "\u001b[1;32m\u003e\u003e\u003e\u001b[37m[ vda vdb ]: \u001b[0m"
+    ],
+    [
+      1.125492,
+      "\r\n"
+    ],
+    [
+      0.289178,
+      "\r\n"
+    ],
+    [
+      0.000390,
+      "\u001b[4mChoose Partition Scheme [ gpt ]\u001b[0m"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.000253,
+      "\r\n"
+    ],
+    [
+      0.006267,
+      "\u001b[1A\u001b[K"
+    ],
+    [
+      0.000357,
+      "\u001b[1;32m\u003e\u003e\u003e\u001b[37m[ m(br) | g(pt) ]: \u001b[0m"
+    ],
+    [
+      0.611665,
+      "\r\n"
+    ],
+    [
+      0.002340,
+      "\r\n"
+    ],
+    [
+      0.000405,
+      "\u001b[4mChoose Disk Layout [ none ]\u001b[0m"
+    ],
+    [
+      0.000368,
+      "\r\n"
+    ],
+    [
+      0.000270,
+      "\r\n"
+    ],
+    [
+      0.006294,
+      "\u001b[1A\u001b[K"
+    ],
+    [
+      0.000334,
+      "\u001b[1;32m\u003e\u003e\u003e\u001b[37m[ l(vm) | b(oot) | none ]: \u001b[0m"
+    ],
+    [
+      0.784994,
+      "\r\n"
+    ],
+    [
+      0.014864,
+      "\u001b[?1049h\u001b[1;23r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.011964,
+      "Partition table scan:\n  MBR: protective\n  BSD: not present\n  APM: not present\n  GPT: present\n\nFound valid GPT with protective MBR; using GPT.\n\nNo problems found. 2014 free sectors (1007.0 KiB) available in 1\nsegments, the largest of which is 2014 (1007.0 KiB) in size.\n\u001b[H\u001b[2J\u001b[1;36Hcgdisk 1.0.0\u001b[3;32HDisk Drive: /dev/vda\u001b[4;31HSize: 4194304, 2.0 GiB\r\u001b[6dPart. #     Size\u001b[6;25HPartition Type\u001b[6;51HPartition Name\r\u001b[7d----------------------------------------------------------------\u001b[8;13H\u001b(B\u001b[0;7m1007.0 KiB\u001b(B\u001b[m  \u001b(B\u001b[0;7mfree space\u001b[9;4H\u001b(B\u001b[m1\u001b[9;13H2.0 MiB     BIOS boot partition\u001b[10;4H2\u001b[10;13H100.0 MiB   EFI System\u001b[11;4H3\u001b[11;13H500.0 MiB   Linux filesystem\u001b[11;51Hroot\u001b[12;4H4\u001b[12;13H256.0 MiB   Linux swap\u001b[12;51Hswap\u001b[13;4H5\u001b[13;13H800.0 MiB   Linux filesystem\u001b[13;51Hvar\u001b[14;4H6\u001b[14;13H389.0 MiB   Linux filesystem\u001b[14;51Htmp\u001b[20;5H[ Align  ]  [ Backup ]  [  Help  ]  [  Load  ]  \u001b(B\u001b[0;7m[  New   ]\u001b(B\u001b[m  [  Quit  ]\u001b[21;5H[ Verify ]  [ Write  ]\u001b[23;24HCreate new partition from free space\r\u001b[18d"
+    ],
+    [
+      1.340281,
+      "\u001b[H\u001b[2J\u001b[1;36Hcgdisk 1.0.0\u001b[3;32HDisk Drive: /dev/vda\u001b[4;31HSize: 4194304, 2.0 GiB\r\u001b[6dPart. #     Size\u001b[6;25HPartition Type\u001b[6;51HPartition Name\r\u001b[7d----------------------------------------------------------------\u001b[8;13H\u001b(B\u001b[0;7m1007.0 KiB\u001b(B\u001b[m  \u001b(B\u001b[0;7mfree space\u001b[9;4H\u001b(B\u001b[m1\u001b[9;13H2.0 MiB     BIOS boot partition\u001b[10;4H2\u001b[10;13H100.0 MiB   EFI System\u001b[11;4H3\u001b[11;13H500.0 MiB   Linux filesystem\u001b[11;51Hroot\u001b[12;4H4\u001b[12;13H256.0 MiB   Linux swap\u001b[12;51Hswap\u001b[13;4H5\u001b[13;13H800.0 MiB   Linux filesystem\u001b[13;51Hvar\u001b[14;4H6\u001b[14;13H389.0 MiB   Linux filesystem\u001b[14;51Htmp\u001b[20;5H[ Align  ]  [ Backup ]  [  Help  ]  [  Load  ]  \u001b(B\u001b[0;7m[  New   ]\u001b(B\u001b[m  [  Quit  ]\u001b[21;5H[ Verify ]  [ Write  ]\u001b[23;24HCreate new partition from free space\r\u001b[18d"
+    ],
+    [
+      0.006013,
+      "\u001b[23;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.305594,
+      "\u001b[H\u001b[J"
+    ],
+    [
+      0.186136,
+      "\u001b[1;4mAlpine Linux Custom Installation:"
+    ],
+    [
+      0.000328,
+      "\r\n"
+    ],
+    [
+      0.000326,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "\u001b[0m\u001b[1;4mNAME         TYPE     FSTYPE        MOUNT@      FORMAT@\u001b[0m         "
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "├─vda1    2M part     ext3          GPT-BIOS    ext3                "
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "├─vda2  100M part     ext2          ---         ---                 "
+    ],
+    [
+      0.000085,
+      "\r\n"
+    ],
+    [
+      0.000322,
+      "├─vda3  500M part     ext4          ---         ---                 "
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      0.000242,
+      "├─vda4  256M part     swap          swap        swap                "
+    ],
+    [
+      0.000273,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "├─vda5  800M part     ext4          ---         ---                 "
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "└─vda6  389M part     ---           ---         ---                 "
+    ],
+    [
+      0.000212,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "\u001b[4m Choose device to configure?              \u001b[0m\u001b[38;5;147m\u001b[1m [ q to Quit ]\u001b[0;00m"
+    ],
+    [
+      0.000247,
+      "\r\n"
+    ],
+    [
+      0.008472,
+      "\u001b[1;32m\u003e\u003e\u003e\u001b[37m[ vda1 ... vda6 ]: \u001b[0m"
+    ],
+    [
+      1.559529,
+      "v"
+    ],
+    [
+      0.227515,
+      "d"
+    ],
+    [
+      0.221523,
+      "a"
+    ],
+    [
+      0.407194,
+      "6"
+    ],
+    [
+      0.921346,
+      "\r\n"
+    ],
+    [
+      0.000413,
+      "\u001b[1A\u001b[K"
+    ],
+    [
+      0.039258,
+      "Create LUKS device on '/dev/vda6' ? [ y/N ] : "
+    ],
+    [
+      1.479118,
+      "y"
+    ],
+    [
+      0.981123,
+      "\r\n"
+    ],
+    [
+      0.026328,
+      "Wipe LUKS partition: '/dev/vda6' with random data? [ y/N ] : "
+    ],
+    [
+      1.696662,
+      "\r\n"
+    ],
+    [
+      0.000373,
+      "LUKS settings: -c aes-xts-plain64 -s 256 -h sha512 -i 5000 [ c to configure ] : "
+    ],
+    [
+      1.522453,
+      "c"
+    ],
+    [
+      1.236083,
+      "\r\n"
+    ],
+    [
+      0.002142,
+      "\u001b[?1049h\u001b[1;23r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000385,
+      "\u001b[?1000h"
+    ],
+    [
+      0.001257,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000759,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.001474,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[5;20H\u001b[1K \u001b[37m\u001b[47m+-----\u001b[34m\u001b[47mALPINE LINUX LUKS EDITOR\u001b[37m\u001b[47m--------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\u001b[6;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[37X\u001b[6;59H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[7;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m Choose LUKS Encryption Scheme:      |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[8;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +---------------------------------\u001b(B\u001b[0;1m\u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[9;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b(B\u001b[0;1m\u001b[31m\u001b[44mC\u001b[33m\u001b[44mipher\u001b(B\u001b[0m\u001b[30m\u001b[47m     \u001b(B\u001b[0;1m\u001b[37m\u001b[44maes\u001b(B\u001b[0m\u001b[30m\u001b[47m            \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[10;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mM\u001b(B\u001b[0;1m\u001b[34m\u001b[47mode\u001b(B\u001b[0m\u001b[30m\u001b[47m       xts            \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[11;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mI\u001b(B\u001b[0;1m\u001b[34m\u001b["
+    ],
+    [
+      0.000361,
+      "4"
+    ],
+    [
+      0.000714,
+      "7mV\u001b(B\u001b[0m\u001b[30m\u001b[47m         plain64        \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[12;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mK\u001b(B\u001b[0;1m\u001b[34m\u001b[47mey Size\u001b(B\u001b[0m\u001b[30m\u001b[47m   256            \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[13;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mH\u001b(B\u001b[0;1m\u001b[34m\u001b[47mash\u001b(B\u001b[0m\u001b[30m\u001b[47m       sha512         \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[14;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mI\u001b(B\u001b[0;1m\u001b[34m\u001b[47mter Time\u001b(B\u001b[0m\u001b[30m\u001b[47m  5000           \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[15;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +\u001b(B\u001b[0;1m\u001b[37m\u001b[47m---------------------------------+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[16;20H\u001b[1K \u001b[37m\u001b[47m+-------------------------------------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[17;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[37X\u001b[17;59H|\u001b(B\u001b["
+    ],
+    [
+      0.000123,
+      "0"
+    ],
+    [
+      0.000533,
+      ";1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[18;20H\u001b[1K \u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m-------------------------------------+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[19;22H\u001b[1K \u001b[30m\u001b[40m\u001b[39X\u001b[19;62H\u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b(B\u001b[0m\u001b[37m\u001b[40m Edit Cipher\u001b[K\u001b[15;58H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000496,
+      "\u001b[17;23H\u001b[30m\u001b[47m\u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47m   OK    \u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e \u001b(B\u001b[0;1m\u001b[37m\u001b[44m\u003c\u001b[33m\u001b[44m  Edit   \u001b[37m\u001b[44m\u003e\u001b(B\u001b[0m\u001b[30m\u001b[47m \u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47mBenchmark\u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e\u001b[17;38H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.695518,
+      "\r\u001b[5d\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[J\u001b[23;82H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000283,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000071,
+      "\u001b[23;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.005783,
+      "\u001b[?1049h\u001b[1;23r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000298,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000920,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000201,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000572,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[6;25H\u001b[1K \u001b[37m\u001b[47m+----------\u001b[34m\u001b[47mCIPHER\u001b[37m\u001b[47m------------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\u001b[7;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[28X\u001b[7;55H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[8;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m Choose LUKS Cipher:        |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[9;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +------------------------\u001b(B\u001b[0;1m\u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[10;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b(B\u001b[0;1m\u001b[31m\u001b[44ma\u001b[33m\u001b[44mes\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[14X\u001b[10;53H\u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[11;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mt\u001b(B\u001b[0;1m\u001b[34m\u001b[47mwofish\u001b(B\u001b[0m\u001b[30m\u001b[47m          \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[12;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47ms\u001b(B\u001b[0;1m\u001b[34m\u001b[47merpent\u001b(B\u001b[0m\u001b[30m\u001b[47m          \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b("
+    ],
+    [
+      0.000242,
+      "B"
+    ],
+    [
+      0.000605,
+      "\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[13;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +\u001b(B\u001b[0;1m\u001b[37m\u001b[47m------------------------+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[14;25H\u001b[1K \u001b[37m\u001b[47m+----------------------------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[15;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[28X\u001b[15;55H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[16;25H\u001b[1K \u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m----------------------------+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[17;27H\u001b[1K \u001b[30m\u001b[40m\u001b[30X\u001b[17;58H\u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b(B\u001b[0m\u001b[37m\u001b[40m LUKS default \u0026 fastest if your hardware supports AES-NI ('grep aes /proc/cpuinfo\u001b[K\u001b[13;54H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000356,
+      "\u001b[15;30H\u001b(B\u001b[0;1m\u001b[37m\u001b[44m\u003c\u001b[33m\u001b[44m  OK  \u001b[37m\u001b[44m\u003e\u001b(B\u001b[0m\u001b[30m\u001b[47m  \u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47mCancel\u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e\u001b[15;33H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.061316,
+      "\u001b[10;36H\u001b[31m\u001b[47ma\u001b(B\u001b[0;1m\u001b[34m\u001b[47mes\n\u0008\u0008\u0008\u001b[31m\u001b[44mt\u001b[33m\u001b[44mwofish\u001b[23;2H\u001b(B\u001b[0m\u001b[37m\u001b[40mRecommended by Gentoo.\u001b[K\u001b[15;33H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.127242,
+      "\u001b[11;36H\u001b[31m\u001b[47mt\u001b(B\u001b[0;1m\u001b[34m\u001b[47mwofish\u001b[12;36H\u001b[31m\u001b[44ms\u001b[33m\u001b[44merpent\u001b[23;2H\u001b(B\u001b[0m\u001b[37m\u001b[40mMost secure but also the slowest.\u001b[15;33H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.130900,
+      "\u001b[11;36H\u001b(B\u001b[0;1m\u001b[31m\u001b[44mt\u001b[33m\u001b[44mwofish\u001b[12;36H\u001b(B\u001b[0m\u001b[31m\u001b[47ms\u001b(B\u001b[0;1m\u001b[34m\u001b[47merpent\u001b[23;2H\u001b(B\u001b[0m\u001b[37m\u001b[40mRecommended by Gentoo.\u001b[K\u001b[15;33H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.507020,
+      "\u001b[23;82H"
+    ],
+    [
+      0.000270,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000075,
+      "\u001b[23;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002317,
+      "\u001b[?1049h\u001b[1;23r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000466,
+      "\u001b[?1000h"
+    ],
+    [
+      0.001004,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000633,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000898,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[5;20H\u001b[1K \u001b[37m\u001b[47m+-----\u001b[34m\u001b[47mALPINE LINUX LUKS EDITOR\u001b[37m\u001b[47m--------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\u001b[6;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[37X\u001b[6;59H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[7;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m Choose LUKS Encryption Scheme:      |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[8;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +---------------------------------\u001b(B\u001b[0;1m\u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[9;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b(B\u001b[0;1m\u001b[31m\u001b[44mC\u001b[33m\u001b[44mipher\u001b(B\u001b[0m\u001b[30m\u001b[47m     \u001b(B\u001b[0;1m\u001b[37m\u001b[44mtwofish\u001b(B\u001b[0m\u001b[30m\u001b[47m        \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[10;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mM\u001b(B\u001b[0;1m\u001b[34m\u001b[47mode\u001b(B\u001b[0m\u001b[30m\u001b[47m       xts            \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[11;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mI\u001b(B\u001b[0;1m\u001b[34m\u001b["
+    ],
+    [
+      0.000302,
+      "4"
+    ],
+    [
+      0.000523,
+      "7mV\u001b(B\u001b[0m\u001b[30m\u001b[47m         plain64        \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[12;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mK\u001b(B\u001b[0;1m\u001b[34m\u001b[47mey Size\u001b(B\u001b[0m\u001b[30m\u001b[47m   256            \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[13;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mH\u001b(B\u001b[0;1m\u001b[34m\u001b[47mash\u001b(B\u001b[0m\u001b[30m\u001b[47m       sha512         \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[14;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mI\u001b(B\u001b[0;1m\u001b[34m\u001b[47mter Time\u001b(B\u001b[0m\u001b[30m\u001b[47m  5000           \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[15;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +\u001b(B\u001b[0;1m\u001b[37m\u001b[47m---------------------------------+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[16;20H\u001b[1K \u001b[37m\u001b[47m+-------------------------------------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[17;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[37X\u001b[17;59H|\u001b(B\u001b["
+    ],
+    [
+      0.000289,
+      "0"
+    ],
+    [
+      0.000224,
+      ";1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[18;20H\u001b[1K \u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m-------------------------------------+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[19;22H\u001b[1K \u001b[30m\u001b[40m\u001b[39X\u001b[19;62H\u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b(B\u001b[0m\u001b[37m\u001b[40m Edit Cipher\u001b[K\u001b[15;58H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000176,
+      "\u001b[17;23H\u001b[30m\u001b[47m\u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47m   OK    \u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e \u001b(B\u001b[0;1m\u001b[37m\u001b[44m\u003c\u001b[33m\u001b[44m  Edit   \u001b[37m\u001b[44m\u003e\u001b(B\u001b[0m\u001b[30m\u001b[47m \u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47mBenchmark\u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e\u001b[17;38H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.115523,
+      "\u001b[9;31H\u001b[31m\u001b[47mC\u001b(B\u001b[0;1m\u001b[34m\u001b[47mipher\u001b(B\u001b[0m\u001b[30m\u001b[47m     twofish\u001b[10;31H\u001b(B\u001b[0;1m\u001b[31m\u001b[44mM\u001b[33m\u001b[44mode\u001b[42G\u001b[37m\u001b[44mxts\u001b[23;7H\u001b(B\u001b[0m\u001b[37m\u001b[40mEncryption Mode\u001b[17;38H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.165657,
+      "\r\u001b[5d\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[J\u001b[23;82H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000113,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000179,
+      "\u001b[23;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.005545,
+      "\u001b[?1049h\u001b[1;23r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000634,
+      "\u001b[?1000h"
+    ],
+    [
+      0.001058,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000431,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000814,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[6;25H\u001b[1K \u001b[37m\u001b[47m+-------\u001b[34m\u001b[47mCIPHER MODE\u001b[37m\u001b[47m----------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\u001b[7;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[28X\u001b[7;55H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[8;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m Choose LUKS Cipher Mode:   |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[9;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +------------------------\u001b(B\u001b[0;1m\u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[10;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |         \u001b[31m\u001b[47mc\u001b(B\u001b[0;1m\u001b[34m\u001b[47mbc\u001b(B\u001b[0m\u001b[30m\u001b[47m            \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[11;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |         \u001b(B\u001b[0;1m\u001b[31m\u001b[44mx\u001b[33m\u001b[44mts\u001b(B\u001b[0m\u001b[30m\u001b[47m            \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[12;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |         \u001b[31m\u001b[47mc\u001b(B\u001b[0;1m\u001b[34m\u001b[47mtr\u001b(B\u001b[0m\u001b[30m\u001b[47m            \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b"
+    ],
+    [
+      0.000235,
+      "("
+    ],
+    [
+      0.000485,
+      "B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[13;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +\u001b(B\u001b[0;1m\u001b[37m\u001b[47m------------------------+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[14;25H\u001b[1K \u001b[37m\u001b[47m+----------------------------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[15;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[28X\u001b[15;55H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[16;25H\u001b[1K \u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m----------------------------+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[17;27H\u001b[1K \u001b[30m\u001b[40m\u001b[30X\u001b[17;58H\u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b(B\u001b[0m\u001b[37m\u001b[40m LUKS default: recommended mode \u0026 potentially more secure than cbc-essiv.\u001b[K\u001b[13;54H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000582,
+      "\u001b[15;30H\u001b(B\u001b[0;1m\u001b[37m\u001b[44m\u003c\u001b[33m\u001b[44m  OK  \u001b[37m\u001b[44m\u003e\u001b(B\u001b[0m\u001b[30m\u001b[47m  \u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47mCancel\u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e\u001b[15;33H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.380065,
+      "\u001b[10;38H\u001b(B\u001b[0;1m\u001b[31m\u001b[44mc\u001b[33m\u001b[44mbc\n\u0008\u0008\u0008\u001b(B\u001b[0m\u001b[31m\u001b[47mx\u001b(B\u001b[0;1m\u001b[34m\u001b[47mts\u001b[23;2H\u001b(B\u001b[0m\u001b[37m\u001b[40mDo NOT use with 'plain' or 'plain64' IV's.\u001b[K\u001b[15;33H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.246923,
+      "\u001b[10;38H\u001b[31m\u001b[47mc\u001b(B\u001b[0;1m\u001b[34m\u001b[47mbc\n\u0008\u0008\u0008\u001b[31m\u001b[44mx\u001b[33m\u001b[44mts\u001b[23;2H\u001b(B\u001b[0m\u001b[37m\u001b[40mLUKS default: recommended mode \u0026 potentially more secure than cbc-essiv.\u001b[15;33H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.978838,
+      "\u001b[11;38H\u001b[31m\u001b[47mx\u001b(B\u001b[0;1m\u001b[34m\u001b[47mts\n\u0008\u0008\u0008\u001b[31m\u001b[44mc\u001b[33m\u001b[44mtr\u001b[23;2H\u001b(B\u001b[0m\u001b[37m\u001b[40mCounter Mode: stream cipher suited to multi-processor systems.\u001b[K\u001b[15;33H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.537631,
+      "\u001b[11;38H\u001b(B\u001b[0;1m\u001b[31m\u001b[44mx\u001b[33m\u001b[44mts\n\u0008\u0008\u0008\u001b(B\u001b[0m\u001b[31m\u001b[47mc\u001b(B\u001b[0;1m\u001b[34m\u001b[47mtr\u001b[23;2H\u001b(B\u001b[0m\u001b[37m\u001b[40mLUKS default: recommended mode \u0026 potentially more secure than cbc-essiv.\u001b[15;33H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.020125,
+      "\u001b[23;82H"
+    ],
+    [
+      0.000218,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000058,
+      "\u001b[23;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001690,
+      "\u001b[?1049h\u001b[1;23r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000255,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000560,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000794,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000930,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[5;20H\u001b[1K \u001b[37m\u001b[47m+-----\u001b[34m\u001b[47mALPINE LINUX LUKS EDITOR\u001b[37m\u001b[47m--------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\u001b[6;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[37X\u001b[6;59H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[7;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m Choose LUKS Encryption Scheme:      |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[8;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +---------------------------------\u001b(B\u001b[0;1m\u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[9;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mC\u001b(B\u001b[0;1m\u001b[34m\u001b[47mipher\u001b(B\u001b[0m\u001b[30m\u001b[47m     twofish        \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[10;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b(B\u001b[0;1m\u001b[31m\u001b[44mM\u001b[33m\u001b[44mode\u001b(B\u001b[0m\u001b[30m\u001b[47m       \u001b(B\u001b[0;1m\u001b[37m\u001b[44mxts\u001b(B\u001b[0m\u001b[30m\u001b[47m            \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[11;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mI\u001b(B\u001b[0;1m\u001b[34m\u001b["
+    ],
+    [
+      0.000078,
+      "4"
+    ],
+    [
+      0.000340,
+      "7mV\u001b(B\u001b[0m\u001b[30m\u001b[47m         plain64        \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[12;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mK\u001b(B\u001b[0;1m\u001b[34m\u001b[47mey Size\u001b(B\u001b[0m\u001b[30m\u001b[47m   256            \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[13;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mH\u001b(B\u001b[0;1m\u001b[34m\u001b[47mash\u001b(B\u001b[0m\u001b[30m\u001b[47m       sha512         \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[14;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mI\u001b(B\u001b[0;1m\u001b[34m\u001b[47mter Time\u001b(B\u001b[0m\u001b[30m\u001b[47m  5000           \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[15;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +\u001b(B\u001b[0;1m\u001b[37m\u001b[47m---------------------------------+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[16;20H\u001b[1K \u001b[37m\u001b[47m+-------------------------------------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[17;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[37X\u001b[17;59H|\u001b(B\u001b["
+    ],
+    [
+      0.000061,
+      "0"
+    ],
+    [
+      0.000305,
+      ";1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[18;20H\u001b[1K \u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m-------------------------------------+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[19;22H\u001b[1K \u001b[30m\u001b[40m\u001b[39X\u001b[19;62H\u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b(B\u001b[0m\u001b[37m\u001b[40m Edit Encryption Mode\u001b[K\u001b[15;58H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000159,
+      "\u001b[17;23H\u001b[30m\u001b[47m\u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47m   OK    \u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e \u001b(B\u001b[0;1m\u001b[37m\u001b[44m\u003c\u001b[33m\u001b[44m  Edit   \u001b[37m\u001b[44m\u003e\u001b(B\u001b[0m\u001b[30m\u001b[47m \u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47mBenchmark\u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e\u001b[17;38H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.046666,
+      "\u001b[10;31H\u001b[31m\u001b[47mM\u001b(B\u001b[0;1m\u001b[34m\u001b[47mode\u001b[42G\u001b(B\u001b[0m\u001b[30m\u001b[47mxts\u001b[11;31H\u001b(B\u001b[0;1m\u001b[31m\u001b[44mI\u001b[33m\u001b[44mV\u001b[11;42H\u001b[37m\u001b[44mplain64\u001b[23;7H\u001b(B\u001b[0m\u001b[37m\u001b[40mInitialization Vector\u001b[17;38H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.680832,
+      "\r\u001b[5d\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[J\u001b[23;82H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.002927,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000230,
+      "\u001b[23;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.004913,
+      "\u001b[?1049h\u001b[1;23r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000439,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000677,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000257,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000564,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[6;22H\u001b[1K \u001b[37m\u001b[47m+--------------\u001b[34m\u001b[47mIV\u001b[37m\u001b[47m-----------------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\u001b[7;22H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[33X\u001b[7;57H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[8;22H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m Choose Initialization Vector:   |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[9;22H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +-----------------------------\u001b(B\u001b[0;1m\u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[10;22H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47me\u001b(B\u001b[0;1m\u001b[34m\u001b[47mssiv:sha256\u001b(B\u001b[0m\u001b[30m\u001b[47m          \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[11;22H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b(B\u001b[0;1m\u001b[31m\u001b[44mp\u001b[33m\u001b[44mlain64\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[15X\u001b[11;55H\u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[12;22H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mp\u001b(B\u001b[0;1m\u001b[34m\u001b[47mlain\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[17X\u001b[12;55H\u001b(B\u001b[0;1m\u001b[37m\u001b["
+    ],
+    [
+      0.000163,
+      "4"
+    ],
+    [
+      0.000483,
+      "7m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[13;22H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47mp\u001b(B\u001b[0;1m\u001b[34m\u001b[47mlain:wd256\u001b(B\u001b[0m\u001b[30m\u001b[47m           \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[14;22H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +\u001b(B\u001b[0;1m\u001b[37m\u001b[47m-----------------------------+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[15;22H\u001b[1K \u001b[37m\u001b[47m+---------------------------------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[16;22H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[33X\u001b[16;57H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[17;22H\u001b[1K \u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m---------------------------------+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[18;24H\u001b[1K \u001b[30m\u001b[40m\u001b[35X\u001b[18;60H\u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b(B\u001b[0m\u001b[37m\u001b[40m LUKS default IV - no performance penalty compared to 'plain'\u001b[K\u001b[14;56H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000318,
+      "\u001b[16;29H\u001b(B\u001b[0;1m\u001b[37m\u001b[44m\u003c\u001b[33m\u001b[44m  OK  \u001b[37m\u001b[44m\u003e\u001b(B\u001b[0m\u001b[30m\u001b[47m   \u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47mCancel\u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e\u001b[16;32H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.381814,
+      "\u001b[10;33H\u001b(B\u001b[0;1m\u001b[31m\u001b[44me\u001b[33m\u001b[44mssiv:sha256\u001b[11;33H\u001b(B\u001b[0m\u001b[31m\u001b[47mp\u001b(B\u001b[0;1m\u001b[34m\u001b[47mlain64\u001b[23;2H\u001b(B\u001b[0m\u001b[37m\u001b[40mThe **only** IV recommended for 'cbc' mode.\u001b[K\u001b[16;32H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.348922,
+      "\u001b[10;33H\u001b[31m\u001b[47me\u001b(B\u001b[0;1m\u001b[34m\u001b[47mssiv:sha256\u001b[11;33H\u001b[31m\u001b[44mp\u001b[33m\u001b[44mlain64\u001b[23;2H\u001b(B\u001b[0m\u001b[37m\u001b[40mLUKS default IV - no performance penalty compared to 'plain'\u001b[16;32H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.388004,
+      "\u001b[11;33H\u001b[31m\u001b[47mp\u001b(B\u001b[0;1m\u001b[34m\u001b[47mlain64\u001b[12;33H\u001b[31m\u001b[44mp\u001b[33m\u001b[44mlain\u001b[23;2H\u001b(B\u001b[0m\u001b[37m\u001b[40m32 bit - do NOT use on disks \u003e 2TiB\u001b[K\u001b[16;32H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.354457,
+      "\u001b[12;33H\u001b[31m\u001b[47mp\u001b(B\u001b[0;1m\u001b[34m\u001b[47mlain\n\u001b[33G\u001b[31m\u001b[44mp\u001b[33m\u001b[44mlain:wd256\u001b[23;2H\u001b(B\u001b[0m\u001b[37m\u001b[40mRecommended by Gentoo with 'twofish-xts'\u001b[16;32H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.724042,
+      "\u001b[23;82H"
+    ],
+    [
+      0.000216,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000059,
+      "\u001b[23;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002335,
+      "\u001b[?1049h\u001b[1;23r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000441,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000830,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000315,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000838,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[5;20H\u001b[1K \u001b[37m\u001b[47m+-----\u001b[34m\u001b[47mALPINE LINUX LUKS EDITOR\u001b[37m\u001b[47m--------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\u001b[6;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[37X\u001b[6;59H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[7;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m Choose LUKS Encryption Scheme:      |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[8;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +---------------------------------\u001b(B\u001b[0;1m\u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[9;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b[31m\u001b[47mC\u001b(B\u001b[0;1m\u001b[34m\u001b[47mipher\u001b(B\u001b[0m\u001b[30m\u001b[47m     twofish          \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[10;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b[31m\u001b[47mM\u001b(B\u001b[0;1m\u001b[34m\u001b[47mode\u001b(B\u001b[0m\u001b[30m\u001b[47m       xts\u001b[14X\u001b[10;57H\u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[11;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b(B\u001b[0;1m\u001b[31m\u001b[44mI\u001b[33m\u001b[44mV\u001b(B\u001b[0m\u001b[30m\u001b[47m         \u001b(B\u001b[0;1m"
+    ],
+    [
+      0.000208,
+      "\u001b"
+    ],
+    [
+      0.000629,
+      "[37m\u001b[44mplain:wd256\u001b(B\u001b[0m\u001b[30m\u001b[47m      \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[12;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b[31m\u001b[47mK\u001b(B\u001b[0;1m\u001b[34m\u001b[47mey Size\u001b(B\u001b[0m\u001b[30m\u001b[47m   256\u001b[14X\u001b[12;57H\u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[13;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b[31m\u001b[47mH\u001b(B\u001b[0;1m\u001b[34m\u001b[47mash\u001b(B\u001b[0m\u001b[30m\u001b[47m       sha512           \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[14;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b[31m\u001b[47mI\u001b(B\u001b[0;1m\u001b[34m\u001b[47mter Time\u001b(B\u001b[0m\u001b[30m\u001b[47m  5000             \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[15;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +\u001b(B\u001b[0;1m\u001b[37m\u001b[47m---------------------------------+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[16;20H\u001b[1K \u001b[37m\u001b[47m+-------------------------------------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[17;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[37X\u001b[17;59H|\u001b(B\u001b[0;"
+    ],
+    [
+      0.000264,
+      "1"
+    ],
+    [
+      0.000570,
+      "m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[18;20H\u001b[1K \u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m-------------------------------------+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[19;22H\u001b[1K \u001b[30m\u001b[40m\u001b[39X\u001b[19;62H\u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b(B\u001b[0m\u001b[37m\u001b[40m Edit Initialization Vector\u001b[K\u001b[15;58H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000769,
+      "\u001b[17;23H\u001b[30m\u001b[47m\u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47m   OK    \u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e \u001b(B\u001b[0;1m\u001b[37m\u001b[44m\u003c\u001b[33m\u001b[44m  Edit   \u001b[37m\u001b[44m\u003e\u001b(B\u001b[0m\u001b[30m\u001b[47m \u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47mBenchmark\u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e\u001b[17;38H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.869201,
+      "\u001b[11;29H\u001b[31m\u001b[47mI\u001b(B\u001b[0;1m\u001b[34m\u001b[47mV\u001b[11;40H\u001b(B\u001b[0m\u001b[30m\u001b[47mplain:wd256\u001b[12;29H\u001b(B\u001b[0;1m\u001b[31m\u001b[44mK\u001b[33m\u001b[44mey Size\u001b(B\u001b[0m\u001b[30m\u001b[47m   \u001b(B\u001b[0;1m\u001b[37m\u001b[44m256\u001b[23;7H\u001b(B\u001b[0m\u001b[37m\u001b[40mKey Size\u001b[K\u001b[17;38H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.376398,
+      "\u001b[12;29H\u001b[31m\u001b[47mK\u001b(B\u001b[0;1m\u001b[34m\u001b[47mey Size\u001b(B\u001b[0m\u001b[30m\u001b[47m   256\u001b[13;29H\u001b(B\u001b[0;1m\u001b[31m\u001b[44mH\u001b[33m\u001b[44mash\u001b[40G\u001b[37m\u001b[44msha512\u001b[23;7H\u001b(B\u001b[0m\u001b[37m\u001b[40mEncryption Hash\u001b[17;38H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.733161,
+      "\u0008\u0008\u0008\u001b[30m\u001b[47m\u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47m  Edit   \u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e \u001b(B\u001b[0;1m\u001b[37m\u001b[44m\u003c\u001b[33m\u001b[44mBenchmark\u001b[37m\u001b[44m\u003e\u001b[17;48H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.995081,
+      "\r\u001b[5d\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[J\u001b[23;82H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000283,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000072,
+      "\u001b[23;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002875,
+      "\u001b[?1049h\u001b[1;23r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000542,
+      "\u001b[?1000h"
+    ],
+    [
+      0.001306,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000791,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000792,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[1;9H\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[1K \u001b[37m\u001b[47m+-------------------\u001b[34m\u001b[47mCryptsetup Benchmark\u001b[37m\u001b[47m---------------------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\u001b[2;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[2;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[3;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m------------------------------------------------------------|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[4;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[4;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[5;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[5;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[6;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[6;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[7;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[7;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[8;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[8;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[9;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[9;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[10;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[10;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[11;9H\u001b[1K \u001b[37m\u001b"
+    ],
+    [
+      0.000215,
+      "["
+    ],
+    [
+      0.000714,
+      "47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[11;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[12;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[12;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[13;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[13;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[14;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[14;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[15;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[15;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[16;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[16;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[17;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[17;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[18;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[18;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[19;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[19;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[20;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[20;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[21;9H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[60X\u001b[21;71H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[22;9H\u001b[1K \u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m-----------------------------------"
+    ],
+    [
+      0.000199,
+      "-"
+    ],
+    [
+      0.000542,
+      "------------------------+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[23;11H\u001b[1K \u001b[30m\u001b[40m\u001b[62X\u001b[23;74H\u001b[36m\u001b[44m\u001b[K\u001b[3;71H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.004339,
+      "\u001b[4;12H\u001b[30m\u001b[47m# Tests are approximate using memory only (no storage IO).\u001b[5;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.951717,
+      "\u001b[C\u001b[30m\u001b[47mPBKDF2-sha1\u001b[30G631672 iterations per second\u001b[6;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.619099,
+      "\u001b[C\u001b[30m\u001b[47mPBKDF2-sha256     517049 iterations per second\u001b[7;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.729389,
+      "\u001b[C\u001b[30m\u001b[47mPBKDF2-sha512     436906 iterations per second\u001b[8;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.634854,
+      "\u001b[C\u001b[30m\u001b[47mPBKDF2-ripemd160  501231 iterations per second\u001b[9;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.963200,
+      "\u001b[C\u001b[30m\u001b[47mPBKDF2-whirlpool  182806 iterations per second\u001b[10;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.001794,
+      "\u001b[C\u001b[30m\u001b[47m#  Algorithm | Key |  Encryption |  Decryption\u001b[11;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000395,
+      "\u001b[17G\u001b[30m\u001b[47maes-cbc   128b    89.0 MiB/s   106.0 MiB/s\u001b[12;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.022336,
+      "\u001b[13G\u001b[30m\u001b[47mserpent-cbc   128b    47.3 MiB/s   170.0 MiB/s\u001b[13;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.010057,
+      "\u001b[13G\u001b[30m\u001b[47mtwofish-cbc   128b   102.2 MiB/s   130.8 MiB/s\u001b[14;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.015877,
+      "\u001b[17G\u001b[30m\u001b[47maes-cbc   256b    70.3 MiB/s    81.7 MiB/s\u001b[15;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.015877,
+      "\u001b[13G\u001b[30m\u001b[47mserpent-cbc   256b    47.5 MiB/s   170.2 MiB/s\u001b[16;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.010159,
+      "\u001b[13G\u001b[30m\u001b[47mtwofish-cbc   256b   102.8 MiB/s   130.1 MiB/s\u001b[17;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.005466,
+      "\u001b[17G\u001b[30m\u001b[47maes-xts   256b   103.9 MiB/s   106.6 MiB/s\u001b[18;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.011973,
+      "\u001b[13G\u001b[30m\u001b[47mserpent-xts   256b   164.1 MiB/s   163.2 MiB/s\u001b[19;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.010061,
+      "\u001b[13G\u001b[30m\u001b[47mtwofish-xts   256b   127.5 MiB/s   128.4 MiB/s\u001b[20;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.020023,
+      "\u001b[17G\u001b[30m\u001b[47maes-xts   512b    78.5 MiB/s    81.1 MiB/s\u001b[21;11H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.007215,
+      "\u001b[13G\u001b[30m\u001b[47mserpent-xts   512b   161.6 MiB/s   163.5 MiB/s\u001b[21;70H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.008110,
+      "\u001b7\u001b[4;21r\u001b8\r\n\u001b[1;23r\u001b[21;9H\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m  twofish-xts   512b   126.6 MiB/s   127.5 MiB/s            |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u0008\u0008\u0008\u0008\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.001121,
+      "\u001b7\u001b[4;21r\u001b8\r\u001b[2S\u001b[1;23r\u001b[20;9H\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[1K \u001b[37m\u001b[47m|\u001b[20;71H\u001b(B\u001b[0m\u001b[30m\u001b[47m|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[21;9H\u001b[1K \u001b[37m\u001b[47m|\u001b[21;71H\u001b(B\u001b[0m\u001b[30m\u001b[47m|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u0008\u0008\u0008\u0008\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000486,
+      "\u001b[20;10H\u001b(B\u001b[0;1m\u001b[37m\u001b[47m+------------------------------------------------------------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b[21;11H\u001b[25X\u001b[21;36H\u001b(B\u001b[0;1m\u001b[37m\u001b[44m\u003c\u001b[33m\u001b[44m  \u001b[37m\u001b[44mO\u001b[33m\u001b[44mK  \u001b[37m\u001b[44m\u003e\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[27X\u001b[39G\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.318841,
+      "\u001b[23;73H"
+    ],
+    [
+      0.000287,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000085,
+      "\u001b[23;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002249,
+      "\u001b[?1049h\u001b[1;23r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000258,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000864,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000327,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000796,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[5;20H\u001b[1K \u001b[37m\u001b[47m+-----\u001b[34m\u001b[47mALPINE LINUX LUKS EDITOR\u001b[37m\u001b[47m--------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\u001b[6;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[37X\u001b[6;59H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[7;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m Choose LUKS Encryption Scheme:      |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[8;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +---------------------------------\u001b(B\u001b[0;1m\u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[9;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b(B\u001b[0;1m\u001b[31m\u001b[44mC\u001b[33m\u001b[44mipher\u001b(B\u001b[0m\u001b[30m\u001b[47m     \u001b(B\u001b[0;1m\u001b[37m\u001b[44mtwofish\u001b(B\u001b[0m\u001b[30m\u001b[47m          \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[10;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b[31m\u001b[47mM\u001b(B\u001b[0;1m\u001b[34m\u001b[47mode\u001b(B\u001b[0m\u001b[30m\u001b[47m       xts\u001b[14X\u001b[10;57H\u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[11;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b[31m\u001b[47mI\u001b(B\u001b[0;1m\u001b[34m\u001b[47m"
+    ],
+    [
+      0.000207,
+      "V"
+    ],
+    [
+      0.000501,
+      "\u001b(B\u001b[0m\u001b[30m\u001b[47m         plain:wd256      \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[12;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b[31m\u001b[47mK\u001b(B\u001b[0;1m\u001b[34m\u001b[47mey Size\u001b(B\u001b[0m\u001b[30m\u001b[47m   256\u001b[14X\u001b[12;57H\u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[13;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b[31m\u001b[47mH\u001b(B\u001b[0;1m\u001b[34m\u001b[47mash\u001b(B\u001b[0m\u001b[30m\u001b[47m       sha512           \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[14;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b[31m\u001b[47mI\u001b(B\u001b[0;1m\u001b[34m\u001b[47mter Time\u001b(B\u001b[0m\u001b[30m\u001b[47m  5000             \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[15;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +\u001b(B\u001b[0;1m\u001b[37m\u001b[47m---------------------------------+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[16;20H\u001b[1K \u001b[37m\u001b[47m+-------------------------------------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[17;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[37X\u001b[17;59H|\u001b(B\u001b[0;"
+    ],
+    [
+      0.000201,
+      "1"
+    ],
+    [
+      0.000634,
+      "m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[18;20H\u001b[1K \u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m-------------------------------------+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[19;22H\u001b[1K \u001b[30m\u001b[40m\u001b[39X\u001b[19;62H\u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b(B\u001b[0m\u001b[37m\u001b[40m Edit Cipher\u001b[K\u001b[15;58H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000421,
+      "\u001b[17;23H\u001b[30m\u001b[47m\u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47m   OK    \u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e \u001b(B\u001b[0;1m\u001b[37m\u001b[44m\u003c\u001b[33m\u001b[44m  Edit   \u001b[37m\u001b[44m\u003e\u001b(B\u001b[0m\u001b[30m\u001b[47m \u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47mBenchmark\u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e\u001b[17;38H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.843839,
+      "\r\u001b[5d\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[J\u001b[23;82H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000320,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000073,
+      "\u001b[23;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.005575,
+      "\u001b[?1049h\u001b[1;23r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000457,
+      "\u001b[?1000h"
+    ],
+    [
+      0.001798,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000260,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000585,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[6;25H\u001b[1K \u001b[37m\u001b[47m+----------\u001b[34m\u001b[47mCIPHER\u001b[37m\u001b[47m------------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\u001b[7;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[28X\u001b[7;55H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[8;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m Choose LUKS Cipher:        |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[9;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +------------------------\u001b(B\u001b[0;1m\u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[10;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47ma\u001b(B\u001b[0;1m\u001b[34m\u001b[47mes\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[14X\u001b[10;53H\u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[11;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b(B\u001b[0;1m\u001b[31m\u001b[44mt\u001b[33m\u001b[44mwofish\u001b(B\u001b[0m\u001b[30m\u001b[47m          \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[12;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |       \u001b[31m\u001b[47ms\u001b(B\u001b[0;1m\u001b[34m\u001b[47merpent\u001b(B\u001b[0m\u001b[30m\u001b[47m          \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b("
+    ],
+    [
+      0.000197,
+      "B"
+    ],
+    [
+      0.000300,
+      "\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[13;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +\u001b(B\u001b[0;1m\u001b[37m\u001b[47m------------------------+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[14;25H\u001b[1K \u001b[37m\u001b[47m+----------------------------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[15;25H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[28X\u001b[15;55H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[16;25H\u001b[1K \u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m----------------------------+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[17;27H\u001b[1K \u001b[30m\u001b[40m\u001b[30X\u001b[17;58H\u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b(B\u001b[0m\u001b[37m\u001b[40m Recommended by Gentoo.\u001b[K\u001b[13;54H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000163,
+      "\u001b[15;30H\u001b(B\u001b[0;1m\u001b[37m\u001b[44m\u003c\u001b[33m\u001b[44m  OK  \u001b[37m\u001b[44m\u003e\u001b(B\u001b[0m\u001b[30m\u001b[47m  \u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47mCancel\u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e\u001b[15;33H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.831783,
+      "\u001b[11;36H\u001b[31m\u001b[47mt\u001b(B\u001b[0;1m\u001b[34m\u001b[47mwofish\u001b[12;36H\u001b[31m\u001b[44ms\u001b[33m\u001b[44merpent\u001b[23;2H\u001b(B\u001b[0m\u001b[37m\u001b[40mMost secure but also the slowest.\u001b[15;33H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.176798,
+      "\u001b[23;82H"
+    ],
+    [
+      0.000144,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000199,
+      "\u001b[23;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002235,
+      "\u001b[?1049h\u001b[1;23r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000993,
+      "\u001b[?1000h"
+    ],
+    [
+      0.000974,
+      "\u001b[39;49m\u001b[?1h\u001b="
+    ],
+    [
+      0.000418,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000882,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[5;20H\u001b[1K \u001b[37m\u001b[47m+-----\u001b[34m\u001b[47mALPINE LINUX LUKS EDITOR\u001b[37m\u001b[47m--------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[K\u001b[6;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[37X\u001b[6;59H|\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[7;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m Choose LUKS Encryption Scheme:      |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[8;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +---------------------------------\u001b(B\u001b[0;1m\u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[9;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b(B\u001b[0;1m\u001b[31m\u001b[44mC\u001b[33m\u001b[44mipher\u001b(B\u001b[0m\u001b[30m\u001b[47m     \u001b(B\u001b[0;1m\u001b[37m\u001b[44mserpent\u001b(B\u001b[0m\u001b[30m\u001b[47m          \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[10;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b[31m\u001b[47mM\u001b(B\u001b[0;1m\u001b[34m\u001b[47mode\u001b(B\u001b[0m\u001b[30m\u001b[47m       xts\u001b[14X\u001b[10;57H\u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[11;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b[31m\u001b[47mI\u001b(B\u001b[0;1m\u001b[34m\u001b[47m"
+    ],
+    [
+      0.000225,
+      "V"
+    ],
+    [
+      0.000539,
+      "\u001b(B\u001b[0m\u001b[30m\u001b[47m         plain:wd256      \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[12;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b[31m\u001b[47mK\u001b(B\u001b[0;1m\u001b[34m\u001b[47mey Size\u001b(B\u001b[0m\u001b[30m\u001b[47m   256\u001b[14X\u001b[12;57H\u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[13;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b[31m\u001b[47mH\u001b(B\u001b[0;1m\u001b[34m\u001b[47mash\u001b(B\u001b[0m\u001b[30m\u001b[47m       sha512           \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[14;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |     \u001b[31m\u001b[47mI\u001b(B\u001b[0;1m\u001b[34m\u001b[47mter Time\u001b(B\u001b[0m\u001b[30m\u001b[47m  5000             \u001b(B\u001b[0;1m\u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[15;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m +\u001b(B\u001b[0;1m\u001b[37m\u001b[47m---------------------------------+\u001b(B\u001b[0m\u001b[30m\u001b[47m |\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[16;20H\u001b[1K \u001b[37m\u001b[47m+-------------------------------------\u001b(B\u001b[0m\u001b[30m\u001b[47m+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[17;20H\u001b[1K \u001b[37m\u001b[47m|\u001b(B\u001b[0m\u001b[30m\u001b[47m\u001b[37X\u001b[17;59H|\u001b(B\u001b[0;"
+    ],
+    [
+      0.000089,
+      "1"
+    ],
+    [
+      0.000149,
+      "m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[18;20H\u001b[1K \u001b[37m\u001b[47m+\u001b(B\u001b[0m\u001b[30m\u001b[47m-------------------------------------+\u001b(B\u001b[0;1m\u001b[30m\u001b[40m  \u001b[36m\u001b[44m\u001b[K\u001b[19;22H\u001b[1K \u001b[30m\u001b[40m\u001b[39X\u001b[19;62H\u001b[36m\u001b[44m\u001b[K\r\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b(B\u001b[0m\u001b[37m\u001b[40m Edit Cipher\u001b[K\u001b[15;58H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000614,
+      "\u001b[17;23H\u001b[30m\u001b[47m\u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47m   OK    \u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e \u001b(B\u001b[0;1m\u001b[37m\u001b[44m\u003c\u001b[33m\u001b[44m  Edit   \u001b[37m\u001b[44m\u003e\u001b(B\u001b[0m\u001b[30m\u001b[47m \u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47mBenchmark\u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e\u001b[17;38H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      2.185898,
+      "\u001b[17;23H\u001b(B\u001b[0;1m\u001b[37m\u001b[44m\u003c\u001b[33m\u001b[44m   OK    \u001b[37m\u001b[44m\u003e\u001b(B\u001b[0m\u001b[30m\u001b[47m \u003c\u001b(B\u001b[0;1m\u001b[30m\u001b[47m  Edit   \u001b(B\u001b[0m\u001b[30m\u001b[47m\u003e\u001b[17;27H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.708629,
+      "\r\u001b[5d\u001b(B\u001b[0;1m\u001b[36m\u001b[44m\u001b[J\u001b[23;82H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      0.000111,
+      "\u001b[?1000l"
+    ],
+    [
+      0.000054,
+      "\u001b[23;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001436,
+      "Creating crypt on /dev/vda6: -c serpent-xts-plain:wd256 -s 256 -h sha512 -i 5000 --use-random"
+    ],
+    [
+      0.000073,
+      "\r\n"
+    ],
+    [
+      0.004020,
+      "\r\n"
+    ],
+    [
+      0.000331,
+      "WARNING!"
+    ],
+    [
+      0.000083,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "========"
+    ],
+    [
+      0.000384,
+      "\r\n"
+    ],
+    [
+      0.000569,
+      "This will overwrite data on /dev/vda6 irrevocably."
+    ],
+    [
+      0.000359,
+      "\r\n"
+    ],
+    [
+      0.000252,
+      "\r\n"
+    ],
+    [
+      0.000224,
+      "Are you sure? (Type uppercase yes): "
+    ],
+    [
+      1.636473,
+      "Y"
+    ],
+    [
+      0.448416,
+      "E"
+    ],
+    [
+      0.200785,
+      "S"
+    ],
+    [
+      0.448347,
+      "\r\n"
+    ],
+    [
+      0.000552,
+      "Enter passphrase: "
+    ],
+    [
+      2.043731,
+      "\r\n"
+    ],
+    [
+      0.000405,
+      "Verify passphrase: "
+    ],
+    [
+      1.750484,
+      "\r\n"
+    ],
+    [
+      5.568828,
+      "Enter LUKS device mapper name: "
+    ],
+    [
+      1.804496,
+      "t"
+    ],
+    [
+      0.091754,
+      "m"
+    ],
+    [
+      0.197009,
+      "p"
+    ],
+    [
+      0.576480,
+      "\r\n"
+    ],
+    [
+      0.014088,
+      "Enter passphrase for /dev/vda6: "
+    ],
+    [
+      2.247461,
+      "\r\n"
+    ],
+    [
+      3.527741,
+      "Configure LVM on '/dev/mapper/tmp' ? [ y/N ] : "
+    ],
+    [
+      3.736759,
+      "\r\n"
+    ],
+    [
+      0.204753,
+      "\r\n"
+    ],
+    [
+      0.000348,
+      "Enter Mount point for /dev/mapper/tmp? [ /mnt/tmp ] : "
+    ],
+    [
+      1.144345,
+      "\r\n"
+    ],
+    [
+      0.088501,
+      "\r\n"
+    ],
+    [
+      0.000332,
+      "\u001b[4mSelect filesystem to create? [ ext4 ]: \u001b[0m"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.001926,
+      "\u001b[1;32m\u003e\u003e\u003e\u001b[37m[ ext2 ext3 ext4 swap btrfs none = n ]: \u001b[0m"
+    ],
+    [
+      1.165379,
+      "\r\n"
+    ],
+    [
+      0.000456,
+      "\u001b[1A\u001b[K"
+    ],
+    [
+      0.207660,
+      "\u001b[H\u001b[J"
+    ],
+    [
+      0.245254,
+      "\u001b[1;4mAlpine Linux Custom Installation:"
+    ],
+    [
+      0.000363,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "\u001b[0m\u001b[1;4mNAME          TYPE     FSTYPE         MOUNT@      FORMAT@\u001b[0m         "
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "├─vda1     2M part     ext3           GPT-BIOS    ext3                "
+    ],
+    [
+      0.000259,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "├─vda2   100M part     ext2           ---         ---                 "
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "├─vda3   500M part     ext4           ---         ---                 "
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.000316,
+      "├─vda4   256M part     swap           swap        swap                "
+    ],
+    [
+      0.000247,
+      "\r\n"
+    ],
+    [
+      0.000699,
+      "├─vda5   800M part     ext4           ---         ---                 "
+    ],
+    [
+      0.000303,
+      "\r\n"
+    ],
+    [
+      0.000176,
+      "└─vda6   389M part     crypto_LUKS    ---         ---                 "
+    ],
+    [
+      0.000253,
+      "\r\n"
+    ],
+    [
+      0.000259,
+      "  └─tmp  387M crypt    ---            /mnt/tmp    ext4                "
+    ],
+    [
+      0.000190,
+      "\r\n"
+    ],
+    [
+      0.000274,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[4m Choose device to configure?                \u001b[0m\u001b[38;5;147m\u001b[1m [ q to Quit ]\u001b[0;00m"
+    ],
+    [
+      0.000159,
+      "\r\n"
+    ],
+    [
+      0.007860,
+      "\u001b[1;32m\u003e\u003e\u003e\u001b[37m[ vda1 ... tmp ]: \u001b[0m"
+    ],
+    [
+      4.742729,
+      "^C"
+    ],
+    [
+      0.000929,
+      "\r\n"
+    ],
+    [
+      0.000517,
+      "localhost:~# "
+    ],
+    [
+      0.000299,
+      "\u001b[6n"
+    ]
+  ]
+}
