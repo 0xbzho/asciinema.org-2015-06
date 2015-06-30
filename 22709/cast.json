@@ -1,0 +1,410 @@
+{
+  "version": 1,
+  "width": 105,
+  "height": 28,
+  "duration": 28.360805,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "rxvt-unicode-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.069302,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                                                        \r \r\u001b]0;arch-satellite:~/projects/editor\u0007"
+    ],
+    [
+      0.000162,
+      "\r\u001b[m\u001b[27m\u001b[24m\u001b[Jphilip.\u001b[4march-satellite\u001b[24m\u003e "
+    ],
+    [
+      0.000013,
+      "\u001b[K\u001b[65C\u001b[35m~/projects/editor\u001b[00m\u0008\u001b[81D"
+    ],
+    [
+      0.917080,
+      "\u001b[H\u001b[2J\u001b[m\u001b[27m\u001b[24m\u001b[Jphilip.\u001b[4march-satellite\u001b[24m\u003e "
+    ],
+    [
+      0.000020,
+      "\u001b[K\u001b[65C\u001b[35m~/projects/editor\u001b[00m\u0008\u001b[81D"
+    ],
+    [
+      1.163440,
+      "c"
+    ],
+    [
+      0.268684,
+      "\u0008ca"
+    ],
+    [
+      0.082005,
+      "t"
+    ],
+    [
+      0.142453,
+      " "
+    ],
+    [
+      0.642665,
+      "R"
+    ],
+    [
+      0.086359,
+      "E"
+    ],
+    [
+      0.229916,
+      "ADME.md\u001b[1m \u001b[m"
+    ],
+    [
+      0.367396,
+      "\u0008\u001b[m \u0008"
+    ],
+    [
+      0.000009,
+      "\r\r\n"
+    ],
+    [
+      0.001362,
+      "\u001b]0;cat README.md\u0007"
+    ],
+    [
+      0.002893,
+      "# Some Editor\r\n\r\n## Ideas\r\n\r\nShould be an editor where key bindings are created from scratch by the\r\nusers.\r\n\r\nInteractive variable setting\r\n\r\n## Guide to using ncurses\r\n\r\n[guide](http://www.gnu.org/software/ncurses/ncurses-intro.html)\r\n"
+    ],
+    [
+      0.000694,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                                                        \r \r"
+    ],
+    [
+      0.000054,
+      "\u001b]0;arch-satellite:~/projects/editor\u0007"
+    ],
+    [
+      0.000104,
+      "\r\u001b[m\u001b[27m\u001b[24m\u001b[Jphilip.\u001b[4march-satellite\u001b[24m\u003e "
+    ],
+    [
+      0.000027,
+      "\u001b[K\u001b[65C\u001b[35m~/projects/editor\u001b[00m\u0008\u001b[81D"
+    ],
+    [
+      0.886266,
+      "c"
+    ],
+    [
+      0.132889,
+      "\u0008ca"
+    ],
+    [
+      0.096766,
+      "t"
+    ],
+    [
+      0.127353,
+      " "
+    ],
+    [
+      1.731401,
+      "s"
+    ],
+    [
+      0.071805,
+      "t"
+    ],
+    [
+      0.100402,
+      "a"
+    ],
+    [
+      0.103627,
+      "r"
+    ],
+    [
+      0.133043,
+      "t"
+    ],
+    [
+      0.111658,
+      "."
+    ],
+    [
+      0.158822,
+      "p"
+    ],
+    [
+      0.093640,
+      "y"
+    ],
+    [
+      0.818365,
+      "\u001b[12D"
+    ],
+    [
+      1.733534,
+      "\u001b[12C"
+    ],
+    [
+      0.312337,
+      " "
+    ],
+    [
+      0.148042,
+      ":"
+    ],
+    [
+      0.105407,
+      " "
+    ],
+    [
+      0.175854,
+      "t"
+    ],
+    [
+      0.102690,
+      "h"
+    ],
+    [
+      0.079255,
+      "i"
+    ],
+    [
+      0.107007,
+      "s"
+    ],
+    [
+      1.078776,
+      "\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.396003,
+      "\u0008"
+    ],
+    [
+      0.173938,
+      "\u0008"
+    ],
+    [
+      0.183561,
+      ";: this\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.178293,
+      "\u001b[6C"
+    ],
+    [
+      0.624346,
+      " "
+    ],
+    [
+      0.106229,
+      "w"
+    ],
+    [
+      0.065150,
+      "i"
+    ],
+    [
+      0.133362,
+      "l"
+    ],
+    [
+      0.158124,
+      "l"
+    ],
+    [
+      0.048089,
+      " "
+    ],
+    [
+      0.093809,
+      "r"
+    ],
+    [
+      0.044200,
+      "u"
+    ],
+    [
+      0.173123,
+      "n"
+    ],
+    [
+      0.080950,
+      " "
+    ],
+    [
+      0.106118,
+      "w"
+    ],
+    [
+      0.055982,
+      "h"
+    ],
+    [
+      0.108904,
+      "e"
+    ],
+    [
+      0.077521,
+      "n"
+    ],
+    [
+      0.097973,
+      " "
+    ],
+    [
+      1.050743,
+      "t"
+    ],
+    [
+      0.077992,
+      "h"
+    ],
+    [
+      0.078499,
+      "e"
+    ],
+    [
+      0.080111,
+      " "
+    ],
+    [
+      0.107693,
+      "e"
+    ],
+    [
+      0.157222,
+      "d"
+    ],
+    [
+      0.094191,
+      "i"
+    ],
+    [
+      0.095135,
+      "t"
+    ],
+    [
+      0.086910,
+      "o"
+    ],
+    [
+      0.109399,
+      "r"
+    ],
+    [
+      0.087602,
+      " "
+    ],
+    [
+      0.100320,
+      "r"
+    ],
+    [
+      0.094093,
+      "u"
+    ],
+    [
+      0.166029,
+      "n"
+    ],
+    [
+      0.053246,
+      "s"
+    ],
+    [
+      0.322434,
+      "\r\r\n\u001b]0;cat start.py ;: this will run when the editor runs\u0007"
+    ],
+    [
+      0.001445,
+      "import editor\r\nprint(\"Number of rows: \", editor.rows())\r\n"
+    ],
+    [
+      0.000467,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                                                        \r \r\u001b]0;arch-satellite:~/projects/editor\u0007\r\u001b[m\u001b[27m\u001b[24m\u001b[Jphilip.\u001b[4march-satellite\u001b[24m\u003e \u001b[K\u001b[65C\u001b[35m~/projects/editor\u001b[00m\u0008\u001b[81D"
+    ],
+    [
+      1.625687,
+      "cat start.py ;: this will run when the editor runs"
+    ],
+    [
+      0.197898,
+      "\u001b[46DREADME.md                                     \u001b[37D"
+    ],
+    [
+      0.634977,
+      "\u001b[13D             \u001b[13D"
+    ],
+    [
+      0.276205,
+      "."
+    ],
+    [
+      0.087250,
+      "\u0008./"
+    ],
+    [
+      0.101846,
+      "e"
+    ],
+    [
+      0.154762,
+      "d"
+    ],
+    [
+      0.054118,
+      "i"
+    ],
+    [
+      0.115768,
+      "tor\u001b[1m \u001b[m"
+    ],
+    [
+      0.263983,
+      "\u0008\u001b[m R"
+    ],
+    [
+      0.094336,
+      "E"
+    ],
+    [
+      0.184618,
+      "ADME.md\u001b[1m \u001b[m"
+    ],
+    [
+      0.582362,
+      "\u0008\u001b[m \u0008\r\r\n\u001b]0;./editor README.md\u0007"
+    ],
+    [
+      0.025521,
+      "Number of rows:  28\n"
+    ],
+    [
+      0.000124,
+      "\u001b[?1049h\u001b[1;28r\u001b[m\u001b(B\u001b[4l\u001b[?7h\u001b[H\u001b[2J# Some Editor\r\u001b[3d## Ideas\r\u001b[5dShould be an editor where key bindings are created from scratch by the\r\u001b[6dusers.\r\u001b[8dInteractive variable setting\r\u001b[10d## Guide to using ncurses\r\u001b[12d[guide](http://www.gnu.org/software/ncurses/ncurses-intro.html)\r\u001b[13d"
+    ],
+    [
+      0.000045,
+      "\u001b[28drows: 28 / cols: 105"
+    ],
+    [
+      0.000015,
+      "\u001b[H"
+    ],
+    [
+      2.781129,
+      "\u001b[28;1H\u001b[r\u001b[?1049l\r\u001b\u003e"
+    ],
+    [
+      0.001015,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[m                                                                                                        \r \r\u001b]0;arch-satellite:~/projects/editor\u0007\r\u001b[m\u001b[27m\u001b[24m\u001b[Jphilip.\u001b[4march-satellite\u001b[24m\u003e \u001b[K\u001b[65C\u001b[35m~/projects/editor\u001b[00m\u0008\u001b[81D"
+    ],
+    [
+      3.092111,
+      "\r\r\n"
+    ]
+  ]
+}
