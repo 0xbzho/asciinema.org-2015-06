@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "width": 81,
+  "height": 25,
+  "duration": 8.069156,
+  "command": "/usr/local/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.340047,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.000328,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[wadamasayoshi@mendelssohn] $ \u001b[00m"
+    ],
+    [
+      0.000030,
+      "\u001b[K\u001b[34C\u001b[36m[~/test/pecoadd]\u001b[00m\u001b[50D"
+    ],
+    [
+      0.338394,
+      "g"
+    ],
+    [
+      0.047737,
+      "\u0008gi"
+    ],
+    [
+      0.048152,
+      "t"
+    ],
+    [
+      0.032215,
+      " "
+    ],
+    [
+      0.144173,
+      "s"
+    ],
+    [
+      0.087581,
+      "\r\r\n"
+    ],
+    [
+      0.009422,
+      "## \u001b[32mmaster\u001b[m\r\n \u001b[31mM\u001b[m very/very/deep/hoge.text\r\n\u001b[31m??\u001b[m very/very/test3.txt\r\n\u001b[31m??\u001b[m very/very/very/deep/test3.txt\r\n"
+    ],
+    [
+      0.000358,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.000043,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[wadamasayoshi@mendelssohn] $ \u001b[00m"
+    ],
+    [
+      0.000016,
+      "\u001b[K\u001b[34C\u001b[36m[~/test/pecoadd]\u001b[00m\u001b[50D"
+    ],
+    [
+      0.574467,
+      "g"
+    ],
+    [
+      0.079237,
+      "\u0008gi"
+    ],
+    [
+      0.192252,
+      "t"
+    ],
+    [
+      0.112173,
+      " "
+    ],
+    [
+      0.320898,
+      "p"
+    ],
+    [
+      0.087732,
+      "a"
+    ],
+    [
+      0.071453,
+      "d"
+    ],
+    [
+      0.224014,
+      "\r\r\n"
+    ],
+    [
+      0.014273,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[?25l"
+    ],
+    [
+      0.000006,
+      "\u001b[H\u001b[2J"
+    ],
+    [
+      0.000879,
+      "\u001b(B\u001b[m\u001b[1;1HQUERY\u003e\u001b(B\u001b[m\u001b[7m\u001b[1;8H \u001b(B\u001b[m\u001b[1;62HIgnoreCase\u001b[1;73H[3\u001b[1;76H(1/1)]"
+    ],
+    [
+      0.001212,
+      "\u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[2;1H M very/very/deep/hoge.text                                                      \u001b(B\u001b[m\u001b[3;1H??\u001b[3;4Hvery/very/test3.txt\u001b[4;1H??\u001b[4;4Hvery/very/very/deep/test3.txt"
+    ],
+    [
+      0.641554,
+      "\u001b(B\u001b[m\u001b[30;46m\u001b[1m\u001b[2;1H M very/very/deep/hoge.text                                                      \u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[3;1H?? very/very/test3.txt                                                           "
+    ],
+    [
+      0.784157,
+      "\u001b(B\u001b[m\u001b[30;46m\u001b[1m\u001b[3;1H?? very/very/test3.txt                                                           \u001b(B\u001b[m\u001b[45m\u001b[4m\u001b[4;1H?? very/very/very/deep/test3.txt                                                 "
+    ],
+    [
+      1.325919,
+      "\u001b[?12l\u001b[?25h\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[?1049l\u001b[?1l\u001b\u003e\u001b[?1000l"
+    ],
+    [
+      0.015385,
+      "Added:\r\n"
+    ],
+    [
+      0.000007,
+      "very/very/deep/hoge.text\r\n"
+    ],
+    [
+      0.000018,
+      "very/very/test3.txt\r\n"
+    ],
+    [
+      0.000585,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.000060,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[wadamasayoshi@mendelssohn] $ \u001b[00m"
+    ],
+    [
+      0.000281,
+      "\u001b[K\u001b[34C\u001b[36m[~/test/pecoadd]\u001b[00m\u001b[50D"
+    ],
+    [
+      1.143548,
+      "g"
+    ],
+    [
+      0.072299,
+      "\u0008gi"
+    ],
+    [
+      0.001565,
+      "t"
+    ],
+    [
+      0.006252,
+      " "
+    ],
+    [
+      0.248113,
+      "s"
+    ],
+    [
+      0.311956,
+      "\r\r\n"
+    ],
+    [
+      0.006747,
+      "## \u001b[32mmaster\u001b[m\r\n\u001b[32mM\u001b[m  very/very/deep/hoge.text\r\n\u001b[32mA\u001b[m  very/very/test3.txt\r\n\u001b[31m??\u001b[m very/very/very/deep/test3.txt\r\n"
+    ],
+    [
+      0.000378,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                \r \r"
+    ],
+    [
+      0.000066,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[wadamasayoshi@mendelssohn] $ \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K\u001b[34C\u001b[36m[~/test/pecoadd]\u001b[00m\u001b[50D"
+    ],
+    [
+      0.760081,
+      "\r\r\n"
+    ]
+  ]
+}
