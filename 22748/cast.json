@@ -1,0 +1,602 @@
+{
+  "version": 1,
+  "width": 93,
+  "height": 34,
+  "duration": 50.868848,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.117859,
+      "\u001b7\u001b]2;jose@replicante.site:~\u0007\u001b]1;replicante.site\u0007\u001b8jose@replicante:~\u003e "
+    ],
+    [
+      3.154618,
+      "u"
+    ],
+    [
+      0.218119,
+      "n"
+    ],
+    [
+      0.247120,
+      "a"
+    ],
+    [
+      0.214232,
+      "m"
+    ],
+    [
+      0.069576,
+      "e"
+    ],
+    [
+      0.348025,
+      " "
+    ],
+    [
+      0.622268,
+      "-"
+    ],
+    [
+      0.127787,
+      "a"
+    ],
+    [
+      0.424632,
+      "\r\n"
+    ],
+    [
+      0.001959,
+      "Linux replicante.site 4.0.5-1-desktop #1 SMP PREEMPT Mon Jun 8 09:07:57 UTC 2015 (f4cd21b) x86_64 x86_64 x86_64 GNU/Linux\r\n"
+    ],
+    [
+      0.003330,
+      "\u001b7\u001b]2;jose@replicante.site:~\u0007\u001b]1;replicante.site\u0007\u001b8jose@replicante:~\u003e "
+    ],
+    [
+      0.648474,
+      "c"
+    ],
+    [
+      0.131272,
+      "a"
+    ],
+    [
+      0.203497,
+      "t"
+    ],
+    [
+      0.261540,
+      " "
+    ],
+    [
+      1.108506,
+      "/"
+    ],
+    [
+      0.467096,
+      "e"
+    ],
+    [
+      0.227421,
+      "t"
+    ],
+    [
+      0.219619,
+      "c"
+    ],
+    [
+      0.860402,
+      "/"
+    ],
+    [
+      3.021727,
+      "o"
+    ],
+    [
+      0.128256,
+      "s"
+    ],
+    [
+      0.786721,
+      "-"
+    ],
+    [
+      0.211763,
+      "r"
+    ],
+    [
+      0.019806,
+      "e"
+    ],
+    [
+      0.596409,
+      "l"
+    ],
+    [
+      0.086675,
+      "e"
+    ],
+    [
+      0.098797,
+      "a"
+    ],
+    [
+      0.144137,
+      "s"
+    ],
+    [
+      0.068892,
+      "e"
+    ],
+    [
+      0.317384,
+      "\r\n"
+    ],
+    [
+      0.002293,
+      "NAME=openSUSE\r\nVERSION=\"20150612 (Tumbleweed)\"\r\nVERSION_ID=\"20150612\"\r\nPRETTY_NAME=\"openSUSE 20150612 (Tumbleweed) (x86_64)\"\r\nID=opensuse\r\nANSI_COLOR=\"0;32\"\r\nCPE_NAME=\"cpe:/o:opensuse:opensuse:20150612\"\r\nBUG_REPORT_URL=\"https://bugs.opensuse.org\"\r\nHOME_URL=\"https://opensuse.org/\"\r\nID_LIKE=\"suse\"\r\n"
+    ],
+    [
+      0.002845,
+      "\u001b7\u001b]2;jose@replicante.site:~\u0007\u001b]1;replicante.site\u0007\u001b8jose@replicante:~\u003e "
+    ],
+    [
+      4.489686,
+      "h"
+    ],
+    [
+      0.463274,
+      "t"
+    ],
+    [
+      0.138562,
+      "o"
+    ],
+    [
+      0.132117,
+      "p"
+    ],
+    [
+      0.990255,
+      "\r\n"
+    ],
+    [
+      0.002847,
+      "\u001b[?1049h\u001b[1;34r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000009,
+      "\u001b[?25l"
+    ],
+    [
+      0.000080,
+      "\u001b[39;49m\u001b[?1000h"
+    ],
+    [
+      0.132636,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b[2d  \u001b[36m1  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m||||||||||||\u001b[31m|||||\u001b(B\u001b[0;1m\u001b[30m             43.7%\u001b[39m]\u001b(B\u001b[m     \u001b[36mTasks: \u001b(B\u001b[0;1m\u001b[36m160\u001b(B\u001b[0m\u001b[36m, \u001b(B\u001b[0;1m\u001b[36m531\u001b(B\u001b[0m\u001b[36m thr, \u001b(B\u001b[0;1m\u001b[36m109\u001b(B\u001b[0m\u001b[36m kthr; \u001b(B\u001b[0;1m\u001b[32m2\u001b(B\u001b[0m\u001b[36m running\u001b[3;3H2  \u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[34m|\u001b[32m||||||||||||\u001b[31m||||\u001b(B\u001b[0;1m\u001b[30m\u001b[14X\u001b[3;38H42.4%\u001b[39m]\u001b(B\u001b[m     \u001b[36mLoad average: \u001b(B\u001b[0;1m\u001b[30m0.52 \u001b[39m\u001b(B\u001b[m0.88 \u001b(B\u001b[0;1m1.08 \u001b[4;3H\u001b(B\u001b[0m\u001b[36mMem\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[32m|||||||||||||||||||\u001b[34m|\u001b[33m|||||3040/59\u001b(B\u001b[0;1m\u001b[30m33MB\u001b[39m]\u001b(B\u001b[m     \u001b[36mUptime: \u001b(B\u001b[0;1m\u001b[36m09:28:21\u001b[5;3H\u001b(B\u001b[0m\u001b[36mSwp\u001b[39m\u001b(B\u001b[0;1m[\u001b(B\u001b[0m\u001b[31m|||||||||||||\u001b(B\u001b[0;1m\u001b[30m             715/2054MB\u001b[39m]\r\u001b[7d\u001b(B\u001b[0m\u001b[30m\u001b[42m  PID USER      PRI  NI  VIRT   RES   SHR S \u001b[30m\u001b[46mCPU% \u001b[30m\u001b[42mMEM%   TIME+  Command\u001b[K\r\u001b[8d\u001b[30m\u001b[46m16298 jose       20   0 15328  3424  2420 R 18.2  0.1  0:00.05 htop\u001b[K\r\u001b[9d\u001b[39;49m\u001b(B\u001b[m15850 jose\u001b[18G20   0 3092M  867M 63100 S  9.1 14.6  0:02.43 /usr/lib64/firefox/firefox\r\u001b[10d 2034 jose\u001b[18G20   0 3092M  867M 63100 S  9.1 14.6 \u001b(B\u001b[0;1m\u001b[31m 2h\u001b[39m\u001b(B\u001b[m31:46 /usr/lib64/firefox/firefox\u001b[11;5H1 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0  120M  3720  2328 S  0.0  0.1  0:03.53 /usr/lib/systemd/systemd --swi\u001b[12;5H2 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0     0     0     0 S  0.0  0.0  0:00.02 kthreadd\u001b[13;5H3 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0     0     0     0 S  0.0  0.0  0:02.10 ksoftirqd/0\u001b[14;5H5 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m  0 \u001b[31m-20 \u001b[39m\u001b(B\u001b[m    0     0     0 S  0.0  0.0  0:00.00 kworker/0:0H\u001b[15;5H7 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m -2   0     0     0     0 S  0.0  0.0  0:57.14 rcu_preempt\u001b[16;5H8 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m -2   0     0     0     0 S  0.0  0.0  0:00.00 rcu_sched\u001b[17;5H9 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m -2   0     0     0     0 S  0.0  0.0  0:00.00 rcu_bh\u001b[18;4H10 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0     0     0     0 S  0.0  0.0  0:28.15 rcuop/0\u001b[19;4H11 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0     0     0     0 S  0.0  0.0  0:00.00 rcuos/0\u001b[20;4H12 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0     0     0     0 S  0.0  0.0  0:00.00 rcuob/0\u001b[21;4H13 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m -2   0     0     0     0 S  0.0  0.0  0:00.00 rcuc/0\u001b[22;4H14 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m -2   0     0     0     0 S  0.0  0.0  0:00.00 rcub/0\u001b[23;4H15 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m RT   0     0     0     0 S  0.0  0.0  0:00.00 migration/0\u001b[24;4H16 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m RT   0     0     0     0 S  0.0  0.0  0:00.12 watchdog/0\u001b[25;4H17 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m RT   0     0     0     0 S  0.0  0.0  0:00.10 watchdog/1\u001b[26;4H18 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m RT   0     0     0     0 S  0.0  0.0  0:00.01 migration/1\u001b[27;4H19 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m -2   0     0     0     0 S  0.0  0.0  0:00.00 rcuc/1\u001b[28;4H20 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0     0     0     0 S  0.0  0.0  0:02.37 ksoftirqd/1\u001b[29;4H22 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m  0 \u001b[31m-20 \u001b[39m\u001b(B\u001b[m    0     0     0 S  0.0  0.0  0:00.00 kworker/1:0H\u001b[30;4H23 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0     0     0     0 S  0.0  0.0  0:29.53 rcuop/1\u001b[31;4H24 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0     0     0     0 S  0.0  0.0  0:00.00 rcuos/1\u001b[32;4H25 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m 20   0     0     0     0 S  0.0  0.0  0:00.00 rcuob/1\u001b[33;4H26 \u001b(B\u001b[0;1m\u001b[30mroot      \u001b[39m\u001b(B\u001b[m  0 \u001b[31m-20 \u001b[39m\u001b(B\u001b[m    0     0     0 S  0.0  0.0  0:00.00 khelper\r\u001b[34dF1\u001b[30m\u001b[46mHelp  \u001b[39;49m"
+    ],
+    [
+      0.000015,
+      "\u001b(B\u001b[mF2\u001b[30m\u001b[46mSetup \u001b[39;49m\u001b(B\u001b[mF3\u001b[30m\u001b[46mSearch\u001b[39;49m\u001b(B\u001b[mF4\u001b[30m\u001b[46mFilter\u001b[39;49m\u001b(B\u001b[mF5\u001b[30m\u001b[46mTree  \u001b[39;49m\u001b(B\u001b[mF6\u001b[30m\u001b[46mSortBy\u001b[39;49m\u001b(B\u001b[mF7\u001b[30m\u001b[46mNice -\u001b[39;49m\u001b(B\u001b[mF8\u001b[30m\u001b[46mNice +\u001b[39;49m\u001b(B\u001b[mF9\u001b[30m\u001b[46mKill  \u001b[39;49m\u001b(B\u001b[mF10\u001b[30m\u001b[46mQuit\u001b[K\u001b[H\u001b[39;49m\u001b(B\u001b[m"
+    ],
+    [
+      1.315745,
+      "\u001b[?1000l\u001b[34;1H\u001b[?12l\u001b[?25h\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.002953,
+      "\u001b7\u001b]2;jose@replicante.site:~\u0007\u001b]1;replicante.site\u0007\u001b8jose@replicante:~\u003e "
+    ],
+    [
+      0.525544,
+      "m"
+    ],
+    [
+      0.364452,
+      "a"
+    ],
+    [
+      0.083276,
+      "n"
+    ],
+    [
+      0.174299,
+      " "
+    ],
+    [
+      0.306064,
+      "n"
+    ],
+    [
+      0.444253,
+      "m"
+    ],
+    [
+      0.099078,
+      "a"
+    ],
+    [
+      0.112179,
+      "p"
+    ],
+    [
+      0.758474,
+      "\r\n"
+    ],
+    [
+      0.757355,
+      "Man: "
+    ],
+    [
+      0.000207,
+      "find all matching manual pages"
+    ],
+    [
+      0.000087,
+      " (set MAN_POSIXLY_CORRECT to avoid this)"
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      " * nmap (1)"
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "   nmap (1+1)"
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "Man: "
+    ],
+    [
+      0.012086,
+      "¿Qué página de manual desea?\r\nMan: "
+    ],
+    [
+      1.819142,
+      "1"
+    ],
+    [
+      0.210761,
+      "\r\n"
+    ],
+    [
+      0.104903,
+      "\u001b[?1049h\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.306563,
+      "NMAP(1)                               [FIXME: manual]                              NMAP(1)\u001b[m\r\n\u001b[m\r\n\u001b[m\r\n\u001b[m\r\n\u001b[1mNAME\u001b[0m\u001b[m\r\n       nmap - Herramienta de exploración de redes y de sondeo de seguridad / puertos\u001b[m\r\n\u001b[m\r\n\u001b[1mSYNOPSIS\u001b[0m\u001b[m\r\n       \u001b[1mnmap \u001b[22m[\u001b[4mTipo\u001b[24m \u001b[4mde\u001b[24m \u001b[4msondeo\u001b[24m...] [\u001b[4mOpciones\u001b[24m] {\u001b[4mespecificación\u001b[24m \u001b[4mde\u001b[24m \u001b[4mobjetivo\u001b[24m}\u001b[m\r\n\u001b[m\r\n\u001b[1mDESCRIPCIóN\u001b[0m\u001b[m\r\n       Nmap (“mapeador de redes”) es una herramienta de código abierto para exploración de\u001b[m\r\n       red y auditoría de seguridad. Se diseñó para analizar rápidamente grandes redes,\u001b[m\r\n       aunque funciona muy bien contra equipos individuales. Nmap utiliza paquetes IP\u001b[m\r\n       \"crudos\" («raw», N. del T.) en formas originales para determinar qué equipos se\u001b[m\r\n       encuentran disponibles en una red, qué servicios (nombre y versión de la\u001b[m\r\n       aplicación) ofrecen, qué sistemas operativos (y sus versiones) ejecutan, qué tipo\u001b[m\r\n       de filtros de paquetes o cortafuegos se están u"
+    ],
+    [
+      0.000351,
+      "tilizando así como docenas de otras\u001b[m\r\n       características. Aunque generalmente se utiliza Nmap en auditorías de seguridad,\u001b[m\r\n       muchos administradores de redes y sistemas lo encuentran útil para realizar tareas\u001b[m\r\n       rutinarias, como puede ser el inventariado de la red, la planificación de\u001b[m\r\n       actualización de servicios y la monitorización del tiempo que los equipos o\u001b[m\r\n       servicios se mantiene activos.\u001b[m\r\n\u001b[m\r\n       La salida de Nmap es un listado de objetivos analizados, con información adicional\u001b[m\r\n       para cada uno dependiente de las opciones utilizadas. La información primordial es\u001b[m\r\n       la “tabla de puertos interesantes”. Dicha tabla lista el número de puerto y\u001b[m\r\n       protocolo, el nombre más común del servicio, y su estado. El estado puede ser open\u001b[m\r\n       (abierto), filtered (filtrado), closed (cerrado), o unfiltered (no filtrado).\u001b[m\r\n       Abierto significa que la aplicación en la máquina destino se encuentra esperando\u001b[m\r\n       conexiones o paquetes en ese puerto.  Filtrado indica que un cortafuegos, filtro, u\u001b[m\r\n       otro obstáculo en la red está bloqueando el acceso a ese puerto, por lo que Nmap no\u001b[m\r\n       puede saber si se encuentra abierto o cerrado. Los puertos cerrados no tienen\u001b[m\r\n\u001b[7m Manual page nmap(1) line 1 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      2.036931,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       ninguna aplicación escuchando en los mismos, aunque podrían abrirse en cualquier\u001b[m\r\n\u001b[7m Manual page nmap(1) line 2 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.658249,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       momento. Los clasificados como no filtrados son aquellos que responden a los\u001b[m\r\n\u001b[7m Manual page nmap(1) line 3 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.042784,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       sondeos de Nmap, pero para los que que Nmap no puede determinar si se encuentran\u001b[m\r\n\u001b[7m Manual page nmap(1) line 4 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.040217,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       abiertos o cerrados. Nmap informa de las combinaciones de estado open|filtered y\u001b[m\r\n\u001b[7m Manual page nmap(1) line 5 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.040751,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       closed|filtered cuando no puede determinar en cual de los dos estados está un\u001b[m\r\n\u001b[7m Manual page nmap(1) line 6 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.040377,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       puerto. La tabla de puertos también puede incluir detalles de la versión de la\u001b[m\r\n\u001b[7m Manual page nmap(1) line 7 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.039700,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       aplicación cuando se ha solicitado detección de versiones. Nmap ofrece información\u001b[m\r\n\u001b[7m Manual page nmap(1) line 8 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.039967,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       de los protocolos IP soportados, en vez de puertos abiertos, cuando se solicita un\u001b[m\r\n\u001b[7m Manual page nmap(1) line 9 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.041535,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       análisis de protocolo IP con la opción (\u001b[1m-sO\u001b[22m).\u001b[m\r\n\u001b[7m Manual page nmap(1) line 10 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.040811,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u001b[m\r\n\u001b[7m Manual page nmap(1) line 11 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.038248,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       Además de la tabla de puertos interesantes, Nmap puede dar información adicional\u001b[m\r\n\u001b[7m Manual page nmap(1) line 12 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.040014,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       sobre los objetivos, incluyendo el nombre de DNS según la resolución inversa de la\u001b[m\r\n\u001b[7m Manual page nmap(1) line 13 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.041014,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       IP, un listado de sistemas operativos posibles, los tipos de dispositivo, y\u001b[m\r\n\u001b[7m Manual page nmap(1) line 14 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.041212,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       direcciones MAC.\u001b[m\r\n\u001b[7m Manual page nmap(1) line 15 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.038565,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u001b[m\r\n\u001b[7m Manual page nmap(1) line 16 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.039687,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       Puede ver un análisis típico con Nmap en Example 1, “Ejemplo típico de análisis con\u001b[m\r\n\u001b[7m Manual page nmap(1) line 17 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.041009,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       Nmap”. Los únicos parámetros de Nmap que se utilizan en este ejemplo son la opción\u001b[m\r\n\u001b[7m Manual page nmap(1) line 18 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.042255,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       \u001b[1m-A\u001b[22m, que habilita la detección de sistema operativo y versión, y la opción \u001b[1m-T4 \u001b[22mque\u001b[m\r\n\u001b[7m Manual page nmap(1) line 19 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.038963,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       acelerar el proceso, y después el nombre de los dos objetivos.\u001b[m\r\n\u001b[7m Manual page nmap(1) line 20 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.039894,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u001b[m\r\n\u001b[7m Manual page nmap(1) line 21 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.041504,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K       \u001b[1mExample 1. Ejemplo típico de análisis con Nmap\u001b[0m\u001b[m\r\n\u001b[7m Manual page nmap(1) line 22 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.039854,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u001b[m\r\n\u001b[7m Manual page nmap(1) line 23 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.041394,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K           # nmap -A -T4 scanme.nmap.org saladejuegos\u001b[m\r\n\u001b[7m Manual page nmap(1) line 24 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.041193,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u001b[m\r\n\u001b[7m Manual page nmap(1) line 25 (press h for help or q to quit)\u001b[27m\u001b[K"
+    ],
+    [
+      0.333404,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.004419,
+      "\u001b7\u001b]2;jose@replicante.site:~\u0007\u001b]1;replicante.site\u0007\u001b8jose@replicante:~\u003e "
+    ],
+    [
+      2.701562,
+      "z"
+    ],
+    [
+      0.123618,
+      "y"
+    ],
+    [
+      0.306892,
+      "p"
+    ],
+    [
+      0.131781,
+      "p"
+    ],
+    [
+      0.130095,
+      "e"
+    ],
+    [
+      0.119602,
+      "r"
+    ],
+    [
+      0.201145,
+      " "
+    ],
+    [
+      0.249736,
+      "r"
+    ],
+    [
+      0.076395,
+      "e"
+    ],
+    [
+      0.191394,
+      "f"
+    ],
+    [
+      0.170492,
+      "r"
+    ],
+    [
+      0.045947,
+      "e"
+    ],
+    [
+      0.142222,
+      "s"
+    ],
+    [
+      0.155727,
+      "h"
+    ],
+    [
+      0.867155,
+      "\r\n"
+    ],
+    [
+      0.029221,
+      "\u001b[22;27;31;49mSe requieren privilegios de superusuario para actualizar los repositorios del sistema."
+    ],
+    [
+      0.000010,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.005145,
+      "\u001b7\u001b]2;jose@replicante.site:~\u0007\u001b]1;replicante.site\u0007\u001b8jose@replicante:~\u003e "
+    ],
+    [
+      0.625097,
+      "d"
+    ],
+    [
+      0.107390,
+      "u"
+    ],
+    [
+      0.104374,
+      "s"
+    ],
+    [
+      0.076094,
+      "o"
+    ],
+    [
+      0.419709,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.179124,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.657764,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.042754,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.039877,
+      "\u0007"
+    ],
+    [
+      0.038148,
+      "\u0007"
+    ],
+    [
+      0.041897,
+      "\u0007"
+    ],
+    [
+      0.038143,
+      "\u0007"
+    ],
+    [
+      0.040060,
+      "\u0007"
+    ],
+    [
+      0.211748,
+      "s"
+    ],
+    [
+      0.164337,
+      "u"
+    ],
+    [
+      0.080901,
+      "d"
+    ],
+    [
+      0.074343,
+      "o"
+    ],
+    [
+      0.169580,
+      " "
+    ],
+    [
+      0.880552,
+      "!"
+    ],
+    [
+      0.146763,
+      "!"
+    ],
+    [
+      0.433836,
+      "\r\nsudo zypper refresh\r\n"
+    ],
+    [
+      0.007037,
+      "root's password:"
+    ],
+    [
+      2.250478,
+      "\r\n"
+    ],
+    [
+      1.494734,
+      "\u001b[22;27;39;49mEl repositorio 'openSUSE:Factory' está actualizado.                                          \u001b[0m\r\n"
+    ],
+    [
+      0.325024,
+      "\u001b[22;27;39;49mEl repositorio 'utilities' está actualizado.                                                 \u001b[0m\r\n"
+    ],
+    [
+      0.165977,
+      "\u001b[22;27;39;49mEl repositorio 'packman' está actualizado.                                                   \u001b[0m\r\n"
+    ],
+    [
+      0.260042,
+      "\u001b[22;27;39;49mEl repositorio 'repo-debug' está actualizado.                                                \u001b[0m\r\n"
+    ],
+    [
+      0.441239,
+      "\u001b[22;27;39;49mEl repositorio 'repo-non-oss' está actualizado.                                              \u001b[0m\r\n"
+    ],
+    [
+      0.320709,
+      "\u001b[22;27;39;49mEl repositorio 'repo-oss' está actualizado.                                                  \u001b[0m\r\n"
+    ],
+    [
+      0.436009,
+      "\u001b[22;27;39;49mEl repositorio 'repo-update' está actualizado.                                               \u001b[0m\r\n"
+    ],
+    [
+      0.048874,
+      "\u001b[22;27;39;49mTodos los repositorios han sido actualizados.\u001b[0m\r\n"
+    ],
+    [
+      0.014796,
+      "\u001b7\u001b]2;jose@replicante.site:~\u0007\u001b]1;replicante.site\u0007\u001b8jose@replicante:~\u003e "
+    ],
+    [
+      2.046814,
+      "exit\r\n"
+    ]
+  ]
+}
